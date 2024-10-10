@@ -1,0 +1,130 @@
+{
+    "uid": 100052774,
+    "migrosId": "271501501000",
+    "name": "Gurken Nostrani",
+    "brand": "Migros Fresca",
+    "title": "Gurken Nostrani",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Fresca",
+                "slug": "migros-fresca",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076970/brands/Migros_Fresca_Logo"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 1,
+                    "productionRatio": 48,
+                    "transportRatio": 52,
+                    "packagingRatio": 0,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 240,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/271501501000"
+        },
+        "otherInformation": {
+            "articleNumber": "271501501000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Production process",
+                    "value": "Schweizer Rohstoff"
+                },
+                {
+                    "code": "Saison von",
+                    "value": "Mai"
+                },
+                {
+                    "code": "Saison bis",
+                    "value": "Oktober"
+                },
+                {
+                    "code": "Storage at home",
+                    "value": "gekühlt aufbewahren/lagern"
+                },
+                {
+                    "code": "Washing instructions",
+                    "value": "vor Gebrauch waschen"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "2125567000008",
+        "356060",
+        "7617027551939"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a25c209bb22695fc36b3eded95d3a47a64d6a93d/gurken-nostrani.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494757",
+            "name": "Vegetables",
+            "slugs": [
+                "fruits-vegetables",
+                "vegetables"
+            ]
+        },
+        {
+            "id": "7494902",
+            "name": "Cucumbers & avocados",
+            "slugs": [
+                "fruits-vegetables",
+                "vegetables",
+                "cucumbers-avocados"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/271501501000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.35",
+            "advertisedDisplayValue": "4.35",
+            "effectiveDisplayValue": "4.35",
+            "multiplier": 1,
+            "value": 4.35,
+            "effectiveValue": 4.35,
+            "advertisedValue": 4.35,
+            "unitPrice": {
+                "value": 0.44,
+                "unit": "100g"
+            }
+        },
+        "quantity": "1 kg",
+        "quantityPrice": "0.44/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T02:18:29"
+}

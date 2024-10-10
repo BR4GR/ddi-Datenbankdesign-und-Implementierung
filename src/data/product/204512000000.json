@@ -1,0 +1,208 @@
+{
+    "uid": 100051532,
+    "migrosId": "204512000000",
+    "name": "Emmi Caffè Latte Macchiato",
+    "brand": "Emmi Caffè Latte",
+    "title": "Emmi Caffè Latte Macchiato",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "Emmi Caffè Latte",
+                "slug": "emmi-caffe-latte"
+            },
+            "nutritionalCharacteristics": [
+                "Vegetarian"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegetarian"
+                }
+            ],
+            "ingredients": "CREAM enriched MILK 80%, brewed Arabica coffee* 17%, sugar. *Rainforest Alliance Certified",
+            "allergens": "lactose, Milk and its derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 398,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/204512000000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 ml"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "~ 332 kJ (~ 79 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "~ 4 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "~ 2.4 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "~ 7.9 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "~ 7.4 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "~ 2.7 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "~ 0.07 g",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "204512000000",
+            "legalDesignation": "Milk drink with freshly brewed coffee, with 5% fat in the milk component",
+            "distributorName": "Emmi Schweiz AG",
+            "distributorStreetAndNumber": "Landenbergstrasse 1, CH-6002 Luzern",
+            "remarks": [
+                {
+                    "code": "Warnings / mandatory notes",
+                    "value": "Caffeine content: 80 mg per cup."
+                },
+                {
+                    "code": "Consumer storage instructions",
+                    "value": "Store at a maximum of 8 °C."
+                },
+                {
+                    "code": "Preservation technique code",
+                    "value": "Pasteurisation - Partially sterilisation by heating"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegetarian"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Becher"
+                },
+                {
+                    "code": "Type of soft drink",
+                    "value": "Kaffeegetränk"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610900292790",
+        "7610900138913"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ab2091643fa8d36e7676eb9a7328a9d86240bc51/emmi-caffe-latte-macchiato.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494751",
+            "name": "Milk, butter & eggs",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "milk-butter-eggs"
+            ]
+        },
+        {
+            "id": "7494867",
+            "name": "Milk & dairy drinks",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "milk-butter-eggs",
+                "milk-dairy-drinks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/204512000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.10",
+            "advertisedDisplayValue": "2.10",
+            "effectiveDisplayValue": "2.10",
+            "multiplier": 1,
+            "value": 2.1,
+            "effectiveValue": 2.1,
+            "advertisedValue": 2.1,
+            "unitPrice": {
+                "value": 0.91,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "230ml",
+        "quantityPrice": "0.91/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-15T21:02:27"
+}

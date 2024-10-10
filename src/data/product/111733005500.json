@@ -1,0 +1,188 @@
+{
+    "uid": 100051087,
+    "migrosId": "111733005500",
+    "name": "Fussballbrötchen",
+    "title": "Fussballbrötchen",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "ingredients": "<strong>wheat</strong> flour, water, yeast, rapeseed oil, table salt, <strong>wheat</strong> malt flour, <strong>wheat</strong> gluten, flour treatment agent: ascorbic acid, acidity regulator: sodium hydroxide.",
+            "allergenIndication": "May contain: eggs, fish, soy, milk, nuts, celery, mustard, sesame.",
+            "allergens": "Cereals containing gluten and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 5,
+                    "productionRatio": 80,
+                    "transportRatio": 1,
+                    "packagingRatio": 19,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 261,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/111733005500"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "1 Brötchen (65 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1270 kJ (301 kcal)",
+                            "835 kJ (198 kcal)",
+                            "10 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "4.6 g",
+                            "3 g",
+                            "4 %"
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0.8 g",
+                            "0.5 g",
+                            "3 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "53 g",
+                            "35 g",
+                            "13 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "5.3 g",
+                            "3.4 g",
+                            "4 %"
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "3.6 g",
+                            "2.3 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "10 g",
+                            "6.5 g",
+                            "13 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "2.7 g",
+                            "1.7 g",
+                            "28 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    }
+                ]
+            },
+            "portionSentence": "1 package = 1 serving",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "111733005500",
+            "legalDesignation": "Helles Weizenbrötchen gelaugt",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Type of product",
+                    "value": "Small bread fresh"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Offenverkauf"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613269437055"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/157044717a387e7e98371b14c11f0d6014bcd3cb/fussballbroetchen.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494763",
+            "name": "Fresh bread",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "fresh-bread"
+            ]
+        },
+        {
+            "id": "7494925",
+            "name": "Pastries",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "fresh-bread",
+                "pastries"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/111733005500",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-16T05:00:59"
+}

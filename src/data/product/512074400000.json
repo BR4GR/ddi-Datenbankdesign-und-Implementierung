@@ -1,0 +1,125 @@
+{
+    "uid": 100048821,
+    "migrosId": "512074400000",
+    "migrosOnlineId": "4971947",
+    "name": "Hand wash refill",
+    "brand": "I am",
+    "versioning": "Atlantic",
+    "title": "I am · Hand wash refill · Atlantic",
+    "description": "I am Hand wash refill Atlantic",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "I am",
+                "slug": "i-am",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076768/brands/Iam_Logo"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 10,
+                    "productionRatio": 86,
+                    "transportRatio": 5,
+                    "packagingRatio": 9,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 46,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/512074400000",
+            "cosmeticInformation": {
+                "ingredients": "Ingredients: Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, PEG-7, Glyceryl Cocoate, \nParfum, Glycerin, Hydrogenated Starch Hydrolysate, Panthenol, Inulin, Lecithin, Polyquaternium-7, Citric Acid, Disodium EDTA, Benzophenone-4, Limonene,Linalool, Citral, Sodium Benzoate, Phenoxyethanol, CI 74160"
+            }
+        },
+        "otherInformation": {
+            "articleNumber": "512074400000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Warnings / mandatory notes",
+                    "value": "Not suitable for consumption."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Flüssigseifen"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7630028601168",
+        "7630028629391"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/54a092c345fdfe4dd999c819a3470efffb115c79/i-am-soap-nfb-atlantic.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494826",
+            "name": "Body care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care"
+            ]
+        },
+        {
+            "id": "7495241",
+            "name": "Soaps",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care",
+                "soaps"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/512074400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.25",
+            "advertisedDisplayValue": "3.25",
+            "effectiveDisplayValue": "3.25",
+            "multiplier": 1,
+            "value": 3.25,
+            "effectiveValue": 3.25,
+            "advertisedValue": 3.25,
+            "unitPrice": {
+                "value": 0.65,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "500ml",
+        "quantityPrice": "0.65/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T19:10:35"
+}

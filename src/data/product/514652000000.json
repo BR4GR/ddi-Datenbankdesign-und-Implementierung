@@ -1,0 +1,136 @@
+{
+    "uid": 100057909,
+    "migrosId": "514652000000",
+    "migrosOnlineId": "10608500",
+    "name": "Shampoo",
+    "brand": "Rausch",
+    "versioning": "Normal hair",
+    "title": "Rausch · Shampoo · Normal hair",
+    "description": "Rausch Shampoo Normal hair",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Rausch",
+                "slug": "rausch"
+            },
+            "rating": {
+                "nbReviews": 10,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/514652000000"
+        },
+        "otherInformation": {
+            "articleNumber": "514652000000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Shampoo"
+                },
+                {
+                    "code": "Requirements/uses",
+                    "value": "Erfrischung, Glanz"
+                },
+                {
+                    "code": "Suitable for",
+                    "value": "Normales Haar"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7621500111152",
+        "7621500110155"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/084548f1466a58d12d5458e9ec8c83de6599f247/rausch-kraeuter-sh.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494825",
+            "name": "Hair care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hair-care"
+            ]
+        },
+        {
+            "id": "7495232",
+            "name": "Shampoos",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hair-care",
+                "shampoos"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/514652000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "14.95",
+            "advertisedDisplayValue": "14.95",
+            "effectiveDisplayValue": "14.95",
+            "multiplier": 1,
+            "value": 14.95,
+            "effectiveValue": 14.95,
+            "advertisedValue": 14.95
+        },
+        "promotionPrice": {
+            "displayUnitPrice": true,
+            "formattedPrice": "10.50",
+            "advertisedDisplayValue": "10.50",
+            "effectiveDisplayValue": "10.50",
+            "multiplier": 1,
+            "value": 10.5,
+            "effectiveValue": 10.5,
+            "advertisedValue": 10.5,
+            "unitPrice": {
+                "value": 5.25,
+                "unit": "100ml"
+            }
+        },
+        "priceInsteadOfLabel": "was",
+        "quantity": "200ml",
+        "quantityPrice": "5.25/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "badges": [
+            {
+                "type": "PERCENTAGE_PROMOTION",
+                "description": "30%"
+            },
+            {
+                "type": "MINIMUM_PIECES",
+                "description": "2 or more"
+            }
+        ],
+        "promotionDateRange": {
+            "startDate": "2024-09-17",
+            "endDate": "2024-09-30"
+        },
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:13:38"
+}

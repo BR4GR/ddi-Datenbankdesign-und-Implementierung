@@ -1,0 +1,121 @@
+{
+    "uid": 100017954,
+    "migrosId": "107098500000",
+    "migrosOnlineId": "6653417",
+    "name": "infusion",
+    "brand": "L'éléphant",
+    "brandLine": "bio",
+    "versioning": "ginger - lemon",
+    "title": "L'éléphant bio · infusion · ginger - lemon",
+    "description": "L'éléphant infusion ginger - lemon",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "L'éléphant",
+                "slug": "lelephant"
+            },
+            "nutritionalCharacteristics": [
+                "Organic"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                }
+            ],
+            "ingredients": "Ingrédients : citronnelle¹, gingembre¹ (25%), menthe¹ (20%), écorces de citron¹ (10%), écorces d'orange¹. ¹Ingrédients issus de l'agriculture biologique.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 27,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/107098500000"
+        },
+        "otherInformation": {
+            "articleNumber": "107098500000",
+            "legalDesignation": "Plantes à infusion.",
+            "distributorName": "Unilever",
+            "remarks": [
+                {
+                    "code": "Instructions de stockage pour le consommateur",
+                    "value": "À conserver au sec et à température ambiante."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "8720608005383",
+        "8714100614709"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/8327cfeb50514be71019293d5a8cc3ad98186cee/elephant-bio-ginger-zitrone.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494773",
+            "name": "Tea",
+            "slugs": [
+                "drinks-coffee-tea",
+                "tea"
+            ]
+        },
+        {
+            "id": "7494974",
+            "name": "Herbal infusions with plants",
+            "slugs": [
+                "drinks-coffee-tea",
+                "tea",
+                "herbal-infusions-with-plants"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/107098500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.90",
+            "advertisedDisplayValue": "3.90",
+            "effectiveDisplayValue": "3.90",
+            "multiplier": 1,
+            "value": 3.9,
+            "effectiveValue": 3.9,
+            "advertisedValue": 3.9,
+            "unitPrice": {
+                "value": 11.5,
+                "unit": "100g"
+            }
+        },
+        "quantity": "34g",
+        "quantityPrice": "11.50/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T16:49:24"
+}

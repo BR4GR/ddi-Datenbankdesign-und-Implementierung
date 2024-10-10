@@ -1,0 +1,190 @@
+{
+    "uid": 100156229,
+    "migrosId": "889300130440",
+    "name": "Shorts",
+    "brand": "Kids",
+    "title": "Shorts",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Kids",
+                "slug": "kids",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076840/brands/KIDS_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/889300130440"
+        },
+        "otherInformation": {
+            "articleNumber": "889300130440",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Zielgruppe",
+                    "value": "Kinder"
+                },
+                {
+                    "code": "Look",
+                    "value": "ohne Hosenöffnung"
+                },
+                {
+                    "code": "Material",
+                    "value": "Polyester"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "100 %"
+                },
+                {
+                    "code": "Age",
+                    "value": "10-12 Jahre"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "Adjustable Waistband, Justierbare Saumweite, Sport"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871496093"
+    ],
+    "variants": {
+        "baseProductMigrosId": "889300100000",
+        "mainVariantMigrosId": "889300130040",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "2-4 // 98/104",
+                    "color": "blue"
+                },
+                "migrosId": "889300130040"
+            },
+            {
+                "declinationOptions": {
+                    "size": "4-6 // 110/116",
+                    "color": "blue"
+                },
+                "migrosId": "889300130140"
+            },
+            {
+                "declinationOptions": {
+                    "size": "6-8 // 122/128",
+                    "color": "blue"
+                },
+                "migrosId": "889300130240"
+            },
+            {
+                "declinationOptions": {
+                    "size": "8-10 // 134/140",
+                    "color": "blue"
+                },
+                "migrosId": "889300130340"
+            },
+            {
+                "declinationOptions": {
+                    "size": "10-12 // 146/152",
+                    "color": "blue"
+                },
+                "migrosId": "889300130440"
+            },
+            {
+                "declinationOptions": {
+                    "size": "12-14 // 158/164",
+                    "color": "blue"
+                },
+                "migrosId": "889300130540"
+            },
+            {
+                "declinationOptions": {
+                    "size": "14-16 // 170/176",
+                    "color": "blue"
+                },
+                "migrosId": "889300130640"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "blue",
+                "options": [
+                    "blue"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "10-12 // 146/152",
+                "options": [
+                    "2-4 // 98/104",
+                    "4-6 // 110/116",
+                    "6-8 // 122/128",
+                    "8-10 // 134/140",
+                    "10-12 // 146/152",
+                    "12-14 // 158/164",
+                    "14-16 // 170/176"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/6e71164a0cbf945568a7fc7c2f15eb1bdc945b00/shorts.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "11117258",
+            "name": "Children's clothing",
+            "slugs": [
+                "baby-kids",
+                "childrens-clothing"
+            ]
+        },
+        {
+            "id": "11124117",
+            "name": "Children's clothes",
+            "slugs": [
+                "baby-kids",
+                "childrens-clothing",
+                "childrens-clothes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/889300130440",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "17.95",
+            "advertisedDisplayValue": "17.95",
+            "effectiveDisplayValue": "17.95",
+            "multiplier": 1,
+            "value": 17.95,
+            "effectiveValue": 17.95,
+            "advertisedValue": 17.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-18T12:06:14"
+}

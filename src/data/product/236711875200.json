@@ -1,0 +1,102 @@
+{
+    "uid": 100143088,
+    "migrosId": "236711875200",
+    "name": "Malbuner Morchelpastete",
+    "brand": "Malbuner",
+    "title": "Malbuner Morchelpastete",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "Malbuner",
+                "slug": "malbuner",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076950/brands/Malbuner_Herbert_Ospelt_Anstalt_Logo"
+            },
+            "rating": {
+                "nbReviews": 6,
+                "nbStars": 3.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/236711875200"
+        },
+        "otherInformation": {
+            "articleNumber": "236711875200",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613292334178"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/5af4b1b2787fd17d777130ed4a2141edbdb0884f/malbuner-morchelpastete.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494748",
+            "name": "Cold cuts",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts"
+            ]
+        },
+        {
+            "id": "7494857",
+            "name": "Pâté, terrines & foie gras",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts",
+                "pate-terrines-foie-gras"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/236711875200",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "11.50",
+            "advertisedDisplayValue": "11.50",
+            "effectiveDisplayValue": "11.50",
+            "multiplier": 1,
+            "value": 11.5,
+            "effectiveValue": 11.5,
+            "advertisedValue": 11.5,
+            "unitPrice": {
+                "value": 4.6,
+                "unit": "100g"
+            }
+        },
+        "quantity": "250g",
+        "quantityPrice": "4.60/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:37:01"
+}

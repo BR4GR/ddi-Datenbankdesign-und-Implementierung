@@ -1,0 +1,192 @@
+{
+    "uid": 100031545,
+    "migrosId": "101341600000",
+    "migrosOnlineId": "7005310",
+    "name": "Milk chocolate bar with peanut butter filling",
+    "brand": "Snickers",
+    "title": "Snickers · Milk chocolate bar with peanut butter filling",
+    "description": "Snickers Milk chocolate bar with peanut butter filling ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Snickers",
+                "slug": "snickers",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077156/brands/Snickers_Mars_Schweiz_AG_Logo"
+            },
+            "nutritionalCharacteristics": [
+                "Vegetarian"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegetarian"
+                }
+            ],
+            "ingredients": "Ingredients: PEANUTS, sugar, glucose syrup, MILK powder, cocoa butter, invert sugar, LACTOSE, cocoa mass, dextrose, sunflower oil, clarified butter, whey permeate , palm fat, humectants (glycerin, sorbitol), palm kernel fat, hydrogenated SOYA fat, salt, emulsifier (SOYA lecithin), antioxidant (E306), vanilla extract, starch.",
+            "allergenIndication": "May contain: Eggs, Hazelnuts, Nuts",
+            "allergens": "lactose, Milk and its derivatives, Peanuts and their derivatives, Soybean and its derivatives",
+            "rating": {
+                "nbReviews": 31,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/101341600000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "~ 2231 kJ (~ 534 kcal)",
+                            "~ 407 kJ (~ 97 kcal)",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "~ 31 g",
+                            "~ 5.6 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "~ 11 g",
+                            "~ 1.9 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "~ 52 g",
+                            "~ 9.5 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "~ 45 g",
+                            "~ 8.3 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "~ 11 g",
+                            "~ 2 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "~ 0.58 g",
+                            "~ 0.11 g",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "portionSentence": "1 pack ≈ 10 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "101341600000",
+            "legalDesignation": "Milk chocolate (35%) filled with peanut butter (32%) and caramel centre (24%) with freshly roasted peanuts (8.1%)",
+            "distributorName": "Mars Schweiz AG",
+            "distributorStreetAndNumber": "Baarermattstrasse 6, CH-6340 Baar",
+            "remarks": [
+                {
+                    "code": "Consumer storage instructions",
+                    "value": "Store in a cool and dry place."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegetarian"
+                },
+                {
+                    "code": "CO2 Compensated",
+                    "value": "No"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "5900951310591",
+        "5900951295072"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/c2b76f74785ac679529196483d569a7a26402c03/snickers-peanut-butter.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494782",
+            "name": "Chocolate & sweets",
+            "slugs": [
+                "snacks-sweets",
+                "chocolate-sweets"
+            ]
+        },
+        {
+            "id": "7495019",
+            "name": "Bars, branches & snacks",
+            "slugs": [
+                "snacks-sweets",
+                "chocolate-sweets",
+                "bars-branches-snacks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/101341600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.20",
+            "advertisedDisplayValue": "3.20",
+            "effectiveDisplayValue": "3.20",
+            "multiplier": 1,
+            "value": 3.2,
+            "effectiveValue": 3.2,
+            "advertisedValue": 3.2,
+            "unitPrice": {
+                "value": 1.76,
+                "unit": "100g"
+            }
+        },
+        "quantity": "182g",
+        "quantityPrice": "1.76/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T15:25:32"
+}

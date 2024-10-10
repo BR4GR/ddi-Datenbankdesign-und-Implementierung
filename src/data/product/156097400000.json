@@ -1,0 +1,101 @@
+{
+    "uid": 100053038,
+    "migrosId": "156097400000",
+    "name": "Polli Funghi alla pizzaiola",
+    "brand": "Polli",
+    "title": "Polli Funghi alla pizzaiola",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Polli",
+                "slug": "polli",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077076/brands/Polli_F.lli_Polli_S.p.A._Logo"
+            },
+            "rating": {
+                "nbReviews": 11,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/156097400000"
+        },
+        "otherInformation": {
+            "articleNumber": "156097400000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Packaging type",
+                    "value": "Glas"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "80366270",
+        "80366720"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/6b74d8a2ade8255a421ebb54f1ace97aa29ba57b/polli-funghi-alla-pizzaiola.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494780",
+            "name": "Snacks & crisps",
+            "slugs": [
+                "snacks-sweets",
+                "snacks-crisps"
+            ]
+        },
+        {
+            "id": "7495004",
+            "name": "Olives & antipasti",
+            "slugs": [
+                "snacks-sweets",
+                "snacks-crisps",
+                "olives-antipasti"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/156097400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.30",
+            "advertisedDisplayValue": "5.30",
+            "effectiveDisplayValue": "5.30",
+            "multiplier": 1,
+            "value": 5.3,
+            "effectiveValue": 5.3,
+            "advertisedValue": 5.3,
+            "unitPrice": {
+                "value": 1.86,
+                "unit": "100g"
+            }
+        },
+        "quantity": "285g",
+        "quantityPrice": "1.86/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:26:25"
+}

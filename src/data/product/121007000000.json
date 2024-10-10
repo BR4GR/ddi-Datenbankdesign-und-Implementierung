@@ -1,0 +1,207 @@
+{
+    "uid": 100051573,
+    "migrosId": "121007000000",
+    "name": "Aus der Region Apfelsaft",
+    "title": "Aus der Region Apfelsaft",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 4,
+                    "productionRatio": 82,
+                    "transportRatio": 1,
+                    "packagingRatio": 17,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 26,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/121007000000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "187 kJ (44 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "11 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "10 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "0.01 g",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "121007000000",
+            "legalDesignation": "Pur jus de pomme 100% naturel du pressoir",
+            "distributorName": "be Fruits Sàrl",
+            "remarks": [
+                {
+                    "code": "Instructions de stockage pour le consommateur",
+                    "value": "A consommer après ouverture"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Production process",
+                    "value": "﻿100% from fruit, pasteurized"
+                },
+                {
+                    "code": "Number of removable individual units",
+                    "value": "25"
+                },
+                {
+                    "code": "Carbonated",
+                    "value": "No"
+                },
+                {
+                    "code": "Contains caffeine",
+                    "value": "No"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Brik"
+                },
+                {
+                    "code": "Multivitamin",
+                    "value": "No"
+                },
+                {
+                    "code": "From concentrate",
+                    "value": "No"
+                },
+                {
+                    "code": "Contains no added sugar",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Type of soft drink",
+                    "value": "Fruchtsaft"
+                },
+                {
+                    "code": "Flavor",
+                    "value": "Apfel"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7640140180335"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3a2f760af77bd103baaa0f6c3ea88b36417aa967/aus-der-region-apfelsaft.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494771",
+            "name": "Fruit & vegetable juices",
+            "slugs": [
+                "drinks-coffee-tea",
+                "fruit-vegetable-juices"
+            ]
+        },
+        {
+            "id": "7494959",
+            "name": "Apple juice",
+            "slugs": [
+                "drinks-coffee-tea",
+                "fruit-vegetable-juices",
+                "apple-juice"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/121007000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.–",
+            "advertisedDisplayValue": "1.–",
+            "effectiveDisplayValue": "1.–",
+            "multiplier": 1,
+            "value": 1,
+            "effectiveValue": 1,
+            "advertisedValue": 1,
+            "unitPrice": {
+                "value": 0.4,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "250ml",
+        "quantityPrice": "0.40/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:17:51"
+}

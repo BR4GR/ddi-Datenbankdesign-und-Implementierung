@@ -1,0 +1,123 @@
+{
+    "uid": 100145630,
+    "migrosId": "107143300000",
+    "name": "Cafè Badilatti Bun Di",
+    "brand": "Cafè Badilatti",
+    "title": "Cafè Badilatti Bun Di",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Cafè Badilatti",
+                "slug": "cafe-badilatti",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1712674142/brands/Badilatti_-_CMYK_JR3"
+            },
+            "rating": {
+                "nbReviews": 5,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/107143300000"
+        },
+        "otherInformation": {
+            "articleNumber": "107143300000",
+            "distributorName": "Cafè Badilatti SA",
+            "mainSpecificities": [
+                {
+                    "code": "Coffee shape",
+                    "value": "Kaffeebohnen"
+                },
+                {
+                    "code": "Type of preparation",
+                    "value": "Lungo"
+                },
+                {
+                    "code": "Botanical variety",
+                    "value": "Arabica"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Beutel"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "aufbrühen"
+                },
+                {
+                    "code": "Instant",
+                    "value": "No"
+                },
+                {
+                    "code": "Decaffeinated",
+                    "value": "No"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7611604205000"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f3297ce9cffa9c3cf831453cfc52281642eb1cbb/cafe-badilatti-bun-di.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494772",
+            "name": "Coffee",
+            "slugs": [
+                "drinks-coffee-tea",
+                "coffee"
+            ]
+        },
+        {
+            "id": "7494966",
+            "name": "Coffee beans",
+            "slugs": [
+                "drinks-coffee-tea",
+                "coffee",
+                "coffee-beans"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/107143300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "9.50",
+            "advertisedDisplayValue": "9.50",
+            "effectiveDisplayValue": "9.50",
+            "multiplier": 1,
+            "value": 9.5,
+            "effectiveValue": 9.5,
+            "advertisedValue": 9.5,
+            "unitPrice": {
+                "value": 1.9,
+                "unit": "100g"
+            }
+        },
+        "quantity": "500g",
+        "quantityPrice": "1.90/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:14:06"
+}

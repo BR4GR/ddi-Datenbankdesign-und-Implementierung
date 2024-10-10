@@ -1,0 +1,175 @@
+{
+    "uid": 100047949,
+    "migrosId": "107052400000",
+    "migrosOnlineId": "4963399",
+    "name": "Organic herbal tea blend",
+    "brand": "You",
+    "versioning": "Moringa leaves, ginger, lemongrass",
+    "title": "You · Organic herbal tea blend · Moringa leaves, ginger, lemongrass",
+    "description": "You Organic herbal tea blend Moringa leaves, ginger, lemongrass",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "You",
+                "slug": "you",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252518/brands/you"
+            },
+            "nutritionalCharacteristics": [
+                "Organic"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                }
+            ],
+            "ingredients": "Ingwer * 25 %, Krauseminze *, Zitronengras * 15 %, Hagebutten *, Süssholzwurzel *, Zimt *, Moringablätter * 5 %. \n* Aus ausländischer Bio-Produktion.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 3,
+                    "co2CarKmEquivalent": 21,
+                    "productionRatio": 94,
+                    "transportRatio": 1,
+                    "packagingRatio": 4,
+                    "image": "https://image.migros.ch/original/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg"
+                }
+            },
+            "rating": {
+                "nbReviews": 25,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/107052400000"
+        },
+        "usageInformation": {
+            "usage": "Pour boiling water over 1 sachet per cup, cover and allow to infuse for 5-6 minutes.",
+            "preparationInstructions": "Pro Tasse 1 Teebeutel mit kochendem Wasser übergiessen und 6 Minuten ziehen lassen."
+        },
+        "otherInformation": {
+            "articleNumber": "107052400000",
+            "legalDesignation": "Bio Kräuterteemischung",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "bioCertification": "DE-ÖKO-001, Kiwa BCS Öko-Garantie GmbH",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store in a cool, dry place."
+                },
+                {
+                    "code": "Warning and other mandatory information",
+                    "value": "Contains liquorice."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Production process",
+                    "value": "Bio-Produktion"
+                },
+                {
+                    "code": "Floral",
+                    "value": "Moringablätter"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Schachtel"
+                },
+                {
+                    "code": "Herb species",
+                    "value": "Zitronengras"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "heisses Wasser hinzugeben"
+                },
+                {
+                    "code": "Tea preparation",
+                    "value": "Beutel"
+                },
+                {
+                    "code": "Tea type",
+                    "value": "Kräutertee"
+                },
+                {
+                    "code": "Number of pads/capsules/bags",
+                    "value": "2"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312146637"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/eb6db313bfede016e9bacd73da81f4cec21ed7aa/you-bio-power-tea.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494773",
+            "name": "Tea",
+            "slugs": [
+                "drinks-coffee-tea",
+                "tea"
+            ]
+        },
+        {
+            "id": "7494974",
+            "name": "Herbal infusions with plants",
+            "slugs": [
+                "drinks-coffee-tea",
+                "tea",
+                "herbal-infusions-with-plants"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/107052400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.20",
+            "advertisedDisplayValue": "3.20",
+            "effectiveDisplayValue": "3.20",
+            "multiplier": 1,
+            "value": 3.2,
+            "effectiveValue": 3.2,
+            "advertisedValue": 3.2,
+            "unitPrice": {
+                "value": 10.7,
+                "unit": "100g"
+            }
+        },
+        "quantity": "30g",
+        "quantityPrice": "10.70/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T01:06:17"
+}

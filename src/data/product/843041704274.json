@@ -1,0 +1,130 @@
+{
+    "uid": 100175243,
+    "migrosId": "843041704274",
+    "name": "Unisex comfortslipper",
+    "brand": "MIGROS ESSENTIALS",
+    "title": "Unisex comfortslipper",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "MIGROS ESSENTIALS",
+                "slug": "migros-essentials",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1708333701/brands/Migros_Essentials_-_RGB_-_DE"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/843041704274"
+        },
+        "otherInformation": {
+            "articleNumber": "843041704274",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Category/theme",
+                    "value": "Hausschuhe"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871739572"
+    ],
+    "variants": {
+        "baseProductMigrosId": "843041700000",
+        "mainVariantMigrosId": "843041704274",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "beige",
+                    "size": "042"
+                },
+                "migrosId": "843041704274"
+            },
+            {
+                "declinationOptions": {
+                    "color": "beige",
+                    "size": "045"
+                },
+                "migrosId": "843041704574"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "beige",
+                "options": [
+                    "beige"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "042",
+                "options": [
+                    "042",
+                    "045"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/fe2a4f14967823ecfe28bf4e34937f0f28904ad6/unisex-comfortslipper.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10553494",
+            "name": "Shoes",
+            "slugs": [
+                "clothing-accessories",
+                "shoes"
+            ]
+        },
+        {
+            "id": "10553507",
+            "name": "Slippers",
+            "slugs": [
+                "clothing-accessories",
+                "shoes",
+                "slippers"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/843041704274",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "19.95",
+            "advertisedDisplayValue": "19.95",
+            "effectiveDisplayValue": "19.95",
+            "multiplier": 1,
+            "value": 19.95,
+            "effectiveValue": 19.95,
+            "advertisedValue": 19.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-18T17:22:23"
+}

@@ -1,0 +1,133 @@
+{
+    "uid": 100048491,
+    "migrosId": "263330108400",
+    "migrosOnlineId": "6015614",
+    "name": "Oranges",
+    "brand": "Fresca",
+    "versioning": "Blonde",
+    "title": "Fresca · Oranges · Blonde",
+    "description": "Fresca Oranges Blonde",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Fresca",
+                "slug": "fresca",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252430/brands/fresca-S10"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 1,
+                    "productionRatio": 40,
+                    "transportRatio": 45,
+                    "packagingRatio": 15,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 641,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/263330108400"
+        },
+        "otherInformation": {
+            "articleNumber": "263330108400",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Saison von",
+                    "value": "November"
+                },
+                {
+                    "code": "Saison bis",
+                    "value": "März"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Netz"
+                },
+                {
+                    "code": "Storage at home",
+                    "value": "gekühlt aufbewahren/lagern"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610632180020",
+        "7610200501363"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/8252174fb74b88c30c075983c468a2e570fc4db8/blondorangen.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/390088ebb8ce22bf94bf0e6da5b2d5f8db05ac01.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494756",
+            "name": "Fruits",
+            "slugs": [
+                "fruits-vegetables",
+                "fruits"
+            ]
+        },
+        {
+            "id": "7494894",
+            "name": "Citrus fruits",
+            "slugs": [
+                "fruits-vegetables",
+                "fruits",
+                "citrus-fruits"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/263330108400",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.90",
+            "advertisedDisplayValue": "3.90",
+            "effectiveDisplayValue": "3.90",
+            "multiplier": 1,
+            "value": 3.9,
+            "effectiveValue": 3.9,
+            "advertisedValue": 3.9,
+            "unitPrice": {
+                "value": 0.2,
+                "unit": "100g"
+            }
+        },
+        "quantity": "2kg",
+        "quantityPrice": "0.20/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T11:57:38"
+}

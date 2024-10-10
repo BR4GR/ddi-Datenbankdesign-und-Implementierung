@@ -1,0 +1,160 @@
+{
+    "uid": 100122660,
+    "migrosId": "747190500060",
+    "migrosOnlineId": "10573918",
+    "name": "Nappies",
+    "brand": "Milette",
+    "brandLine": "Baby Care Naturals",
+    "versioning": "Green",
+    "title": "Milette Baby Care Naturals · Nappies · Green",
+    "description": "Milette Nappies Green",
+    "productRange": "VARIANT",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L60",
+                    "name": "GOTS",
+                    "slug": "gots",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483187/labels/GOTS_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "Milette",
+                "slug": "milette",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076999/brands/Milette_Logo"
+            },
+            "nutritionalCharacteristics": [
+                "Organic"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                }
+            ],
+            "rating": {
+                "nbReviews": 7,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/747190500060"
+        },
+        "otherInformation": {
+            "articleNumber": "747190500060",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7628871000177"
+    ],
+    "variants": {
+        "baseProductMigrosId": "747190500000",
+        "mainVariantMigrosId": "747190500040",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "blue",
+                    "size": "000"
+                },
+                "migrosId": "747190500040"
+            },
+            {
+                "declinationOptions": {
+                    "color": "green",
+                    "size": "000"
+                },
+                "migrosId": "747190500060"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "green",
+                "options": [
+                    "blue",
+                    "green"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "000",
+                "options": [
+                    "000"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/e814829e369b11d893453ab1224f4ae173317da7/milette-burp-cloths.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "7494823",
+            "name": "Baby equipment",
+            "slugs": [
+                "baby-kids",
+                "baby-equipment"
+            ]
+        },
+        {
+            "id": "7495227",
+            "name": "Pillows, blankets & bed linen",
+            "slugs": [
+                "baby-kids",
+                "baby-equipment",
+                "pillows-blankets-bed-linen"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/747190500060",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "19.95",
+            "advertisedDisplayValue": "19.95",
+            "effectiveDisplayValue": "19.95",
+            "multiplier": 1,
+            "value": 19.95,
+            "effectiveValue": 19.95,
+            "advertisedValue": 19.95,
+            "unitPrice": {
+                "value": 6.65,
+                "unit": "piece"
+            }
+        },
+        "quantity": "3 Stk.",
+        "quantityPrice": "6.65/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T19:37:28"
+}

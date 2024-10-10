@@ -1,0 +1,96 @@
+{
+    "uid": 100160138,
+    "migrosId": "110110500000",
+    "name": "Vicenzi Millefoglie Milch",
+    "brand": "Matilde Vicenzi",
+    "title": "Vicenzi Millefoglie Milch",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Matilde Vicenzi",
+                "slug": "matilde-vicenzi",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076963/brands/Matilde_Massimo_Cerutti_SA_Logo"
+            },
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/110110500000"
+        },
+        "otherInformation": {
+            "articleNumber": "110110500000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "8000350008208",
+        "8000350004491",
+        "8000350006273"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/c5b92655c457c7e2eba9c180ec6ea4de5672c258/vicenzi-millefoglie-milch.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494784",
+            "name": "Cake, madeleines & panettone",
+            "slugs": [
+                "snacks-sweets",
+                "cake-madeleines-panettone"
+            ]
+        },
+        {
+            "id": "7495028",
+            "name": "Madeleines & small cakes",
+            "slugs": [
+                "snacks-sweets",
+                "cake-madeleines-panettone",
+                "madeleines-small-cakes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/110110500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.60",
+            "advertisedDisplayValue": "2.60",
+            "effectiveDisplayValue": "2.60",
+            "multiplier": 1,
+            "value": 2.6,
+            "effectiveValue": 2.6,
+            "advertisedValue": 2.6,
+            "unitPrice": {
+                "value": 2.6,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100g",
+        "quantityPrice": "2.60/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-15T21:29:18"
+}

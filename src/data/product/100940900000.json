@@ -1,0 +1,196 @@
+{
+    "uid": 100063601,
+    "migrosId": "100940900000",
+    "migrosOnlineId": "7125768",
+    "name": "chocolate balls",
+    "brand": "Lindt",
+    "brandLine": "Lindor",
+    "versioning": "raspberry",
+    "title": "Lindt Lindor · chocolate balls · raspberry",
+    "description": "Lindt chocolate balls raspberry",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "Lindt",
+                "slug": "lindt",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1668672887/brands/Lindt_Logo_500px_72dpi"
+            },
+            "ingredients": "sugar, cocoa butter, vegetable fat (coconut, palm kernel), WHOLE MILK POWDER, cocoa mass, SKIM MILK POWDER, LACTOSE, ANHYDROUS MILK FAT, CREAM POWDER 1%, raspberry powder 0.5%, emulsifier (SOYA LECITHIN), flavourings, BARLEY MALT EXTRACT.May contain HAZELNUTS and other NUTS.",
+            "allergenIndication": "May contain: Nuts",
+            "allergens": "Milk and its derivatives, Cereal grains containing gluten and its derivatives, Soybean and its derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 11,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/100940900000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "~ 2582 kJ (~ 622 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "~ 47 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "~ 34 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "~ 43 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "~ 42 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "~ 5.2 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "~ 0.2 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "usageInformation": {
+            "additionalInformation": "limited edition"
+        },
+        "otherInformation": {
+            "articleNumber": "100940900000",
+            "legalDesignation": "Milk chocolate with a smooth melting raspberry and cream filling",
+            "distributorName": "Lindt & Sprüngli (Schweiz) AG",
+            "distributorStreetAndNumber": "Seestrasse 204, CH-8802 Kilchberg",
+            "remarks": [
+                {
+                    "code": "Consumer storage instructions",
+                    "value": "Store in a cool and dry place."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "CO2 Compensated",
+                    "value": "No"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610400095099"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/8ba5c1f2d81781c125a7780f7c7f453577d3b661/lindt-lindor-kugeln-raspberry.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494782",
+            "name": "Chocolate & sweets",
+            "slugs": [
+                "snacks-sweets",
+                "chocolate-sweets"
+            ]
+        },
+        {
+            "id": "7495020",
+            "name": "Pralines",
+            "slugs": [
+                "snacks-sweets",
+                "chocolate-sweets",
+                "pralines"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/100940900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "10.95",
+            "advertisedDisplayValue": "10.95",
+            "effectiveDisplayValue": "10.95",
+            "multiplier": 1,
+            "value": 10.95,
+            "effectiveValue": 10.95,
+            "advertisedValue": 10.95,
+            "unitPrice": {
+                "value": 5.48,
+                "unit": "100g"
+            }
+        },
+        "quantity": "200g",
+        "quantityPrice": "5.48/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:58:20"
+}

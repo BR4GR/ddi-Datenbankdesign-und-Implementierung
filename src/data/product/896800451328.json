@@ -1,0 +1,139 @@
+{
+    "uid": 100172588,
+    "migrosId": "896800451328",
+    "name": "Baby gloves",
+    "brand": "Smile",
+    "title": "Baby gloves",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Smile",
+                "slug": "smile",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252488/brands/smile"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/896800451328"
+        },
+        "otherInformation": {
+            "articleNumber": "896800451328",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7628871720532"
+    ],
+    "variants": {
+        "baseProductMigrosId": "896800400000",
+        "mainVariantMigrosId": "896800451328",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "6-12",
+                    "color": "pink"
+                },
+                "migrosId": "896800451328"
+            },
+            {
+                "declinationOptions": {
+                    "size": "6-12",
+                    "color": "beige"
+                },
+                "migrosId": "896800451374"
+            },
+            {
+                "declinationOptions": {
+                    "size": "12-24",
+                    "color": "pink"
+                },
+                "migrosId": "896800451428"
+            },
+            {
+                "declinationOptions": {
+                    "size": "12-24",
+                    "color": "beige"
+                },
+                "migrosId": "896800451474"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "pink",
+                "options": [
+                    "pink",
+                    "beige"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "6-12",
+                "options": [
+                    "6-12",
+                    "12-24"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f635b7378d20661d78c17f01a8f07c347008d4e8/baby-gloves.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "11117240",
+            "name": "Baby clothes",
+            "slugs": [
+                "baby-kids",
+                "baby-clothes"
+            ]
+        },
+        {
+            "id": "11117266",
+            "name": "Baby accessories",
+            "slugs": [
+                "baby-kids",
+                "baby-clothes",
+                "baby-accessories"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/896800451328",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "9.95",
+            "advertisedDisplayValue": "9.95",
+            "effectiveDisplayValue": "9.95",
+            "multiplier": 1,
+            "value": 9.95,
+            "effectiveValue": 9.95,
+            "advertisedValue": 9.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T10:31:56"
+}

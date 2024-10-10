@@ -1,0 +1,94 @@
+{
+    "uid": 100165251,
+    "migrosId": "526612900000",
+    "name": "I AM BODY BUTTER",
+    "brand": "I am",
+    "title": "I AM BODY BUTTER",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "I am",
+                "slug": "i-am",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076768/brands/Iam_Logo"
+            },
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 3.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/526612900000"
+        },
+        "otherInformation": {
+            "articleNumber": "526612900000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7630041427349"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/8755453fb179ec8f15a9553c9c0d8169f79b7131/i-am-body-butter.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494826",
+            "name": "Body care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care"
+            ]
+        },
+        {
+            "id": "7495242",
+            "name": "Treatments & creams",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care",
+                "treatments-creams"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/526612900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "8.95",
+            "advertisedDisplayValue": "8.95",
+            "effectiveDisplayValue": "8.95",
+            "multiplier": 1,
+            "value": 8.95,
+            "effectiveValue": 8.95,
+            "advertisedValue": 8.95,
+            "unitPrice": {
+                "value": 2.98,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "300ml",
+        "quantityPrice": "2.98/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T21:26:10"
+}

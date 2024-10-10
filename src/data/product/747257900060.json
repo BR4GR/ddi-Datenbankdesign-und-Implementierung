@@ -1,0 +1,130 @@
+{
+    "uid": 100132771,
+    "migrosId": "747257900060",
+    "name": "Rotho Pot",
+    "brand": "Rotho",
+    "title": "Rotho Pot",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Rotho",
+                "slug": "rotho",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077113/brands/Rotho_Rotho_Kunststoff_AG_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/747257900060"
+        },
+        "otherInformation": {
+            "articleNumber": "747257900060",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "4250226042520"
+    ],
+    "variants": {
+        "baseProductMigrosId": "747257900000",
+        "mainVariantMigrosId": "747257900060",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "green",
+                    "size": "000"
+                },
+                "migrosId": "747257900060"
+            },
+            {
+                "declinationOptions": {
+                    "color": "grey",
+                    "size": "000"
+                },
+                "migrosId": "747257900080"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "green",
+                "options": [
+                    "green",
+                    "grey"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "000",
+                "options": [
+                    "000"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/2d692b7d5daaa4b6ae09cc79df0069c3b16e438a/rotho-pot.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "7494821",
+            "name": "Hygiene & care",
+            "slugs": [
+                "baby-kids",
+                "hygiene-care"
+            ]
+        },
+        {
+            "id": "7495209",
+            "name": "Skin & hair care",
+            "slugs": [
+                "baby-kids",
+                "hygiene-care",
+                "skin-hair-care"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/747257900060",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "13.95",
+            "advertisedDisplayValue": "13.95",
+            "effectiveDisplayValue": "13.95",
+            "multiplier": 1,
+            "value": 13.95,
+            "effectiveValue": 13.95,
+            "advertisedValue": 13.95,
+            "unitPrice": {
+                "value": 13.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "13.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:30:12"
+}

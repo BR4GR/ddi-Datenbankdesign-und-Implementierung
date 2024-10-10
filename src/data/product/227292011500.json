@@ -1,0 +1,102 @@
+{
+    "uid": 100096632,
+    "migrosId": "227292011500",
+    "name": "Bernaise Schaum",
+    "title": "Bernaise Schaum",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 3.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/227292011500"
+        },
+        "otherInformation": {
+            "articleNumber": "227292011500",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Packaging type",
+                    "value": "Plastic can"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                },
+                {
+                    "code": "Quality of butter",
+                    "value": "Aufstrich"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613269606963"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/70d73f6d00712447b3ae6131f15e0124b5c30b83/bernaise-schaum.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494751",
+            "name": "Milk, butter & eggs",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "milk-butter-eggs"
+            ]
+        },
+        {
+            "id": "7494869",
+            "name": "Butter & margarine",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "milk-butter-eggs",
+                "butter-margarine"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/227292011500",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.60",
+            "advertisedDisplayValue": "4.60",
+            "effectiveDisplayValue": "4.60",
+            "multiplier": 1,
+            "value": 4.6,
+            "effectiveValue": 4.6,
+            "advertisedValue": 4.6,
+            "unitPrice": {
+                "value": 4.6,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100g",
+        "quantityPrice": "4.60/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:17:18"
+}

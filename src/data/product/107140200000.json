@@ -1,0 +1,93 @@
+{
+    "uid": 100143231,
+    "migrosId": "107140200000",
+    "name": "Kaffee Rast Winterzauber",
+    "brand": "Kaffee Rast",
+    "title": "Kaffee Rast Winterzauber",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Kaffee Rast",
+                "slug": "kaffee-rast",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1714392565/brands/Rast_Kaffee_JR0"
+            },
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/107140200000"
+        },
+        "otherInformation": {
+            "articleNumber": "107140200000",
+            "distributorName": "RAST KAFFEE"
+        }
+    },
+    "gtins": [
+        "7640126839905"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1fedcb9cc35e36ee4342a5e2496471523652af62/kaffee-rast-winterzauber.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494772",
+            "name": "Coffee",
+            "slugs": [
+                "drinks-coffee-tea",
+                "coffee"
+            ]
+        },
+        {
+            "id": "7494966",
+            "name": "Coffee beans",
+            "slugs": [
+                "drinks-coffee-tea",
+                "coffee",
+                "coffee-beans"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/107140200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "13.50",
+            "advertisedDisplayValue": "13.50",
+            "effectiveDisplayValue": "13.50",
+            "multiplier": 1,
+            "value": 13.5,
+            "effectiveValue": 13.5,
+            "advertisedValue": 13.5,
+            "unitPrice": {
+                "value": 2.7,
+                "unit": "100g"
+            }
+        },
+        "quantity": "500g",
+        "quantityPrice": "2.70/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:16:42"
+}

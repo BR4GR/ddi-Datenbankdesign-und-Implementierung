@@ -1,0 +1,123 @@
+{
+    "uid": 100164151,
+    "migrosId": "111470200200",
+    "name": "Butterzopf",
+    "brand": "In-store bakery",
+    "title": "Butterzopf",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "brand": {
+                "name": "In-store bakery",
+                "slug": "in-store-bakery"
+            },
+            "rating": {
+                "nbReviews": 5,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/111470200200"
+        },
+        "otherInformation": {
+            "articleNumber": "111470200200",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Packaging type",
+                    "value": "Brotbeutel"
+                },
+                {
+                    "code": "Type of product",
+                    "value": "﻿Large bread fresh"
+                },
+                {
+                    "code": "Production process",
+                    "value": "Aus der Region, aus hellem Mehl, gebacken, IP-SUISSE-Qualität, Von Hand geflochten"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613269911739"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/6a7282ab88971c0d72ae1113d1adcfd9c187f369/butterzopf.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/08d3f12a5d9ac795d5921b5668092e5b2f84f1dd.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494763",
+            "name": "Fresh bread",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "fresh-bread"
+            ]
+        },
+        {
+            "id": "7494924",
+            "name": "Fresh bread",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "fresh-bread",
+                "fresh-bread"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/111470200200",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.50",
+            "advertisedDisplayValue": "7.50",
+            "effectiveDisplayValue": "7.50",
+            "multiplier": 1,
+            "value": 7.5,
+            "effectiveValue": 7.5,
+            "advertisedValue": 7.5,
+            "unitPrice": {
+                "value": 0.83,
+                "unit": "100g"
+            }
+        },
+        "quantity": "900g",
+        "quantityPrice": "0.83/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-18T05:55:22"
+}

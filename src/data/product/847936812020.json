@@ -1,0 +1,158 @@
+{
+    "uid": 100088137,
+    "migrosId": "847936812020",
+    "name": "Schnürsenkel flach",
+    "brand": "Central Square",
+    "title": "Schnürsenkel flach",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Central Square",
+                "slug": "central-square",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076642/brands/CentralSquare_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 17,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/847936812020"
+        },
+        "otherInformation": {
+            "articleNumber": "847936812020",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Schnürsenkel"
+                },
+                {
+                    "code": "Category/theme",
+                    "value": "Schnürsenkel"
+                },
+                {
+                    "code": "Main material",
+                    "value": "Baumwolle"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613432376846"
+    ],
+    "variants": {
+        "baseProductMigrosId": "847936800000",
+        "mainVariantMigrosId": "847936809010",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "white",
+                    "size": "090"
+                },
+                "migrosId": "847936809010"
+            },
+            {
+                "declinationOptions": {
+                    "color": "black",
+                    "size": "090"
+                },
+                "migrosId": "847936809020"
+            },
+            {
+                "declinationOptions": {
+                    "color": "white",
+                    "size": "120"
+                },
+                "migrosId": "847936812010"
+            },
+            {
+                "declinationOptions": {
+                    "color": "black",
+                    "size": "120"
+                },
+                "migrosId": "847936812020"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "black",
+                "options": [
+                    "white",
+                    "black"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "120",
+                "options": [
+                    "090",
+                    "120"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/efb2c367959f14d293408df5aae7618ff299ea03/schnuersenkel-flach.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10553494",
+            "name": "Shoes",
+            "slugs": [
+                "clothing-accessories",
+                "shoes"
+            ]
+        },
+        {
+            "id": "10553524",
+            "name": "Shoe accessories",
+            "slugs": [
+                "clothing-accessories",
+                "shoes",
+                "shoe-accessories"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/847936812020",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "2.95",
+            "advertisedDisplayValue": "2.95",
+            "effectiveDisplayValue": "2.95",
+            "multiplier": 1,
+            "value": 2.95,
+            "effectiveValue": 2.95,
+            "advertisedValue": 2.95
+        },
+        "quantity": "1 Paar",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T16:52:43"
+}

@@ -1,0 +1,123 @@
+{
+    "uid": 100142953,
+    "migrosId": "121516300000",
+    "name": "Morand Sirup Cassis",
+    "brand": "Morand",
+    "title": "Morand Sirup Cassis",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Morand",
+                "slug": "morand"
+            },
+            "ingredients": "Sugar, water, acidifier (citric acid), concentrate (carrotconcentrate), blackcurrant flavour, preservative (potassium sorbate).",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/121516300000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1469 kJ (346 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "86 g",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "121516300000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Consumer storage instructions",
+                    "value": "Shelf life: 24 months. Before opening, store at room temperature, away from heat and light. from heat and light. After opening, keep away from heat and light. After opening, keep away from heat and light and consume within 6 months."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610173018219"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/25c4e3b9fc08b38c6376445229745e52fb084745/morand-sirup-cassis.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494769",
+            "name": "Soft drinks",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks"
+            ]
+        },
+        {
+            "id": "7494954",
+            "name": "Syrups",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks",
+                "syrups"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/121516300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.30",
+            "advertisedDisplayValue": "6.30",
+            "effectiveDisplayValue": "6.30",
+            "multiplier": 1,
+            "value": 6.3,
+            "effectiveValue": 6.3,
+            "advertisedValue": 6.3,
+            "unitPrice": {
+                "value": 0.63,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "1l",
+        "quantityPrice": "0.63/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:43:45"
+}

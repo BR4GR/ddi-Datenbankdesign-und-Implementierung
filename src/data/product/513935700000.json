@@ -1,0 +1,93 @@
+{
+    "uid": 100148057,
+    "migrosId": "513935700000",
+    "name": "Taschenzerstäuber",
+    "title": "Taschenzerstäuber",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 3.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/513935700000"
+        },
+        "otherInformation": {
+            "articleNumber": "513935700000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613312174241",
+        "7618300072974"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/36d94eb737ce1b137b962abb243a7cf1ddc9c232/taschenzerstaeuber.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/73d48120701ed4a9fead78eddefcd13a40b582c9.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494828",
+            "name": "Facial care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "facial-care"
+            ]
+        },
+        {
+            "id": "7495247",
+            "name": "Make-up",
+            "slugs": [
+                "drugstore-cosmetics",
+                "facial-care",
+                "make-up"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/513935700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.95",
+            "advertisedDisplayValue": "7.95",
+            "effectiveDisplayValue": "7.95",
+            "multiplier": 1,
+            "value": 7.95,
+            "effectiveValue": 7.95,
+            "advertisedValue": 7.95,
+            "unitPrice": {
+                "value": 7.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "7.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:17:48"
+}

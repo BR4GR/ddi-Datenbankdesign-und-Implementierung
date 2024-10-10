@@ -1,0 +1,101 @@
+{
+    "uid": 100167651,
+    "migrosId": "724374600004",
+    "name": "Raumduft",
+    "brand": "MIGROS HOME",
+    "title": "Raumduft",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "MIGROS HOME",
+                "slug": "migros-home",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1715075047/brands/MIGROS_Home_GR7"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/724374600004"
+        },
+        "otherInformation": {
+            "articleNumber": "724374600004",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7628871790146"
+    ],
+    "variants": {
+        "baseProductMigrosId": "724374600000",
+        "mainVariantMigrosId": "724374600004",
+        "declinations": [
+            {
+                "migrosId": "724374600004"
+            },
+            {
+                "migrosId": "724374600006"
+            },
+            {
+                "migrosId": "724374600007"
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/969c12f84a6114b766d2421adec6e5934eaf9ee6/raumduft.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494811",
+            "name": "Household aids",
+            "slugs": [
+                "household-and-living",
+                "household-aids"
+            ]
+        },
+        {
+            "id": "7495163",
+            "name": "Air fresheners",
+            "slugs": [
+                "household-and-living",
+                "household-aids",
+                "air-fresheners"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/724374600004",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "8.95",
+            "advertisedDisplayValue": "8.95",
+            "effectiveDisplayValue": "8.95",
+            "multiplier": 1,
+            "value": 8.95,
+            "effectiveValue": 8.95,
+            "advertisedValue": 8.95
+        },
+        "quantity": "100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T22:33:33"
+}

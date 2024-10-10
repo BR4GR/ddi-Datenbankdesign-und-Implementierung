@@ -1,0 +1,199 @@
+{
+    "uid": 100005586,
+    "migrosId": "151440900000",
+    "migrosOnlineId": "54206",
+    "name": "Table Molasses",
+    "title": "Table Molasses",
+    "description": "Table Molasses ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "ingredients": "Glucosesirup, Rohrzuckermelasse 33%, Zucker, Caramelzuckersirup, Säuerungsmittel: Citronensäure.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 4,
+                    "productionRatio": 70,
+                    "transportRatio": 6,
+                    "packagingRatio": 24,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 97,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/151440900000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "2 Teelöffel (10 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1382 kJ (325 kcal)",
+                            "138 kJ (33 kcal)",
+                            "2 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            "1 %"
+                        ]
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            "0 %"
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "81 g",
+                            "8.1 g",
+                            "3 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "59 g",
+                            "5.9 g",
+                            "7 %"
+                        ]
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            "1 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.03 g",
+                            "0 g",
+                            "0 %"
+                        ]
+                    }
+                ]
+            },
+            "portionSentence": "1 Jar = 55 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "151440900000",
+            "legalDesignation": "Melassezubereitung",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Suitable for cooking",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Glas"
+                },
+                {
+                    "code": "Type of spread",
+                    "value": "Tafelmelasse"
+                },
+                {
+                    "code": "Contains no added sugar",
+                    "value": "No"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7616800101422"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/86cc96391e6855bea82b5a98cb5240c54e0fd376/tafelmelasse.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494768",
+            "name": "Jam, spreads & honey",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "jam-spreads-honey"
+            ]
+        },
+        {
+            "id": "7494947",
+            "name": "Honeys & molasses",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "jam-spreads-honey",
+                "honeys-molasses"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/151440900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.30",
+            "advertisedDisplayValue": "3.30",
+            "effectiveDisplayValue": "3.30",
+            "multiplier": 1,
+            "value": 3.3,
+            "effectiveValue": 3.3,
+            "advertisedValue": 3.3,
+            "unitPrice": {
+                "value": 0.6,
+                "unit": "100g"
+            }
+        },
+        "quantity": "550g",
+        "quantityPrice": "0.60/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:49:17"
+}

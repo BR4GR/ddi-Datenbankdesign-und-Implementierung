@@ -1,0 +1,185 @@
+{
+    "uid": 100079216,
+    "migrosId": "720503400050",
+    "name": "Folder 4 cm",
+    "title": "Folder 4 cm",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L09",
+                    "name": "FSC®",
+                    "slug": "fsc",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483057/labels/FSC_-_RGB_-_DE"
+                },
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 46,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/720503400050"
+        },
+        "otherInformation": {
+            "articleNumber": "720503400050",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Number",
+                    "value": "1 Pcs."
+                },
+                {
+                    "code": "Material",
+                    "value": "Karton"
+                },
+                {
+                    "code": "Format",
+                    "value": "A4, 210 x 297 mm"
+                },
+                {
+                    "code": "Color",
+                    "value": "gelb"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7624400731840"
+    ],
+    "variants": {
+        "baseProductMigrosId": "720503400000",
+        "mainVariantMigrosId": "720503400010",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "WEISS"
+                },
+                "migrosId": "720503400010"
+            },
+            {
+                "declinationOptions": {
+                    "color": "SCHWZ"
+                },
+                "migrosId": "720503400020"
+            },
+            {
+                "declinationOptions": {
+                    "color": "BURGUND"
+                },
+                "migrosId": "720503400038"
+            },
+            {
+                "declinationOptions": {
+                    "color": ".  BLAU"
+                },
+                "migrosId": "720503400040"
+            },
+            {
+                "declinationOptions": {
+                    "color": ".  GELB"
+                },
+                "migrosId": "720503400050"
+            },
+            {
+                "declinationOptions": {
+                    "color": ".  GRUEN"
+                },
+                "migrosId": "720503400060"
+            },
+            {
+                "declinationOptions": {
+                    "color": "H'GRÜN"
+                },
+                "migrosId": "720503400061"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": ".  GELB",
+                "options": [
+                    "WEISS",
+                    "SCHWZ",
+                    "BURGUND",
+                    ".  BLAU",
+                    ".  GELB",
+                    ".  GRUEN",
+                    "H'GRÜN"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/5c20f632425e215aad92fa5066d57bc98c1eb1b4/folder-4-cm.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494813",
+            "name": "Office & stationery",
+            "slugs": [
+                "household-and-living",
+                "office-stationery"
+            ]
+        },
+        {
+            "id": "7495168",
+            "name": "Organise & store",
+            "slugs": [
+                "household-and-living",
+                "office-stationery",
+                "organise-store"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/720503400050",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.50",
+            "advertisedDisplayValue": "4.50",
+            "effectiveDisplayValue": "4.50",
+            "multiplier": 1,
+            "value": 4.5,
+            "effectiveValue": 4.5,
+            "advertisedValue": 4.5,
+            "unitPrice": {
+                "value": 4.5,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "4.50/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T20:37:38"
+}

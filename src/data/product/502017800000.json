@@ -1,0 +1,146 @@
+{
+    "uid": 100036512,
+    "migrosId": "502017800000",
+    "migrosOnlineId": "218221",
+    "name": "Glass cleaner spray",
+    "brand": "M-Budget",
+    "title": "M-Budget · Glass cleaner spray",
+    "description": "M-Budget Glass cleaner spray ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Budget",
+                "slug": "m-budget",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252456/brands/m-budget"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 3,
+                    "co2CarKmEquivalent": 18,
+                    "productionRatio": 92,
+                    "transportRatio": 3,
+                    "packagingRatio": 5,
+                    "image": "https://image.migros.ch/original/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "co2KgRange": "2 - 4.7 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 140,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/502017800000"
+        },
+        "usageInformation": {
+            "usage": "Spray from a distance of 30 cm. Wipe with paper or soft cloth.",
+            "additionalInformation": "Cleans glass and all smooth surfaces without leaving streaks and even dissolves grease.",
+            "signalWord": "Achtung",
+            "chemicalPictosV2": [
+                {
+                    "cdn": "rokka",
+                    "pictoId": "GHS07",
+                    "pictoPath": "https://image.migros.ch/original/09b3c0810d45b7f83a5ad48c5bc38d4d0227615b/Dickes%20Ausrufezeichen.jpg",
+                    "pictoPathStack": "https://image.migros.ch/{stack}/09b3c0810d45b7f83a5ad48c5bc38d4d0227615b/Dickes%20Ausrufezeichen.jpg"
+                }
+            ],
+            "chemicalWarnings": [
+                "Verursacht schwere Augenreizung."
+            ],
+            "chemicalSafetyInstructions": [
+                "Darf nicht in die Hände von Kindern gelangen.",
+                "BEI KONTAKT MIT DEN AUGEN: Einige Minuten lang behutsam mit Wasser ausspülen. Eventuell vorhandene Kontaktlinsen nach Möglichkeit entfernen. Weiter spülen.",
+                "Ist ärztlicher Rat erforderlich, Verpackung oder Kennzeichnungsetikett bereithalten.",
+                "Bei anhaltender Augenreizung: Ärztlichen Rat einholen/ärztliche Hilfe hinzuziehen.",
+                "Schutzhandschuhe / Schutzkleidung / Augenschutz / Gesichtsschutz tragen."
+            ]
+        },
+        "otherInformation": {
+            "articleNumber": "502017800000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Suitable for",
+                    "value": "alle abwaschbaren Oberflächen, Glas und Spiegel"
+                },
+                {
+                    "code": "Hazard warnings",
+                    "value": "Darf nicht in die Hände von Kindern gelangen"
+                },
+                {
+                    "code": "Form",
+                    "value": "Allzweckreiniger, Glasreiniger, Trigger"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7630028621210",
+        "7617300721516"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/deea8b5377d72065e6e0243ef2184a3f5e2ff348/mbud-glas-uallzw-tri.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494740",
+            "name": "Laundry & cleaning",
+            "slugs": [
+                "laundry-cleaning"
+            ]
+        },
+        {
+            "id": "7494809",
+            "name": "Household & floor cleaners",
+            "slugs": [
+                "laundry-cleaning",
+                "household-floor-cleaners"
+            ]
+        },
+        {
+            "id": "7495151",
+            "name": "Window cleaners",
+            "slugs": [
+                "laundry-cleaning",
+                "household-floor-cleaners",
+                "window-cleaners"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/502017800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.10",
+            "advertisedDisplayValue": "1.10",
+            "effectiveDisplayValue": "1.10",
+            "multiplier": 1,
+            "value": 1.1,
+            "effectiveValue": 1.1,
+            "advertisedValue": 1.1,
+            "unitPrice": {
+                "value": 0.15,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "750ml",
+        "quantityPrice": "0.15/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T08:32:21"
+}

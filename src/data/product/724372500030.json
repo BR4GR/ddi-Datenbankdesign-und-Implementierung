@@ -1,0 +1,103 @@
+{
+    "uid": 100167717,
+    "migrosId": "724372500030",
+    "name": "Etoilekerzen 8 Stk.",
+    "brand": "MIGROS HOME",
+    "title": "Etoilekerzen 8 Stk.",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "MIGROS HOME",
+                "slug": "migros-home",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1715075047/brands/MIGROS_Home_GR7"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/724372500030"
+        },
+        "otherInformation": {
+            "articleNumber": "724372500030",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7628871782394"
+    ],
+    "variants": {
+        "baseProductMigrosId": "724372500000",
+        "mainVariantMigrosId": "724372500010",
+        "declinations": [
+            {
+                "migrosId": "724372500010"
+            },
+            {
+                "migrosId": "724372500030"
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3bf79dee2ebf7a91d856e3f1437bbc5fe6b1da5b/etoilekerzen-8-stk.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494811",
+            "name": "Household aids",
+            "slugs": [
+                "household-and-living",
+                "household-aids"
+            ]
+        },
+        {
+            "id": "7495616",
+            "name": "Candles and candlesticks",
+            "slugs": [
+                "household-and-living",
+                "household-aids",
+                "candles-and-candlesticks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/724372500030",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.95",
+            "advertisedDisplayValue": "4.95",
+            "effectiveDisplayValue": "4.95",
+            "multiplier": 1,
+            "value": 4.95,
+            "effectiveValue": 4.95,
+            "advertisedValue": 4.95,
+            "unitPrice": {
+                "value": 0.62,
+                "unit": "piece"
+            }
+        },
+        "quantity": "8 Stk.",
+        "quantityPrice": "0.62/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:24:20"
+}

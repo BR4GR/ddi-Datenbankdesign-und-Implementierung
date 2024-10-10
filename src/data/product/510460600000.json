@@ -1,0 +1,106 @@
+{
+    "uid": 100038035,
+    "migrosId": "510460600000",
+    "migrosOnlineId": "220233",
+    "name": "Dental floss",
+    "brand": "Elmex",
+    "versioning": "Mint",
+    "title": "Elmex · Dental floss · Mint",
+    "description": "Elmex Dental floss Mint",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Elmex",
+                "slug": "elmex",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252422/brands/elmex"
+            },
+            "rating": {
+                "nbReviews": 31,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/510460600000"
+        },
+        "usageInformation": {
+            "additionalInformation": "For experienced users. With amino fluoride. Elmex unwaxed dental floss effectively removes plaque and food residues from the interdental spaces and thus protects against cavities and gum inflammation."
+        },
+        "otherInformation": {
+            "articleNumber": "510460600000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Zahnseide"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610108060023"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/e4f4129bc04d12dca67f07f040836a39f892dda3/elmex-zahnseide-gewachst.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494829",
+            "name": "Dental care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "dental-care"
+            ]
+        },
+        {
+            "id": "7495254",
+            "name": "Dental floss & dental picks",
+            "slugs": [
+                "drugstore-cosmetics",
+                "dental-care",
+                "dental-floss-dental-picks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/510460600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.20",
+            "advertisedDisplayValue": "4.20",
+            "effectiveDisplayValue": "4.20",
+            "multiplier": 1,
+            "value": 4.2,
+            "effectiveValue": 4.2,
+            "advertisedValue": 4.2,
+            "unitPrice": {
+                "value": 0.08,
+                "unit": "m"
+            }
+        },
+        "quantity": "50m",
+        "quantityPrice": "0.08/m",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-15T22:21:56"
+}

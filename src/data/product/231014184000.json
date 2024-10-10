@@ -1,0 +1,102 @@
+{
+    "uid": 100130861,
+    "migrosId": "231014184000",
+    "name": "Schinkenwurst",
+    "title": "Schinkenwurst",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "ingredients": "Schweinefleisch (Schweiz), Speck (Schweiz), Wasser, Kalbfleisch (Schweiz), Schwarten (Schweiz), Nitritpökelsalz (Kochsalz, Konservierungsstoff: E 250), Gewürze, Stabilisatoren: E 450, E 451, Glukosesirup, Citrusfaser, Maltodextrin, jodiertes und nicht jodiertes Kochsalz, Geschmacksverstärker: Mononatriumglutamat, Antioxidationsmittel: Ascorbinsäure und E 301, Zucker, Traubenzucker, Würze (enthält <strong>Soja</strong>).",
+            "allergens": "Mustard and products thereof, Milk and products thereof, Pistachio and products thereof, Soybeans and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "animalWelfare": {
+                    "rating": 3,
+                    "image": "https://image.migros.ch/original/02f56762a6d67ea0470f50e5e8cc4d96d84791f0.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "rating": {
+                "nbReviews": 8,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/231014184000"
+        },
+        "otherInformation": {
+            "articleNumber": "231014184000",
+            "legalDesignation": "Fleischerzeugnis gekocht",
+            "identificationMark": "CH41152690",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "2147096000007",
+        "7617027146661"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/b96df0b55dd1cf64bd1d0e061f76507a3c4a1fdf/schinkenwurst.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/c31cc6a0df92931a580af4e57d58c842e93b22d6.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494748",
+            "name": "Cold cuts",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts"
+            ]
+        },
+        {
+            "id": "7494851",
+            "name": "Cooked, rolled & smoked ham",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts",
+                "cooked-rolled-smoked-ham"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/231014184000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-17T04:19:16"
+}

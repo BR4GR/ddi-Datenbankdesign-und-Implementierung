@@ -1,0 +1,104 @@
+{
+    "uid": 100167728,
+    "migrosId": "724374200080",
+    "name": "Zylinderkerze",
+    "brand": "MIGROS HOME",
+    "title": "Zylinderkerze",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "MIGROS HOME",
+                "slug": "migros-home",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1715075047/brands/MIGROS_Home_GR7"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/724374200080"
+        },
+        "otherInformation": {
+            "articleNumber": "724374200080",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7628871786521"
+    ],
+    "variants": {
+        "baseProductMigrosId": "724374200000",
+        "mainVariantMigrosId": "724374200010",
+        "declinations": [
+            {
+                "migrosId": "724374200010"
+            },
+            {
+                "migrosId": "724374200060"
+            },
+            {
+                "migrosId": "724374200074"
+            },
+            {
+                "migrosId": "724374200080"
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1b00b4592ee169bd534fb096a094d1c3ac11ba3a/zylinderkerze.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494811",
+            "name": "Household aids",
+            "slugs": [
+                "household-and-living",
+                "household-aids"
+            ]
+        },
+        {
+            "id": "7495616",
+            "name": "Candles and candlesticks",
+            "slugs": [
+                "household-and-living",
+                "household-aids",
+                "candles-and-candlesticks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/724374200080",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "5.95",
+            "advertisedDisplayValue": "5.95",
+            "effectiveDisplayValue": "5.95",
+            "multiplier": 1,
+            "value": 5.95,
+            "effectiveValue": 5.95,
+            "advertisedValue": 5.95
+        },
+        "quantity": "1 Stück",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:10:52"
+}

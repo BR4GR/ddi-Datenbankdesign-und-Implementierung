@@ -1,0 +1,213 @@
+{
+    "uid": 100029068,
+    "migrosId": "130504100000",
+    "migrosOnlineId": "4886385",
+    "name": "Soup 5 vegetables",
+    "brand": "Green Shoot",
+    "versioning": "Organic",
+    "title": "Green Shoot · Soup 5 vegetables · Organic",
+    "description": "Green Shoot Soup 5 vegetables Organic",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Green Shoot",
+                "slug": "green-shoot"
+            },
+            "nutritionalCharacteristics": [
+                "Organic",
+                "Vegan"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                },
+                {
+                    "name": "Vegan"
+                }
+            ],
+            "ingredients": "Spring water 46.6%, carrot* 15%, sweet potato* 13%, butternut* 13%, turnip* 5%, parsnip* 4%, onion* 2%, salt 0.7%. * Ingredients from organic farming.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 6,
+                "nbStars": 3.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/130504100000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "109 kJ (26 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "6 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "1 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "1 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.7 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "usageInformation": {
+            "conservation": "Heat in the microwave or in a saucepan before use",
+            "preparationInstructions": "Heat in the microwave or in a saucepan before use"
+        },
+        "otherInformation": {
+            "articleNumber": "130504100000",
+            "legalDesignation": "Greenshoot Velouté 5 Vegetables Organic 1 liter",
+            "distributorName": "PHENE IMPORTATION SA",
+            "distributorStreetAndNumber": "CHEMIN DES AULX 71228 PLAN LES OUATES",
+            "remarks": [
+                {
+                    "code": "Consumer storage instructions",
+                    "value": "Pasteurized. Store refrigerated at max. +5. Once opened, consume within 3 days."
+                },
+                {
+                    "code": "Percentage of alcohol by volume [%]",
+                    "value": "0"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegetarian, Vegan"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "3760132083285"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/95eb041fc5507e93a496ab4cc0fb3ca93dd4d568/bio-gemuesesuppe.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494754",
+            "name": "Fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food"
+            ]
+        },
+        {
+            "id": "7494889",
+            "name": "Soups & gazpachos",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food",
+                "soups-gazpachos"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/130504100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.65",
+            "advertisedDisplayValue": "6.65",
+            "effectiveDisplayValue": "6.65",
+            "multiplier": 1,
+            "value": 6.65,
+            "effectiveValue": 6.65,
+            "advertisedValue": 6.65,
+            "unitPrice": {
+                "value": 0.67,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "1L",
+        "quantityPrice": "0.67/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            },
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483166/labels/fresh",
+                "description": "fresh"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T16:25:35"
+}

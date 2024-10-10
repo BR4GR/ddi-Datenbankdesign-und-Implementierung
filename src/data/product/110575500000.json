@@ -1,0 +1,94 @@
+{
+    "uid": 100131703,
+    "migrosId": "110575500000",
+    "name": "Oreo Remix Vanille - Himbeer",
+    "brand": "Oreo",
+    "title": "Oreo Remix Vanille - Himbeer",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Oreo",
+                "slug": "oreo",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077038/brands/Oreo-Mondelez_Suisse_Sarl_Logo"
+            },
+            "rating": {
+                "nbReviews": 23,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/110575500000"
+        },
+        "otherInformation": {
+            "articleNumber": "110575500000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7622201500047"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/2f57f96f17122b825e8e1aec12969bb3cb997b84/oreo-remix-vanille-himbeer.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494781",
+            "name": "Biscuits",
+            "slugs": [
+                "snacks-sweets",
+                "biscuits"
+            ]
+        },
+        {
+            "id": "7495014",
+            "name": "Filled cookies",
+            "slugs": [
+                "snacks-sweets",
+                "biscuits",
+                "filled-cookies"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/110575500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.75",
+            "advertisedDisplayValue": "2.75",
+            "effectiveDisplayValue": "2.75",
+            "multiplier": 1,
+            "value": 2.75,
+            "effectiveValue": 2.75,
+            "advertisedValue": 2.75,
+            "unitPrice": {
+                "value": 1.75,
+                "unit": "100g"
+            }
+        },
+        "quantity": "157g",
+        "quantityPrice": "1.75/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:27:39"
+}

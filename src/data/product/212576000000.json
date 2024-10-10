@@ -1,0 +1,203 @@
+{
+    "uid": 100000821,
+    "migrosId": "212576000000",
+    "migrosOnlineId": "8127",
+    "name": "French soft cheese made from sheep's milk, pasteurised, full-fat",
+    "brand": "Xetabel",
+    "versioning": "100 Pasteurised sheep's %milk, full-fat",
+    "title": "Xetabel · French soft cheese made from sheep's milk, pasteurised, full-fat · 100 Pasteurised sheep's %milk, full-fat",
+    "description": "Xetabel French soft cheese made from sheep's milk, pasteurised, full-fat 100 Pasteurised sheep's %milk, full-fat",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Xetabel",
+                "slug": "xetabel"
+            },
+            "nutritionalCharacteristics": [
+                "Vegetarian"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegetarian"
+                }
+            ],
+            "ingredients": "SchafMILCH pasteurisiert, Salz,  MILCHsäurebakterien, tierisches Lab, Calciumchlorid.",
+            "allergens": "Milk and its derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 52,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/212576000000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "~ 1140 kJ (~ 275 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "~ 23 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "~ 14 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "~ 1 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "~ 1 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "~ 16 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "~ 2.8 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    }
+                ]
+            },
+            "portionSentence": "1 pack ≈ 1 serving",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "212576000000",
+            "legalDesignation": "Französischer Weichkäse in Salzlake gereift, vollfett, aus pasteurisierter Schafsmilch",
+            "identificationMark": "FR 48.094.011 CE",
+            "distributorName": "BEL SUISSE",
+            "distributorStreetAndNumber": "Bel Suisse SA, Hinterbergstrasse 15, 6330 Cham",
+            "remarks": [
+                {
+                    "code": "Aufbewahrungshinweise für den Konsumenten",
+                    "value": "Kühl lagern bei +2°C- +6°."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegetarian"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Kunststoff-Verpackung"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "3073780276313"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d4158c486a1d781c4ed2f7395c353f3eac072d60/xetabel-weichkaese-schafsmilch-salzlake.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494752",
+            "name": "Cheese",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese"
+            ]
+        },
+        {
+            "id": "7494875",
+            "name": "Mozzarella, feta & cottage cheeses",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese",
+                "mozzarella-feta-cottage-cheeses"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/212576000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.20",
+            "advertisedDisplayValue": "5.20",
+            "effectiveDisplayValue": "5.20",
+            "multiplier": 1,
+            "value": 5.2,
+            "effectiveValue": 5.2,
+            "advertisedValue": 5.2,
+            "unitPrice": {
+                "value": 2.6,
+                "unit": "100g"
+            }
+        },
+        "quantity": "200g",
+        "quantityPrice": "2.60/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483166/labels/fresh",
+                "description": "fresh"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T13:32:55"
+}

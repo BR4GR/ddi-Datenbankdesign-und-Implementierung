@@ -1,0 +1,149 @@
+{
+    "uid": 100006098,
+    "migrosId": "706240600010",
+    "migrosOnlineId": "56736",
+    "name": "Toilet brush",
+    "brand": "Miobrill",
+    "title": "Miobrill · Toilet brush",
+    "description": "Miobrill Toilet brush ",
+    "productRange": "VARIANT",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Miobrill",
+                "slug": "miobrill",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1661928614/brands/Miobrill"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 34,
+                    "productionRatio": 95,
+                    "transportRatio": 2,
+                    "packagingRatio": 3,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 72,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/706240600010"
+        },
+        "otherInformation": {
+            "articleNumber": "706240600010",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Number",
+                    "value": "1 Pcs."
+                },
+                {
+                    "code": "Material",
+                    "value": "Polypropylen"
+                },
+                {
+                    "code": "Color",
+                    "value": "weiss"
+                },
+                {
+                    "code": "CO2 Compensated",
+                    "value": "No"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613294761781",
+        "7617026179578"
+    ],
+    "variants": {
+        "baseProductMigrosId": "706240600000",
+        "mainVariantMigrosId": "706240600010",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "WEISS"
+                },
+                "migrosId": "706240600010"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "WEISS",
+                "options": [
+                    "WEISS"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/2ca5c0eefdc6d437fd43fa81ac5f92c67e6d873a/wc-ersatzbuerste.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494740",
+            "name": "Laundry & cleaning",
+            "slugs": [
+                "laundry-cleaning"
+            ]
+        },
+        {
+            "id": "7494810",
+            "name": "Cleaning utensils",
+            "slugs": [
+                "laundry-cleaning",
+                "cleaning-utensils"
+            ]
+        },
+        {
+            "id": "7495158",
+            "name": "Gloves, sponges & brushes",
+            "slugs": [
+                "laundry-cleaning",
+                "cleaning-utensils",
+                "gloves-sponges-brushes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/706240600010",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.45",
+            "advertisedDisplayValue": "3.45",
+            "effectiveDisplayValue": "3.45",
+            "multiplier": 1,
+            "value": 3.45,
+            "effectiveValue": 3.45,
+            "advertisedValue": 3.45,
+            "unitPrice": {
+                "value": 3.45,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "3.45/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T16:00:14"
+}

@@ -1,0 +1,233 @@
+{
+    "uid": 100175736,
+    "migrosId": "822806500880",
+    "name": "Men's Pyjama Pants",
+    "brand": "MIGROS ESSENTIALS",
+    "title": "Men's Pyjama Pants",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L60",
+                    "name": "GOTS",
+                    "slug": "gots",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483187/labels/GOTS_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "MIGROS ESSENTIALS",
+                "slug": "migros-essentials",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1708333701/brands/Migros_Essentials_-_RGB_-_DE"
+            },
+            "nutritionalCharacteristics": [
+                "Organic"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                }
+            ],
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/822806500880"
+        },
+        "otherInformation": {
+            "articleNumber": "822806500880",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Article type",
+                    "value": "Pants"
+                },
+                {
+                    "code": "Look",
+                    "value": "uni"
+                },
+                {
+                    "code": "Material",
+                    "value": "Baumwolle (Bio)"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "100 %"
+                },
+                {
+                    "code": "GOTS label certified by",
+                    "value": "Intertek"
+                },
+                {
+                    "code": "GOTS label license number",
+                    "value": "193142"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871802269"
+    ],
+    "variants": {
+        "baseProductMigrosId": "822806500000",
+        "mainVariantMigrosId": "822806500665",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "olive green",
+                    "size": "S"
+                },
+                "migrosId": "822806500665"
+            },
+            {
+                "declinationOptions": {
+                    "color": "grey",
+                    "size": "S"
+                },
+                "migrosId": "822806500680"
+            },
+            {
+                "declinationOptions": {
+                    "color": "olive green",
+                    "size": "M"
+                },
+                "migrosId": "822806500765"
+            },
+            {
+                "declinationOptions": {
+                    "color": "grey",
+                    "size": "M"
+                },
+                "migrosId": "822806500780"
+            },
+            {
+                "declinationOptions": {
+                    "color": "olive green",
+                    "size": "L"
+                },
+                "migrosId": "822806500865"
+            },
+            {
+                "declinationOptions": {
+                    "color": "grey",
+                    "size": "L"
+                },
+                "migrosId": "822806500880"
+            },
+            {
+                "declinationOptions": {
+                    "color": "olive green",
+                    "size": "XL"
+                },
+                "migrosId": "822806500965"
+            },
+            {
+                "declinationOptions": {
+                    "color": "grey",
+                    "size": "XL"
+                },
+                "migrosId": "822806500980"
+            },
+            {
+                "declinationOptions": {
+                    "color": "olive green",
+                    "size": "XXL"
+                },
+                "migrosId": "822806501065"
+            },
+            {
+                "declinationOptions": {
+                    "color": "grey",
+                    "size": "XXL"
+                },
+                "migrosId": "822806501080"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "grey",
+                "options": [
+                    "olive green",
+                    "grey"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "L",
+                "options": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "XXL"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/79f3101ad300a74217aac76f654b1919c2367106/mens-pyjama-pants.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494753",
+            "name": "Yogurts & desserts",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "yogurts-desserts"
+            ]
+        },
+        {
+            "id": "7494879",
+            "name": "Yogurts",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "yogurts-desserts",
+                "yogurts"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/822806500880",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "24.95",
+            "advertisedDisplayValue": "24.95",
+            "effectiveDisplayValue": "24.95",
+            "multiplier": 1,
+            "value": 24.95,
+            "effectiveValue": 24.95,
+            "advertisedValue": 24.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-29T03:25:21"
+}

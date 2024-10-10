@@ -1,0 +1,154 @@
+{
+    "uid": 100051424,
+    "migrosId": "120870500000",
+    "name": "Aus der Region Mineral mit CO2",
+    "brand": "Knutwiler",
+    "title": "Aus der Region Mineral mit CO2",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "brand": {
+                "name": "Knutwiler",
+                "slug": "knutwiler",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076841/brands/Knutwiler_Mineralquelle_Bad_Knutwil_AG_Logo"
+            },
+            "ingredients": "Natürliches kohlensäurehaltiges Mineralwasser (aus der Region)",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 17,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/120870500000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 ml"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "0 kJ (0 kcal)",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "120870500000",
+            "legalDesignation": "Natürliches Mineralwasser mit Kohlensäure versetzt",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Production process",
+                    "value": "Aus der Region"
+                },
+                {
+                    "code": "Carbonated",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Contains caffeine",
+                    "value": "No"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Bottle"
+                },
+                {
+                    "code": "Multivitamin",
+                    "value": "No"
+                },
+                {
+                    "code": "Type of soft drink",
+                    "value": "Mineralwasser"
+                },
+                {
+                    "code": "Carbon dioxide content",
+                    "value": "Classic"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610867016705",
+        "7610867016798"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/aa3c6afff7a16098ff86249afd21ddfdb67ad8c8/aus-der-region-mineral-mit-co2.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494770",
+            "name": "Water",
+            "slugs": [
+                "drinks-coffee-tea",
+                "water"
+            ]
+        },
+        {
+            "id": "7494956",
+            "name": "Sparkling water",
+            "slugs": [
+                "drinks-coffee-tea",
+                "water",
+                "sparkling-water"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/120870500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "0.95",
+            "advertisedDisplayValue": "0.95",
+            "effectiveDisplayValue": "0.95",
+            "multiplier": 1,
+            "value": 0.95,
+            "effectiveValue": 0.95,
+            "advertisedValue": 0.95,
+            "unitPrice": {
+                "value": 0.1,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "1l",
+        "quantityPrice": "0.10/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:35:15"
+}

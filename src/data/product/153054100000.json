@@ -1,0 +1,89 @@
+{
+    "uid": 100066167,
+    "migrosId": "153054100000",
+    "name": "Valfrutta Cannellini",
+    "brand": "Valfrutta",
+    "title": "Valfrutta Cannellini",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Valfrutta",
+                "slug": "valfrutta",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1642402948/brands/Valfrutta_Granarolo_Suisse_SA_Logo"
+            }
+        },
+        "otherInformation": {
+            "articleNumber": "153054100000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "8001440009945"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/669786e48509ed391ce51b3226df1d3a92f1448b/valfrutta-cannellini.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494777",
+            "name": "Canned food & convenience food",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "canned-food-convenience-food"
+            ]
+        },
+        {
+            "id": "7494987",
+            "name": "Tinned vegetables",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "canned-food-convenience-food",
+                "tinned-vegetables"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/153054100000",
+    "isMgbCompatible": false,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.70",
+            "advertisedDisplayValue": "2.70",
+            "effectiveDisplayValue": "2.70",
+            "multiplier": 1,
+            "value": 2.7,
+            "effectiveValue": 2.7,
+            "advertisedValue": 2.7,
+            "unitPrice": {
+                "value": 0.68,
+                "unit": "100g"
+            }
+        },
+        "quantity": "400g",
+        "quantityPrice": "0.68/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:46:49"
+}

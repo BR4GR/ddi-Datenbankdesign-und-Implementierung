@@ -1,0 +1,114 @@
+{
+    "uid": 100135991,
+    "migrosId": "160154000000",
+    "migrosOnlineId": "12401143",
+    "name": "Pizza",
+    "brand": "M-Budget",
+    "versioning": "Prosciutto",
+    "title": "M-Budget · Pizza · Prosciutto",
+    "description": "M-Budget Pizza Prosciutto",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Budget",
+                "slug": "m-budget",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252456/brands/m-budget"
+            },
+            "rating": {
+                "nbReviews": 45,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/160154000000"
+        },
+        "otherInformation": {
+            "articleNumber": "160154000000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Packaging type",
+                    "value": "Karton"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "backen"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312330371"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a7a29e7dba6e75be5b5ed93dc00c6803d4bceafe/m-budget-pizza-prosciutto.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494738",
+            "name": "Frozen food",
+            "slugs": [
+                "frozen-food"
+            ]
+        },
+        {
+            "id": "7494796",
+            "name": "Pizza, bread & apero pastries",
+            "slugs": [
+                "frozen-food",
+                "pizza-bread-apero-pastries"
+            ]
+        },
+        {
+            "id": "7495092",
+            "name": "Pizza & tarte flambée",
+            "slugs": [
+                "frozen-food",
+                "pizza-bread-apero-pastries",
+                "pizza-tarte-flambee"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/160154000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.15",
+            "advertisedDisplayValue": "3.15",
+            "effectiveDisplayValue": "3.15",
+            "multiplier": 1,
+            "value": 3.15,
+            "effectiveValue": 3.15,
+            "advertisedValue": 3.15,
+            "unitPrice": {
+                "value": 0.47,
+                "unit": "100g"
+            }
+        },
+        "quantity": "2 x 332g",
+        "quantityPrice": "0.47/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483530/labels/frozen",
+                "description": "frozen"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T05:36:44"
+}

@@ -1,0 +1,93 @@
+{
+    "uid": 100050483,
+    "migrosId": "107099700000",
+    "name": "Messmer Zimt & Pflaume",
+    "brand": "Meßmer",
+    "title": "Messmer Zimt & Pflaume",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Meßmer",
+                "slug": "memer"
+            },
+            "rating": {
+                "nbReviews": 52,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/107099700000"
+        },
+        "otherInformation": {
+            "articleNumber": "107099700000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "4002221043060"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/7db7533b94929b1de4d5f291d5f13590357d7cd0/messmer-zimt-pflaume.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494773",
+            "name": "Tea",
+            "slugs": [
+                "drinks-coffee-tea",
+                "tea"
+            ]
+        },
+        {
+            "id": "7494971",
+            "name": "Fruit tea",
+            "slugs": [
+                "drinks-coffee-tea",
+                "tea",
+                "fruit-tea"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/107099700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.20",
+            "advertisedDisplayValue": "3.20",
+            "effectiveDisplayValue": "3.20",
+            "multiplier": 1,
+            "value": 3.2,
+            "effectiveValue": 3.2,
+            "advertisedValue": 3.2,
+            "unitPrice": {
+                "value": 6.4,
+                "unit": "100g"
+            }
+        },
+        "quantity": "50g",
+        "quantityPrice": "6.40/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:57:55"
+}

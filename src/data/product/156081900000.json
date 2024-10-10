@@ -1,0 +1,101 @@
+{
+    "uid": 100053028,
+    "migrosId": "156081900000",
+    "name": "La Reinese Peperoncini macinati",
+    "title": "La Reinese Peperoncini macinati",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 3,
+                    "productionRatio": 63,
+                    "transportRatio": 10,
+                    "packagingRatio": 27,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/156081900000"
+        },
+        "otherInformation": {
+            "articleNumber": "156081900000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "8018872001003",
+        "8018872002147"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/7f69ede89c8fe23e97e7dded33f68527fd4c19df/la-reinese-peperoncini-macinati.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494780",
+            "name": "Snacks & crisps",
+            "slugs": [
+                "snacks-sweets",
+                "snacks-crisps"
+            ]
+        },
+        {
+            "id": "7495004",
+            "name": "Olives & antipasti",
+            "slugs": [
+                "snacks-sweets",
+                "snacks-crisps",
+                "olives-antipasti"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/156081900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.10",
+            "advertisedDisplayValue": "4.10",
+            "effectiveDisplayValue": "4.10",
+            "multiplier": 1,
+            "value": 4.1,
+            "effectiveValue": 4.1,
+            "advertisedValue": 4.1,
+            "unitPrice": {
+                "value": 2.41,
+                "unit": "100g"
+            }
+        },
+        "quantity": "170g",
+        "quantityPrice": "2.41/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:05:49"
+}

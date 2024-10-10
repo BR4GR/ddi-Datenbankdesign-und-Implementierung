@@ -1,0 +1,135 @@
+{
+    "uid": 100048326,
+    "migrosId": "205081100000",
+    "migrosOnlineId": "5751725",
+    "name": "Yoghurt",
+    "brand": "Saison",
+    "versioning": "Apple Strudel",
+    "title": "Saison · Yoghurt · Apple Strudel",
+    "description": "Saison Yoghurt Apple Strudel",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Saison",
+                "slug": "saison"
+            },
+            "ingredients": "Joghurt (<strong>Magermilch</strong> (CH), <strong>Rahm</strong>, <strong>Milchprotein</strong>), Apfelstrudelfüllung (Äpfel 8%, Zucker, Rosinen 0.8%, modifizierte Stärke, Aroma, Zimt 0.1%, Zitronensaftkonzentrat, Vanilleextrakt), Zucker.",
+            "allergens": "Milk and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 6,
+                    "productionRatio": 85,
+                    "transportRatio": 0,
+                    "packagingRatio": 13,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg"
+                }
+            },
+            "rating": {
+                "nbReviews": 196,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/205081100000"
+        },
+        "otherInformation": {
+            "articleNumber": "205081100000",
+            "legalDesignation": "Joghurt mit Äpfel und Rosinen, 3,5% Fett im Milchanteil",
+            "identificationMark": "CH 2434",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store refrigerated at max. +5 °C."
+                },
+                {
+                    "code": "Production information",
+                    "value": "from pasteurized milk and pasteurized cream"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613404538746",
+        "7613404179598"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/88f226283e2b7e9a895abc651ad97a061c68dfdb/saison-joghurt-apfelstrudel.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494753",
+            "name": "Yogurts & desserts",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "yogurts-desserts"
+            ]
+        },
+        {
+            "id": "7494879",
+            "name": "Yogurts",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "yogurts-desserts",
+                "yogurts"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/205081100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "0.80",
+            "advertisedDisplayValue": "0.80",
+            "effectiveDisplayValue": "0.80",
+            "multiplier": 1,
+            "value": 0.8,
+            "effectiveValue": 0.8,
+            "advertisedValue": 0.8,
+            "unitPrice": {
+                "value": 0.4,
+                "unit": "100g"
+            }
+        },
+        "quantity": "200g",
+        "quantityPrice": "0.40/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "REGION",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679482984/labels/suisse",
+                "description": "Switzerland"
+            },
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483166/labels/fresh",
+                "description": "fresh"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:55:04"
+}

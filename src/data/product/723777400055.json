@@ -1,0 +1,149 @@
+{
+    "uid": 100080145,
+    "migrosId": "723777400055",
+    "name": "Zylinderkerze 7.5x14cm",
+    "brand": "Migros Ambiance",
+    "title": "Zylinderkerze 7.5x14cm",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Ambiance",
+                "slug": "migros-ambiance"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 6,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/723777400055"
+        },
+        "otherInformation": {
+            "articleNumber": "723777400055",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Content quantity",
+                    "value": "1 Pcs."
+                },
+                {
+                    "code": "Burn time",
+                    "value": "51 h"
+                },
+                {
+                    "code": "Material",
+                    "value": "Paraffin"
+                },
+                {
+                    "code": "Diameter",
+                    "value": "7.5"
+                },
+                {
+                    "code": "Color",
+                    "value": "gold"
+                },
+                {
+                    "code": "Height",
+                    "value": "14 cm"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613432561884"
+    ],
+    "variants": {
+        "baseProductMigrosId": "723777400000",
+        "mainVariantMigrosId": "723777400030",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "ROUGE"
+                },
+                "migrosId": "723777400030"
+            },
+            {
+                "declinationOptions": {
+                    "color": "OR"
+                },
+                "migrosId": "723777400055"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "OR",
+                "options": [
+                    "ROUGE",
+                    "OR"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1833c005ca1a8e9b01c03d9cd38bfeaf067bca3f/zylinderkerze-75x14cm.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494811",
+            "name": "Household aids",
+            "slugs": [
+                "household-and-living",
+                "household-aids"
+            ]
+        },
+        {
+            "id": "7495616",
+            "name": "Candles and candlesticks",
+            "slugs": [
+                "household-and-living",
+                "household-aids",
+                "candles-and-candlesticks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/723777400055",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.95",
+            "advertisedDisplayValue": "7.95",
+            "effectiveDisplayValue": "7.95",
+            "multiplier": 1,
+            "value": 7.95,
+            "effectiveValue": 7.95,
+            "advertisedValue": 7.95,
+            "unitPrice": {
+                "value": 7.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "7.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:26:24"
+}

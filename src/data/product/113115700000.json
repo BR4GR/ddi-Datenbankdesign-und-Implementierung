@@ -1,0 +1,108 @@
+{
+    "uid": 100051170,
+    "migrosId": "113115700000",
+    "name": "Dal Colle Bonn al cioccolato",
+    "brand": "Dal Colle",
+    "title": "Dal Colle Bonn al cioccolato",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Dal Colle",
+                "slug": "dal-colle"
+            },
+            "rating": {
+                "nbReviews": 4,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/113115700000"
+        },
+        "otherInformation": {
+            "articleNumber": "113115700000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Packaging type",
+                    "value": "Folienverpackung"
+                },
+                {
+                    "code": "Type of cookie/pastry",
+                    "value": "Kuchen-Snack"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "8004970145770",
+        "8004970113243"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a9ad786bd26ef8ef3da73f5d63eb7da90a867574/dal-colle-bonn-al-cioccolato.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494784",
+            "name": "Cake, madeleines & panettone",
+            "slugs": [
+                "snacks-sweets",
+                "cake-madeleines-panettone"
+            ]
+        },
+        {
+            "id": "7495028",
+            "name": "Madeleines & small cakes",
+            "slugs": [
+                "snacks-sweets",
+                "cake-madeleines-panettone",
+                "madeleines-small-cakes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/113115700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.70",
+            "advertisedDisplayValue": "2.70",
+            "effectiveDisplayValue": "2.70",
+            "multiplier": 1,
+            "value": 2.7,
+            "effectiveValue": 2.7,
+            "advertisedValue": 2.7,
+            "unitPrice": {
+                "value": 1.29,
+                "unit": "100g"
+            }
+        },
+        "quantity": "210g",
+        "quantityPrice": "1.29/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-15T21:26:00"
+}

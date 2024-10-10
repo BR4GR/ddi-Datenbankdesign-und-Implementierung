@@ -1,0 +1,187 @@
+{
+    "uid": 100086301,
+    "migrosId": "830451333320",
+    "name": "DIM Lady's tights",
+    "brand": "Dim",
+    "title": "DIM Lady's tights",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Dim",
+                "slug": "dim"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 5,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/830451333320"
+        },
+        "otherInformation": {
+            "articleNumber": "830451333320",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Article type",
+                    "value": "Strumpfhose"
+                },
+                {
+                    "code": "Sizes",
+                    "value": "Gr. 1 = Grösse S, Gr. 2 = Grösse M, Gr. 3 = Grösse L, Gr. 4 = Grösse XL"
+                },
+                {
+                    "code": "Look",
+                    "value": "transparent"
+                },
+                {
+                    "code": "Material",
+                    "value": "Polyamid"
+                },
+                {
+                    "code": "Denier",
+                    "value": "20 DEN"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "80 %"
+                },
+                {
+                    "code": "Material 2",
+                    "value": "Elasthan"
+                },
+                {
+                    "code": "Proportion of material 2",
+                    "value": "20 %"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "3040522410304"
+    ],
+    "variants": {
+        "baseProductMigrosId": "830451300000",
+        "mainVariantMigrosId": "830451311120",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "S",
+                    "color": "black"
+                },
+                "migrosId": "830451311120"
+            },
+            {
+                "declinationOptions": {
+                    "size": "M",
+                    "color": "black"
+                },
+                "migrosId": "830451322220"
+            },
+            {
+                "declinationOptions": {
+                    "size": "L",
+                    "color": "black"
+                },
+                "migrosId": "830451333320"
+            },
+            {
+                "declinationOptions": {
+                    "size": "XL",
+                    "color": "black"
+                },
+                "migrosId": "830451344420"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "black",
+                "options": [
+                    "black"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "L",
+                "options": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/21ab2c0644373047de71113264b659daa0b5e014/dim-ladys-tights.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/c954eb00ec2db411c9cee2db6a9b6c49ddd7aaf4.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10553347",
+            "name": "Women",
+            "slugs": [
+                "clothing-accessories",
+                "women"
+            ]
+        },
+        {
+            "id": "10553383",
+            "name": "Socks & tights",
+            "slugs": [
+                "clothing-accessories",
+                "women",
+                "socks-tights"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/830451333320",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "14.90",
+            "advertisedDisplayValue": "14.90",
+            "effectiveDisplayValue": "14.90",
+            "multiplier": 1,
+            "value": 14.9,
+            "effectiveValue": 14.9,
+            "advertisedValue": 14.9,
+            "unitPrice": {
+                "value": 14.9,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Paar",
+        "quantityPrice": "14.90/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-18T15:22:28"
+}

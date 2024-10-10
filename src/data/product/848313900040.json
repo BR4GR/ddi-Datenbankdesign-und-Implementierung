@@ -1,0 +1,180 @@
+{
+    "uid": 100094959,
+    "migrosId": "848313900040",
+    "name": "Backpack Kids",
+    "brand": "MIGROS TRAVEL & CO.",
+    "title": "Backpack Kids",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "MIGROS TRAVEL & CO.",
+                "slug": "migros-travel-co",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1689862767/brands/Migros_Travel_und_Co"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 3.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/848313900040"
+        },
+        "otherInformation": {
+            "articleNumber": "848313900040",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Height",
+                    "value": "28 cm"
+                },
+                {
+                    "code": "Depth",
+                    "value": "8 cm"
+                },
+                {
+                    "code": "Width",
+                    "value": "22 cm"
+                },
+                {
+                    "code": "Weight",
+                    "value": "0.235 kg"
+                },
+                {
+                    "code": "Volume",
+                    "value": "5 l"
+                },
+                {
+                    "code": "Category/theme",
+                    "value": "Rucksäcke"
+                },
+                {
+                    "code": "Main material",
+                    "value": "Recycling Polyester"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "Brustgürtel, Verstellbare Träger"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613434680606"
+    ],
+    "variants": {
+        "baseProductMigrosId": "848313900000",
+        "mainVariantMigrosId": "848313900040",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "blue"
+                },
+                "migrosId": "848313900040"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "rust"
+                },
+                "migrosId": "848313900056"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "blue",
+                "options": [
+                    "blue",
+                    "rust"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "one Size",
+                "options": [
+                    "one Size"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/9d830445c0d5432ef37e00fc0ca6460b38ad1e7e/backpack-kids.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3fce9953c3292f200b5c1da92e0e90d3a54c90e7.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/5b386588c5aba315c87c61cc248f199f0d9d4287.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/849b9bebc7cd2fc67ef0973049de113f7e2001c3.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10555197",
+            "name": "Travel",
+            "slugs": [
+                "clothing-accessories",
+                "travel"
+            ]
+        },
+        {
+            "id": "10555217",
+            "name": "Children's luggage",
+            "slugs": [
+                "clothing-accessories",
+                "travel",
+                "childrens-luggage"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/848313900040",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "19.95",
+            "advertisedDisplayValue": "19.95",
+            "effectiveDisplayValue": "19.95",
+            "multiplier": 1,
+            "value": 19.95,
+            "effectiveValue": 19.95,
+            "advertisedValue": 19.95,
+            "unitPrice": {
+                "value": 19.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "19.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T09:22:55"
+}

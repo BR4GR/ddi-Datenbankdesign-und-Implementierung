@@ -1,0 +1,112 @@
+{
+    "uid": 100128426,
+    "migrosId": "505027900000",
+    "name": "Vacuum cleaner deodorant",
+    "brand": "M-Fresh",
+    "title": "Vacuum cleaner deodorant",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Fresh",
+                "slug": "m-fresh",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1716291025/brands/Migros_fresh_114"
+            },
+            "rating": {
+                "nbReviews": 31,
+                "nbStars": 3.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/505027900000"
+        },
+        "otherInformation": {
+            "articleNumber": "505027900000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Scent",
+                    "value": "neutralisierend"
+                },
+                {
+                    "code": "Application",
+                    "value": "Staubsauger"
+                },
+                {
+                    "code": "Special",
+                    "value": "Aus Nussschalen statt Plastik"
+                },
+                {
+                    "code": "Hazard warnings",
+                    "value": "Darf nicht in die Hände von Kindern gelangen. Verschüttetes Duftöl kann Oberfläschen schädigen."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312408834"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/c66f8cad3ec1d713e139841a188689e291b776b0/vacuum-cleaner-deodorant.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494811",
+            "name": "Household aids",
+            "slugs": [
+                "household-and-living",
+                "household-aids"
+            ]
+        },
+        {
+            "id": "7495163",
+            "name": "Air fresheners",
+            "slugs": [
+                "household-and-living",
+                "household-aids",
+                "air-fresheners"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/505027900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.95",
+            "advertisedDisplayValue": "3.95",
+            "effectiveDisplayValue": "3.95",
+            "multiplier": 1,
+            "value": 3.95,
+            "effectiveValue": 3.95,
+            "advertisedValue": 3.95,
+            "unitPrice": {
+                "value": 1.32,
+                "unit": "piece"
+            }
+        },
+        "quantity": "3Stk",
+        "quantityPrice": "1.32/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T22:17:24"
+}

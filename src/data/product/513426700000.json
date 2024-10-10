@@ -1,0 +1,108 @@
+{
+    "uid": 100114319,
+    "migrosId": "513426700000",
+    "name": "SL BASIC MILK FA SF50",
+    "brand": "Sun Look",
+    "title": "SL BASIC MILK FA SF50",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Sun Look",
+                "slug": "sun-look",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252497/brands/sun-look"
+            },
+            "rating": {
+                "nbReviews": 8,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/513426700000"
+        },
+        "otherInformation": {
+            "articleNumber": "513426700000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Sonnenschutz"
+                },
+                {
+                    "code": "Requirements/uses",
+                    "value": "Hoher Schutz (SPF 30 - 50)"
+                },
+                {
+                    "code": "Suitable for",
+                    "value": "Normale Haut"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7630028634166"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/bcd9a56c03f0d0d10dc1bebb9ef2b89eac6ee680/sl-basic-milk-fa-sf50.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494831",
+            "name": "Drugstore",
+            "slugs": [
+                "drugstore-cosmetics",
+                "drugstore"
+            ]
+        },
+        {
+            "id": "7495266",
+            "name": "Sun protection",
+            "slugs": [
+                "drugstore-cosmetics",
+                "drugstore",
+                "sun-protection"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/513426700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "16.50",
+            "advertisedDisplayValue": "16.50",
+            "effectiveDisplayValue": "16.50",
+            "multiplier": 1,
+            "value": 16.5,
+            "effectiveValue": 16.5,
+            "advertisedValue": 16.5,
+            "unitPrice": {
+                "value": 4.13,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "400ml",
+        "quantityPrice": "4.13/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-15T23:35:26"
+}

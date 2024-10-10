@@ -1,0 +1,100 @@
+{
+    "uid": 100050259,
+    "migrosId": "113103700000",
+    "name": "Schokolade-Mix",
+    "title": "Schokolade-Mix",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 9,
+                    "productionRatio": 86,
+                    "transportRatio": 4,
+                    "packagingRatio": 10,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/113103700000"
+        },
+        "otherInformation": {
+            "articleNumber": "113103700000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7611851117989"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/08074dbde6ce5694f0d2daf1b10206e30edbdec1/schokolade-mix.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494782",
+            "name": "Chocolate & sweets",
+            "slugs": [
+                "snacks-sweets",
+                "chocolate-sweets"
+            ]
+        },
+        {
+            "id": "7495018",
+            "name": "Chocolate bars",
+            "slugs": [
+                "snacks-sweets",
+                "chocolate-sweets",
+                "chocolate-bars"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/113103700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.90",
+            "advertisedDisplayValue": "4.90",
+            "effectiveDisplayValue": "4.90",
+            "multiplier": 1,
+            "value": 4.9,
+            "effectiveValue": 4.9,
+            "advertisedValue": 4.9,
+            "unitPrice": {
+                "value": 3.27,
+                "unit": "100g"
+            }
+        },
+        "quantity": "150g",
+        "quantityPrice": "3.27/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:34:21"
+}

@@ -1,0 +1,89 @@
+{
+    "uid": 100173489,
+    "migrosId": "130635500000",
+    "name": "Frifrench Balsamico Salatsauce",
+    "brand": "Frifrench",
+    "title": "Frifrench Balsamico Salatsauce",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Frifrench",
+                "slug": "frifrench"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/130635500000"
+        },
+        "otherInformation": {
+            "articleNumber": "130635500000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7616600752404"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/0f87eb42f5045ee36a7d8c2cd24dbbe85f8be2f7/frifrench-balsamico-salatsauce.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494759",
+            "name": "Salad",
+            "slugs": [
+                "fruits-vegetables",
+                "salad"
+            ]
+        },
+        {
+            "id": "7494915",
+            "name": "Salad dressings",
+            "slugs": [
+                "fruits-vegetables",
+                "salad",
+                "salad-dressings"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/130635500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "0.95",
+            "advertisedDisplayValue": "0.95",
+            "effectiveDisplayValue": "0.95",
+            "multiplier": 1,
+            "value": 0.95,
+            "effectiveValue": 0.95,
+            "advertisedValue": 0.95,
+            "unitPrice": {
+                "value": 1.58,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "60ml",
+        "quantityPrice": "1.58/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T04:00:20"
+}

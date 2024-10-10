@@ -1,0 +1,93 @@
+{
+    "uid": 100141142,
+    "migrosId": "104269900000",
+    "name": "La Barre Prot + Vita Choco-Erdnuss",
+    "brand": "La Barre",
+    "title": "La Barre Prot + Vita Choco-Erdnuss",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "La Barre",
+                "slug": "la-barre"
+            },
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/104269900000"
+        },
+        "otherInformation": {
+            "articleNumber": "104269900000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "3518681014041"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f864029029f2f67edc947c811bdef62155233b13/la-barre-prot-vita-choco-erdnuss.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494831",
+            "name": "Drugstore",
+            "slugs": [
+                "drugstore-cosmetics",
+                "drugstore"
+            ]
+        },
+        {
+            "id": "7495260",
+            "name": "Sports nutrition & proteins",
+            "slugs": [
+                "drugstore-cosmetics",
+                "drugstore",
+                "sports-nutrition-proteins"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/104269900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.50",
+            "advertisedDisplayValue": "3.50",
+            "effectiveDisplayValue": "3.50",
+            "multiplier": 1,
+            "value": 3.5,
+            "effectiveValue": 3.5,
+            "advertisedValue": 3.5,
+            "unitPrice": {
+                "value": 7.14,
+                "unit": "100g"
+            }
+        },
+        "quantity": "49g",
+        "quantityPrice": "7.14/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T21:46:15"
+}

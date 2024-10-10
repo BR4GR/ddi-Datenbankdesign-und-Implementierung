@@ -1,0 +1,219 @@
+{
+    "uid": 100172645,
+    "migrosId": "893600851428",
+    "name": "Baby cap",
+    "brand": "Smile",
+    "title": "Baby cap",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Smile",
+                "slug": "smile",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252488/brands/smile"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/893600851428"
+        },
+        "otherInformation": {
+            "articleNumber": "893600851428",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7628871720082"
+    ],
+    "variants": {
+        "baseProductMigrosId": "893600800000",
+        "mainVariantMigrosId": "893600851228",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "pink",
+                    "size": "3-6"
+                },
+                "migrosId": "893600851228"
+            },
+            {
+                "declinationOptions": {
+                    "color": "darf green",
+                    "size": "3-6"
+                },
+                "migrosId": "893600851263"
+            },
+            {
+                "declinationOptions": {
+                    "color": "beige",
+                    "size": "3-6"
+                },
+                "migrosId": "893600851274"
+            },
+            {
+                "declinationOptions": {
+                    "color": "light beige",
+                    "size": "3-6"
+                },
+                "migrosId": "893600851275"
+            },
+            {
+                "declinationOptions": {
+                    "color": "pink",
+                    "size": "6-12"
+                },
+                "migrosId": "893600851328"
+            },
+            {
+                "declinationOptions": {
+                    "color": "darf green",
+                    "size": "6-12"
+                },
+                "migrosId": "893600851363"
+            },
+            {
+                "declinationOptions": {
+                    "color": "beige",
+                    "size": "6-12"
+                },
+                "migrosId": "893600851374"
+            },
+            {
+                "declinationOptions": {
+                    "color": "light beige",
+                    "size": "6-12"
+                },
+                "migrosId": "893600851375"
+            },
+            {
+                "declinationOptions": {
+                    "color": "pink",
+                    "size": "12-24"
+                },
+                "migrosId": "893600851428"
+            },
+            {
+                "declinationOptions": {
+                    "color": "darf green",
+                    "size": "12-24"
+                },
+                "migrosId": "893600851463"
+            },
+            {
+                "declinationOptions": {
+                    "color": "beige",
+                    "size": "12-24"
+                },
+                "migrosId": "893600851474"
+            },
+            {
+                "declinationOptions": {
+                    "color": "light beige",
+                    "size": "12-24"
+                },
+                "migrosId": "893600851475"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "pink",
+                "options": [
+                    "pink",
+                    "darf green",
+                    "beige",
+                    "light beige"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "12-24",
+                "options": [
+                    "3-6",
+                    "6-12",
+                    "12-24"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a529e22709931d1fa4e0e7963f7e9b3c26523e88/baby-cap.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "11117240",
+            "name": "Baby clothes",
+            "slugs": [
+                "baby-kids",
+                "baby-clothes"
+            ]
+        },
+        {
+            "id": "11117266",
+            "name": "Baby accessories",
+            "slugs": [
+                "baby-kids",
+                "baby-clothes",
+                "baby-accessories"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/893600851428",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "7.95",
+            "advertisedDisplayValue": "7.95",
+            "effectiveDisplayValue": "7.95",
+            "multiplier": 1,
+            "value": 7.95,
+            "effectiveValue": 7.95,
+            "advertisedValue": 7.95
+        },
+        "promotionPrice": {
+            "displayUnitPrice": false,
+            "formattedPrice": "5.60",
+            "advertisedDisplayValue": "5.60",
+            "effectiveDisplayValue": "5.60",
+            "multiplier": 1,
+            "value": 5.6,
+            "effectiveValue": 5.6,
+            "advertisedValue": 5.6
+        },
+        "priceInsteadOfLabel": "was",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "badges": [
+            {
+                "type": "PERCENTAGE_PROMOTION",
+                "description": "30%"
+            }
+        ],
+        "promotionDateRange": {
+            "startDate": "2024-09-19",
+            "endDate": "2024-09-22"
+        },
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-20T18:29:40"
+}

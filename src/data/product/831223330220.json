@@ -1,0 +1,203 @@
+{
+    "uid": 100086471,
+    "migrosId": "831223330220",
+    "name": "Lady's socks 2-prs",
+    "brand": "M-Budget",
+    "title": "Lady's socks 2-prs",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L07",
+                    "name": "ECO",
+                    "slug": "eco",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483145/labels/Eco-Textilien_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "M-Budget",
+                "slug": "m-budget",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252456/brands/m-budget"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 19,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/831223330220"
+        },
+        "otherInformation": {
+            "articleNumber": "831223330220",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Article type",
+                    "value": "Socken"
+                },
+                {
+                    "code": "Multipack",
+                    "value": "2er Pack"
+                },
+                {
+                    "code": "Look",
+                    "value": "uni"
+                },
+                {
+                    "code": "Material",
+                    "value": "Baumwolle"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "80 %"
+                },
+                {
+                    "code": "Material 2",
+                    "value": "Polyamid"
+                },
+                {
+                    "code": "Proportion of material 2",
+                    "value": "18 %"
+                },
+                {
+                    "code": "Material 3",
+                    "value": "Elasthan"
+                },
+                {
+                    "code": "Share of material 3",
+                    "value": "2 %"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613433552638"
+    ],
+    "variants": {
+        "baseProductMigrosId": "831223300000",
+        "mainVariantMigrosId": "831223330220",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "35-38",
+                    "color": "black"
+                },
+                "migrosId": "831223330220"
+            },
+            {
+                "declinationOptions": {
+                    "size": "35-38",
+                    "color": "anthracite"
+                },
+                "migrosId": "831223330284"
+            },
+            {
+                "declinationOptions": {
+                    "size": "39-42",
+                    "color": "black"
+                },
+                "migrosId": "831223330320"
+            },
+            {
+                "declinationOptions": {
+                    "size": "39-42",
+                    "color": "anthracite"
+                },
+                "migrosId": "831223330384"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "black",
+                "options": [
+                    "black",
+                    "anthracite"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "35-38",
+                "options": [
+                    "35-38",
+                    "39-42"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/6e60179ecf540639dcf8bedcf905209500035b4c/ladys-socks-2-prs.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/220d982bc171ca4d1bb14ecb2e1a411bb66b3652.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/890dc820366594a2b645646e65201e305cbd5f3b.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10553347",
+            "name": "Women",
+            "slugs": [
+                "clothing-accessories",
+                "women"
+            ]
+        },
+        {
+            "id": "10553383",
+            "name": "Socks & tights",
+            "slugs": [
+                "clothing-accessories",
+                "women",
+                "socks-tights"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/831223330220",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.50",
+            "advertisedDisplayValue": "3.50",
+            "effectiveDisplayValue": "3.50",
+            "multiplier": 1,
+            "value": 3.5,
+            "effectiveValue": 3.5,
+            "advertisedValue": 3.5,
+            "unitPrice": {
+                "value": 1.75,
+                "unit": "piece"
+            }
+        },
+        "quantity": "2 Paar",
+        "quantityPrice": "1.75/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T09:51:08"
+}

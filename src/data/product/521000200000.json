@@ -1,0 +1,118 @@
+{
+    "uid": 100022608,
+    "migrosId": "521000200000",
+    "migrosOnlineId": "5365134",
+    "name": "Organic food supplement",
+    "brand": "Nübee",
+    "brandLine": "proper baby food",
+    "versioning": "Apple - After 4 months",
+    "title": "Nübee proper baby food · Organic food supplement · Apple - After 4 months",
+    "description": "Nübee Organic food supplement Apple - After 4 months",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Nübee",
+                "slug": "nubee"
+            },
+            "nutritionalCharacteristics": [
+                "Organic"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                }
+            ],
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/521000200000"
+        },
+        "otherInformation": {
+            "articleNumber": "521000200000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7640316321036"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ae35a67b74c3db8ef286524dedc6f5f9fe405b6e/nuebee-bio-appple.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "7494819",
+            "name": "Baby & kids food",
+            "slugs": [
+                "baby-kids",
+                "baby-kids-food"
+            ]
+        },
+        {
+            "id": "7495199",
+            "name": "Dessert & snacks",
+            "slugs": [
+                "baby-kids",
+                "baby-kids-food",
+                "dessert-snacks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/521000200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.50",
+            "advertisedDisplayValue": "3.50",
+            "effectiveDisplayValue": "3.50",
+            "multiplier": 1,
+            "value": 3.5,
+            "effectiveValue": 3.5,
+            "advertisedValue": 3.5,
+            "unitPrice": {
+                "value": 1.84,
+                "unit": "100g"
+            }
+        },
+        "quantity": "190g",
+        "quantityPrice": "1.84/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            },
+            {
+                "type": "REGION",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679482984/labels/suisse",
+                "description": "Switzerland"
+            },
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483166/labels/fresh",
+                "description": "fresh"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:31:23"
+}

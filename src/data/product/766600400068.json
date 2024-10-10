@@ -1,0 +1,201 @@
+{
+    "uid": 100112239,
+    "migrosId": "766600400068",
+    "migrosOnlineId": "11046280",
+    "name": "Kitchen towels",
+    "brand": "Migros Kitchen & Co.",
+    "versioning": "50 x 70cm",
+    "title": "Migros Kitchen & Co. · Kitchen towels · 50 x 70cm",
+    "description": "Migros Kitchen & Co. Kitchen towels 50 x 70cm",
+    "productRange": "VARIANT",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L60",
+                    "name": "GOTS",
+                    "slug": "gots",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483187/labels/GOTS_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "Migros Kitchen & Co.",
+                "slug": "migros-kitchen-co",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1715075047/brands/MIGROS_KitchenCo_CS4"
+            },
+            "nutritionalCharacteristics": [
+                "Organic"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                }
+            ],
+            "rating": {
+                "nbReviews": 11,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/766600400068"
+        },
+        "otherInformation": {
+            "articleNumber": "766600400068",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Length",
+                    "value": "70 cm"
+                },
+                {
+                    "code": "Width",
+                    "value": "50 cm"
+                },
+                {
+                    "code": "Material",
+                    "value": "Baumwolle: 100 %"
+                },
+                {
+                    "code": "Color",
+                    "value": "blau"
+                },
+                {
+                    "code": "Set contents",
+                    "value": "2 Stk."
+                },
+                {
+                    "code": "Care instructions",
+                    "value": "mit ähnlichen Farben waschen"
+                },
+                {
+                    "code": "GOTS label text",
+                    "value": "Organic"
+                },
+                {
+                    "code": "GOTS label certified by",
+                    "value": "GCL International Ltd."
+                },
+                {
+                    "code": "GOTS label license number",
+                    "value": "3445"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613434848976"
+    ],
+    "variants": {
+        "baseProductMigrosId": "766600400000",
+        "mainVariantMigrosId": "766600400068",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "Cognac"
+                },
+                "migrosId": "766600400054"
+            },
+            {
+                "declinationOptions": {
+                    "color": "Petrol"
+                },
+                "migrosId": "766600400068"
+            },
+            {
+                "declinationOptions": {
+                    "color": "Beige"
+                },
+                "migrosId": "766600400074"
+            },
+            {
+                "declinationOptions": {
+                    "color": "Grau"
+                },
+                "migrosId": "766600400080"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "Petrol",
+                "options": [
+                    "Cognac",
+                    "Petrol",
+                    "Beige",
+                    "Grau"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/cf849d56abd3a9ac326df0a32636d26427dfec57/gm-kt-bistro-check-petrol-set2.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494814",
+            "name": "Kitchen & dining",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining"
+            ]
+        },
+        {
+            "id": "7495176",
+            "name": "Kitchen",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining",
+                "kitchen"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/766600400068",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "9.95",
+            "advertisedDisplayValue": "9.95",
+            "effectiveDisplayValue": "9.95",
+            "multiplier": 1,
+            "value": 9.95,
+            "effectiveValue": 9.95,
+            "advertisedValue": 9.95,
+            "unitPrice": {
+                "value": 4.98,
+                "unit": "piece"
+            }
+        },
+        "quantity": "2 Stk.",
+        "quantityPrice": "4.98/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T19:51:29"
+}

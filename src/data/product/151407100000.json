@@ -1,0 +1,130 @@
+{
+    "uid": 100052713,
+    "migrosId": "151407100000",
+    "name": "Aus der Region Ostschweizer Honig",
+    "title": "Aus der Region Ostschweizer Honig",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "ingredients": "keine Zutatenliste.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 7,
+                    "productionRatio": 86,
+                    "transportRatio": 1,
+                    "packagingRatio": 13,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 18,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/151407100000"
+        },
+        "otherInformation": {
+            "articleNumber": "151407100000",
+            "legalDesignation": "Bienenhonig",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Production process",
+                    "value": "Aus der Region"
+                },
+                {
+                    "code": "Type of honey",
+                    "value": "﻿Flower honey"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Glas"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7617027052542",
+        "15140715"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/5bf6b8d7ad013cf2271fad8af79cf144d22f4cd3/aus-der-region-ostschweizer-honig.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494768",
+            "name": "Jam, spreads & honey",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "jam-spreads-honey"
+            ]
+        },
+        {
+            "id": "7494947",
+            "name": "Honeys & molasses",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "jam-spreads-honey",
+                "honeys-molasses"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/151407100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "18.95",
+            "advertisedDisplayValue": "18.95",
+            "effectiveDisplayValue": "18.95",
+            "multiplier": 1,
+            "value": 18.95,
+            "effectiveValue": 18.95,
+            "advertisedValue": 18.95,
+            "unitPrice": {
+                "value": 3.79,
+                "unit": "100g"
+            }
+        },
+        "quantity": "500g",
+        "quantityPrice": "3.79/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:26:11"
+}

@@ -1,0 +1,145 @@
+{
+    "uid": 100020401,
+    "migrosId": "109122300000",
+    "migrosOnlineId": "107030",
+    "name": "Fat food",
+    "brand": "M-Classic",
+    "versioning": "for blackbirds, robins and tits",
+    "title": "M-Classic · Fat food · for blackbirds, robins and tits",
+    "description": "M-Classic Fat food for blackbirds, robins and tits",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Classic",
+                "slug": "m-classic",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252457/brands/m-classic"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 3,
+                    "co2CarKmEquivalent": 13,
+                    "productionRatio": 88,
+                    "transportRatio": 6,
+                    "packagingRatio": 4,
+                    "image": "https://image.migros.ch/original/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "co2KgRange": "2 - 4.7 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 46,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/109122300000",
+            "petFoodBasicInformation": {
+                "composition": "Getreide (Haferflocken, Weizen, Weizenflocken), Nüsse (Erdnüsse), Öle und Fette (Rindertalg), Früchte (Rosinen)",
+                "type": "Compound fixed",
+                "animalCategoryTarget": "Wild birds"
+            }
+        },
+        "usageInformation": {
+            "usage": "Feed regularly, preferably in the morning and evening. Protect feeding place from moisture. This natural product contains seeds which can germinate in spring.",
+            "petFoodStorageInformation": {}
+        },
+        "otherInformation": {
+            "articleNumber": "109122300000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Type of pet",
+                    "value": "Vogel"
+                },
+                {
+                    "code": "Age of animal",
+                    "value": "Adult"
+                },
+                {
+                    "code": "Feed type",
+                    "value": "Mischung"
+                },
+                {
+                    "code": "Category of feed",
+                    "value": "Mischfuttermittel"
+                },
+                {
+                    "code": "Consistency of feed",
+                    "value": "trocken"
+                },
+                {
+                    "code": "Feeding recommendation",
+                    "value": "Regelmässig füttern,  am besten morgens und abends. Futterplatz vor Nässe schützen."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7617027094740"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/986cbf4c8e1452c83eed5ed99a20bcff1ff1b0de/fettfutter.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494739",
+            "name": "Pets",
+            "slugs": [
+                "pets"
+            ]
+        },
+        {
+            "id": "7494805",
+            "name": "Other small pets",
+            "slugs": [
+                "pets",
+                "other-small-pets"
+            ]
+        },
+        {
+            "id": "7495132",
+            "name": "Birds",
+            "slugs": [
+                "pets",
+                "other-small-pets",
+                "birds"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/109122300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.95",
+            "advertisedDisplayValue": "3.95",
+            "effectiveDisplayValue": "3.95",
+            "multiplier": 1,
+            "value": 3.95,
+            "effectiveValue": 3.95,
+            "advertisedValue": 3.95,
+            "unitPrice": {
+                "value": 0.33,
+                "unit": "100g"
+            }
+        },
+        "quantity": "1.2kg",
+        "quantityPrice": "0.33/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T01:02:23"
+}

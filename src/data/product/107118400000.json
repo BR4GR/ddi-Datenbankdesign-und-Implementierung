@@ -1,0 +1,174 @@
+{
+    "uid": 100018181,
+    "migrosId": "107118400000",
+    "migrosOnlineId": "101546",
+    "name": "Café en grains",
+    "brand": "M-Budget",
+    "versioning": "in beans, 3/5 intensity.",
+    "title": "M-Budget · Café en grains · in beans, 3/5 intensity.",
+    "description": "M-Budget Café en grains in beans, 3/5 intensity. Hergestellt in der Schweiz",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L71",
+                    "name": "Rainforest Alliance",
+                    "slug": "rainforest-alliance",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483537/labels/Rainforest_Alliance_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "M-Budget",
+                "slug": "m-budget",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252456/brands/m-budget"
+            },
+            "ingredients": "Röstkaffee.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 47,
+                    "productionRatio": 97,
+                    "transportRatio": 0,
+                    "packagingRatio": 2,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 133,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/107118400000"
+        },
+        "usageInformation": {
+            "usage": "Bien refermer l'emballage - à utiliser rapidement.",
+            "additionalInformation": "Fraîchement torrefié et emballé sous atmosphère protectrice pour en préserver tout l'arôme."
+        },
+        "otherInformation": {
+            "articleNumber": "107118400000",
+            "legalDesignation": "Röstkaffee in Bohnen.",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Production information",
+                    "value": "Packaged in a protective atmosphere."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "﻿Usage note",
+                    "value": "Moka (Bialetti), Fully automatic, Filter holder (plunger)"
+                },
+                {
+                    "code": "Coffee shape",
+                    "value": "Kaffeebohnen"
+                },
+                {
+                    "code": "Type of preparation",
+                    "value": "Röstkaffee"
+                },
+                {
+                    "code": "Production process",
+                    "value": "100% natürliche Zutaten, Geröstet"
+                },
+                {
+                    "code": "Botanical variety",
+                    "value": "Robusta"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Beutel/Sack"
+                },
+                {
+                    "code": "Herb species",
+                    "value": "Rosmarin"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "Kaffeevollautomaten"
+                },
+                {
+                    "code": "Decaffeinated",
+                    "value": "No"
+                },
+                {
+                    "code": "Säure (1-5)",
+                    "value": "2"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312291603",
+        "7617014132806",
+        "07613269179207"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/2471fe22afefaf752b09aa777eef7deee596ec18/m-budget-bohnen-1kg.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494772",
+            "name": "Coffee",
+            "slugs": [
+                "drinks-coffee-tea",
+                "coffee"
+            ]
+        },
+        {
+            "id": "7494966",
+            "name": "Coffee beans",
+            "slugs": [
+                "drinks-coffee-tea",
+                "coffee",
+                "coffee-beans"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/107118400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.95",
+            "advertisedDisplayValue": "7.95",
+            "effectiveDisplayValue": "7.95",
+            "multiplier": 1,
+            "value": 7.95,
+            "effectiveValue": 7.95,
+            "advertisedValue": 7.95,
+            "unitPrice": {
+                "value": 0.8,
+                "unit": "100g"
+            }
+        },
+        "quantity": "1kg",
+        "quantityPrice": "0.80/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:39:34"
+}

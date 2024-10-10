@@ -1,0 +1,163 @@
+{
+    "uid": 100160427,
+    "migrosId": "501102000000",
+    "migrosOnlineId": "12293907",
+    "name": "Rinse aid",
+    "brand": "Nature Clean",
+    "title": "Nature Clean · Rinse aid",
+    "description": "Nature Clean Rinse aid ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L55",
+                    "name": "Vegan Flower",
+                    "slug": "vegan-flower",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483262/labels/Vegan_flower"
+                }
+            ],
+            "brand": {
+                "name": "Nature Clean",
+                "slug": "nature-clean",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1709537725/brands/Nature_Clean_-_RGB_-_DE"
+            },
+            "nutritionalCharacteristics": [
+                "Vegan"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegan"
+                }
+            ],
+            "rating": {
+                "nbReviews": 7,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/501102000000"
+        },
+        "usageInformation": {
+            "signalWord": "Achtung",
+            "chemicalPictosV2": [
+                {
+                    "cdn": "rokka",
+                    "pictoId": "GHS07",
+                    "pictoPath": "https://image.migros.ch/original/09b3c0810d45b7f83a5ad48c5bc38d4d0227615b/Dickes%20Ausrufezeichen.jpg",
+                    "pictoPathStack": "https://image.migros.ch/{stack}/09b3c0810d45b7f83a5ad48c5bc38d4d0227615b/Dickes%20Ausrufezeichen.jpg"
+                }
+            ],
+            "chemicalWarnings": [
+                "Verursacht schwere Augenreizung."
+            ],
+            "chemicalSafetyInstructions": [
+                "Darf nicht in die Hände von Kindern gelangen.",
+                "BEI KONTAKT MIT DEN AUGEN: Einige Minuten lang behutsam mit Wasser ausspülen. Eventuell vorhandene Kontaktlinsen nach Möglichkeit entfernen. Weiter spülen.",
+                "Ist ärztlicher Rat erforderlich, Verpackung oder Kennzeichnungsetikett bereithalten.",
+                "Bei anhaltender Augenreizung: Ärztlichen Rat einholen/ärztliche Hilfe hinzuziehen.",
+                "Schutzhandschuhe / Schutzkleidung / Augenschutz / Gesichtsschutz tragen."
+            ]
+        },
+        "otherInformation": {
+            "articleNumber": "501102000000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegan"
+                },
+                {
+                    "code": "Form",
+                    "value": "flüssig"
+                },
+                {
+                    "code": "Special",
+                    "value": "Frei von: Konservierungsmittelzusätzen, Farbstoffen, Parfüm, Mikroplastik und tierischen Bestandteilen"
+                },
+                {
+                    "code": "Suitable for",
+                    "value": "Geschirrabwaschmaschinen"
+                },
+                {
+                    "code": "Environmental information",
+                    "value": "Biologisch gut abbaubar (OECD-Test 302B, ergänzt mit CO2-Analytik)"
+                },
+                {
+                    "code": "Hazard warnings",
+                    "value": "Darf nicht in die Hände von Kindern gelangen"
+                },
+                {
+                    "code": "Content",
+                    "value": "500 ml"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7630028638881"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/edcee2fd3b9d0ef00c9b40d66a46fba1f1ecedf0/nc-spuelglanz-500ml.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494740",
+            "name": "Laundry & cleaning",
+            "slugs": [
+                "laundry-cleaning"
+            ]
+        },
+        {
+            "id": "7494807",
+            "name": "Kitchen cleaning supplies",
+            "slugs": [
+                "laundry-cleaning",
+                "kitchen-cleaning-supplies"
+            ]
+        },
+        {
+            "id": "7495142",
+            "name": "Dishwasher",
+            "slugs": [
+                "laundry-cleaning",
+                "kitchen-cleaning-supplies",
+                "dishwasher"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/501102000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.65",
+            "advertisedDisplayValue": "3.65",
+            "effectiveDisplayValue": "3.65",
+            "multiplier": 1,
+            "value": 3.65,
+            "effectiveValue": 3.65,
+            "advertisedValue": 3.65,
+            "unitPrice": {
+                "value": 0.73,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "500ml",
+        "quantityPrice": "0.73/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T08:18:42"
+}

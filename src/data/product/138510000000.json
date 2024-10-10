@@ -1,0 +1,118 @@
+{
+    "uid": 100046129,
+    "migrosId": "138510000000",
+    "migrosOnlineId": "231141",
+    "name": "Lasagne",
+    "brand": "Roberto",
+    "versioning": "Epinards et Ricotta",
+    "title": "Roberto · Lasagne · Epinards et Ricotta",
+    "description": "Roberto Lasagne Epinards et Ricotta",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Roberto",
+                "slug": "roberto"
+            },
+            "nutritionalCharacteristics": [
+                "Vegetarian"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegetarian"
+                }
+            ],
+            "ingredients": "Milch, Eierteigwaren gekocht 20%, (HartWEIZengriess, VollEI (CHGrenzzone Frankreich) pasteurisiert und gesalzen 18% [von Eiern aus Bodenhaltung ]), Spinat 12%,  Grana Padano (KÄSE) 7%, RICOTA (KÄSE) 3%, WEIZenmehl, Sonnenblumenöl, Speisesalz jodiert, Gewürze, Kräuter.",
+            "allergens": "Eggs and their derivatives, Milk and its derivatives, Cereal grains containing gluten and its derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/138510000000"
+        },
+        "usageInformation": {
+            "usage": "Heat fresh pasta directly in the oven at 220° for 15- 20 min. or in the microwave oven at 1/2 power 5 - 8 min.",
+            "additionalInformation": "Cereals containing gluten,milk and products derived therefrom,eggs and products derived therefrom."
+        },
+        "otherInformation": {
+            "articleNumber": "138510000000",
+            "legalDesignation": "Lasagne mit Ricotta & Spinat",
+            "distributorName": "Le Shop / Migros",
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegetarian"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610695001126"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/00f5f2996314f82005f3a8ff46aecf9d684bbcfd/roberto-lasagne-spinat-und-ricotta.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494754",
+            "name": "Fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food"
+            ]
+        },
+        {
+            "id": "7494886",
+            "name": "Fresh pasta & lasagnes",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food",
+                "fresh-pasta-lasagnes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/138510000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "pictos": [
+            {
+                "type": "REGION",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679482984/labels/suisse",
+                "description": "Switzerland"
+            },
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483166/labels/fresh",
+                "description": "fresh"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-17T05:10:18"
+}

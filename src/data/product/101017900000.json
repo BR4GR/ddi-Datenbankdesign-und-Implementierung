@@ -1,0 +1,202 @@
+{
+    "uid": 100048185,
+    "migrosId": "101017900000",
+    "migrosOnlineId": "4964669",
+    "name": "Confectionery",
+    "brand": "Red Band",
+    "versioning": "Sour mushrooms",
+    "title": "Red Band · Confectionery · Sour mushrooms",
+    "description": "Red Band Confectionery Sour mushrooms",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Red Band",
+                "slug": "red-band",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077111/brands/Red_Band_Spiwag_Zweigniederlassung_der_Cona_Logo"
+            },
+            "ingredients": "Zucker, Glukosesirup, Invertzuckersirup, Gelatine, Maltodextrin, Säuren (Weinsäure, Zitronensäure), Aromen, voll hydriertes Pflanzenfett (Palm), Säureregulator (Trinatriumcitrat), Farben (E100, E120).",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 50,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/101017900000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1526 kJ (357 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "0.1 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "85 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "68 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "4.1 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.04 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Sodium",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "101017900000",
+            "legalDesignation": "Red Band saure Pilze 100g x 30",
+            "distributorName": "Spiwag, Zweigniederlassung der Conaxess Trade Switzerland AG",
+            "distributorStreetAndNumber": "Industriestrasse 9, 4623 Neuendorf",
+            "remarks": [
+                {
+                    "code": "Percentage of alcohol by volume [%]",
+                    "value": "0"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Packaging type",
+                    "value": "Bag/pouch"
+                },
+                {
+                    "code": "Type of candy",
+                    "value": "Pilze"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "8013399117435"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1648a6cf5fa27bf84c164953cbcc808b0197a6ea/red-band-sour-mushrooms.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494782",
+            "name": "Chocolate & sweets",
+            "slugs": [
+                "snacks-sweets",
+                "chocolate-sweets"
+            ]
+        },
+        {
+            "id": "7495023",
+            "name": "Bonbons",
+            "slugs": [
+                "snacks-sweets",
+                "chocolate-sweets",
+                "bonbons"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/101017900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.10",
+            "advertisedDisplayValue": "2.10",
+            "effectiveDisplayValue": "2.10",
+            "multiplier": 1,
+            "value": 2.1,
+            "effectiveValue": 2.1,
+            "advertisedValue": 2.1,
+            "unitPrice": {
+                "value": 2.1,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100g",
+        "quantityPrice": "2.10/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T19:36:54"
+}

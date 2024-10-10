@@ -1,0 +1,112 @@
+{
+    "uid": 100039963,
+    "migrosId": "514220300000",
+    "migrosOnlineId": "222432",
+    "name": "Mouthwash",
+    "brand": "Listerine",
+    "versioning": "Cool Mint",
+    "title": "Listerine · Mouthwash · Cool Mint",
+    "description": "Listerine Mouthwash Cool Mint Effectively reduces plaque and refreshes the breath",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Listerine",
+                "slug": "listerine",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076901/brands/Listerine_Johnson_Johnson_Consumer_Health_C_Logo"
+            },
+            "rating": {
+                "nbReviews": 39,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/514220300000"
+        },
+        "usageInformation": {
+            "usage": "2x daily after brushing your teeth, rinse with 20 ml undiluted for 30 seconds. Do not swallow! For children of 12 years and older.",
+            "additionalInformation": "Effectively combats harmful bacteria that cause plaque and gum irritation - throughout the mouth. Strengthens the teeth against cavities - with fluoride. Refreshes the breath. The oral flora remains in balance."
+        },
+        "otherInformation": {
+            "articleNumber": "514220300000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Mundspülungen"
+                },
+                {
+                    "code": "Suitable for",
+                    "value": "Kariesschutz"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "3574661617541",
+        "3574661007342"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/c1a1e297698dc9704f09fdb25a89f84ef746c7eb/listerine-cool-mint-mild.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494829",
+            "name": "Dental care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "dental-care"
+            ]
+        },
+        {
+            "id": "7495253",
+            "name": "Mouthwash",
+            "slugs": [
+                "drugstore-cosmetics",
+                "dental-care",
+                "mouthwash"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/514220300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.35",
+            "advertisedDisplayValue": "5.35",
+            "effectiveDisplayValue": "5.35",
+            "multiplier": 1,
+            "value": 5.35,
+            "effectiveValue": 5.35,
+            "advertisedValue": 5.35,
+            "unitPrice": {
+                "value": 1.07,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "500ml",
+        "quantityPrice": "1.07/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T15:45:29"
+}

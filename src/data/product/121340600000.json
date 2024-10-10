@@ -1,0 +1,84 @@
+{
+    "uid": 100172821,
+    "migrosId": "121340600000",
+    "migrosOnlineId": "12840809",
+    "name": "Flavoured beer",
+    "brand": "Feldschlösschen",
+    "brandLine": "0.0%",
+    "versioning": "alcohol free - lemon",
+    "title": "Feldschlösschen 0.0% · Flavoured beer · alcohol free - lemon",
+    "description": "Feldschlösschen Flavoured beer alcohol free - lemon",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Feldschlösschen",
+                "slug": "feldschlosschen",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076706/brands/Feldschli%CC%82sschen_Feldschlo%CC%88sschen_Getra%CC%88nke_AG_Logo"
+            },
+            "alcoholContent": 0.0
+        },
+        "otherInformation": {
+            "articleNumber": "121340600000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7612900349979"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/090b875eaef332a91a7b84fb81ec5a34060d19eb/feldschloesschen-lemon-non-alcoholic.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/813e7eb85857e2fba944ee47ded4f0398c46bc7d.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494737",
+            "name": "Wine, beer & spirits",
+            "slugs": [
+                "wine-beer-spirits"
+            ]
+        },
+        {
+            "id": "10583761",
+            "name": "Alcohol free drinks",
+            "slugs": [
+                "wine-beer-spirits",
+                "alcohol-free-drinks"
+            ]
+        },
+        {
+            "id": "10614101",
+            "name": "Beers & ciders",
+            "slugs": [
+                "wine-beer-spirits",
+                "alcohol-free-drinks",
+                "beers-ciders"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/121340600000",
+    "isMgbCompatible": false,
+    "isConsignmentProduct": false,
+    "offer": {
+        "isVariableWeight": false,
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "REGION",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483130/labels/argovie",
+                "description": "Aargau"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true
+    },
+    "dateAdded": "2024-09-16T16:17:11"
+}

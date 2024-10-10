@@ -1,0 +1,102 @@
+{
+    "uid": 100052031,
+    "migrosId": "220856002092",
+    "name": "Lamm-Kräutersteak",
+    "title": "Lamm-Kräutersteak",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 1,
+                    "airRating": 1,
+                    "co2CarKmEquivalent": 192,
+                    "airProductionRatio": 42,
+                    "airTransportRatio": 58,
+                    "airPackagingRatio": 0,
+                    "productionRatio": 98,
+                    "transportRatio": 0,
+                    "packagingRatio": 1,
+                    "image": "https://image.migros.ch/original/c0dccaf77c8264b196b1c35a04df6eca7bf0ccb6.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/c0dccaf77c8264b196b1c35a04df6eca7bf0ccb6.svg",
+                    "co2KgRange": "≥10 kg CO₂eq / kg"
+                }
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/220856002092"
+        },
+        "otherInformation": {
+            "articleNumber": "220856002092",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "2150652000007",
+        "186452",
+        "7617027900584"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/5ba58093f70774ccbf1c6a827da433eb557c02f5/lamm-kraeutersteak.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494747",
+            "name": "Meat & poultry",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry"
+            ]
+        },
+        {
+            "id": "7494844",
+            "name": "Veal, lamb & horse",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry",
+                "veal-lamb-horse"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/220856002092",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.20",
+            "advertisedDisplayValue": "5.20",
+            "effectiveDisplayValue": "5.20",
+            "multiplier": 1,
+            "value": 5.2,
+            "effectiveValue": 5.2,
+            "advertisedValue": 5.2,
+            "unitPrice": {
+                "value": 5.2,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "5.20/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:55:18"
+}

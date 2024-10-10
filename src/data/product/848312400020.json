@@ -1,0 +1,164 @@
+{
+    "uid": 100094944,
+    "migrosId": "848312400020",
+    "name": "Gymbag",
+    "brand": "MIGROS TRAVEL & CO.",
+    "title": "Gymbag",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "MIGROS TRAVEL & CO.",
+                "slug": "migros-travel-co",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1689862767/brands/Migros_Travel_und_Co"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/848312400020"
+        },
+        "otherInformation": {
+            "articleNumber": "848312400020",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Height",
+                    "value": "50 cm"
+                },
+                {
+                    "code": "Length",
+                    "value": "37 cm"
+                },
+                {
+                    "code": "Weight",
+                    "value": "0.15 kg"
+                },
+                {
+                    "code": "Volume",
+                    "value": "10 l"
+                },
+                {
+                    "code": "Category/theme",
+                    "value": "Rucksäcke"
+                },
+                {
+                    "code": "Main material",
+                    "value": "Recycling Polyester"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "Externes Fach"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613434679396"
+    ],
+    "variants": {
+        "baseProductMigrosId": "848312400000",
+        "mainVariantMigrosId": "848312400020",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "black"
+                },
+                "migrosId": "848312400020"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "light blue"
+                },
+                "migrosId": "848312400041"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "black",
+                "options": [
+                    "black",
+                    "light blue"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "one Size",
+                "options": [
+                    "one Size"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/7a7e6be38da343f4b6b48982c7028640059fe710/gymbag.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10555197",
+            "name": "Travel",
+            "slugs": [
+                "clothing-accessories",
+                "travel"
+            ]
+        },
+        {
+            "id": "10555228",
+            "name": "Backpacks & bags",
+            "slugs": [
+                "clothing-accessories",
+                "travel",
+                "backpacks-bags"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/848312400020",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "12.95",
+            "advertisedDisplayValue": "12.95",
+            "effectiveDisplayValue": "12.95",
+            "multiplier": 1,
+            "value": 12.95,
+            "effectiveValue": 12.95,
+            "advertisedValue": 12.95,
+            "unitPrice": {
+                "value": 12.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "12.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T09:19:08"
+}

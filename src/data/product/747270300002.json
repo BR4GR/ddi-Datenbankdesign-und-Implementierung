@@ -1,0 +1,162 @@
+{
+    "uid": 100125321,
+    "migrosId": "747270300002",
+    "migrosOnlineId": "10553028",
+    "name": "Baby bottle",
+    "brand": "Milette",
+    "brandLine": "Baby Care",
+    "versioning": "From 3 months",
+    "title": "Milette Baby Care · Baby bottle · From 3 months",
+    "description": "Milette Baby bottle From 3 months",
+    "productRange": "VARIANT",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Milette",
+                "slug": "milette",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076999/brands/Milette_Logo"
+            },
+            "rating": {
+                "nbReviews": 12,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/747270300002"
+        },
+        "otherInformation": {
+            "articleNumber": "747270300002",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613434945446"
+    ],
+    "variants": {
+        "baseProductMigrosId": "747270300000",
+        "mainVariantMigrosId": "747270300001",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "pastell",
+                    "size": "000"
+                },
+                "migrosId": "747270300001"
+            },
+            {
+                "declinationOptions": {
+                    "color": "tradition",
+                    "size": "000"
+                },
+                "migrosId": "747270300002"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "tradition",
+                "options": [
+                    "pastell",
+                    "tradition"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "000",
+                "options": [
+                    "000"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/655dc1f9a912760d966b2f33a9397ace0a00f6f1/baby-bottle-260ml.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "7494818",
+            "name": "Baby bottles & dummies",
+            "slugs": [
+                "baby-kids",
+                "baby-bottles-dummies"
+            ]
+        },
+        {
+            "id": "7495194",
+            "name": "Baby bottles & spare teats",
+            "slugs": [
+                "baby-kids",
+                "baby-bottles-dummies",
+                "baby-bottles-spare-teats"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/747270300002",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "4.20",
+            "advertisedDisplayValue": "4.20",
+            "effectiveDisplayValue": "4.20",
+            "multiplier": 1,
+            "value": 4.2,
+            "effectiveValue": 4.2,
+            "advertisedValue": 4.2
+        },
+        "promotionPrice": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.95",
+            "advertisedDisplayValue": "2.95",
+            "effectiveDisplayValue": "2.95",
+            "multiplier": 1,
+            "value": 2.95,
+            "effectiveValue": 2.95,
+            "advertisedValue": 2.95,
+            "unitPrice": {
+                "value": 2.95,
+                "unit": "piece"
+            }
+        },
+        "priceInsteadOfLabel": "was",
+        "quantity": "1 Stk.",
+        "quantityPrice": "2.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "badges": [
+            {
+                "type": "PERCENTAGE_PROMOTION",
+                "description": "30%"
+            },
+            {
+                "type": "MINIMUM_PIECES",
+                "description": "2 or more"
+            }
+        ],
+        "promotionDateRange": {
+            "startDate": "2024-09-10",
+            "endDate": "2024-09-23"
+        },
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-15T22:51:10"
+}

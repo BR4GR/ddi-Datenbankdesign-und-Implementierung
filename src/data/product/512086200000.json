@@ -1,0 +1,119 @@
+{
+    "uid": 100026330,
+    "migrosId": "512086200000",
+    "migrosOnlineId": "5648420",
+    "name": "Solid hand soap",
+    "brand": "M-Budget",
+    "brandLine": "Soap",
+    "versioning": "White Blossom",
+    "title": "M-Budget Soap · Solid hand soap · White Blossom",
+    "description": "M-Budget Solid hand soap White Blossom",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Budget",
+                "slug": "m-budget",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252456/brands/m-budget"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 10,
+                    "productionRatio": 86,
+                    "transportRatio": 5,
+                    "packagingRatio": 9,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 40,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/512086200000"
+        },
+        "usageInformation": {
+            "additionalInformation": "Cleanses thoroughly and is gentle to the skin. The gentle formula is also suitable for frequent hand washing and the whole family. pH skin neutral."
+        },
+        "otherInformation": {
+            "articleNumber": "512086200000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Festseifen"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312295687"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/c145df96de15f36312b8c8bc2a07bab996d7fa2f/m-budget-cream-soap-white-blossom.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494826",
+            "name": "Body care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care"
+            ]
+        },
+        {
+            "id": "7495241",
+            "name": "Soaps",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care",
+                "soaps"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/512086200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "0.50",
+            "advertisedDisplayValue": "0.50",
+            "effectiveDisplayValue": "0.50",
+            "multiplier": 1,
+            "value": 0.5,
+            "effectiveValue": 0.5,
+            "advertisedValue": 0.5,
+            "unitPrice": {
+                "value": 0.33,
+                "unit": "100g"
+            }
+        },
+        "quantity": "150g",
+        "quantityPrice": "0.33/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T19:52:33"
+}

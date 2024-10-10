@@ -1,0 +1,121 @@
+{
+    "uid": 100047882,
+    "migrosId": "106275900000",
+    "migrosOnlineId": "5749466",
+    "name": "Ragout stew",
+    "brand": "Le Chef",
+    "brandLine": "Cooking",
+    "title": "Le Chef Cooking · Ragout stew",
+    "description": "Le Chef Ragout stew ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Le Chef",
+                "slug": "le-chef",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076889/brands/LeChef_2017_Logo"
+            },
+            "ingredients": "Koriander, Ingwer, Pfeffer weiss, Piment, Muskatnuss.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 5,
+                    "productionRatio": 77,
+                    "transportRatio": 5,
+                    "packagingRatio": 16,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg"
+                }
+            },
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/106275900000"
+        },
+        "otherInformation": {
+            "articleNumber": "106275900000",
+            "legalDesignation": "Gewürzmischung",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Production process",
+                    "value": "Ohne Zusatzstoffe"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Glas"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312310809"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ae2f320a4be4c4db7fe3d174a027028a9f1a821b/le-chef-ragout-eintopf.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494776",
+            "name": "Spices & sauces",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces"
+            ]
+        },
+        {
+            "id": "7494984",
+            "name": "Spices, herbs & seasonings",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces",
+                "spices-herbs-seasonings"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/106275900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.50",
+            "advertisedDisplayValue": "3.50",
+            "effectiveDisplayValue": "3.50",
+            "multiplier": 1,
+            "value": 3.5,
+            "effectiveValue": 3.5,
+            "advertisedValue": 3.5,
+            "unitPrice": {
+                "value": 7.8,
+                "unit": "100g"
+            }
+        },
+        "quantity": "45g",
+        "quantityPrice": "7.80/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T10:50:14"
+}

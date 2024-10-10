@@ -1,0 +1,142 @@
+{
+    "uid": 100022946,
+    "migrosId": "111474600000",
+    "name": "Schoggi-Grittibänz",
+    "title": "Schoggi-Grittibänz",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "nutritionalCharacteristics": [
+                "Vegetarian"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegetarian"
+                }
+            ],
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 9,
+                    "productionRatio": 86,
+                    "transportRatio": 4,
+                    "packagingRatio": 10,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/111474600000"
+        },
+        "otherInformation": {
+            "articleNumber": "111474600000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "vegetarian"
+                },
+                {
+                    "code": "Occasion",
+                    "value": "St. Nikolaus"
+                },
+                {
+                    "code": "Sugar-free",
+                    "value": "No"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Folienverpackung"
+                },
+                {
+                    "code": "Type of pastry /spread",
+                    "value": "Hefegebäck"
+                },
+                {
+                    "code": "Resealable",
+                    "value": "No"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                },
+                {
+                    "code": "Number of removable individual units",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7616700014532"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/74353a541c2365bde09a298b75c5d23f1023505d/schoggi-grittibaenz.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/06d5553778fac56b63cc74366f842e1f2eb596d2.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494764",
+            "name": "Bread & rusk",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "bread-rusk"
+            ]
+        },
+        {
+            "id": "7494929",
+            "name": "Packaged bread",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "bread-rusk",
+                "packaged-bread"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/111474600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.–",
+            "advertisedDisplayValue": "2.–",
+            "effectiveDisplayValue": "2.–",
+            "multiplier": 1,
+            "value": 2,
+            "effectiveValue": 2,
+            "advertisedValue": 2,
+            "unitPrice": {
+                "value": 2,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100g",
+        "quantityPrice": "2.–/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T19:42:19"
+}

@@ -1,0 +1,101 @@
+{
+    "uid": 100164220,
+    "migrosId": "111770705200",
+    "name": "Butterweggli",
+    "brand": "In-store bakery",
+    "title": "Butterweggli",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "brand": {
+                "name": "In-store bakery",
+                "slug": "in-store-bakery"
+            },
+            "rating": {
+                "nbReviews": 22,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/111770705200"
+        },
+        "otherInformation": {
+            "articleNumber": "111770705200",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613269915980"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/6bfa61e49e9b72af5b814dd192dba10fb4797bdb/butterweggli.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494763",
+            "name": "Fresh bread",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "fresh-bread"
+            ]
+        },
+        {
+            "id": "7494925",
+            "name": "Pastries",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "fresh-bread",
+                "pastries"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/111770705200",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "0.80",
+            "advertisedDisplayValue": "0.80",
+            "effectiveDisplayValue": "0.80",
+            "multiplier": 1,
+            "value": 0.8,
+            "effectiveValue": 0.8,
+            "advertisedValue": 0.8,
+            "unitPrice": {
+                "value": 1.23,
+                "unit": "100g"
+            }
+        },
+        "quantity": "65g",
+        "quantityPrice": "1.23/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T15:48:27"
+}

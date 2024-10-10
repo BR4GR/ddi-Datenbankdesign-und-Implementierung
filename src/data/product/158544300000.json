@@ -1,0 +1,209 @@
+{
+    "uid": 100053179,
+    "migrosId": "158544300000",
+    "name": "Sharri Ayran Joghurtgetränk",
+    "brand": "Sharri",
+    "title": "Sharri Ayran Joghurtgetränk",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Sharri",
+                "slug": "sharri",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1714996494/brands/Sharri_JT6"
+            },
+            "nutritionalCharacteristics": [
+                "Vegetarian"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegetarian"
+                }
+            ],
+            "ingredients": "JOGHURT (55%), Wasser (43%), Speisesalz, Stabilisatoren (E466, E440, E410).",
+            "allergens": "Milk and its derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 8,
+                    "productionRatio": 84,
+                    "transportRatio": 4,
+                    "packagingRatio": 11,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 28,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/158544300000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 ml"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "150 kJ (37 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "2 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "1.2 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "2.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "2.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "2 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.8 g",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "portionSentence": "1 pack ≈ 1 serving",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "158544300000",
+            "legalDesignation": "Erfrischungsgetränk aus Joghurt und Wasser",
+            "distributorName": "Maestral AG",
+            "distributorStreetAndNumber": "Giessenstrasse 11, 8953 Dietikon",
+            "remarks": [
+                {
+                    "code": "Aufbewahrungshinweise für den Konsumenten",
+                    "value": "0°C bis +8°C"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegetarian"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "TetraPak"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                },
+                {
+                    "code": "Type of soft drink",
+                    "value": "Ayran"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7640116360549"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/482ef0ee82e35c1bf21998d8c15fc7b7cae3a515/sharri-ayran-joghurtgetraenk.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494779",
+            "name": "International food",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "international-food"
+            ]
+        },
+        {
+            "id": "7495002",
+            "name": "Balkans",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "international-food",
+                "balkans"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/158544300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "0.95",
+            "advertisedDisplayValue": "0.95",
+            "effectiveDisplayValue": "0.95",
+            "multiplier": 1,
+            "value": 0.95,
+            "effectiveValue": 0.95,
+            "advertisedValue": 0.95,
+            "unitPrice": {
+                "value": 0.29,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "330ml",
+        "quantityPrice": "0.29/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-18T09:37:41"
+}

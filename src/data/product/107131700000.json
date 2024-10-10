@@ -1,0 +1,125 @@
+{
+    "uid": 100161999,
+    "migrosId": "107131700000",
+    "migrosOnlineId": "12358320",
+    "name": "coffee balls",
+    "brand": "CoffeeB",
+    "brandLine": "Illy",
+    "versioning": "Espresso Classico. Intensity: 5/9",
+    "title": "CoffeeB Illy · coffee balls · Espresso Classico. Intensity: 5/9",
+    "description": "CoffeeB coffee balls Espresso Classico. Intensity: 5/9",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "CoffeeB",
+                "slug": "coffeeb"
+            },
+            "ingredients": "roasted coffee.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 124,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/107131700000"
+        },
+        "usageInformation": {
+            "usage": "Suitable for the CoffeeB Globe and Limited machine"
+        },
+        "otherInformation": {
+            "articleNumber": "107131700000",
+            "legalDesignation": "9 BÄLLE, Röstkaffee, gemahlen",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store in a dry place at room temperature. After opening, enjoy within a few weeks."
+                },
+                {
+                    "code": "Production information",
+                    "value": "Packaged in a protective atmosphere."
+                },
+                {
+                    "code": "Warning and other mandatory information",
+                    "value": "Coffee balls not suitable for direct consumption"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7616500941298",
+        "8003753224367"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/da06bb690c110f2681eced02919fb576745ec6ef/coffeeb-illy-espresso-classico.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494772",
+            "name": "Coffee",
+            "slugs": [
+                "drinks-coffee-tea",
+                "coffee"
+            ]
+        },
+        {
+            "id": "10034619",
+            "name": "CoffeeB",
+            "slugs": [
+                "drinks-coffee-tea",
+                "coffee",
+                "coffeeb"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/107131700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.95",
+            "advertisedDisplayValue": "4.95",
+            "effectiveDisplayValue": "4.95",
+            "multiplier": 1,
+            "value": 4.95,
+            "effectiveValue": 4.95,
+            "advertisedValue": 4.95,
+            "unitPrice": {
+                "value": 0.55,
+                "unit": "piece"
+            }
+        },
+        "quantity": "9 Balls",
+        "quantityPrice": "0.55/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "REGION",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679482984/labels/suisse",
+                "description": "Switzerland"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:04:16"
+}

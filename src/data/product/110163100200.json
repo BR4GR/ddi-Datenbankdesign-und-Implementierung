@@ -1,0 +1,164 @@
+{
+    "uid": 100147987,
+    "migrosId": "110163100200",
+    "name": "Änisbrötli",
+    "brand": "Frisch & Handgemacht",
+    "title": "Änisbrötli",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Frisch & Handgemacht",
+                "slug": "frisch-handgemacht",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652249913/brands/frisch-handgemacht"
+            },
+            "ingredients": "Zucker (CH), WEIZENmehl (CH), EIER (aus Bodenhaltung), Kirsch 1,4%, Anis 0,8%\n",
+            "allergenIndication": "Kann Milch, Baumnüsse, Sesam, Haselnüsse, Mandeln enthalten.\n",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 9,
+                    "productionRatio": 87,
+                    "transportRatio": 3,
+                    "packagingRatio": 10,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/110163100200"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1398 kJ (334 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "71 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "6.3 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "110163100200",
+            "legalDesignation": "Anisbrötli",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613269799146"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/15adcc2d1c871cb0f162dc3553fe57256c3f49bc/aenisbroetli.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/624545a767f570e0012721aaab72c68f6cef197b.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494781",
+            "name": "Biscuits",
+            "slugs": [
+                "snacks-sweets",
+                "biscuits"
+            ]
+        },
+        {
+            "id": "7495011",
+            "name": "Biscuits & sponge fingers",
+            "slugs": [
+                "snacks-sweets",
+                "biscuits",
+                "biscuits-sponge-fingers"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/110163100200",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "8.80",
+            "advertisedDisplayValue": "8.80",
+            "effectiveDisplayValue": "8.80",
+            "multiplier": 1,
+            "value": 8.8,
+            "effectiveValue": 8.8,
+            "advertisedValue": 8.8,
+            "unitPrice": {
+                "value": 4.4,
+                "unit": "100g"
+            }
+        },
+        "quantity": "200g",
+        "quantityPrice": "4.40/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T19:40:54"
+}

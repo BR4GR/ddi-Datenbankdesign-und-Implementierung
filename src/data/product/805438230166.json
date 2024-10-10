@@ -1,0 +1,190 @@
+{
+    "uid": 100131482,
+    "migrosId": "805438230166",
+    "name": "jacket",
+    "brand": "Kids",
+    "title": "jacket",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L70",
+                    "name": "GRS",
+                    "slug": "grs",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1707834844/labels/GRS-1"
+                }
+            ],
+            "brand": {
+                "name": "Kids",
+                "slug": "kids",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076840/brands/KIDS_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/805438230166"
+        },
+        "otherInformation": {
+            "articleNumber": "805438230166",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Zielgruppe",
+                    "value": "Kinder"
+                },
+                {
+                    "code": "Article type",
+                    "value": "Regenjacke"
+                },
+                {
+                    "code": "Altersgruppe",
+                    "value": "Kinder"
+                },
+                {
+                    "code": "Look",
+                    "value": "Kapuze, Knöpfe, Reissverschluss, uni"
+                },
+                {
+                    "code": "Material",
+                    "value": "Polyurethan / Polyuréthane / Poliuretanica"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "55 %"
+                },
+                {
+                    "code": "Age",
+                    "value": "4-6 Jahre"
+                },
+                {
+                    "code": "Material 2",
+                    "value": "Polyester"
+                },
+                {
+                    "code": "Proportion of material 2",
+                    "value": "45 %"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "gefüttert, Reflector, Wasserabweisend"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871093247"
+    ],
+    "variants": {
+        "baseProductMigrosId": "805438200000",
+        "mainVariantMigrosId": "805438230066",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "2-4 // 98/104",
+                    "color": "sage green"
+                },
+                "migrosId": "805438230066"
+            },
+            {
+                "declinationOptions": {
+                    "size": "4-6 // 110/116",
+                    "color": "sage green"
+                },
+                "migrosId": "805438230166"
+            },
+            {
+                "declinationOptions": {
+                    "size": "6-8 // 122/128",
+                    "color": "sage green"
+                },
+                "migrosId": "805438230266"
+            },
+            {
+                "declinationOptions": {
+                    "size": "8-10 // 134/140",
+                    "color": "sage green"
+                },
+                "migrosId": "805438230366"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "sage green",
+                "options": [
+                    "sage green"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "4-6 // 110/116",
+                "options": [
+                    "2-4 // 98/104",
+                    "4-6 // 110/116",
+                    "6-8 // 122/128",
+                    "8-10 // 134/140"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/92f954d7f49796585113612cf64e61aaa8b18bd2/jacket.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "11117258",
+            "name": "Children's clothing",
+            "slugs": [
+                "baby-kids",
+                "childrens-clothing"
+            ]
+        },
+        {
+            "id": "11124195",
+            "name": "Outdoor children's clothes",
+            "slugs": [
+                "baby-kids",
+                "childrens-clothing",
+                "outdoor-childrens-clothes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/805438230166",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "34.95",
+            "advertisedDisplayValue": "34.95",
+            "effectiveDisplayValue": "34.95",
+            "multiplier": 1,
+            "value": 34.95,
+            "effectiveValue": 34.95,
+            "advertisedValue": 34.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T10:03:59"
+}

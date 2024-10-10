@@ -1,0 +1,181 @@
+{
+    "uid": 100013451,
+    "migrosId": "155129900000",
+    "migrosOnlineId": "5056067",
+    "name": "mexicana tuna Salad",
+    "brand": "Rio Mare",
+    "brandLine": "Insalatissime",
+    "title": "Rio Mare Insalatissime · mexicana tuna Salad",
+    "description": "Rio Mare mexicana tuna Salad  ready to eat",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L05",
+                    "name": "MSC",
+                    "slug": "msc",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483571/labels/MSC_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "Rio Mare",
+                "slug": "rio-mare",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077112/brands/Rio_Mare_Bolton_Swiss_SA_Logo"
+            },
+            "ingredients": "TUNA** 26%, red beans 24%, corn 20%, corn oil, carrots 6%, peppers 6%, salt, flavoring. It may contains GLUTEN.**Euthynnus (Katsuwonus) pelamis",
+            "allergenIndication": "May contain: Gluten-containing cereals",
+            "allergens": "Fish and their derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 30,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/155129900000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "~ 820 kJ (~ 197 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "~ 13 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "~ 2 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "~ 8.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "~ 2 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "~ 10 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "~ 1.2 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "155129900000",
+            "legalDesignation": "Ready meal of vegetable and tuna",
+            "identificationMark": "IT5 CE",
+            "distributorName": "Bolton Swiss SA",
+            "distributorStreetAndNumber": "Via Lisano 3, 6900 Lugano-Massagno"
+        }
+    },
+    "gtins": [
+        "8004030026018"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/2541de5ef1e2a77165326922f22c1deaafb637e8/rio-mare-msc-insalatissime-messicana.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494777",
+            "name": "Canned food & convenience food",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "canned-food-convenience-food"
+            ]
+        },
+        {
+            "id": "7494992",
+            "name": "Ready meals & ravioli",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "canned-food-convenience-food",
+                "ready-meals-ravioli"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/155129900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.80",
+            "advertisedDisplayValue": "3.80",
+            "effectiveDisplayValue": "3.80",
+            "multiplier": 1,
+            "value": 3.8,
+            "effectiveValue": 3.8,
+            "advertisedValue": 3.8,
+            "unitPrice": {
+                "value": 2.38,
+                "unit": "100g"
+            }
+        },
+        "quantity": "160g",
+        "quantityPrice": "2.38/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:11:45"
+}

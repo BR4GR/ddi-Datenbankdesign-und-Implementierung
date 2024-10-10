@@ -1,0 +1,174 @@
+{
+    "uid": 100132480,
+    "migrosId": "709016800020",
+    "name": "Vacuum bottle",
+    "brand": "MIGROS KITCHEN & CO.",
+    "title": "Vacuum bottle",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "MIGROS KITCHEN & CO.",
+                "slug": "migros-kitchen-co",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1715075047/brands/MIGROS_KitchenCo_CS4"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 8,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/709016800020"
+        },
+        "otherInformation": {
+            "articleNumber": "709016800020",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613433624106"
+    ],
+    "variants": {
+        "baseProductMigrosId": "709016800000",
+        "mainVariantMigrosId": "709016800036",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "black",
+                    "size": "000"
+                },
+                "migrosId": "709016800020"
+            },
+            {
+                "declinationOptions": {
+                    "color": "rosa",
+                    "size": "000"
+                },
+                "migrosId": "709016800036"
+            },
+            {
+                "declinationOptions": {
+                    "color": "pink",
+                    "size": "000"
+                },
+                "migrosId": "709016800039"
+            },
+            {
+                "declinationOptions": {
+                    "color": "blue",
+                    "size": "000"
+                },
+                "migrosId": "709016800040"
+            },
+            {
+                "declinationOptions": {
+                    "color": "türkis",
+                    "size": "000"
+                },
+                "migrosId": "709016800044"
+            },
+            {
+                "declinationOptions": {
+                    "color": "fliederlila",
+                    "size": "000"
+                },
+                "migrosId": "709016800047"
+            },
+            {
+                "declinationOptions": {
+                    "color": "dgruen",
+                    "size": "000"
+                },
+                "migrosId": "709016800063"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "black",
+                "options": [
+                    "black",
+                    "rosa",
+                    "pink",
+                    "blue",
+                    "türkis",
+                    "fliederlila",
+                    "dgruen"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "000",
+                "options": [
+                    "000"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/7942cbe640cf9e7b52db7d65e4c7886883782c2f/vacuum-bottle.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494814",
+            "name": "Kitchen & dining",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining"
+            ]
+        },
+        {
+            "id": "7495178",
+            "name": "Table",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining",
+                "table"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/709016800020",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "19.95",
+            "advertisedDisplayValue": "19.95",
+            "effectiveDisplayValue": "19.95",
+            "multiplier": 1,
+            "value": 19.95,
+            "effectiveValue": 19.95,
+            "advertisedValue": 19.95,
+            "unitPrice": {
+                "value": 19.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "19.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:38:49"
+}

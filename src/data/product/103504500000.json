@@ -1,0 +1,108 @@
+{
+    "uid": 100033000,
+    "migrosId": "103504500000",
+    "migrosOnlineId": "5975161",
+    "name": "Wine vinegar mildly spiced",
+    "brand": "Chirat",
+    "brandLine": "Kressi",
+    "versioning": "with herbs",
+    "title": "Chirat Kressi · Wine vinegar mildly spiced · with herbs",
+    "description": "Chirat Wine vinegar mildly spiced with herbs",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Chirat",
+                "slug": "chirat"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/103504500000"
+        },
+        "otherInformation": {
+            "articleNumber": "103504500000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Packaging type",
+                    "value": "Bottle"
+                },
+                {
+                    "code": "Acid content",
+                    "value": "4 %"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "zum marinieren geeignet"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "8714100609071"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ff80ebe79a2842e6ad96552e502b1965b18004d0/chirat-kressi-kraeuteressig.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494776",
+            "name": "Spices & sauces",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces"
+            ]
+        },
+        {
+            "id": "7494982",
+            "name": "Oil & vinegar",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces",
+                "oil-vinegar"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/103504500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.40",
+            "advertisedDisplayValue": "4.40",
+            "effectiveDisplayValue": "4.40",
+            "multiplier": 1,
+            "value": 4.4,
+            "effectiveValue": 4.4,
+            "advertisedValue": 4.4,
+            "unitPrice": {
+                "value": 0.22,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "2 x 1000ml",
+        "quantityPrice": "0.22/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:43:20"
+}

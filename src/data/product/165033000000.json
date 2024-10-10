@@ -1,0 +1,116 @@
+{
+    "uid": 100146062,
+    "migrosId": "165033000000",
+    "name": "Riberalves MSC Pasteis de bacalhau",
+    "brand": "Riberalves",
+    "title": "Riberalves MSC Pasteis de bacalhau",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L05",
+                    "name": "MSC",
+                    "slug": "msc",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483571/labels/MSC_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "Riberalves",
+                "slug": "riberalves",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1714469499/brands/Riberalves_JN8"
+            },
+            "rating": {
+                "nbReviews": 4,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/165033000000"
+        },
+        "otherInformation": {
+            "articleNumber": "165033000000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Production process",
+                    "value": "Nachhaltige Fischerei"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "5601809011041",
+        "5601809012246"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/27ff80978a670aa4f4069d42d98d12cee40b79ee/riberalves-msc-pasteis-de-bacalhau.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494738",
+            "name": "Frozen food",
+            "slugs": [
+                "frozen-food"
+            ]
+        },
+        {
+            "id": "7494798",
+            "name": "Fish & seafood",
+            "slugs": [
+                "frozen-food",
+                "fish-seafood"
+            ]
+        },
+        {
+            "id": "7495102",
+            "name": "Breaded fish & fish fingers",
+            "slugs": [
+                "frozen-food",
+                "fish-seafood",
+                "breaded-fish-fish-fingers"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/165033000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.95",
+            "advertisedDisplayValue": "4.95",
+            "effectiveDisplayValue": "4.95",
+            "multiplier": 1,
+            "value": 4.95,
+            "effectiveValue": 4.95,
+            "advertisedValue": 4.95,
+            "unitPrice": {
+                "value": 1.38,
+                "unit": "100g"
+            }
+        },
+        "quantity": "360g",
+        "quantityPrice": "1.38/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483530/labels/frozen",
+                "description": "frozen"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T05:27:33"
+}

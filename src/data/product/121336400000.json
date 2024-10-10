@@ -1,0 +1,190 @@
+{
+    "uid": 100125491,
+    "migrosId": "121336400000",
+    "migrosOnlineId": "11968474",
+    "name": "Flavoured beer",
+    "brand": "Feldschlösschen",
+    "brandLine": "Pfirsich",
+    "versioning": "alcohol free - 0.0%",
+    "title": "Feldschlösschen Pfirsich · Flavoured beer · alcohol free - 0.0%",
+    "description": "Feldschlösschen Flavoured beer alcohol free - 0.0%",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Feldschlösschen",
+                "slug": "feldschlosschen",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076706/brands/Feldschli%CC%82sschen_Feldschlo%CC%88sschen_Getra%CC%88nke_AG_Logo"
+            },
+            "ingredients": "Alkoholfreies Bier 60% (Wasser, GERSTENMALZ, Kohlendioxid, Hopfen) und Limonade 40% (Wasser, Zucker, Pfirsichsaftkonzentrat (4.5%), Kohlendioxid, Säuerungsmittel Citronensäure, Stabilisator Gummi Arabicum, natürliches Aroma)",
+            "allergens": "Barley and barley products",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "alcoholContent": 0.0,
+            "rating": {
+                "nbReviews": 27,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/121336400000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 ml"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "123 kJ (29 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "6.8 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "5.1 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "0.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "121336400000",
+            "legalDesignation": "Mischgetränk aus alkoholfreiem Bier und einer Limonade, Fruchtgehalt 4.5%, pasteurisiert",
+            "distributorName": "Feldschlösschen Getränke AG",
+            "distributorStreetAndNumber": "Theophil-Roniger-Strasse, 4310 Rheinfelden",
+            "remarks": [
+                {
+                    "code": "Percentage of alcohol by volume [%]",
+                    "value": "0"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7612900347753"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/52549a6074c747bd74e3b0efe9d878ca13a1c1df/feldschloesschen-pfirsich-alkoholfrei.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/c88a6be14924f200701213fd346d7063c415fb0b.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494737",
+            "name": "Wine, beer & spirits",
+            "slugs": [
+                "wine-beer-spirits"
+            ]
+        },
+        {
+            "id": "10583761",
+            "name": "Alcohol free drinks",
+            "slugs": [
+                "wine-beer-spirits",
+                "alcohol-free-drinks"
+            ]
+        },
+        {
+            "id": "10614101",
+            "name": "Beers & ciders",
+            "slugs": [
+                "wine-beer-spirits",
+                "alcohol-free-drinks",
+                "beers-ciders"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/121336400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "11.95",
+            "advertisedDisplayValue": "11.95",
+            "effectiveDisplayValue": "11.95",
+            "multiplier": 1,
+            "value": 11.95,
+            "effectiveValue": 11.95,
+            "advertisedValue": 11.95,
+            "unitPrice": {
+                "value": 0.4,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "6 x 500ml",
+        "quantityPrice": "0.40/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "REGION",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483130/labels/argovie",
+                "description": "Aargau"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T13:24:55"
+}

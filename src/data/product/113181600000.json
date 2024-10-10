@@ -1,0 +1,130 @@
+{
+    "uid": 100047970,
+    "migrosId": "113181600000",
+    "migrosOnlineId": "4963276",
+    "name": "Puff pastries",
+    "brand": "M-Classic",
+    "versioning": "with apricot filling",
+    "title": "M-Classic · Puff pastries · with apricot filling",
+    "description": "M-Classic Puff pastries with apricot filling",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Classic",
+                "slug": "m-classic",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252457/brands/m-classic"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 3,
+                    "co2CarKmEquivalent": 11,
+                    "productionRatio": 89,
+                    "transportRatio": 3,
+                    "packagingRatio": 8,
+                    "image": "https://image.migros.ch/original/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "co2KgRange": "2 - 4.7 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 26,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/113181600000"
+        },
+        "otherInformation": {
+            "articleNumber": "113181600000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Number of removable individual units",
+                    "value": "6"
+                },
+                {
+                    "code": "Type of cookie/pastry",
+                    "value": "Blätterteiggebäck"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Folienverpackung"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7617027068116",
+        "7617002706811",
+        "8007380000066"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/df8a8981f247fa5f5b72cbf3adade40e82aa474b/m-classic-croissant-aprikosen.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494764",
+            "name": "Bread & rusk",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "bread-rusk"
+            ]
+        },
+        {
+            "id": "7494929",
+            "name": "Packaged bread",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "bread-rusk",
+                "packaged-bread"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/113181600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.65",
+            "advertisedDisplayValue": "2.65",
+            "effectiveDisplayValue": "2.65",
+            "multiplier": 1,
+            "value": 2.65,
+            "effectiveValue": 2.65,
+            "advertisedValue": 2.65,
+            "unitPrice": {
+                "value": 0.98,
+                "unit": "100g"
+            }
+        },
+        "quantity": "270g",
+        "quantityPrice": "0.98/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T19:44:44"
+}

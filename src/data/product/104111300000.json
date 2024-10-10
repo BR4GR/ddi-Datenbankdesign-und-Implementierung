@@ -1,0 +1,188 @@
+{
+    "uid": 100049641,
+    "migrosId": "104111300000",
+    "name": "BelTicino Gocce d'oro",
+    "brand": "Bel Ticino",
+    "title": "BelTicino Gocce d'oro",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Bel Ticino",
+                "slug": "bel-ticino"
+            },
+            "ingredients": "Hartweizen",
+            "allergens": "Cereal grains containing gluten and its derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 7,
+                    "productionRatio": 83,
+                    "transportRatio": 4,
+                    "packagingRatio": 12,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 11,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/104111300000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy value in kcal",
+                        "values": [
+                            "~ 360 kcal",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "~ 1.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "~ 0.2 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "~ 75 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "~ 2.7 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "~ 12 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "~ 0.01 g",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "portionSentence": "1 pack ≈ 5 servings",
+            "isAnalyticalConstituents": false
+        },
+        "usageInformation": {
+            "preparationInstructions": "Siehe oben"
+        },
+        "otherInformation": {
+            "articleNumber": "104111300000",
+            "distributorName": "Pastificio Simona SA",
+            "distributorStreetAndNumber": "Via Monte Ceneri 10, 6572 Qquartino",
+            "remarks": [
+                {
+                    "code": "Warnhinweise / Pflichthinweise",
+                    "value": "Kühl und trocken lagern"
+                },
+                {
+                    "code": "Aufbewahrungshinweise für den Konsumenten",
+                    "value": "Mindestens haltbar  bis:"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610717134658"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/7f7a4c544eaabb395734788583ba487edba378a0/belticino-gocce-doro.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494775",
+            "name": "Pasta, rice, semolina & grain",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "pasta-rice-semolina-grain"
+            ]
+        },
+        {
+            "id": "7494976",
+            "name": "Pasta",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "pasta-rice-semolina-grain",
+                "pasta"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/104111300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.40",
+            "advertisedDisplayValue": "1.40",
+            "effectiveDisplayValue": "1.40",
+            "multiplier": 1,
+            "value": 1.4,
+            "effectiveValue": 1.4,
+            "advertisedValue": 1.4,
+            "unitPrice": {
+                "value": 0.56,
+                "unit": "100g"
+            }
+        },
+        "quantity": "250g",
+        "quantityPrice": "0.56/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:51:35"
+}

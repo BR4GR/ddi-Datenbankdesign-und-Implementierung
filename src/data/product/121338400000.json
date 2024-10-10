@@ -1,0 +1,182 @@
+{
+    "uid": 100123027,
+    "migrosId": "121338400000",
+    "migrosOnlineId": "10486142",
+    "name": "White beer",
+    "brand": "1664",
+    "brandLine": "Blanc",
+    "versioning": "Alcohol free",
+    "title": "1664 Blanc · White beer · Alcohol free",
+    "description": "1664 White beer Alcohol free",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "1664",
+                "slug": "1664"
+            },
+            "ingredients": "Wasser, GERSTENMALZ, WEIZENMALZ, Zucker, Kohlendioxid, natürliche Aromen, Säuerungsmittel: Citronensäure, Stabilisator: Gummi arabicum, Hopfenextrakt",
+            "allergens": "Barley and barley products, Wheat and their derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "alcoholContent": 0.0,
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/121338400000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 ml"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "121 kJ (29 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "0.2 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "6.7 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "3.8 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "0.4 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.01 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "121338400000",
+            "legalDesignation": "Alkoholfreies Weizenbier mit Zitrusaroma",
+            "distributorName": "Feldschlösschen Getränke AG",
+            "distributorStreetAndNumber": "Theophil-Roniger-Strasse, 4310 Rheinfelden",
+            "remarks": [
+                {
+                    "code": "Percentage of alcohol by volume [%]",
+                    "value": "0"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "3080216058603"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/84b8209e686193d35295a900793930202f769941/1664-blanc-alkoholfrei.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/53da7ed2d72c30512889b99a812f62a970d2a880.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494737",
+            "name": "Wine, beer & spirits",
+            "slugs": [
+                "wine-beer-spirits"
+            ]
+        },
+        {
+            "id": "10583761",
+            "name": "Alcohol free drinks",
+            "slugs": [
+                "wine-beer-spirits",
+                "alcohol-free-drinks"
+            ]
+        },
+        {
+            "id": "10614101",
+            "name": "Beers & ciders",
+            "slugs": [
+                "wine-beer-spirits",
+                "alcohol-free-drinks",
+                "beers-ciders"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/121338400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "8.50",
+            "advertisedDisplayValue": "8.50",
+            "effectiveDisplayValue": "8.50",
+            "multiplier": 1,
+            "value": 8.5,
+            "effectiveValue": 8.5,
+            "advertisedValue": 8.5,
+            "unitPrice": {
+                "value": 0.57,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "6 x 250ml",
+        "quantityPrice": "0.57/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:48:41"
+}

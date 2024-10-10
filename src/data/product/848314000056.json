@@ -1,0 +1,160 @@
+{
+    "uid": 100094956,
+    "migrosId": "848314000056",
+    "name": "Gymbag Kids",
+    "brand": "MIGROS TRAVEL & CO.",
+    "title": "Gymbag Kids",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "MIGROS TRAVEL & CO.",
+                "slug": "migros-travel-co",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1689862767/brands/Migros_Travel_und_Co"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/848314000056"
+        },
+        "otherInformation": {
+            "articleNumber": "848314000056",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Height",
+                    "value": "38 cm"
+                },
+                {
+                    "code": "Width",
+                    "value": "32 cm"
+                },
+                {
+                    "code": "Weight",
+                    "value": "0.1 kg"
+                },
+                {
+                    "code": "Volume",
+                    "value": "3 l"
+                },
+                {
+                    "code": "Category/theme",
+                    "value": "Sportbeutel"
+                },
+                {
+                    "code": "Main material",
+                    "value": "Recycling Polyester"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613434680637"
+    ],
+    "variants": {
+        "baseProductMigrosId": "848314000000",
+        "mainVariantMigrosId": "848314000040",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "blue"
+                },
+                "migrosId": "848314000040"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "rust"
+                },
+                "migrosId": "848314000056"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "rust",
+                "options": [
+                    "blue",
+                    "rust"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "one Size",
+                "options": [
+                    "one Size"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/6b4337282acb25f085a28b442a4d3552850dca60/gymbag-kids.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10555197",
+            "name": "Travel",
+            "slugs": [
+                "clothing-accessories",
+                "travel"
+            ]
+        },
+        {
+            "id": "10555217",
+            "name": "Children's luggage",
+            "slugs": [
+                "clothing-accessories",
+                "travel",
+                "childrens-luggage"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/848314000056",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "12.95",
+            "advertisedDisplayValue": "12.95",
+            "effectiveDisplayValue": "12.95",
+            "multiplier": 1,
+            "value": 12.95,
+            "effectiveValue": 12.95,
+            "advertisedValue": 12.95,
+            "unitPrice": {
+                "value": 12.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "12.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T14:27:51"
+}

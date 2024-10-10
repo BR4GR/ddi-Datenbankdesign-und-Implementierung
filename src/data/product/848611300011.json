@@ -1,0 +1,180 @@
+{
+    "uid": 100094799,
+    "migrosId": "848611300011",
+    "name": "Folding Bag",
+    "brand": "MIGROS TRAVEL & CO.",
+    "title": "Folding Bag",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "MIGROS TRAVEL & CO.",
+                "slug": "migros-travel-co",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1689862767/brands/Migros_Travel_und_Co"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 14,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/848611300011"
+        },
+        "otherInformation": {
+            "articleNumber": "848611300011",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Height",
+                    "value": "38 cm"
+                },
+                {
+                    "code": "Width",
+                    "value": "39 cm"
+                },
+                {
+                    "code": "Weight",
+                    "value": "0.037 kg"
+                },
+                {
+                    "code": "Volume",
+                    "value": "13 l"
+                },
+                {
+                    "code": "Category/theme",
+                    "value": "Einkaufstaschen"
+                },
+                {
+                    "code": "Main material",
+                    "value": "Recycling Polyester"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "faltbar"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613434680934"
+    ],
+    "variants": {
+        "baseProductMigrosId": "848611300000",
+        "mainVariantMigrosId": "848611300011",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "offwhite",
+                    "size": "one Size"
+                },
+                "migrosId": "848611300011"
+            },
+            {
+                "declinationOptions": {
+                    "color": "blue",
+                    "size": "one Size"
+                },
+                "migrosId": "848611300040"
+            },
+            {
+                "declinationOptions": {
+                    "color": "green",
+                    "size": "one Size"
+                },
+                "migrosId": "848611300060"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "offwhite",
+                "options": [
+                    "offwhite",
+                    "blue",
+                    "green"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "one Size",
+                "options": [
+                    "one Size"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/6d6bfed239774cfefda592cbf292a323fc40ecb3/folding-bag.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a3f0a0cf836b1292e6632799d54a3dbb12e0abf0.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/453a92243e61c3f806ef6915cde100a9947b6738.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10555163",
+            "name": "Shopping",
+            "slugs": [
+                "clothing-accessories",
+                "shopping"
+            ]
+        },
+        {
+            "id": "10555170",
+            "name": "Shopping bags",
+            "slugs": [
+                "clothing-accessories",
+                "shopping",
+                "shopping-bags"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/848611300011",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.95",
+            "advertisedDisplayValue": "6.95",
+            "effectiveDisplayValue": "6.95",
+            "multiplier": 1,
+            "value": 6.95,
+            "effectiveValue": 6.95,
+            "advertisedValue": 6.95,
+            "unitPrice": {
+                "value": 6.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "6.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T09:55:39"
+}

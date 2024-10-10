@@ -1,0 +1,91 @@
+{
+    "uid": 100143699,
+    "migrosId": "220250002200",
+    "name": "Grill mi Rindssteak",
+    "brand": "Grill mi",
+    "title": "Grill mi Rindssteak",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Grill mi",
+                "slug": "grill-mi"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/220250002200"
+        },
+        "otherInformation": {
+            "articleNumber": "220250002200",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "2163606000008",
+        "181037",
+        "7613404038819"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/0a8a9f91818dc311bf1c0a79ab1b3d66e069ec69/grill-mi-rindssteak.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494747",
+            "name": "Meat & poultry",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry"
+            ]
+        },
+        {
+            "id": "7494841",
+            "name": "Beef",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry",
+                "beef"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/220250002200",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.60",
+            "advertisedDisplayValue": "6.60",
+            "effectiveDisplayValue": "6.60",
+            "multiplier": 1,
+            "value": 6.6,
+            "effectiveValue": 6.6,
+            "advertisedValue": 6.6,
+            "unitPrice": {
+                "value": 6.6,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "6.60/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:54:13"
+}

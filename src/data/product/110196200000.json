@@ -1,0 +1,134 @@
+{
+    "uid": 100050773,
+    "migrosId": "110196200000",
+    "name": "Meringues Weiss",
+    "title": "Meringues Weiss",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 6,
+                    "productionRatio": 79,
+                    "transportRatio": 6,
+                    "packagingRatio": 15,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 14,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/110196200000"
+        },
+        "otherInformation": {
+            "articleNumber": "110196200000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Production process",
+                    "value": "Aus der Region"
+                },
+                {
+                    "code": "Number of removable individual units",
+                    "value": "2 Pcs."
+                },
+                {
+                    "code": "Type of cookie/pastry",
+                    "value": "Eiweissgebäck"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Schachtel"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                },
+                {
+                    "code": "Resealable",
+                    "value": "Yes"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7623700482001"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/5a735bf01e7ecce54ec9e6b6b0f388a9b0052f58/meringues-weiss.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494781",
+            "name": "Biscuits",
+            "slugs": [
+                "snacks-sweets",
+                "biscuits"
+            ]
+        },
+        {
+            "id": "7495017",
+            "name": "Meringues & bricelet wafers",
+            "slugs": [
+                "snacks-sweets",
+                "biscuits",
+                "meringues-bricelet-wafers"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/110196200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.90",
+            "advertisedDisplayValue": "4.90",
+            "effectiveDisplayValue": "4.90",
+            "multiplier": 1,
+            "value": 4.9,
+            "effectiveValue": 4.9,
+            "advertisedValue": 4.9,
+            "unitPrice": {
+                "value": 2.72,
+                "unit": "100g"
+            }
+        },
+        "quantity": "180g",
+        "quantityPrice": "2.72/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T15:45:00"
+}

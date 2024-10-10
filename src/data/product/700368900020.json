@@ -1,0 +1,144 @@
+{
+    "uid": 100124895,
+    "migrosId": "700368900020",
+    "name": "Table runner",
+    "brand": "MIGROS KITCHEN & CO.",
+    "title": "Table runner",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "MIGROS KITCHEN & CO.",
+                "slug": "migros-kitchen-co",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1715075047/brands/MIGROS_KitchenCo_CS4"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 4,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/700368900020"
+        },
+        "otherInformation": {
+            "articleNumber": "700368900020",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Material",
+                    "value": "Baumwolle"
+                },
+                {
+                    "code": "Width",
+                    "value": "45 cm"
+                },
+                {
+                    "code": "Color",
+                    "value": "schwarz"
+                },
+                {
+                    "code": "Length",
+                    "value": "150 cm"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613434778358"
+    ],
+    "variants": {
+        "baseProductMigrosId": "700368900000",
+        "mainVariantMigrosId": "700368900020",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "000",
+                    "color": "black"
+                },
+                "migrosId": "700368900020"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "black",
+                "options": [
+                    "black"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "000",
+                "options": [
+                    "000"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/9465b584e649edb3dceb45ebe4a8414baa3c73e8/table-runner.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494814",
+            "name": "Kitchen & dining",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining"
+            ]
+        },
+        {
+            "id": "7495178",
+            "name": "Table",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining",
+                "table"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/700368900020",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "17.95",
+            "advertisedDisplayValue": "17.95",
+            "effectiveDisplayValue": "17.95",
+            "multiplier": 1,
+            "value": 17.95,
+            "effectiveValue": 17.95,
+            "advertisedValue": 17.95,
+            "unitPrice": {
+                "value": 17.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "17.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-18T13:28:10"
+}

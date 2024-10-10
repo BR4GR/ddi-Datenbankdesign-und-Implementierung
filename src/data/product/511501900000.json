@@ -1,0 +1,110 @@
+{
+    "uid": 100053123,
+    "migrosId": "511501900000",
+    "migrosOnlineId": "11941187",
+    "name": "Eau de Parfum",
+    "brand": "Ulric de Varens",
+    "brandLine": "Mini Pink",
+    "title": "Ulric de Varens Mini Pink · Eau de Parfum",
+    "description": "Ulric de Varens Eau de Parfum ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Ulric de Varens",
+                "slug": "ulric-de-varens"
+            },
+            "rating": {
+                "nbReviews": 10,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/511501900000"
+        },
+        "otherInformation": {
+            "articleNumber": "511501900000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Eau de Parfum"
+                },
+                {
+                    "code": "Customer group",
+                    "value": "Frauen"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "3326240003814"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/70b9da7f8750b4080185bd6c4eaf432cd0ab84c9/udv-mini-pink-edp.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/f7bdda21892c0df511ecef3f892fb7f3b72a226c.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494826",
+            "name": "Body care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care"
+            ]
+        },
+        {
+            "id": "7495243",
+            "name": "Perfumes",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care",
+                "perfumes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/511501900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.95",
+            "advertisedDisplayValue": "4.95",
+            "effectiveDisplayValue": "4.95",
+            "multiplier": 1,
+            "value": 4.95,
+            "effectiveValue": 4.95,
+            "advertisedValue": 4.95,
+            "unitPrice": {
+                "value": 19.8,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "25ml",
+        "quantityPrice": "19.80/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T15:50:02"
+}

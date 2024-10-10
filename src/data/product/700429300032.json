@@ -1,0 +1,176 @@
+{
+    "uid": 100079514,
+    "migrosId": "700429300032",
+    "name": "Napkins 1/8",
+    "brand": "MIGROS KITCHEN & CO.",
+    "title": "Napkins 1/8",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L09",
+                    "name": "FSC®",
+                    "slug": "fsc",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483057/labels/FSC_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "MIGROS KITCHEN & CO.",
+                "slug": "migros-kitchen-co",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1715075047/brands/MIGROS_KitchenCo_CS4"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 29,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/700429300032"
+        },
+        "otherInformation": {
+            "articleNumber": "700429300032",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Multipack",
+                    "value": "1/8 Falz, 25er Pack"
+                },
+                {
+                    "code": "Number of layers",
+                    "value": "3-lagig"
+                },
+                {
+                    "code": "Material",
+                    "value": "Tissue"
+                },
+                {
+                    "code": "Content",
+                    "value": "25 Pcs."
+                },
+                {
+                    "code": "Width",
+                    "value": "33 cm"
+                },
+                {
+                    "code": "Color",
+                    "value": "rot"
+                },
+                {
+                    "code": "Length",
+                    "value": "33 cm"
+                },
+                {
+                    "code": "suitable for food products",
+                    "value": "Yes"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613162076825"
+    ],
+    "variants": {
+        "baseProductMigrosId": "700429300000",
+        "mainVariantMigrosId": "700429300010",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "white",
+                    "size": "000"
+                },
+                "migrosId": "700429300010"
+            },
+            {
+                "declinationOptions": {
+                    "color": "mrot",
+                    "size": "000"
+                },
+                "migrosId": "700429300032"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "mrot",
+                "options": [
+                    "white",
+                    "mrot"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "000",
+                "options": [
+                    "000"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/125e148140ca99184513633c999feb32f4da97a2/napkins-18.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494814",
+            "name": "Kitchen & dining",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining"
+            ]
+        },
+        {
+            "id": "7495178",
+            "name": "Table",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining",
+                "table"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/700429300032",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.50",
+            "advertisedDisplayValue": "1.50",
+            "effectiveDisplayValue": "1.50",
+            "multiplier": 1,
+            "value": 1.5,
+            "effectiveValue": 1.5,
+            "advertisedValue": 1.5,
+            "unitPrice": {
+                "value": 0.06,
+                "unit": "piece"
+            }
+        },
+        "quantity": "25 Stk.",
+        "quantityPrice": "0.06/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:48:24"
+}

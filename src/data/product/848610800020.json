@@ -1,0 +1,136 @@
+{
+    "uid": 100094784,
+    "migrosId": "848610800020",
+    "name": "Shopping Caddy",
+    "title": "Shopping Caddy",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/848610800020"
+        },
+        "otherInformation": {
+            "articleNumber": "848610800020",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Height",
+                    "value": "59 cm"
+                },
+                {
+                    "code": "Depth",
+                    "value": "23 cm"
+                },
+                {
+                    "code": "Width",
+                    "value": "36 cm"
+                },
+                {
+                    "code": "Weight",
+                    "value": "2.7 kg"
+                },
+                {
+                    "code": "Volume",
+                    "value": "45 l"
+                },
+                {
+                    "code": "Category/theme",
+                    "value": "Einkaufswagen"
+                },
+                {
+                    "code": "Main material",
+                    "value": "Polyester"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "Innentasche, Reflektoren, standfester Boden"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4055278056729"
+    ],
+    "variants": {
+        "baseProductMigrosId": "848610800000",
+        "mainVariantMigrosId": "848610800020",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "black",
+                    "size": "one Size"
+                },
+                "migrosId": "848610800020"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "black",
+                "options": [
+                    "black"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "one Size",
+                "options": [
+                    "one Size"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/787c31ee069f1a0c8f34f58d697f03a56057fdc7/shopping-caddy.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/5931cb3353763b39fe64b7739355333f221005d7.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/295e5aaea1b46d6f45e2cb409243ccfbacd5c4c3.jpg"
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/848610800020",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "99.95",
+            "advertisedDisplayValue": "99.95",
+            "effectiveDisplayValue": "99.95",
+            "multiplier": 1,
+            "value": 99.95,
+            "effectiveValue": 99.95,
+            "advertisedValue": 99.95,
+            "unitPrice": {
+                "value": 99.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "99.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T17:06:57"
+}

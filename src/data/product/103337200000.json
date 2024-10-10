@@ -1,0 +1,124 @@
+{
+    "uid": 100142729,
+    "migrosId": "103337200000",
+    "name": "Don Pablo Olivenöl",
+    "brand": "Don Pablo",
+    "title": "Don Pablo Olivenöl",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Don Pablo",
+                "slug": "don-pablo",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076645/brands/DonPablo_Logo"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 10,
+                    "productionRatio": 87,
+                    "transportRatio": 3,
+                    "packagingRatio": 9,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/103337200000"
+        },
+        "otherInformation": {
+            "articleNumber": "103337200000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Cold-pressed",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Suitable for",
+                    "value": "roast, deep-fry"
+                },
+                {
+                    "code": "Extra-virgin",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Bottle"
+                },
+                {
+                    "code": "Usage temperature",
+                    "value": "100-180"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613269135098"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/2cd471d3ff53210b16ac0bc8ad837d10b826bf13/don-pablo-olivenoel.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494776",
+            "name": "Spices & sauces",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces"
+            ]
+        },
+        {
+            "id": "7494982",
+            "name": "Oil & vinegar",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces",
+                "oil-vinegar"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/103337200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "11.90",
+            "advertisedDisplayValue": "11.90",
+            "effectiveDisplayValue": "11.90",
+            "multiplier": 1,
+            "value": 11.9,
+            "effectiveValue": 11.9,
+            "advertisedValue": 11.9,
+            "unitPrice": {
+                "value": 0.6,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "2 x 1l",
+        "quantityPrice": "0.60/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T15:05:23"
+}

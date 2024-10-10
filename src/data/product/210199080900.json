@@ -1,0 +1,201 @@
+{
+    "uid": 100142777,
+    "migrosId": "210199080900",
+    "name": "Fondue Natürli",
+    "title": "Fondue Natürli",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "ingredients": "Halbhart<strong>käse</strong> 34%, Hart<strong>käse</strong> 34%, Weisswein 31%, Maisstärke.",
+            "allergens": "Milk and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "animalWelfare": {
+                    "rating": 3,
+                    "image": "https://image.migros.ch/original/02f56762a6d67ea0470f50e5e8cc4d96d84791f0.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/210199080900"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "1/3 Packung (290 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1261 kJ (303 kcal)",
+                            "9947 kJ (879 kcal)",
+                            "44 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "21 g",
+                            "61 g",
+                            "87 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "15 g",
+                            "44 g",
+                            "220 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "3.7 g",
+                            "11 g",
+                            "4 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            "< 5 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "20 g",
+                            "58 g",
+                            "116 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "1.2 g",
+                            "3.5 g",
+                            "58 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    }
+                ]
+            },
+            "portionSentence": "1 package = 3 servings",
+            "isAnalyticalConstituents": false
+        },
+        "usageInformation": {
+            "preparationInstructions": "Inhalt des Beutels ins Cacquelon (oder Pfanne) geben. Auf mittlerer Hitze und unter ständigem Umrühren zum Schmelzen bringen. Wenn Käse geschmolzen, aufkochen. 5 Minuten heiss halten, auf das Rechaud stellen und geniessen."
+        },
+        "otherInformation": {
+            "articleNumber": "210199080900",
+            "legalDesignation": "Schweizer Käsezubereitung für Fondue, vollfett, mit Weisswein",
+            "identificationMark": "CH 70143392",
+            "distributorName": "Genossenschaft Migros Zürich",
+            "distributorStreetAndNumber": "CH-8021 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store refrigerated at max. 5 °C."
+                },
+                {
+                    "code": "Production information",
+                    "value": "Packaged in a protective atmosphere."
+                },
+                {
+                    "code": "Warning and other mandatory information",
+                    "value": "Contains alcohol."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613269661368"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/42bd9ea84651283a53e0bffdea698830da8e9152/fondue-natuerli.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494752",
+            "name": "Cheese",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese"
+            ]
+        },
+        {
+            "id": "7494874",
+            "name": "Raclettes, fondues & grilling cheeses",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese",
+                "raclettes-fondues-grilling-chees"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/210199080900",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "26.–",
+            "advertisedDisplayValue": "26.–",
+            "effectiveDisplayValue": "26.–",
+            "multiplier": 1,
+            "value": 26,
+            "effectiveValue": 26,
+            "advertisedValue": 26,
+            "unitPrice": {
+                "value": 2.99,
+                "unit": "100g"
+            }
+        },
+        "quantity": "870g",
+        "quantityPrice": "2.99/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:04:59"
+}

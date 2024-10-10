@@ -1,0 +1,222 @@
+{
+    "uid": 100050801,
+    "migrosId": "120974400000",
+    "name": "Coca-Cola Zero",
+    "brand": "Coca-Cola",
+    "title": "Coca-Cola Zero",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Coca-Cola",
+                "slug": "coca-cola",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252410/brands/coca-cola"
+            },
+            "nutritionalCharacteristics": [
+                "No added sugar"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "No added sugar",
+                    "additionalInformation": "No added sugar. Contains naturally occurring sugars."
+                }
+            ],
+            "ingredients": "water, carbonic acid, colouring E 150d, sweeteners cyclamate, acesulfame K and aspartame, acid: E 338, acidity regulator: sodium citrates, natural flavourings including caffeine. Contains a source of phenylalanine.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 178,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/120974400000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "0.9 kJ (0.2 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.02 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "portionSentence": "1 pack ≈ 6 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "120974400000",
+            "legalDesignation": "Calorie-free caffeinated refreshing beverage. With sweeteners",
+            "distributorName": "Coca-Cola HBC Schweiz AG",
+            "distributorStreetAndNumber": "Thurgauerstrasse 134, 8152 Glattpark (Opfikon)",
+            "remarks": [
+                {
+                    "code": "Consumer storage instructions",
+                    "value": "Store in a cool and dry place."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Production process",
+                    "value": "Mit natürlichen Aromen, Mit Süssungsmitteln"
+                },
+                {
+                    "code": "Carbonated",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Contains caffeine",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Bottle"
+                },
+                {
+                    "code": "Sugar-free",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Type of soft drink",
+                    "value": "Cola"
+                },
+                {
+                    "code": "Gesundheits und nährwertbezogene Auslobung",
+                    "value": "No added sugar. Contains naturally occurring sugars."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "5449000133335",
+        "7617027778688"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/9d7d79c5cac20fb0768e0bd357e5dcce9764bcd5/coca-cola-zero.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494769",
+            "name": "Soft drinks",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks"
+            ]
+        },
+        {
+            "id": "7494949",
+            "name": "Cola",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks",
+                "cola"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/120974400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.35",
+            "advertisedDisplayValue": "2.35",
+            "effectiveDisplayValue": "2.35",
+            "multiplier": 1,
+            "value": 2.35,
+            "effectiveValue": 2.35,
+            "advertisedValue": 2.35,
+            "unitPrice": {
+                "value": 0.16,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "1.5l",
+        "quantityPrice": "0.16/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:17:28"
+}

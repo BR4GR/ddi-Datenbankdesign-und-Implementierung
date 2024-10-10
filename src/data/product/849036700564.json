@@ -1,0 +1,198 @@
+{
+    "uid": 100125944,
+    "migrosId": "849036700564",
+    "name": "LUGGAGE",
+    "brand": "Central Square",
+    "title": "LUGGAGE",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Central Square",
+                "slug": "central-square",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076642/brands/CentralSquare_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/849036700564"
+        },
+        "otherInformation": {
+            "articleNumber": "849036700564",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Height",
+                    "value": "77 cm"
+                },
+                {
+                    "code": "Depth",
+                    "value": "30 cm"
+                },
+                {
+                    "code": "Width",
+                    "value": "53 cm"
+                },
+                {
+                    "code": "Weight",
+                    "value": "4.4 kg"
+                },
+                {
+                    "code": "Volume",
+                    "value": "100 l"
+                },
+                {
+                    "code": "Category/theme",
+                    "value": "Reisetrolley"
+                },
+                {
+                    "code": "Lock type",
+                    "value": "TSA-Schloss"
+                },
+                {
+                    "code": "Main material",
+                    "value": "ABS"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "Hartschalengepäck"
+                },
+                {
+                    "code": "Rollen",
+                    "value": "4-Rollen"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871172003"
+    ],
+    "variants": {
+        "baseProductMigrosId": "849036700000",
+        "mainVariantMigrosId": "849036700511",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "offwhite",
+                    "size": "L"
+                },
+                "migrosId": "849036700511"
+            },
+            {
+                "declinationOptions": {
+                    "color": "khaki",
+                    "size": "L"
+                },
+                "migrosId": "849036700564"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "khaki",
+                "options": [
+                    "offwhite",
+                    "khaki"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "L",
+                "options": [
+                    "L"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/9ca7c32e29975f6c27a5e160fe6ec89f585b0825/luggage.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/6fc91ee51d0479d1f2711b061e24275599012963.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/57f534776820f59652e775ce965d4c9f50513769.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/4697ba216b79bcf3becd266476f1fc61d4d08842.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/0fd03bbcea721d90511f0fb75dc720b31f34a06c.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/02d316247c8407c1953b3273b45d3e16a25eddc6.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d579f73d9aafa5ca2a96cbdf82220b69e542e9e9.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/c158d38ec00523a31931763be3fb811ff8148aff.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10555197",
+            "name": "Travel",
+            "slugs": [
+                "clothing-accessories",
+                "travel"
+            ]
+        },
+        {
+            "id": "10555213",
+            "name": "Roller suitcases",
+            "slugs": [
+                "clothing-accessories",
+                "travel",
+                "roller-suitcases"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/849036700564",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "89.95",
+            "advertisedDisplayValue": "89.95",
+            "effectiveDisplayValue": "89.95",
+            "multiplier": 1,
+            "value": 89.95,
+            "effectiveValue": 89.95,
+            "advertisedValue": 89.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T23:01:25"
+}

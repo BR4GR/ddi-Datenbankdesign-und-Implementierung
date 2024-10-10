@@ -1,0 +1,129 @@
+{
+    "uid": 100019938,
+    "migrosId": "107050000000",
+    "migrosOnlineId": "106057",
+    "name": "Herbal tea immediately soluble",
+    "brand": "Bonherba",
+    "versioning": "with vitamin C",
+    "title": "Bonherba · Herbal tea immediately soluble · with vitamin C",
+    "description": "Bonherba Herbal tea immediately soluble with vitamin C",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Bonherba",
+                "slug": "bonherba"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 26,
+                    "productionRatio": 96,
+                    "transportRatio": 1,
+                    "packagingRatio": 4,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 44,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/107050000000"
+        },
+        "usageInformation": {
+            "additionalInformation": "Soothing for coughs and hoarseness"
+        },
+        "otherInformation": {
+            "articleNumber": "107050000000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Packaging type",
+                    "value": "Dose"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "heisses Wasser hinzugeben"
+                },
+                {
+                    "code": "Tea preparation",
+                    "value": "Instant (granules)"
+                },
+                {
+                    "code": "Tea type",
+                    "value": "Kräutertee"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610167655017"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/8de150884548a6da51afcd31cd4ffaf9fae5b278/bonherba-kraeutertee.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494773",
+            "name": "Tea",
+            "slugs": [
+                "drinks-coffee-tea",
+                "tea"
+            ]
+        },
+        {
+            "id": "7494974",
+            "name": "Herbal infusions with plants",
+            "slugs": [
+                "drinks-coffee-tea",
+                "tea",
+                "herbal-infusions-with-plants"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/107050000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.95",
+            "advertisedDisplayValue": "3.95",
+            "effectiveDisplayValue": "3.95",
+            "multiplier": 1,
+            "value": 3.95,
+            "effectiveValue": 3.95,
+            "advertisedValue": 3.95,
+            "unitPrice": {
+                "value": 1.3,
+                "unit": "100g"
+            }
+        },
+        "quantity": "300g",
+        "quantityPrice": "1.30/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T01:23:06"
+}

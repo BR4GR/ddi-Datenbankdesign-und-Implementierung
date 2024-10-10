@@ -1,0 +1,118 @@
+{
+    "uid": 100053938,
+    "migrosId": "526110500000",
+    "migrosOnlineId": "12494778",
+    "name": "Tissues",
+    "brand": "M-Budget",
+    "versioning": "100 sheets, 4 ply",
+    "title": "M-Budget · Tissues · 100 sheets, 4 ply",
+    "description": "M-Budget Tissues 100 sheets, 4 ply",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L09",
+                    "name": "FSC®",
+                    "slug": "fsc",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483057/labels/FSC_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "M-Budget",
+                "slug": "m-budget",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252456/brands/m-budget"
+            },
+            "rating": {
+                "nbReviews": 211,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/526110500000",
+            "cosmeticInformation": {
+                "ingredients": "Material: 100% Frischzellstoff (Papier)"
+            }
+        },
+        "otherInformation": {
+            "articleNumber": "526110500000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Taschentücher"
+                },
+                {
+                    "code": "Features",
+                    "value": "FSC zertifizierter Frischzellstoff"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312310168"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/e55a89b5f48ce74b044cb828536d0644aed299da/m-budget-taschentuecher-box.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494830",
+            "name": "Hygiene & protection",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hygiene-protection"
+            ]
+        },
+        {
+            "id": "7495257",
+            "name": "Tissues",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hygiene-protection",
+                "tissues"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/526110500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.80",
+            "advertisedDisplayValue": "1.80",
+            "effectiveDisplayValue": "1.80",
+            "multiplier": 1,
+            "value": 1.8,
+            "effectiveValue": 1.8,
+            "advertisedValue": 1.8,
+            "unitPrice": {
+                "value": 0.02,
+                "unit": "piece"
+            }
+        },
+        "quantity": "100 Stk.",
+        "quantityPrice": "0.02/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-15T23:53:01"
+}

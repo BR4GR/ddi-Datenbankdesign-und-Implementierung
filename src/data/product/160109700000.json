@@ -1,0 +1,115 @@
+{
+    "uid": 100090973,
+    "migrosId": "160109700000",
+    "migrosOnlineId": "7724835",
+    "name": "Pure butter croissants",
+    "brand": "Le Fournil de Pierre",
+    "title": "Le Fournil de Pierre · Pure butter croissants",
+    "description": "Le Fournil de Pierre Pure butter croissants ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Le Fournil de Pierre",
+                "slug": "le-fournil-de-pierre"
+            },
+            "ingredients": "farine de BLE, BEURRE fin 21%, eau, sucre, levure, OEUFS, sel, GLUTEN de blé, poudre de LAIT écrémé,poudre de CREME (matière grasse de LAIT, matière sèche non grasse de CREME), agents de traitement de la farine(alpha-amylases, hémicellulases, acide ascorbique).",
+            "rating": {
+                "nbReviews": 15,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/160109700000"
+        },
+        "nutrientsInformation": {
+            "portionSentence": "1 pack ≈ 6 servings"
+        },
+        "usageInformation": {
+            "preparationInstructions": "Décongélation environ 30-45 min à température ambiantePréchauffage du four 190°CCuisson (en four ventilé) environ 15-18 min à 165-170°C, oura ouvert"
+        },
+        "otherInformation": {
+            "articleNumber": "160109700000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Percentage of alcohol by volume [%]",
+                    "value": "0"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312396124"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/cd6ffeeae28e079a864d8fe3940ffb9b3b2a1aa9/le-fournil-de-pierree-croissant.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494738",
+            "name": "Frozen food",
+            "slugs": [
+                "frozen-food"
+            ]
+        },
+        {
+            "id": "7494796",
+            "name": "Pizza, bread & apero pastries",
+            "slugs": [
+                "frozen-food",
+                "pizza-bread-apero-pastries"
+            ]
+        },
+        {
+            "id": "7495094",
+            "name": "Bread & pastries",
+            "slugs": [
+                "frozen-food",
+                "pizza-bread-apero-pastries",
+                "bread-pastries"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/160109700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.10",
+            "advertisedDisplayValue": "5.10",
+            "effectiveDisplayValue": "5.10",
+            "multiplier": 1,
+            "value": 5.1,
+            "effectiveValue": 5.1,
+            "advertisedValue": 5.1,
+            "unitPrice": {
+                "value": 1.42,
+                "unit": "100g"
+            }
+        },
+        "quantity": "6 x 60g",
+        "quantityPrice": "1.42/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483530/labels/frozen",
+                "description": "frozen"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T05:57:10"
+}

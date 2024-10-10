@@ -1,0 +1,190 @@
+{
+    "uid": 100050290,
+    "migrosId": "106225900000",
+    "name": "Sel des Alpes Mini",
+    "brand": "Sel des Alpes",
+    "title": "Sel des Alpes Mini",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Sel des Alpes",
+                "slug": "sel-des-alpes"
+            },
+            "nutritionalCharacteristics": [
+                "Vegan"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegan"
+                }
+            ],
+            "ingredients": "Salz (Natriumchlorid) min. 99.8 %, Fluorid 250 mg/kg, Iod (als KI zugesetzt) 25 mg/kg, Antiklumpmittel E 536 max. 6 mg/kg",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 6,
+                    "productionRatio": 81,
+                    "transportRatio": 5,
+                    "packagingRatio": 14,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 30,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/106225900000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "0 kJ (0 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "99.8 g",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "106225900000",
+            "legalDesignation": "Speisesalz",
+            "distributorName": "Schweizer Salinen AG",
+            "distributorStreetAndNumber": "Rheinstrasse 524133 Pratteln",
+            "remarks": [
+                {
+                    "code": "Percentage of alcohol by volume [%]",
+                    "value": "0"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegan, Vegetarian"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Dose"
+                },
+                {
+                    "code": "Production process",
+                    "value": "Aus dem Schweizer Berggebiet"
+                },
+                {
+                    "code": "Type/quality of herbs/spices",
+                    "value": "fein"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610104021868"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/37df76f81754c9024c8f7ed86114a7e7b6ec15b8/sel-des-alpes-mini.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494776",
+            "name": "Spices & sauces",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces"
+            ]
+        },
+        {
+            "id": "7494983",
+            "name": "Salt & pepper",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces",
+                "salt-pepper"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/106225900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.–",
+            "advertisedDisplayValue": "1.–",
+            "effectiveDisplayValue": "1.–",
+            "multiplier": 1,
+            "value": 1,
+            "effectiveValue": 1,
+            "advertisedValue": 1,
+            "unitPrice": {
+                "value": 8.33,
+                "unit": "100g"
+            }
+        },
+        "quantity": "12g",
+        "quantityPrice": "8.33/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:21:57"
+}

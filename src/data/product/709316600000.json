@@ -1,0 +1,147 @@
+{
+    "uid": 100055100,
+    "migrosId": "709316600000",
+    "migrosOnlineId": "7123566",
+    "name": "Paper towels",
+    "brand": "M-Budget",
+    "versioning": "Green - 33 x 33 cm, 30 pieces, 3 folds",
+    "title": "M-Budget · Paper towels · Green - 33 x 33 cm, 30 pieces, 3 folds",
+    "description": "M-Budget Paper towels Green - 33 x 33 cm, 30 pieces, 3 folds",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L09",
+                    "name": "FSC®",
+                    "slug": "fsc",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483057/labels/FSC_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "M-Budget",
+                "slug": "m-budget",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252456/brands/m-budget"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 3,
+                    "co2CarKmEquivalent": 23,
+                    "productionRatio": 94,
+                    "transportRatio": 2,
+                    "packagingRatio": 4,
+                    "image": "https://image.migros.ch/original/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "co2KgRange": "2 - 4.7 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 59,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/709316600000"
+        },
+        "otherInformation": {
+            "articleNumber": "709316600000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Number of layers",
+                    "value": "3-lagig"
+                },
+                {
+                    "code": "Material",
+                    "value": "Tissue"
+                },
+                {
+                    "code": "Content",
+                    "value": "30 Pcs."
+                },
+                {
+                    "code": "Width",
+                    "value": "33 cm"
+                },
+                {
+                    "code": "Color",
+                    "value": "limette"
+                },
+                {
+                    "code": "Length",
+                    "value": "33 cm"
+                },
+                {
+                    "code": "suitable for food products",
+                    "value": "Yes"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613434021188"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/07e654800fb9a7a41c8923501283cedc7e6b7e06/napkins-33x33cm.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494814",
+            "name": "Kitchen & dining",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining"
+            ]
+        },
+        {
+            "id": "7495178",
+            "name": "Table",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining",
+                "table"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/709316600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "0.90",
+            "advertisedDisplayValue": "0.90",
+            "effectiveDisplayValue": "0.90",
+            "multiplier": 1,
+            "value": 0.9,
+            "effectiveValue": 0.9,
+            "advertisedValue": 0.9,
+            "unitPrice": {
+                "value": 0.03,
+                "unit": "piece"
+            }
+        },
+        "quantity": "30 Stk.",
+        "quantityPrice": "0.03/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T13:23:13"
+}

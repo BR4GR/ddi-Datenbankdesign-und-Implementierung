@@ -1,0 +1,153 @@
+{
+    "uid": 100151181,
+    "migrosId": "122089100000",
+    "migrosOnlineId": "11968587",
+    "name": "Fruit juice",
+    "brand": "M-Classic",
+    "brandLine": "Iron",
+    "title": "M-Classic Iron · Fruit juice",
+    "description": "M-Classic Fruit juice ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Classic",
+                "slug": "m-classic",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252457/brands/m-classic"
+            },
+            "ingredients": "water, red grape juice from concentrate, pomegranate juice from concentrate, sugar, blackberry juice from concentrate, acerola juice from concentrate, natural flavouring, acid: citric acid, ferrous lactate (II), vitamin B12.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 19,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/122089100000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 ml",
+                    "1 Glas (250 ml)"
+                ],
+                "rows": [
+                    {
+                        "label": "Calcium",
+                        "values": [
+                            "0 mg",
+                            "0 mg",
+                            "0 %"
+                        ]
+                    },
+                    {
+                        "label": "Magnesium",
+                        "values": [
+                            "0 mg",
+                            "0 mg",
+                            "0 %"
+                        ]
+                    },
+                    {
+                        "label": "Minerals",
+                        "values": [
+                            "0 mg",
+                            "0 mg",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "portionSentence": "1 package = 4 servings",
+            "isAnalyticalConstituents": false
+        },
+        "usageInformation": {
+            "usage": "Serve chilled."
+        },
+        "otherInformation": {
+            "articleNumber": "122089100000",
+            "legalDesignation": "Tafelgetränk mit 30% Fruchtsäften, Eisen und Vitamin B12",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Other additional information",
+                    "value": "Eine abwechslungsreiche und ausgewogene Ernährung und eine gesunde Lebensweise sind wichtig für unsere Gesundheit."
+                },
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Once opened, store at a max. +5 °C and consume quickly."
+                },
+                {
+                    "code": "Production information",
+                    "value": "pasteurized"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312445174"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/468a1127ca43fcc9d793e7e632e18759c6468ff1/m-classic-iron.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494771",
+            "name": "Fruit & vegetable juices",
+            "slugs": [
+                "drinks-coffee-tea",
+                "fruit-vegetable-juices"
+            ]
+        },
+        {
+            "id": "7494963",
+            "name": "Other fruit juice",
+            "slugs": [
+                "drinks-coffee-tea",
+                "fruit-vegetable-juices",
+                "other-fruit-juice"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/122089100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.95",
+            "advertisedDisplayValue": "1.95",
+            "effectiveDisplayValue": "1.95",
+            "multiplier": 1,
+            "value": 1.95,
+            "effectiveValue": 1.95,
+            "advertisedValue": 1.95,
+            "unitPrice": {
+                "value": 0.2,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "1l",
+        "quantityPrice": "0.20/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:59:09"
+}

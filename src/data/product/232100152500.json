@@ -1,0 +1,184 @@
+{
+    "uid": 100145832,
+    "migrosId": "232100152500",
+    "name": "Mini Landjäger",
+    "title": "Mini Landjäger",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "ingredients": "Rindfleisch (Schweiz), Schweinefleisch (Schweiz), Speck (Schweiz), Schwarten (Schweiz), Nitritpökelsalz (Kochsalz, Konservierungsstoff: Natriumnitrit), Rotwein (enthält <strong>Sulfite</strong>), Gewürze, Glucose, Antioxidationsmittel: Natriumascorbat, Geschmacksverstärker: Mononatriumglutamat, Aroma, Reifekulturen, Essbare Hülle aus Rinderkollagen. 100g Landjäger werden aus 58g Rindfleisch und 49g Schweinefleisch hergestellt.",
+            "allergens": "Sulphur dioxide and sulphites",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "animalWelfare": {
+                    "rating": 3,
+                    "image": "https://image.migros.ch/original/02f56762a6d67ea0470f50e5e8cc4d96d84791f0.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/232100152500"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "Stück (50 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "2269 kJ (548 kcal)",
+                            "1153 kJ (279 kcal)",
+                            "14 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "49 g",
+                            "25 g",
+                            "36 %"
+                        ]
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "19 g",
+                            "9.5 g",
+                            "48 %"
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "0.8 g",
+                            "< 0.5 g",
+                            "< 0.5 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "0.7 g",
+                            "< 0.5 g",
+                            "1 %"
+                        ]
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "26 g",
+                            "13 g",
+                            "26 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "3.6 g",
+                            "1.8 g",
+                            "30 %"
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "232100152500",
+            "legalDesignation": "Fleischerzeugnis geräuchert, zum Rohessen",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Can be stored without refrigeration."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613404395196"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/00f6f109c41fb199fbbeda039959f8931d041855/mini-landjaeger.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494748",
+            "name": "Cold cuts",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts"
+            ]
+        },
+        {
+            "id": "7494854",
+            "name": "Salami & dried sausages",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts",
+                "salami-dried-sausages"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/232100152500",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "0.05",
+            "advertisedDisplayValue": "0.05",
+            "effectiveDisplayValue": "0.05",
+            "multiplier": 1,
+            "value": 0.05,
+            "effectiveValue": 0.05,
+            "advertisedValue": 0.05,
+            "unitPrice": {
+                "value": 0.03,
+                "unit": "100g"
+            }
+        },
+        "quantity": "150g",
+        "quantityPrice": "0.03/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T23:31:45"
+}

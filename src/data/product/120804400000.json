@@ -1,0 +1,216 @@
+{
+    "uid": 100050500,
+    "migrosId": "120804400000",
+    "name": "Evian",
+    "brand": "Evian",
+    "title": "Evian",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Evian",
+                "slug": "evian",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076705/brands/Evian_Sparkling_Evian-Volvic_Suisse_S.A._Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 40,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/120804400000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 ml"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "~ 0 kJ (~ 0 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "~ 0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "~ 0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "~ 0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "~ 0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "~ 0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "~ 0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Sodium",
+                        "values": [
+                            "",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Potassium",
+                        "values": [
+                            "~ 1 mg",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Chloride",
+                        "values": [
+                            "~ 10 mg",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Calcium",
+                        "values": [
+                            "~ 80 mg",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Magnesium",
+                        "values": [
+                            "~ 26 mg",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "120804400000",
+            "legalDesignation": "Natürliches Mineralwasser",
+            "distributorName": "Evian-Volvic Suisse SA",
+            "distributorStreetAndNumber": "Hardturmstr. 135, 8005 Zürich, Schweiz",
+            "remarks": [
+                {
+                    "code": "Warnhinweise / Pflichthinweise",
+                    "value": "Source Cachat S.A.E.M.E, BP 87, 74503 Evian, France"
+                },
+                {
+                    "code": "Aufbewahrungshinweise für den Konsumenten",
+                    "value": "Vor Licht schützen, sauber, trocken und kühl lagern."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "3068320011066"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/5a69a12f982b67c9123baba2a0967bba8012d944/evian.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494770",
+            "name": "Water",
+            "slugs": [
+                "drinks-coffee-tea",
+                "water"
+            ]
+        },
+        {
+            "id": "7494955",
+            "name": "Still water",
+            "slugs": [
+                "drinks-coffee-tea",
+                "water",
+                "still-water"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/120804400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.10",
+            "advertisedDisplayValue": "1.10",
+            "effectiveDisplayValue": "1.10",
+            "multiplier": 1,
+            "value": 1.1,
+            "effectiveValue": 1.1,
+            "advertisedValue": 1.1,
+            "unitPrice": {
+                "value": 0.11,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "1l",
+        "quantityPrice": "0.11/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-10-04T09:15:05"
+}

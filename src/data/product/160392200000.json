@@ -1,0 +1,156 @@
+{
+    "uid": 100003542,
+    "migrosId": "160392200000",
+    "migrosOnlineId": "4224766",
+    "name": "Pâte feuilletée",
+    "brandLine": "aha!",
+    "title": "aha! · Pâte feuilletée",
+    "description": "Pâte feuilletée ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L15",
+                    "name": "aha!",
+                    "slug": "aha",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483235/labels/AHA_-_RGB_-_DE"
+                }
+            ],
+            "nutritionalCharacteristics": [
+                "Lactose-free",
+                "Gluten-free"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Lactose-free"
+                },
+                {
+                    "name": "Gluten-free"
+                }
+            ],
+            "ingredients": "Wasser, Maisstärke, pflanzliche Öle und Fette (Palm, Raps), Reismehl, Erbsenmehl, pflanzliche Fasern (Kartoffel, Reis, Erbse, Flohsamen), Verdickungsmittel (XanthanGummi, E464), Ethylalkohol, Buchweizenmehl, Salz, natürliche Aromen, Transglutaminase, Säuerungsmittel: Zitronensäure.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 5,
+                    "productionRatio": 81,
+                    "transportRatio": 3,
+                    "packagingRatio": 16,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 43,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/160392200000"
+        },
+        "otherInformation": {
+            "articleNumber": "160392200000",
+            "distributorName": "Findus Switzerland AG",
+            "distributorStreetAndNumber": "Industriestrasse 13/15, 9400 Rorschach",
+            "remarks": [
+                {
+                    "code": "Aufbewahrungshinweise für den Konsumenten",
+                    "value": "Lagern bei höchstens -18°C"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Allergens",
+                    "value": "Lactose free, Gluten free"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Kunststoff-Verpackung"
+                },
+                {
+                    "code": "Production process",
+                    "value": "Tiefgefroren"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "auftauen lassen"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312113301"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/6894c2b89ad3c855e9596e185250f05aed2f2d42/aha-blaetterteig.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494738",
+            "name": "Frozen food",
+            "slugs": [
+                "frozen-food"
+            ]
+        },
+        {
+            "id": "7494801",
+            "name": "Ice cream & desserts",
+            "slugs": [
+                "frozen-food",
+                "ice-cream-desserts"
+            ]
+        },
+        {
+            "id": "7495116",
+            "name": "Pastries & desserts",
+            "slugs": [
+                "frozen-food",
+                "ice-cream-desserts",
+                "pastries-desserts"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/160392200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.95",
+            "advertisedDisplayValue": "4.95",
+            "effectiveDisplayValue": "4.95",
+            "multiplier": 1,
+            "value": 4.95,
+            "effectiveValue": 4.95,
+            "advertisedValue": 4.95,
+            "unitPrice": {
+                "value": 1.77,
+                "unit": "100g"
+            }
+        },
+        "quantity": "280g",
+        "quantityPrice": "1.77/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483530/labels/frozen",
+                "description": "frozen"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T16:34:46"
+}

@@ -1,0 +1,204 @@
+{
+    "uid": 100051367,
+    "migrosId": "120107400000",
+    "name": "Aproz Cristal",
+    "brand": "Aproz",
+    "title": "Aproz Cristal",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Aproz",
+                "slug": "aproz",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076616/brands/APROZ_Logo"
+            },
+            "ingredients": "natural mineral water.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 2,
+                    "productionRatio": 50,
+                    "transportRatio": 9,
+                    "packagingRatio": 41,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 120,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/120107400000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "1 l"
+                ],
+                "rows": [
+                    {
+                        "label": "Sodium",
+                        "values": [
+                            "6 mg",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Potassium",
+                        "values": [
+                            "2.5 mg",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Calcium",
+                        "values": [
+                            "360 mg",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Magnesium",
+                        "values": [
+                            "70 mg",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Silicon",
+                        "values": [
+                            "7 mg",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Bicarbonate (or hydrogen carbonate)",
+                        "values": [
+                            "250 mg",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "nitrate",
+                        "values": [
+                            "1.5 mg",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "sulfate",
+                        "values": [
+                            "930 mg",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "120107400000",
+            "legalDesignation": "Natürliches Mineralwasser ohne Kohlensäure.",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Other additional information",
+                    "value": "High in vitamins and minerals, suitable for a low in sodium diet. Source of Calcium and Magnesium"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Carbonated",
+                    "value": "No"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Bottle"
+                },
+                {
+                    "code": "Type of soft drink",
+                    "value": "Mineralwasser"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7617500014005",
+        "7613269290933"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/5543426687298b31ed665dd11cfd32ebf3bf720d/aproz-cristal.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494770",
+            "name": "Water",
+            "slugs": [
+                "drinks-coffee-tea",
+                "water"
+            ]
+        },
+        {
+            "id": "7494956",
+            "name": "Sparkling water",
+            "slugs": [
+                "drinks-coffee-tea",
+                "water",
+                "sparkling-water"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/120107400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "0.75",
+            "advertisedDisplayValue": "0.75",
+            "effectiveDisplayValue": "0.75",
+            "multiplier": 1,
+            "value": 0.75,
+            "effectiveValue": 0.75,
+            "advertisedValue": 0.75,
+            "unitPrice": {
+                "value": 0.15,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "500ml",
+        "quantityPrice": "0.15/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:11:22"
+}

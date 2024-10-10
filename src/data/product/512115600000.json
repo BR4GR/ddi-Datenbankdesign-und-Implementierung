@@ -1,0 +1,128 @@
+{
+    "uid": 100020988,
+    "migrosId": "512115600000",
+    "migrosOnlineId": "111904",
+    "name": "Bath cream",
+    "brand": "I am",
+    "versioning": "Milk & honey",
+    "title": "I am · Bath cream · Milk & honey",
+    "description": "I am Bath cream Milk & honey Delicate fragrance",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "I am",
+                "slug": "i-am",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076768/brands/Iam_Logo"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 3,
+                    "co2CarKmEquivalent": 18,
+                    "productionRatio": 92,
+                    "transportRatio": 3,
+                    "packagingRatio": 5,
+                    "image": "https://image.migros.ch/original/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "co2KgRange": "2 - 4.7 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 14,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/512115600000",
+            "cosmeticInformation": {
+                "ingredients": "Ingredients: Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Coco-Glucoside, Glyceryl Oleate, Lac Powder, Mel, Glycerin, Citric Acid, Styrene/Acrylates Copolymer, Sodium Sulfate, Hydrogenated Palm Glycerides Citrate, Tocopherol, Parfum, Benzyl Benzoate, Hexyl Cinnamal, Benzyl Alcohol, Limonene, Sodium Benzoate, CI 13015, CI 15510"
+            }
+        },
+        "usageInformation": {
+            "additionalInformation": "I am Milk &Honey cream bath with a gentle, inspiring scent pampers the skin in the bath and prevents it from drying out quickly. The skin is wrapped in the rich and creamy foam for a smooth skin feeling. A pampering bath-time experience for the whole family. pH-neutral and alkali soap-free. Skin tolerance dermatologically proven."
+        },
+        "otherInformation": {
+            "articleNumber": "512115600000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Warnings / mandatory notes",
+                    "value": "Not suitable for consumption.\n"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Creme"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7630028601243",
+        "7624900112514"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/8a0cd97cc5ba2a02f76e9b43d074ed64fec348e2/i-am-bath-milk-honey.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494826",
+            "name": "Body care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care"
+            ]
+        },
+        {
+            "id": "7495239",
+            "name": "Shower & bath",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care",
+                "shower-bath"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/512115600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.95",
+            "advertisedDisplayValue": "2.95",
+            "effectiveDisplayValue": "2.95",
+            "multiplier": 1,
+            "value": 2.95,
+            "effectiveValue": 2.95,
+            "advertisedValue": 2.95,
+            "unitPrice": {
+                "value": 0.59,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "500ml",
+        "quantityPrice": "0.59/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T15:13:24"
+}

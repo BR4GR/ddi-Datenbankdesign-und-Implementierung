@@ -1,0 +1,169 @@
+{
+    "uid": 100079759,
+    "migrosId": "705343600060",
+    "name": "sistema Twist 'n' Sip",
+    "brand": "Sistema",
+    "title": "sistema Twist 'n' Sip",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Sistema",
+                "slug": "sistema",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077156/brands/Sistema_Sistema_Plastiques_France_Ltd._Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 17,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/705343600060"
+        },
+        "otherInformation": {
+            "articleNumber": "705343600060",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Color",
+                    "value": "grün"
+                },
+                {
+                    "code": "Height",
+                    "value": "16 cm"
+                },
+                {
+                    "code": "Volume",
+                    "value": "330 ml"
+                },
+                {
+                    "code": "Diameter",
+                    "value": "6.1"
+                },
+                {
+                    "code": "Dishwasher-safe",
+                    "value": "Yes"
+                },
+                {
+                    "code": "suitable for food products",
+                    "value": "Yes"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "9414202007896",
+        "7613249652171"
+    ],
+    "variants": {
+        "baseProductMigrosId": "705343600000",
+        "mainVariantMigrosId": "705343600039",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "pink",
+                    "size": "000"
+                },
+                "migrosId": "705343600039"
+            },
+            {
+                "declinationOptions": {
+                    "color": "blue",
+                    "size": "000"
+                },
+                "migrosId": "705343600040"
+            },
+            {
+                "declinationOptions": {
+                    "color": "green",
+                    "size": "000"
+                },
+                "migrosId": "705343600060"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "green",
+                "options": [
+                    "pink",
+                    "blue",
+                    "green"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "000",
+                "options": [
+                    "000"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/fc5f46954be3ec266d0e9a210a6bf2a4633ddba2/sistema-twist-n-sip.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494814",
+            "name": "Kitchen & dining",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining"
+            ]
+        },
+        {
+            "id": "7495178",
+            "name": "Table",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining",
+                "table"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/705343600060",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.95",
+            "advertisedDisplayValue": "5.95",
+            "effectiveDisplayValue": "5.95",
+            "multiplier": 1,
+            "value": 5.95,
+            "effectiveValue": 5.95,
+            "advertisedValue": 5.95,
+            "unitPrice": {
+                "value": 5.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "5.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:44:41"
+}

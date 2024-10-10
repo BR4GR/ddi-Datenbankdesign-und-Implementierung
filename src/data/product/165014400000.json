@@ -1,0 +1,108 @@
+{
+    "uid": 100170453,
+    "migrosId": "165014400000",
+    "migrosOnlineId": "12790128",
+    "name": "Gourmet fillet",
+    "brand": "Followfood",
+    "brandLine": "Bio MSC",
+    "versioning": "Brocoli & Fromage",
+    "title": "Followfood Bio MSC · Gourmet fillet · Brocoli & Fromage",
+    "description": "Followfood Gourmet fillet Brocoli & Fromage",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L05",
+                    "name": "MSC",
+                    "slug": "msc",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483571/labels/MSC_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "Followfood",
+                "slug": "followfood"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/165014400000"
+        },
+        "otherInformation": {
+            "articleNumber": "165014400000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "4250073461956"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/8ace9f810dcb03a89cad00d76cd44ff2dedd4986/followfood-msc-gourmet-fillet-broccoli.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494738",
+            "name": "Frozen food",
+            "slugs": [
+                "frozen-food"
+            ]
+        },
+        {
+            "id": "7494797",
+            "name": "Convenience food",
+            "slugs": [
+                "frozen-food",
+                "convenience-food"
+            ]
+        },
+        {
+            "id": "7495097",
+            "name": "Fish & shellfish",
+            "slugs": [
+                "frozen-food",
+                "convenience-food",
+                "fish-shellfish"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/165014400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.95",
+            "advertisedDisplayValue": "5.95",
+            "effectiveDisplayValue": "5.95",
+            "multiplier": 1,
+            "value": 5.95,
+            "effectiveValue": 5.95,
+            "advertisedValue": 5.95,
+            "unitPrice": {
+                "value": 1.86,
+                "unit": "100g"
+            }
+        },
+        "quantity": "320g",
+        "quantityPrice": "1.86/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483530/labels/frozen",
+                "description": "frozen"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:01:18"
+}

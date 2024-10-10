@@ -1,0 +1,93 @@
+{
+    "uid": 100170620,
+    "migrosId": "500109100000",
+    "migrosOnlineId": "12843486",
+    "name": "Liquid laundry detergent",
+    "brand": "Ariel",
+    "brandLine": "Universal +",
+    "versioning": "20 wash cycles",
+    "title": "Ariel Universal + · Liquid laundry detergent · 20 wash cycles",
+    "description": "Ariel Liquid laundry detergent 20 wash cycles",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Ariel",
+                "slug": "ariel"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/500109100000"
+        },
+        "otherInformation": {
+            "articleNumber": "500109100000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "8700216545174"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/c59f645d231c93850e6913a1d9bdba3e1c9e8c12/ariel-liq-unstoppable-1l.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494740",
+            "name": "Laundry & cleaning",
+            "slugs": [
+                "laundry-cleaning"
+            ]
+        },
+        {
+            "id": "7494806",
+            "name": "Laundry & textile care",
+            "slugs": [
+                "laundry-cleaning",
+                "laundry-textile-care"
+            ]
+        },
+        {
+            "id": "7495135",
+            "name": "Laundry detergent",
+            "slugs": [
+                "laundry-cleaning",
+                "laundry-textile-care",
+                "laundry-detergent"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/500109100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "12.95",
+            "advertisedDisplayValue": "12.95",
+            "effectiveDisplayValue": "12.95",
+            "multiplier": 1,
+            "value": 12.95,
+            "effectiveValue": 12.95,
+            "advertisedValue": 12.95,
+            "unitPrice": {
+                "value": 1.3,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "1L",
+        "quantityPrice": "1.30/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T08:19:39"
+}

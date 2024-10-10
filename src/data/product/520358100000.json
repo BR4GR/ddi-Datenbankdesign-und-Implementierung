@@ -1,0 +1,108 @@
+{
+    "uid": 100053942,
+    "migrosId": "520358100000",
+    "migrosOnlineId": "10678631",
+    "name": "Band aid",
+    "brand": "M-Plast",
+    "versioning": "Comfort",
+    "title": "M-Plast · Band aid · Comfort",
+    "description": "M-Plast Band aid Comfort",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Plast",
+                "slug": "m-plast",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076947/brands/M-Plast_Logo"
+            },
+            "rating": {
+                "nbReviews": 39,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/520358100000"
+        },
+        "otherInformation": {
+            "articleNumber": "520358100000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Pflaster"
+                },
+                {
+                    "code": "Suitable for",
+                    "value": "Wundpflege"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4064035084202",
+        "7613312326411"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/f23542f3da1abd4474a56a724fc419368ece3894/m-plast-comfort-pflasterstrips.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494831",
+            "name": "Drugstore",
+            "slugs": [
+                "drugstore-cosmetics",
+                "drugstore"
+            ]
+        },
+        {
+            "id": "7495264",
+            "name": "Medicine cabinet & plaster",
+            "slugs": [
+                "drugstore-cosmetics",
+                "drugstore",
+                "medicine-cabinet-plaster"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/520358100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.60",
+            "advertisedDisplayValue": "2.60",
+            "effectiveDisplayValue": "2.60",
+            "multiplier": 1,
+            "value": 2.6,
+            "effectiveValue": 2.6,
+            "advertisedValue": 2.6,
+            "unitPrice": {
+                "value": 0.11,
+                "unit": "piece"
+            }
+        },
+        "quantity": "24 Stk.",
+        "quantityPrice": "0.11/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T20:02:33"
+}

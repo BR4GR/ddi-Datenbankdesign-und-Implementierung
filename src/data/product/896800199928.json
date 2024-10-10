@@ -1,0 +1,136 @@
+{
+    "uid": 100172575,
+    "migrosId": "896800199928",
+    "name": "Baby gloves 3pcs",
+    "brand": "Smile",
+    "title": "Baby gloves 3pcs",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Smile",
+                "slug": "smile",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252488/brands/smile"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/896800199928"
+        },
+        "otherInformation": {
+            "articleNumber": "896800199928",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7628871719925"
+    ],
+    "variants": {
+        "baseProductMigrosId": "896800100000",
+        "mainVariantMigrosId": "896800199928",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "ONE SIZE",
+                    "color": "pink"
+                },
+                "migrosId": "896800199928"
+            },
+            {
+                "declinationOptions": {
+                    "size": "ONE SIZE",
+                    "color": "grey"
+                },
+                "migrosId": "896800199980"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "pink",
+                "options": [
+                    "pink",
+                    "grey"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "ONE SIZE",
+                "options": [
+                    "ONE SIZE"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f43d11bd2b62090452729297989587ba6b6877e5/baby-gloves-3pcs.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/621e26f6b7bf1be2a5c5309b16720fb91c34a4b7.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/7f3634138bcda97465cae1d9e509a92dcd1ce11d.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/2438dfc6057c7d86c5e51082426855f5321aff01.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "11117240",
+            "name": "Baby clothes",
+            "slugs": [
+                "baby-kids",
+                "baby-clothes"
+            ]
+        },
+        {
+            "id": "11117266",
+            "name": "Baby accessories",
+            "slugs": [
+                "baby-kids",
+                "baby-clothes",
+                "baby-accessories"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/896800199928",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "7.95",
+            "advertisedDisplayValue": "7.95",
+            "effectiveDisplayValue": "7.95",
+            "multiplier": 1,
+            "value": 7.95,
+            "effectiveValue": 7.95,
+            "advertisedValue": 7.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T10:37:13"
+}

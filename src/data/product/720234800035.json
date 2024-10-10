@@ -1,0 +1,153 @@
+{
+    "uid": 100079930,
+    "migrosId": "720234800035",
+    "name": "Stabilo Leuchtstift",
+    "brand": "Stabilo",
+    "title": "Stabilo Leuchtstift",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Stabilo",
+                "slug": "stabilo",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077163/brands/Stabilo_Hermann_Kuhn_AG_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 25,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/720234800035"
+        },
+        "otherInformation": {
+            "articleNumber": "720234800035",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Number",
+                    "value": "1 Pcs."
+                },
+                {
+                    "code": "Color",
+                    "value": "orange"
+                },
+                {
+                    "code": "Font color",
+                    "value": "orange"
+                },
+                {
+                    "code": "Font width",
+                    "value": "2 - 5 mm"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4006381101417"
+    ],
+    "variants": {
+        "baseProductMigrosId": "720234800000",
+        "mainVariantMigrosId": "720234800050",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "ORANGE"
+                },
+                "migrosId": "720234800035"
+            },
+            {
+                "declinationOptions": {
+                    "color": "GELB"
+                },
+                "migrosId": "720234800050"
+            },
+            {
+                "declinationOptions": {
+                    "color": "GRÜN"
+                },
+                "migrosId": "720234800060"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "ORANGE",
+                "options": [
+                    "ORANGE",
+                    "GELB",
+                    "GRÜN"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/cba92d957dc2e5ddcbbaea457a5a9a3a12f452b7/stabilo-leuchtstift.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/cd6ce9204f6044063ae71ddfbd804dcea7e0e5f9.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494813",
+            "name": "Office & stationery",
+            "slugs": [
+                "household-and-living",
+                "office-stationery"
+            ]
+        },
+        {
+            "id": "7495170",
+            "name": "Writing & taking notes",
+            "slugs": [
+                "household-and-living",
+                "office-stationery",
+                "writing-taking-notes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/720234800035",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.95",
+            "advertisedDisplayValue": "1.95",
+            "effectiveDisplayValue": "1.95",
+            "multiplier": 1,
+            "value": 1.95,
+            "effectiveValue": 1.95,
+            "advertisedValue": 1.95,
+            "unitPrice": {
+                "value": 1.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "1.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T22:29:40"
+}

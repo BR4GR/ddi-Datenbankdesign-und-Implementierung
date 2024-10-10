@@ -1,0 +1,189 @@
+{
+    "uid": 100036034,
+    "migrosId": "120307900000",
+    "migrosOnlineId": "7032599",
+    "name": "Aperitive drink",
+    "brand": "Martini",
+    "brandLine": "Vibrante",
+    "versioning": "Alcohol free",
+    "title": "Martini Vibrante · Aperitive drink · Alcohol free",
+    "description": "Martini Aperitive drink Alcohol free",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Martini",
+                "slug": "martini"
+            },
+            "ingredients": "Ingredients: DE-ALCOHOLISED WINE (CONTAINS SULPHITES), Sugar, Water, Natural Flavours, Colouring Concentrates From Fruit and Vegetable, Acids: Citric Acid, Acidity Regulator: Tartaric Acid, Preservatives: Potassium Sorbate, Sodium Benzoate.",
+            "allergens": "Sulphur dioxide and sulphites",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 2,
+                    "productionRatio": 46,
+                    "transportRatio": 10,
+                    "packagingRatio": 44,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 47,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/120307900000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 ml"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "~ 250 kJ (~ 60 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "~ 0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "~ 0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "~ 14 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "~ 14 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "~ 0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "~ 0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "120307900000",
+            "legalDesignation": "Non Alcoholic Aperitif",
+            "distributorName": "Bacardi Martini Patrón International GmbH",
+            "distributorStreetAndNumber": "Quaistrasse 11, 8200 Schaffhausen",
+            "remarks": [
+                {
+                    "code": "Warnings / mandatory notes",
+                    "value": "<0.5% vol. From plant extracts"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7630040403665"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/6099fe6ba5654a4c857201c827998c21933ef245/martini-vibrante-alkoholfrei.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494737",
+            "name": "Wine, beer & spirits",
+            "slugs": [
+                "wine-beer-spirits"
+            ]
+        },
+        {
+            "id": "10583761",
+            "name": "Alcohol free drinks",
+            "slugs": [
+                "wine-beer-spirits",
+                "alcohol-free-drinks"
+            ]
+        },
+        {
+            "id": "10614109",
+            "name": "Aperitifs & spirits",
+            "slugs": [
+                "wine-beer-spirits",
+                "alcohol-free-drinks",
+                "aperitifs-spirits"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/120307900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "13.95",
+            "advertisedDisplayValue": "13.95",
+            "effectiveDisplayValue": "13.95",
+            "multiplier": 1,
+            "value": 13.95,
+            "effectiveValue": 13.95,
+            "advertisedValue": 13.95,
+            "unitPrice": {
+                "value": 1.86,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "750ml",
+        "quantityPrice": "1.86/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T19:37:01"
+}

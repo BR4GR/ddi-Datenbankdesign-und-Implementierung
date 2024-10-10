@@ -1,0 +1,96 @@
+{
+    "uid": 100109729,
+    "migrosId": "110415400000",
+    "name": "Klaussack",
+    "title": "Klaussack",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "rating": {
+                "nbReviews": 5,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/110415400000"
+        },
+        "otherInformation": {
+            "articleNumber": "110415400000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7623186003851"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/b7591729f61c22906f7ef7d042ef1b7fd56642db/klaussack.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/b2cd5a7ffe1155840c7361fa751716c735a6616c.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d26c8b1563b1d9eae4c736abc3d5e9f5ef95183f.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494781",
+            "name": "Biscuits",
+            "slugs": [
+                "snacks-sweets",
+                "biscuits"
+            ]
+        },
+        {
+            "id": "7495016",
+            "name": "Assorted biscuits",
+            "slugs": [
+                "snacks-sweets",
+                "biscuits",
+                "assorted-biscuits"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/110415400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "12.50",
+            "advertisedDisplayValue": "12.50",
+            "effectiveDisplayValue": "12.50",
+            "multiplier": 1,
+            "value": 12.5,
+            "effectiveValue": 12.5,
+            "advertisedValue": 12.5,
+            "unitPrice": {
+                "value": 2.29,
+                "unit": "100g"
+            }
+        },
+        "quantity": "546g",
+        "quantityPrice": "2.29/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-19T05:10:16"
+}

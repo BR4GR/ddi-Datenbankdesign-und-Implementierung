@@ -1,0 +1,143 @@
+{
+    "uid": 100088190,
+    "migrosId": "847940700010",
+    "name": "Gel Dots",
+    "brand": "Central Square",
+    "title": "Gel Dots",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Central Square",
+                "slug": "central-square",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076642/brands/CentralSquare_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 2.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/847940700010"
+        },
+        "otherInformation": {
+            "articleNumber": "847940700010",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Category/theme",
+                    "value": "Zubehör"
+                },
+                {
+                    "code": "Multipack",
+                    "value": "3 Paar"
+                },
+                {
+                    "code": "Product type",
+                    "value": "Gel- und Lederaccessoires"
+                },
+                {
+                    "code": "Main material",
+                    "value": "Kunststoff"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "Extra Komfort"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613432490429"
+    ],
+    "variants": {
+        "baseProductMigrosId": "847940700000",
+        "mainVariantMigrosId": "847940700010",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "000",
+                    "color": "white"
+                },
+                "migrosId": "847940700010"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "white",
+                "options": [
+                    "white"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "000",
+                "options": [
+                    "000"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/4903db2e2bbff481aa0d3476f28868b023b1c47d/gel-dots.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10553494",
+            "name": "Shoes",
+            "slugs": [
+                "clothing-accessories",
+                "shoes"
+            ]
+        },
+        {
+            "id": "10553514",
+            "name": "Insoles",
+            "slugs": [
+                "clothing-accessories",
+                "shoes",
+                "insoles"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/847940700010",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "2.95",
+            "advertisedDisplayValue": "2.95",
+            "effectiveDisplayValue": "2.95",
+            "multiplier": 1,
+            "value": 2.95,
+            "effectiveValue": 2.95,
+            "advertisedValue": 2.95
+        },
+        "quantity": "1 Paar",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T09:20:05"
+}

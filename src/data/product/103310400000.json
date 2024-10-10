@@ -1,0 +1,185 @@
+{
+    "uid": 100121899,
+    "migrosId": "103310400000",
+    "name": "Peperoncino sott'olio",
+    "title": "Peperoncino sott'olio",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L88",
+                    "name": "Nostrani del Ticino",
+                    "slug": "nostrani-del-ticino",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1707838713/labels/Nostrani_del_Ticino"
+                }
+            ],
+            "ingredients": "Tessiner Chilischoten ^ 65%, Sonnenblumenöl ^, Kochsalz. \n^ aus dem Tessin (CH)",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/103310400000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "1 Esslöffel (15 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1220 kJ (296 kcal)",
+                            "185 kJ (45 kcal)",
+                            "2 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "29 g",
+                            "4.4 g",
+                            "6 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "2.1 g",
+                            "0.3 g",
+                            "2 %"
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "6.1 g",
+                            "0.9 g",
+                            "< 5 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "3.7 g",
+                            "0.6 g",
+                            "1 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "1.2 g",
+                            "< 0.5 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "2 g",
+                            "< 0.5 g",
+                            "1 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.71 g",
+                            "0.11 g",
+                            "2 %"
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    }
+                ]
+            },
+            "portionSentence": "1 Jar ≈ 9 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "103310400000",
+            "legalDesignation": "Chilischoten in Sonnenblumenöl",
+            "distributorName": "Cooperativa Migros Ticino",
+            "distributorStreetAndNumber": "CH-6592 S. Antonino",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Once opened, keep refrigerated."
+                },
+                {
+                    "code": "Production information",
+                    "value": "high pasteurized"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312404201"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/0d5da7a8852c0b4dfd02f37155a0524252b234a9/peperoncino-sottolio.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494780",
+            "name": "Snacks & crisps",
+            "slugs": [
+                "snacks-sweets",
+                "snacks-crisps"
+            ]
+        },
+        {
+            "id": "7495004",
+            "name": "Olives & antipasti",
+            "slugs": [
+                "snacks-sweets",
+                "snacks-crisps",
+                "olives-antipasti"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/103310400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "11.20",
+            "advertisedDisplayValue": "11.20",
+            "effectiveDisplayValue": "11.20",
+            "multiplier": 1,
+            "value": 11.2,
+            "effectiveValue": 11.2,
+            "advertisedValue": 11.2,
+            "unitPrice": {
+                "value": 8.62,
+                "unit": "100g"
+            }
+        },
+        "quantity": "130g",
+        "quantityPrice": "8.62/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T18:01:42"
+}

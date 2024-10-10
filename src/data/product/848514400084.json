@@ -1,0 +1,171 @@
+{
+    "uid": 100092995,
+    "migrosId": "848514400084",
+    "name": "Velcro Wallet",
+    "brand": "MIGROS ESSENTIALS",
+    "title": "Velcro Wallet",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "MIGROS ESSENTIALS",
+                "slug": "migros-essentials",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1708333701/brands/Migros_Essentials_-_RGB_-_DE"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 10,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/848514400084"
+        },
+        "otherInformation": {
+            "articleNumber": "848514400084",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Zielgruppe",
+                    "value": "Kinder"
+                },
+                {
+                    "code": "Look",
+                    "value": "Applikationen"
+                },
+                {
+                    "code": "Material",
+                    "value": "Polyester"
+                },
+                {
+                    "code": "Age",
+                    "value": "5-6 Jahre"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613434588377"
+    ],
+    "variants": {
+        "baseProductMigrosId": "848514400000",
+        "mainVariantMigrosId": "848514400034",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "bordeaux"
+                },
+                "migrosId": "848514400034"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "navy"
+                },
+                "migrosId": "848514400043"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "olive green"
+                },
+                "migrosId": "848514400065"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "anthracite"
+                },
+                "migrosId": "848514400084"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "anthracite",
+                "options": [
+                    "bordeaux",
+                    "navy",
+                    "olive green",
+                    "anthracite"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "one Size",
+                "options": [
+                    "one Size"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/47e492ff227d7f60b28bf97ac1df5635048f0842/velcro-wallet.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1d09477b421fbad4d2314af35998a62d09d40435.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a34928da35196e12a0842d2ddbc0a75b01ac62ad.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10552745",
+            "name": "Accessories",
+            "slugs": [
+                "clothing-accessories",
+                "accessories"
+            ]
+        },
+        {
+            "id": "10552771",
+            "name": "Wallets",
+            "slugs": [
+                "clothing-accessories",
+                "accessories",
+                "wallets"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/848514400084",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "9.95",
+            "advertisedDisplayValue": "9.95",
+            "effectiveDisplayValue": "9.95",
+            "multiplier": 1,
+            "value": 9.95,
+            "effectiveValue": 9.95,
+            "advertisedValue": 9.95
+        },
+        "quantity": "1 Stk.",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T23:11:11"
+}

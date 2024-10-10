@@ -1,0 +1,140 @@
+{
+    "uid": 100011628,
+    "migrosId": "212567600000",
+    "migrosOnlineId": "71077",
+    "name": "Soft cheese, made from pasteurized milk",
+    "brand": "Saint Albray",
+    "versioning": "33% fat",
+    "title": "Saint Albray · Soft cheese, made from pasteurized milk · 33% fat",
+    "description": "Saint Albray Soft cheese, made from pasteurized milk 33% fat",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Saint Albray",
+                "slug": "saint-albray"
+            },
+            "ingredients": "MILK, cheese cultures, salt, colorant: beta-carotene in the rind.",
+            "allergens": "Milk and its derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 69,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/212567600000"
+        },
+        "nutrientsInformation": {
+            "portionSentence": "1 pack ≈ 1 serving"
+        },
+        "usageInformation": {
+            "additionalInformation": "Under its red rind and original flower shape, this delicious cheese reveals its fine, genuine taste and creamy texture. Young cheeses have a mild and neutral taste which becomes more hearty with age."
+        },
+        "otherInformation": {
+            "articleNumber": "212567600000",
+            "legalDesignation": "French soft cheese, cream, pasteurized cow's milk.",
+            "identificationMark": "FR 64 284 100 CE",
+            "distributorName": "Fromagerie des Chaumes SAS",
+            "distributorStreetAndNumber": "155 avenue Rauski64110 Jurancon",
+            "remarks": [
+                {
+                    "code": "Consumer storage instructions",
+                    "value": "Store between + 2 ° C and + 8 ° C."
+                },
+                {
+                    "code": "Percentage of alcohol by volume [%]",
+                    "value": "0"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Type of cheese",
+                    "value": "Soft cheese"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Karton"
+                },
+                {
+                    "code": "Rennet type",
+                    "value": "mikrobielles"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "3222110030884",
+        "3222110005646",
+        "3222110029475"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/e1c062349b0377777892561bac134e82e53b97ac/le-saint-albray-des-pyrenees.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494752",
+            "name": "Cheese",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese"
+            ]
+        },
+        {
+            "id": "7494872",
+            "name": "Soft cheeses & blue cheeses",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese",
+                "soft-cheeses-blue-cheeses"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/212567600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.30",
+            "advertisedDisplayValue": "5.30",
+            "effectiveDisplayValue": "5.30",
+            "multiplier": 1,
+            "value": 5.3,
+            "effectiveValue": 5.3,
+            "advertisedValue": 5.3,
+            "unitPrice": {
+                "value": 2.65,
+                "unit": "100g"
+            }
+        },
+        "quantity": "200g",
+        "quantityPrice": "2.65/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483166/labels/fresh",
+                "description": "fresh"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T15:41:18"
+}

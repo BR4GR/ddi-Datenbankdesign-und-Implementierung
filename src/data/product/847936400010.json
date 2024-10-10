@@ -1,0 +1,157 @@
+{
+    "uid": 100088130,
+    "migrosId": "847936400010",
+    "name": "TANA Foot Silk",
+    "brand": "Tana",
+    "title": "TANA Foot Silk",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Tana",
+                "slug": "tana",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252501/brands/tana"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/847936400010"
+        },
+        "usageInformation": {
+            "signalWord": "Gefahr",
+            "chemicalPictosV2": [
+                {
+                    "cdn": "rokka",
+                    "pictoId": "GHS02",
+                    "pictoPath": "https://image.migros.ch/original/45c0793944b0697e7b8b20b514a368ecbeea0633/Flamme.jpg",
+                    "pictoPathStack": "https://image.migros.ch/{stack}/45c0793944b0697e7b8b20b514a368ecbeea0633/Flamme.jpg"
+                }
+            ],
+            "chemicalWarnings": [
+                "Behälter steht unter Druck: kann bei Erwärmung bersten.",
+                "Extrem entzündbares Aerosol."
+            ],
+            "chemicalSafetyInstructions": [
+                "Nicht durchstechen oder verbrennen, auch nicht nach Gebrauch.",
+                "Vor Sonnenbestrahlung schützen und nicht Temperaturen von mehr als 50°C aussetzen.",
+                "Nicht gegen offene Flamme oder andere Zündquelle sprühen.",
+                "Darf nicht in die Hände von Kindern gelangen.",
+                "Von Hitze, heissen Oberflächen, Funken, offenen Flammen sowie anderen Zündquellenarten fernhalten. Nicht rauchen."
+            ]
+        },
+        "otherInformation": {
+            "articleNumber": "847936400010",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Category/theme",
+                    "value": "Pflegemittel"
+                },
+                {
+                    "code": "Product type",
+                    "value": "Deodorant und Barfussspray"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "Hygienische Frische"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4053201046809"
+    ],
+    "variants": {
+        "baseProductMigrosId": "847936400000",
+        "mainVariantMigrosId": "847936400010",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "000",
+                    "color": "white"
+                },
+                "migrosId": "847936400010"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "white",
+                "options": [
+                    "white"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "000",
+                "options": [
+                    "000"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3c18c0d8a43b5c4097302a9391ae098e43482813/tana-foot-silk.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10553494",
+            "name": "Shoes",
+            "slugs": [
+                "clothing-accessories",
+                "shoes"
+            ]
+        },
+        {
+            "id": "10553524",
+            "name": "Shoe accessories",
+            "slugs": [
+                "clothing-accessories",
+                "shoes",
+                "shoe-accessories"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/847936400010",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "7.95",
+            "advertisedDisplayValue": "7.95",
+            "effectiveDisplayValue": "7.95",
+            "multiplier": 1,
+            "value": 7.95,
+            "effectiveValue": 7.95,
+            "advertisedValue": 7.95
+        },
+        "quantity": "100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T09:53:14"
+}

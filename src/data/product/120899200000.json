@@ -1,0 +1,211 @@
+{
+    "uid": 100065878,
+    "migrosId": "120899200000",
+    "name": "Aus der Region Appenzell ohne CO2",
+    "brand": "Appenzeller",
+    "title": "Aus der Region Appenzell ohne CO2",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "brand": {
+                "name": "Appenzeller",
+                "slug": "appenzeller",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1701691503/brands/APPENZELLER_Logo_auf_Schwarz"
+            },
+            "ingredients": "Mineralisation Summe rund 550mg/L",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/120899200000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 ml"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "0 kJ (0 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "120899200000",
+            "legalDesignation": "Natürliches Mineralwasser ohne Kohlensäure.",
+            "distributorName": "Goba AG",
+            "distributorStreetAndNumber": "Gontenstrasse 51, 9108 Gontenbad",
+            "remarks": [
+                {
+                    "code": "Aufbewahrungshinweise für den Konsumenten",
+                    "value": "≤ 25°C"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Production process",
+                    "value": "Aus der Region"
+                },
+                {
+                    "code": "Number of removable individual units",
+                    "value": "6"
+                },
+                {
+                    "code": "Carbonated",
+                    "value": "No"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "PET Flasche"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                },
+                {
+                    "code": "Type of soft drink",
+                    "value": "Mineralwasser"
+                },
+                {
+                    "code": "Carbon dioxide content",
+                    "value": "Still"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7640106030261"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1d775c86c3860229cf90859c2e575bb73767f3e2/aus-der-region-appenzell-ohne-co2.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/34ab5a1c7a6fb820aafdd06646ffafd1110d8362.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494770",
+            "name": "Water",
+            "slugs": [
+                "drinks-coffee-tea",
+                "water"
+            ]
+        },
+        {
+            "id": "7494955",
+            "name": "Still water",
+            "slugs": [
+                "drinks-coffee-tea",
+                "water",
+                "still-water"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/120899200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.70",
+            "advertisedDisplayValue": "5.70",
+            "effectiveDisplayValue": "5.70",
+            "multiplier": 1,
+            "value": 5.7,
+            "effectiveValue": 5.7,
+            "advertisedValue": 5.7,
+            "unitPrice": {
+                "value": 0.19,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "6 x 500ml",
+        "quantityPrice": "0.19/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:22:52"
+}

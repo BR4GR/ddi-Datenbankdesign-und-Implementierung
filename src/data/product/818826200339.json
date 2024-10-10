@@ -1,0 +1,202 @@
+{
+    "uid": 100171831,
+    "migrosId": "818826200339",
+    "name": "Ladies Brazilian Modal",
+    "brand": "MIGROS ESSENTIALS",
+    "title": "Ladies Brazilian Modal",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L07",
+                    "name": "ECO",
+                    "slug": "eco",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483145/labels/Eco-Textilien_-_RGB_-_DE"
+                },
+                {
+                    "id": "L93",
+                    "name": "Tencel",
+                    "slug": "tencel",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1707834844/labels/Tencel"
+                }
+            ],
+            "brand": {
+                "name": "MIGROS ESSENTIALS",
+                "slug": "migros-essentials",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1708333701/brands/Migros_Essentials_-_RGB_-_DE"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/818826200339"
+        },
+        "otherInformation": {
+            "articleNumber": "818826200339",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Zielgruppe",
+                    "value": "Damen"
+                },
+                {
+                    "code": "Article type",
+                    "value": "Brazil"
+                },
+                {
+                    "code": "Altersgruppe",
+                    "value": "Erwachsene"
+                },
+                {
+                    "code": "Material",
+                    "value": "Modal"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "94 %"
+                },
+                {
+                    "code": "Material 2",
+                    "value": "Elasthan"
+                },
+                {
+                    "code": "Proportion of material 2",
+                    "value": "6 %"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871725476"
+    ],
+    "variants": {
+        "baseProductMigrosId": "818826200000",
+        "mainVariantMigrosId": "818826200239",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "S",
+                    "color": "light pink"
+                },
+                "migrosId": "818826200239"
+            },
+            {
+                "declinationOptions": {
+                    "size": "M",
+                    "color": "light pink"
+                },
+                "migrosId": "818826200339"
+            },
+            {
+                "declinationOptions": {
+                    "size": "L",
+                    "color": "light pink"
+                },
+                "migrosId": "818826200439"
+            },
+            {
+                "declinationOptions": {
+                    "size": "XL",
+                    "color": "light pink"
+                },
+                "migrosId": "818826200539"
+            },
+            {
+                "declinationOptions": {
+                    "size": "XXL",
+                    "color": "light pink"
+                },
+                "migrosId": "818826200639"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "light pink",
+                "options": [
+                    "light pink"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "M",
+                "options": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "XXL"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/5b3b7c4935d1c1b2e06cc431b4ec4baa9a92be68/ladies-brazilian-modal.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/9e8778f7bb74475fefd820f79afa5d095a610750.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10553347",
+            "name": "Women",
+            "slugs": [
+                "clothing-accessories",
+                "women"
+            ]
+        },
+        {
+            "id": "10553439",
+            "name": "Underwear",
+            "slugs": [
+                "clothing-accessories",
+                "women",
+                "underwear"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/818826200339",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "12.95",
+            "advertisedDisplayValue": "12.95",
+            "effectiveDisplayValue": "12.95",
+            "multiplier": 1,
+            "value": 12.95,
+            "effectiveValue": 12.95,
+            "advertisedValue": 12.95,
+            "unitPrice": {
+                "value": 12.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "12.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T23:37:13"
+}

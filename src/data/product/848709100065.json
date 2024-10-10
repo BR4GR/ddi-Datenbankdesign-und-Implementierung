@@ -1,0 +1,163 @@
+{
+    "uid": 100093114,
+    "migrosId": "848709100065",
+    "name": "pocket umbrella",
+    "brand": "MIGROS ESSENTIALS",
+    "title": "pocket umbrella",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "MIGROS ESSENTIALS",
+                "slug": "migros-essentials",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1708333701/brands/Migros_Essentials_-_RGB_-_DE"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 11,
+                "nbStars": 3.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/848709100065"
+        },
+        "otherInformation": {
+            "articleNumber": "848709100065",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Zielgruppe",
+                    "value": "Herren"
+                },
+                {
+                    "code": "Category/theme",
+                    "value": "Taschenschirm"
+                },
+                {
+                    "code": "Look",
+                    "value": "gemustert"
+                },
+                {
+                    "code": "Gender",
+                    "value": "Herren"
+                },
+                {
+                    "code": "Material",
+                    "value": "Recycletes Polyester"
+                },
+                {
+                    "code": "Diameter of umbrella",
+                    "value": "102"
+                },
+                {
+                    "code": "Weight of umbrellas",
+                    "value": "425 gr."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613434590424"
+    ],
+    "variants": {
+        "baseProductMigrosId": "848709100000",
+        "mainVariantMigrosId": "848709100065",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "olive green"
+                },
+                "migrosId": "848709100065"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "anthracite"
+                },
+                "migrosId": "848709100084"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "olive green",
+                "options": [
+                    "olive green",
+                    "anthracite"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "one Size",
+                "options": [
+                    "one Size"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/323115e3aaa39ebac9ab031f64b6e0917f826140/pocket-umbrella.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/65a5653e80c9d5dc4d44dfb3a0b98f324ccfb5da.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10552745",
+            "name": "Accessories",
+            "slugs": [
+                "clothing-accessories",
+                "accessories"
+            ]
+        },
+        {
+            "id": "10552791",
+            "name": "Umbrellas",
+            "slugs": [
+                "clothing-accessories",
+                "accessories",
+                "umbrellas"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/848709100065",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "19.95",
+            "advertisedDisplayValue": "19.95",
+            "effectiveDisplayValue": "19.95",
+            "multiplier": 1,
+            "value": 19.95,
+            "effectiveValue": 19.95,
+            "advertisedValue": 19.95
+        },
+        "quantity": "1 Stk.",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T09:20:49"
+}

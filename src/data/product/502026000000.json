@@ -1,0 +1,150 @@
+{
+    "uid": 100036881,
+    "migrosId": "502026000000",
+    "migrosOnlineId": "4151091",
+    "name": "Anti-bacterial cleaning wipes",
+    "brand": "Potz",
+    "title": "Potz · Anti-bacterial cleaning wipes",
+    "description": "Potz Anti-bacterial cleaning wipes  Removes 99.9% of bacteria, fungi, and special viruses",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Potz",
+                "slug": "potz",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1661928615/brands/Potz"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 3,
+                    "co2CarKmEquivalent": 18,
+                    "productionRatio": 92,
+                    "transportRatio": 3,
+                    "packagingRatio": 5,
+                    "image": "https://image.migros.ch/original/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "co2KgRange": "2 - 4.7 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 24,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/502026000000"
+        },
+        "usageInformation": {
+            "signalWord": "Achtung",
+            "chemicalPictosV2": [
+                {
+                    "cdn": "rokka",
+                    "pictoId": "GHS02",
+                    "pictoPath": "https://image.migros.ch/original/45c0793944b0697e7b8b20b514a368ecbeea0633/Flamme.jpg",
+                    "pictoPathStack": "https://image.migros.ch/{stack}/45c0793944b0697e7b8b20b514a368ecbeea0633/Flamme.jpg"
+                }
+            ],
+            "chemicalWarnings": [
+                "Flüssigkeit und Dampf entzündbar."
+            ],
+            "chemicalSafetyInstructions": [
+                "Inhalt/Behälter … zuführen.",
+                "Darf nicht in die Hände von Kindern gelangen.",
+                "Ist ärztlicher Rat erforderlich, Verpackung oder Kennzeichnungsetikett bereithalten.",
+                "Von Hitze, heissen Oberflächen, Funken, offenen Flammen sowie anderen Zündquellenarten fernhalten. Nicht rauchen."
+            ]
+        },
+        "otherInformation": {
+            "articleNumber": "502026000000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Form",
+                    "value": "Tuch"
+                },
+                {
+                    "code": "Special features",
+                    "value": "Entfernt 99.9% der Bakterien,  Pilze und spezielle Viren"
+                },
+                {
+                    "code": "Suitable for",
+                    "value": "alle abwaschbaren Oberflächen, Bildschirm, Brillen, Glas und Spiegel, Kunststoff-Beläge, Schnelle Reinigung, Tastatur, WC"
+                },
+                {
+                    "code": "Hazard warnings",
+                    "value": "Darf nicht in die Hände von Kindern gelangen."
+                },
+                {
+                    "code": "Not suitable for",
+                    "value": "Siehe Anleitung!"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312160947"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/907e86dce7ff2c572fba27f54bfecb9eb048938c/potz-disinf-10s.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494740",
+            "name": "Laundry & cleaning",
+            "slugs": [
+                "laundry-cleaning"
+            ]
+        },
+        {
+            "id": "7494809",
+            "name": "Household & floor cleaners",
+            "slugs": [
+                "laundry-cleaning",
+                "household-floor-cleaners"
+            ]
+        },
+        {
+            "id": "7495149",
+            "name": "Bleaches & disinfectants",
+            "slugs": [
+                "laundry-cleaning",
+                "household-floor-cleaners",
+                "bleaches-disinfectants"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/502026000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.90",
+            "advertisedDisplayValue": "3.90",
+            "effectiveDisplayValue": "3.90",
+            "multiplier": 1,
+            "value": 3.9,
+            "effectiveValue": 3.9,
+            "advertisedValue": 3.9,
+            "unitPrice": {
+                "value": 0.39,
+                "unit": "piece"
+            }
+        },
+        "quantity": "10 Stk.",
+        "quantityPrice": "0.39/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T08:48:00"
+}

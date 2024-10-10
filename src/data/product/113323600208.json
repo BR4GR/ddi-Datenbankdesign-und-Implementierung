@@ -1,0 +1,89 @@
+{
+    "uid": 100164347,
+    "migrosId": "113323600208",
+    "name": "Erdbeertorte 25cm",
+    "brand": "In-store bakery",
+    "title": "Erdbeertorte 25cm",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "In-store bakery",
+                "slug": "in-store-bakery"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/113323600208"
+        },
+        "otherInformation": {
+            "articleNumber": "113323600208",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7610200443557"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/cddc66b9cc83cca77f01624fdce153df19517d94/erdbeertorte-25cm.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494765",
+            "name": "Pastries",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "pastries"
+            ]
+        },
+        {
+            "id": "7494934",
+            "name": "Cakes",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "pastries",
+                "cakes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/113323600208",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "35.–",
+            "advertisedDisplayValue": "35.–",
+            "effectiveDisplayValue": "35.–",
+            "multiplier": 1,
+            "value": 35,
+            "effectiveValue": 35,
+            "advertisedValue": 35,
+            "unitPrice": {
+                "value": 2.5,
+                "unit": "100g"
+            }
+        },
+        "quantity": "1400g",
+        "quantityPrice": "2.50/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-20T05:41:46"
+}

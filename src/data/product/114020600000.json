@@ -1,0 +1,88 @@
+{
+    "uid": 100144359,
+    "migrosId": "114020600000",
+    "name": "Pettegolezzi di Colombina",
+    "title": "Pettegolezzi di Colombina",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/114020600000"
+        },
+        "otherInformation": {
+            "articleNumber": "114020600000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "8015854300574"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d4a11a9a948b41f2631ea05db6552080e1f173a9/pettegolezzi-di-colombina.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494781",
+            "name": "Biscuits",
+            "slugs": [
+                "snacks-sweets",
+                "biscuits"
+            ]
+        },
+        {
+            "id": "7495017",
+            "name": "Meringues & bricelet wafers",
+            "slugs": [
+                "snacks-sweets",
+                "biscuits",
+                "meringues-bricelet-wafers"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/114020600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.10",
+            "advertisedDisplayValue": "3.10",
+            "effectiveDisplayValue": "3.10",
+            "multiplier": 1,
+            "value": 3.1,
+            "effectiveValue": 3.1,
+            "advertisedValue": 3.1,
+            "unitPrice": {
+                "value": 2.48,
+                "unit": "100g"
+            }
+        },
+        "quantity": "125g",
+        "quantityPrice": "2.48/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T15:42:40"
+}

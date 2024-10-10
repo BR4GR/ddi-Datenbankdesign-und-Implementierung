@@ -1,0 +1,161 @@
+{
+    "uid": 100004240,
+    "migrosId": "505067600000",
+    "migrosOnlineId": "5023428",
+    "name": "Refill",
+    "brand": "Migros Fresh",
+    "brandLine": "Mini Spray",
+    "versioning": "White Musk",
+    "title": "Migros Fresh Mini Spray · Refill · White Musk",
+    "description": "Migros Fresh Refill White Musk",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Fresh",
+                "slug": "migros-fresh"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 3,
+                    "co2CarKmEquivalent": 18,
+                    "productionRatio": 92,
+                    "transportRatio": 3,
+                    "packagingRatio": 5,
+                    "image": "https://image.migros.ch/original/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "co2KgRange": "2 - 4.7 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 27,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/505067600000"
+        },
+        "usageInformation": {
+            "additionalInformation": "Immediately and lastingly removes bad odors and leaves a pleasant freshness.",
+            "signalWord": "Gefahr",
+            "chemicalPictosV2": [
+                {
+                    "cdn": "rokka",
+                    "pictoId": "GHS02",
+                    "pictoPath": "https://image.migros.ch/original/45c0793944b0697e7b8b20b514a368ecbeea0633/Flamme.jpg",
+                    "pictoPathStack": "https://image.migros.ch/{stack}/45c0793944b0697e7b8b20b514a368ecbeea0633/Flamme.jpg"
+                },
+                {
+                    "cdn": "rokka",
+                    "pictoId": "GHS07",
+                    "pictoPath": "https://image.migros.ch/original/09b3c0810d45b7f83a5ad48c5bc38d4d0227615b/Dickes%20Ausrufezeichen.jpg",
+                    "pictoPathStack": "https://image.migros.ch/{stack}/09b3c0810d45b7f83a5ad48c5bc38d4d0227615b/Dickes%20Ausrufezeichen.jpg"
+                }
+            ],
+            "chemicalWarnings": [
+                "Verursacht Hautreizungen.",
+                "Behälter steht unter Druck: kann bei Erwärmung bersten.",
+                "Extrem entzündbares Aerosol."
+            ],
+            "chemicalSafetyInstructions": [
+                "Von Hitze, heissen Oberflächen, Funken, offenen Flammen sowie anderen Zündquellenarten fernhalten. Nicht rauchen.",
+                "Nicht durchstechen oder verbrennen, auch nicht nach Gebrauch.",
+                "Vor Sonnenbestrahlung schützen und nicht Temperaturen von mehr als 50°C aussetzen.",
+                "Nicht gegen offene Flamme oder andere Zündquelle sprühen.",
+                "Darf nicht in die Hände von Kindern gelangen."
+            ]
+        },
+        "otherInformation": {
+            "articleNumber": "505067600000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Form",
+                    "value": "Mini-Spray, Refill"
+                },
+                {
+                    "code": "Application",
+                    "value": "Bad / Toilette"
+                },
+                {
+                    "code": "Hazard warnings",
+                    "value": "Darf nicht in die Hände von Kindern gelangen. Achten Sie auf einen festen Stand der Flasche. Verschüttetes Duftöl kann Oberfläschen schädigen."
+                },
+                {
+                    "code": "Scent",
+                    "value": "Blumig, Holzig"
+                },
+                {
+                    "code": "Effect",
+                    "value": "zur schnellen Problemlösung"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613269229667"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1fb8e575e4c2b6f3692b5a868012cf8b5432b075/mini-spray-white-musk.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494811",
+            "name": "Household aids",
+            "slugs": [
+                "household-and-living",
+                "household-aids"
+            ]
+        },
+        {
+            "id": "7495163",
+            "name": "Air fresheners",
+            "slugs": [
+                "household-and-living",
+                "household-aids",
+                "air-fresheners"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/505067600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.50",
+            "advertisedDisplayValue": "3.50",
+            "effectiveDisplayValue": "3.50",
+            "multiplier": 1,
+            "value": 3.5,
+            "effectiveValue": 3.5,
+            "advertisedValue": 3.5,
+            "unitPrice": {
+                "value": 29.2,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "12ml",
+        "quantityPrice": "29.20/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T21:51:34"
+}

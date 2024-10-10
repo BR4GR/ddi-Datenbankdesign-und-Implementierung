@@ -1,0 +1,211 @@
+{
+    "uid": 100052820,
+    "migrosId": "274300302300",
+    "name": "Süsskartoffeln",
+    "brand": "Migros Fresca",
+    "title": "Süsskartoffeln",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Fresca",
+                "slug": "migros-fresca",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076970/brands/Migros_Fresca_Logo"
+            },
+            "ingredients": "Süsskartoffeln.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 2,
+                    "productionRatio": 75,
+                    "transportRatio": 13,
+                    "packagingRatio": 12,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 213,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/274300302300"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "344 kJ (81 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "< 0.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "17 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "4.2 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "3 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "1.6 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.1 g",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "274300302300",
+            "legalDesignation": "Süsskartoffeln, zum Gekochtessen",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Weitere Zusatzangaben",
+                    "value": "-"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Saison von",
+                    "value": "September"
+                },
+                {
+                    "code": "Saison bis",
+                    "value": "Januar"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Verpackt"
+                },
+                {
+                    "code": "Storage at home",
+                    "value": "kühl lagern, jedoch nicht im Kühlschrank"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613269534211"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/8839232d91e2b81f423dbed2560b850ec2472fd8/suesskartoffeln.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/250c1cbdf0098c82018fa639babb89edb5f15f4b.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494758",
+            "name": "Root vegetables",
+            "slugs": [
+                "fruits-vegetables",
+                "root-vegetables"
+            ]
+        },
+        {
+            "id": "7494908",
+            "name": "Potatoes",
+            "slugs": [
+                "fruits-vegetables",
+                "root-vegetables",
+                "potatoes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/274300302300",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.80",
+            "advertisedDisplayValue": "1.80",
+            "effectiveDisplayValue": "1.80",
+            "multiplier": 1,
+            "value": 1.8,
+            "effectiveValue": 1.8,
+            "advertisedValue": 1.8,
+            "unitPrice": {
+                "value": 0.18,
+                "unit": "100g"
+            }
+        },
+        "quantity": "1kg",
+        "quantityPrice": "0.18/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T03:51:05"
+}

@@ -1,0 +1,162 @@
+{
+    "uid": 100094787,
+    "migrosId": "848610900020",
+    "name": "Shopping Caddy",
+    "title": "Shopping Caddy",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/848610900020"
+        },
+        "otherInformation": {
+            "articleNumber": "848610900020",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Height",
+                    "value": "59 cm"
+                },
+                {
+                    "code": "Depth",
+                    "value": "25 cm"
+                },
+                {
+                    "code": "Width",
+                    "value": "36 cm"
+                },
+                {
+                    "code": "Weight",
+                    "value": "2.9 kg"
+                },
+                {
+                    "code": "Volume",
+                    "value": "55 l"
+                },
+                {
+                    "code": "Category/theme",
+                    "value": "Einkaufswagen"
+                },
+                {
+                    "code": "Main material",
+                    "value": "Polyester"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "Innentasche, Reflektoren, Seitentasche, standfester Boden"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4055278061037"
+    ],
+    "variants": {
+        "baseProductMigrosId": "848610900000",
+        "mainVariantMigrosId": "848610900020",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "black"
+                },
+                "migrosId": "848610900020"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "black",
+                "options": [
+                    "black"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "one Size",
+                "options": [
+                    "one Size"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a0cf921ebba1ad6e348bfa8dcece783ca07fc054/shopping-caddy.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/c1137025f5a5d8a5646a7d5b8386373fea667924.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/04654cba99897056c557f4aa9c313614db649c37.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10555163",
+            "name": "Shopping",
+            "slugs": [
+                "clothing-accessories",
+                "shopping"
+            ]
+        },
+        {
+            "id": "10555188",
+            "name": "Shopping trolleys",
+            "slugs": [
+                "clothing-accessories",
+                "shopping",
+                "shopping-trolleys"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/848610900020",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "139.–",
+            "advertisedDisplayValue": "139.–",
+            "effectiveDisplayValue": "139.–",
+            "multiplier": 1,
+            "value": 139,
+            "effectiveValue": 139,
+            "advertisedValue": 139,
+            "unitPrice": {
+                "value": 139,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "139.–/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T10:01:06"
+}

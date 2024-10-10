@@ -1,0 +1,108 @@
+{
+    "uid": 100053477,
+    "migrosId": "513302300000",
+    "name": "I am Shape my body",
+    "brand": "I am",
+    "title": "I am Shape my body",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "I am",
+                "slug": "i-am",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076768/brands/Iam_Logo"
+            },
+            "rating": {
+                "nbReviews": 10,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/513302300000"
+        },
+        "otherInformation": {
+            "articleNumber": "513302300000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Creme"
+                },
+                {
+                    "code": "Requirements/uses",
+                    "value": "Straffung"
+                },
+                {
+                    "code": "Suitable for",
+                    "value": "Anti-Aging"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7630028603186"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/773b64575d115e62acd8b258e6ad210be4869e48/i-am-shape-my-body.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494826",
+            "name": "Body care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care"
+            ]
+        },
+        {
+            "id": "7495242",
+            "name": "Treatments & creams",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care",
+                "treatments-creams"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/513302300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "9.90",
+            "advertisedDisplayValue": "9.90",
+            "effectiveDisplayValue": "9.90",
+            "multiplier": 1,
+            "value": 9.9,
+            "effectiveValue": 9.9,
+            "advertisedValue": 9.9,
+            "unitPrice": {
+                "value": 4.95,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "200ml",
+        "quantityPrice": "4.95/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T21:34:06"
+}

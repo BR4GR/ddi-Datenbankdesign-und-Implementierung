@@ -1,0 +1,115 @@
+{
+    "uid": 100174181,
+    "migrosId": "107146900000",
+    "name": "Turm Kaffee Caffè",
+    "brand": "Turm Kaffee",
+    "title": "Turm Kaffee Caffè",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Turm Kaffee",
+                "slug": "turm-kaffee"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/107146900000"
+        },
+        "otherInformation": {
+            "articleNumber": "107146900000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Coffee shape",
+                    "value": "Coffee beans"
+                },
+                {
+                    "code": "Botanical variety",
+                    "value": "Arabica"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Bag/pouch"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "brew"
+                },
+                {
+                    "code": "Instant",
+                    "value": "No"
+                },
+                {
+                    "code": "Decaffeinated",
+                    "value": "No"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7640134040386"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/28e447dbcd06872a567dd358fba78f1137be8f9b/turm-kaffee-caffe.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494772",
+            "name": "Coffee",
+            "slugs": [
+                "drinks-coffee-tea",
+                "coffee"
+            ]
+        },
+        {
+            "id": "7494966",
+            "name": "Coffee beans",
+            "slugs": [
+                "drinks-coffee-tea",
+                "coffee",
+                "coffee-beans"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/107146900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "13.95",
+            "advertisedDisplayValue": "13.95",
+            "effectiveDisplayValue": "13.95",
+            "multiplier": 1,
+            "value": 13.95,
+            "effectiveValue": 13.95,
+            "advertisedValue": 13.95,
+            "unitPrice": {
+                "value": 2.79,
+                "unit": "100g"
+            }
+        },
+        "quantity": "500g",
+        "quantityPrice": "2.79/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:18:25"
+}

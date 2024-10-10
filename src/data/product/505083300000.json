@@ -1,0 +1,136 @@
+{
+    "uid": 100031410,
+    "migrosId": "505083300000",
+    "migrosOnlineId": "4119804",
+    "name": "Room perfume",
+    "brand": "Migros Fresh",
+    "versioning": "Lemon Lime",
+    "title": "Migros Fresh · Room perfume · Lemon Lime",
+    "description": "Migros Fresh Room perfume Lemon Lime",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Fresh",
+                "slug": "migros-fresh"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 44,
+                    "productionRatio": 96,
+                    "transportRatio": 1,
+                    "packagingRatio": 2,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 5,
+                "nbStars": 4.5
+            }
+        },
+        "usageInformation": {
+            "chemicalSafetyInstructions": [
+                "Darf nicht in die Hände von Kindern gelangen.",
+                "Ist ärztlicher Rat erforderlich, Verpackung oder Kennzeichnungsetikett bereithalten."
+            ]
+        },
+        "otherInformation": {
+            "articleNumber": "505083300000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613312267837",
+        "7613312170045"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/feb9f039bc4d582baa3614a647d84f0d47b19258/scent-ball-trio-lemon-lime.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494811",
+            "name": "Household aids",
+            "slugs": [
+                "household-and-living",
+                "household-aids"
+            ]
+        },
+        {
+            "id": "7495163",
+            "name": "Air fresheners",
+            "slugs": [
+                "household-and-living",
+                "household-aids",
+                "air-fresheners"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/505083300000",
+    "isMgbCompatible": false,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "10.50",
+            "advertisedDisplayValue": "10.50",
+            "effectiveDisplayValue": "10.50",
+            "multiplier": 1,
+            "value": 10.5,
+            "effectiveValue": 10.5,
+            "advertisedValue": 10.5
+        },
+        "promotionPrice": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.–",
+            "advertisedDisplayValue": "7.–",
+            "effectiveDisplayValue": "7.–",
+            "multiplier": 1,
+            "value": 7,
+            "effectiveValue": 7,
+            "advertisedValue": 7,
+            "unitPrice": {
+                "value": 2.33,
+                "unit": "100ml"
+            }
+        },
+        "priceInsteadOfLabel": "was",
+        "quantity": "3 x 100ml",
+        "quantityPrice": "2.33/100ml",
+        "promotionHint": "2 + 1 for free",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "badges": [
+            {
+                "type": "PLUS_ONE_PROMOTION",
+                "description": "2 + 1"
+            }
+        ],
+        "promotionDateRange": {
+            "startDate": "2024-09-03",
+            "endDate": "2024-09-16"
+        },
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T20:22:29"
+}

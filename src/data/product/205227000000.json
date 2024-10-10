@@ -1,0 +1,263 @@
+{
+    "uid": 100000626,
+    "migrosId": "205227000000",
+    "migrosOnlineId": "6560033",
+    "name": "Yogurt",
+    "brand": "Oh!",
+    "brandLine": "Whey",
+    "versioning": "Vanilla",
+    "title": "Oh! Whey · Yogurt · Vanilla",
+    "description": "Oh! Yogurt Vanilla No sugar added",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "Oh!",
+                "slug": "oh",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077037/brands/Oh_Logo"
+            },
+            "nutritionalCharacteristics": [
+                "Lactose-free",
+                "No added sugar"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Lactose-free"
+                },
+                {
+                    "name": "No added sugar",
+                    "additionalInformation": "No added sugar. Contains naturally occurring sugars."
+                }
+            ],
+            "ingredients": "<strong>Magermilch</strong> (CH), Wasser, <strong>Molkenprotein</strong> 4.5%, <strong>Milchproteine</strong> 4%, modifizierte Stärke, Süssungsmittel: Acesulfam K und Cyclamat, Zitronensaftkonzentrat, Vanilleextrakt, Frucht- und Gemüsekonzentrate färbend (Saflor, Zitronen, Karotten, Kürbis), natürliches Aroma, Vanillesamen.",
+            "allergens": "Milk and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 6,
+                    "productionRatio": 86,
+                    "transportRatio": 1,
+                    "packagingRatio": 14,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                },
+                "animalWelfare": {
+                    "rating": 3,
+                    "image": "https://image.migros.ch/original/02f56762a6d67ea0470f50e5e8cc4d96d84791f0.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "rating": {
+                "nbReviews": 81,
+                "nbStars": 3.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/205227000000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "1 Becher (180 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "260 kJ (61 kcal)",
+                            "466 kJ (110 kcal)",
+                            "6 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "< 0.5 g",
+                            "0.7 g",
+                            "1 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0.2 g",
+                            "0.4 g",
+                            "2 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "5 g",
+                            "8.9 g",
+                            "3 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "4.5 g",
+                            "8 g",
+                            "9 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "9.5 g",
+                            "17 g",
+                            "34 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.1 g",
+                            "0.19 g",
+                            "3 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "205227000000",
+            "legalDesignation": "Fettarmer Joghurt, angereichert mit Molken- und Milcheiweiss, mit Vanille und Süssungsmittel, laktosefrei, max. 0,5 % Fett im Milchanteil",
+            "identificationMark": "CH 2434",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store refrigerated at max. +5 °C."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Allergens",
+                    "value": "Lactose free"
+                },
+                {
+                    "code": "Fat content",
+                    "value": "high protein content, max 0.5% fat in milk, lean"
+                },
+                {
+                    "code": "Flavored",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Banderole, Becher, Deckel"
+                },
+                {
+                    "code": "Flavoring",
+                    "value": "Vanille"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                },
+                {
+                    "code": "Gesundheits und nährwertbezogene Auslobung",
+                    "value": "No added sugar. Contains naturally occurring sugars."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613404655757"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3a87a15f321e8092122ea08039491aca8cd758af/oh-whey-protein-joghurt-vanille.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494753",
+            "name": "Yogurts & desserts",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "yogurts-desserts"
+            ]
+        },
+        {
+            "id": "7494879",
+            "name": "Yogurts",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "yogurts-desserts",
+                "yogurts"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/205227000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.60",
+            "advertisedDisplayValue": "1.60",
+            "effectiveDisplayValue": "1.60",
+            "multiplier": 1,
+            "value": 1.6,
+            "effectiveValue": 1.6,
+            "advertisedValue": 1.6,
+            "unitPrice": {
+                "value": 0.89,
+                "unit": "100g"
+            }
+        },
+        "quantity": "180g",
+        "quantityPrice": "0.89/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483166/labels/fresh",
+                "description": "fresh"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T16:19:33"
+}

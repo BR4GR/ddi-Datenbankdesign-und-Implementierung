@@ -1,0 +1,203 @@
+{
+    "uid": 100049536,
+    "migrosId": "101357600000",
+    "name": "Toblerone White",
+    "brand": "Toblerone",
+    "title": "Toblerone White",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "Toblerone",
+                "slug": "toblerone"
+            },
+            "ingredients": "Ingredients: Sugar,  whole MILK powder, cocoa butter,  honey (3 %), ALMONDS  (1,6 %), emulsifier (SOYA  lecithins), EGG white, flavouring.",
+            "allergens": "Eggs and their derivatives, Milk and its derivatives, Tree nut (nuts) and its derivatives, Soybean and its derivatives",
+            "rating": {
+                "nbReviews": 16,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/101357600000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "2246 kJ (537 kcal)",
+                            "734 kJ (176 kcal)",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "~ 29 g",
+                            "~ 9.6 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "~ 17 g",
+                            "~ 5.6 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "~ 62 g",
+                            "~ 20 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "~ 62 g",
+                            "~ 20 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "~ 0.2 g",
+                            "< 0.1 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "~ 6.1 g",
+                            "~ 2 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "~ 0.18 g",
+                            "~ 0.06 g",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "portionSentence": "1 pack ≈ 11 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "101357600000",
+            "legalDesignation": "White chocolate with honey and almond nougat (10%).",
+            "distributorName": "Mondelez Schweiz GmbH",
+            "distributorStreetAndNumber": "Lindbergh-Allee 1 CH-8152 Glattpark",
+            "remarks": [
+                {
+                    "code": "Consumer storage instructions",
+                    "value": "Store in a dry place. Protect from heat."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Packaging type",
+                    "value": "Cardboard"
+                },
+                {
+                    "code": "Type of chocolate",
+                    "value": "weisse Schokolade"
+                },
+                {
+                    "code": "Type of candy",
+                    "value": "Riegel"
+                },
+                {
+                    "code": "CO2 Compensated",
+                    "value": "No"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7622210496669"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/b540a381bb97b0892cbcdd80b00f5a28e946d145/toblerone-white.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494782",
+            "name": "Chocolate & sweets",
+            "slugs": [
+                "snacks-sweets",
+                "chocolate-sweets"
+            ]
+        },
+        {
+            "id": "7495018",
+            "name": "Chocolate bars",
+            "slugs": [
+                "snacks-sweets",
+                "chocolate-sweets",
+                "chocolate-bars"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/101357600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "9.60",
+            "advertisedDisplayValue": "9.60",
+            "effectiveDisplayValue": "9.60",
+            "multiplier": 1,
+            "value": 9.6,
+            "effectiveValue": 9.6,
+            "advertisedValue": 9.6,
+            "unitPrice": {
+                "value": 2.67,
+                "unit": "100g"
+            }
+        },
+        "quantity": "360g",
+        "quantityPrice": "2.67/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T19:15:41"
+}

@@ -1,0 +1,166 @@
+{
+    "uid": 100169235,
+    "migrosId": "880821330281",
+    "name": "Kids sweatjacket",
+    "brand": "Kids",
+    "title": "Kids sweatjacket",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L07",
+                    "name": "ECO",
+                    "slug": "eco",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483145/labels/Eco-Textilien_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "Kids",
+                "slug": "kids",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076840/brands/KIDS_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/880821330281"
+        },
+        "otherInformation": {
+            "articleNumber": "880821330281",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Zielgruppe",
+                    "value": "Kinder"
+                },
+                {
+                    "code": "Material",
+                    "value": "Baumwolle"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "100 %"
+                },
+                {
+                    "code": "Age",
+                    "value": "6-8 Jahre"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871665529"
+    ],
+    "variants": {
+        "baseProductMigrosId": "880821300000",
+        "mainVariantMigrosId": "880821330081",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "light grey",
+                    "size": "2-4 // 98/104"
+                },
+                "migrosId": "880821330081"
+            },
+            {
+                "declinationOptions": {
+                    "color": "light grey",
+                    "size": "4-6 // 110/116"
+                },
+                "migrosId": "880821330181"
+            },
+            {
+                "declinationOptions": {
+                    "color": "light grey",
+                    "size": "6-8 // 122/128"
+                },
+                "migrosId": "880821330281"
+            },
+            {
+                "declinationOptions": {
+                    "color": "light grey",
+                    "size": "8-10 // 134/140"
+                },
+                "migrosId": "880821330381"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "light grey",
+                "options": [
+                    "light grey"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "6-8 // 122/128",
+                "options": [
+                    "2-4 // 98/104",
+                    "4-6 // 110/116",
+                    "6-8 // 122/128",
+                    "8-10 // 134/140"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/fff05345bfe63561d37cfcd5720eafabbd7ac0f4/kids-sweatjacket.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "11117258",
+            "name": "Children's clothing",
+            "slugs": [
+                "baby-kids",
+                "childrens-clothing"
+            ]
+        },
+        {
+            "id": "11124195",
+            "name": "Outdoor children's clothes",
+            "slugs": [
+                "baby-kids",
+                "childrens-clothing",
+                "outdoor-childrens-clothes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/880821330281",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "24.95",
+            "advertisedDisplayValue": "24.95",
+            "effectiveDisplayValue": "24.95",
+            "multiplier": 1,
+            "value": 24.95,
+            "effectiveValue": 24.95,
+            "advertisedValue": 24.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-18T12:11:18"
+}

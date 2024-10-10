@@ -1,0 +1,113 @@
+{
+    "uid": 100144481,
+    "migrosId": "107145600000",
+    "name": "La Semeuse Bio Kaffeeperle Colombia",
+    "brand": "La Semeuse",
+    "title": "La Semeuse Bio Kaffeeperle Colombia",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "La Semeuse",
+                "slug": "la-semeuse",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076886/brands/La_Semeuse_La_Semeuse_S.A._Logo"
+            },
+            "nutritionalCharacteristics": [
+                "Organic"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                }
+            ],
+            "ingredients": "Roasted whole bean coffee",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/107145600000"
+        },
+        "otherInformation": {
+            "articleNumber": "107145600000",
+            "legalDesignation": "Roasted coffee beans",
+            "distributorName": "La Semeuse SA",
+            "remarks": [
+                {
+                    "code": "Consumer storage instructions",
+                    "value": "Store in a cool, dry place, away from light. After opening, consume quickly."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610244013259"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/48d266f2fd1caa0580ae2ea97f7c7873f40d0c71/la-semeuse-bio-kaffeeperle-colombia.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494772",
+            "name": "Coffee",
+            "slugs": [
+                "drinks-coffee-tea",
+                "coffee"
+            ]
+        },
+        {
+            "id": "7494966",
+            "name": "Coffee beans",
+            "slugs": [
+                "drinks-coffee-tea",
+                "coffee",
+                "coffee-beans"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/107145600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "11.95",
+            "advertisedDisplayValue": "11.95",
+            "effectiveDisplayValue": "11.95",
+            "multiplier": 1,
+            "value": 11.95,
+            "effectiveValue": 11.95,
+            "advertisedValue": 11.95,
+            "unitPrice": {
+                "value": 4.78,
+                "unit": "100g"
+            }
+        },
+        "quantity": "250g",
+        "quantityPrice": "4.78/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:15:09"
+}

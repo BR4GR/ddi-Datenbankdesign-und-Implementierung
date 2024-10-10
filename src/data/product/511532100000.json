@@ -1,0 +1,110 @@
+{
+    "uid": 100058767,
+    "migrosId": "511532100000",
+    "migrosOnlineId": "11941859",
+    "name": "Eau de Parfum",
+    "brand": "Michalsky Berlin",
+    "brandLine": "II",
+    "title": "Michalsky Berlin II · Eau de Parfum",
+    "description": "Michalsky Berlin Eau de Parfum ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Michalsky Berlin",
+                "slug": "michalsky-berlin"
+            },
+            "rating": {
+                "nbReviews": 6,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/511532100000"
+        },
+        "otherInformation": {
+            "articleNumber": "511532100000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Eau de Parfum"
+                },
+                {
+                    "code": "Customer group",
+                    "value": "Frauen"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "9120058165016"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/0dffe84380a1d2b0c12cb142d9e917b7b0fe4534/michalsky-ii-women-edp.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/13a2bf0869ff846130d30c13ee228fc0ee17d8a3.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494826",
+            "name": "Body care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care"
+            ]
+        },
+        {
+            "id": "7495243",
+            "name": "Perfumes",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care",
+                "perfumes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/511532100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "16.95",
+            "advertisedDisplayValue": "16.95",
+            "effectiveDisplayValue": "16.95",
+            "multiplier": 1,
+            "value": 16.95,
+            "effectiveValue": 16.95,
+            "advertisedValue": 16.95,
+            "unitPrice": {
+                "value": 67.8,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "25ml",
+        "quantityPrice": "67.80/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T09:58:07"
+}

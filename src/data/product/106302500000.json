@@ -1,0 +1,117 @@
+{
+    "uid": 100133790,
+    "migrosId": "106302500000",
+    "migrosOnlineId": "10801282",
+    "name": "Four peppers",
+    "brand": "M-Classic",
+    "title": "M-Classic · Four peppers",
+    "description": "M-Classic Four peppers ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Classic",
+                "slug": "m-classic",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252457/brands/m-classic"
+            },
+            "ingredients": "Pfeffer schwarz, Pfeffer weiss, Pfeffer grün, Pfeffer rosa.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 6,
+                    "productionRatio": 81,
+                    "transportRatio": 5,
+                    "packagingRatio": 14,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 58,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/106302500000"
+        },
+        "otherInformation": {
+            "articleNumber": "106302500000",
+            "legalDesignation": "Gewürzmischung",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store in a cool, dry place and protected from light."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312412206"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/bf66ee2ac2c6db01dbbce49fdaac5504fa7d7672/m-classic-pfeffer-bunt.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494776",
+            "name": "Spices & sauces",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces"
+            ]
+        },
+        {
+            "id": "7494983",
+            "name": "Salt & pepper",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces",
+                "salt-pepper"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/106302500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.45",
+            "advertisedDisplayValue": "3.45",
+            "effectiveDisplayValue": "3.45",
+            "multiplier": 1,
+            "value": 3.45,
+            "effectiveValue": 3.45,
+            "advertisedValue": 3.45,
+            "unitPrice": {
+                "value": 3.5,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100g",
+        "quantityPrice": "3.50/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:40:07"
+}

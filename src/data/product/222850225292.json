@@ -1,0 +1,104 @@
+{
+    "uid": 100146196,
+    "migrosId": "222850225292",
+    "name": "Wildschwein Schnitzel",
+    "title": "Wildschwein Schnitzel",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/222850225292"
+        },
+        "otherInformation": {
+            "articleNumber": "222850225292",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "2155098000000",
+        "7613269214977"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ac8cd95c8e9d1c6e53ecbafaa599cc673461ad4c/wildschwein-schnitzel.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/6ebdd32dc0aa18b8b1c20471a705116e7f982bbe.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/b5a36f9a1371fe82ae99fdb0ebff2d02d5e66734.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/b859338913b4f9b2d37cab636aaa5ac7438c9982.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494747",
+            "name": "Meat & poultry",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry"
+            ]
+        },
+        {
+            "id": "7494848",
+            "name": "Game",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry",
+                "game"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/222850225292",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.05",
+            "advertisedDisplayValue": "4.05",
+            "effectiveDisplayValue": "4.05",
+            "multiplier": 1,
+            "value": 4.05,
+            "effectiveValue": 4.05,
+            "advertisedValue": 4.05,
+            "unitPrice": {
+                "value": 4.05,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "4.05/100g",
+        "isVariableWeight": true,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "VARIABLE_WEIGHT",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483133/labels/poids-variable",
+                "description": "Variable Weight"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T06:21:22"
+}

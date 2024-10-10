@@ -1,0 +1,157 @@
+{
+    "uid": 100088126,
+    "migrosId": "847936200020",
+    "name": "TANA Shoe Cream",
+    "brand": "Tana",
+    "title": "TANA Shoe Cream",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Tana",
+                "slug": "tana",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252501/brands/tana"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 12,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/847936200020"
+        },
+        "usageInformation": {
+            "chemicalSafetyInstructions": [
+                "Darf nicht in die Hände von Kindern gelangen."
+            ]
+        },
+        "otherInformation": {
+            "articleNumber": "847936200020",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Lederpflege"
+                },
+                {
+                    "code": "Category/theme",
+                    "value": "Pflegemittel"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "Glanz, Pflege, Schutz"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4053201074079",
+        "4053201047004"
+    ],
+    "variants": {
+        "baseProductMigrosId": "847936200000",
+        "mainVariantMigrosId": "847936200010",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "000",
+                    "color": "white"
+                },
+                "migrosId": "847936200010"
+            },
+            {
+                "declinationOptions": {
+                    "size": "000",
+                    "color": "black"
+                },
+                "migrosId": "847936200020"
+            },
+            {
+                "declinationOptions": {
+                    "size": "000",
+                    "color": "brown"
+                },
+                "migrosId": "847936200070"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "black",
+                "options": [
+                    "white",
+                    "black",
+                    "brown"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "000",
+                "options": [
+                    "000"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/303819d515f676ae89f4a77be437c71a4e0ac3a8/tana-shoe-cream.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10553494",
+            "name": "Shoes",
+            "slugs": [
+                "clothing-accessories",
+                "shoes"
+            ]
+        },
+        {
+            "id": "10553519",
+            "name": "Shoe care",
+            "slugs": [
+                "clothing-accessories",
+                "shoes",
+                "shoe-care"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/847936200020",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "4.95",
+            "advertisedDisplayValue": "4.95",
+            "effectiveDisplayValue": "4.95",
+            "multiplier": 1,
+            "value": 4.95,
+            "effectiveValue": 4.95,
+            "advertisedValue": 4.95
+        },
+        "quantity": "75ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T16:59:54"
+}

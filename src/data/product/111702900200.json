@@ -1,0 +1,172 @@
+{
+    "uid": 100176444,
+    "migrosId": "111702900200",
+    "name": "Butterweggli",
+    "brand": "Frisch & Handgemacht",
+    "title": "Butterweggli",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "brand": {
+                "name": "Frisch & Handgemacht",
+                "slug": "frisch-handgemacht",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652249913/brands/frisch-handgemacht"
+            },
+            "ingredients": "WEIZENmehl (CH)°^, Wasser, BUTTER (CH)^ 7%, Hefe, Kochsalz jodiert, MagerMILCHpulver, MOLKEpulver, Traubenzucker, Zucker (CH), WEIZENkleber, GERSTENmalzmehl, GERSTE, WEIZENstärke, Dextrose (Mais), WEIZENmehl (CH)°, BUTTER (CH), Acerolafruchtpulver, Enzyme\n\n° in IP-SUISSE Qualität\n^ Aus der Region\n",
+            "allergenIndication": "Kann Eier, Baumnüsse, Sesam, Haselnüsse, Mandeln enthalten.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/111702900200"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1232 kJ (294 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "6.7 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "3.5 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "50 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "3.6 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "2.9 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.27 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "111702900200",
+            "legalDesignation": "Butterweggli",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7623186552922"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ee22214edd340b09bd080deba950871a1d63cc19/butterweggli.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494763",
+            "name": "Fresh bread",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "fresh-bread"
+            ]
+        },
+        {
+            "id": "7494925",
+            "name": "Pastries",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "fresh-bread",
+                "pastries"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/111702900200",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.40",
+            "advertisedDisplayValue": "4.40",
+            "effectiveDisplayValue": "4.40",
+            "multiplier": 1,
+            "value": 4.4,
+            "effectiveValue": 4.4,
+            "advertisedValue": 4.4,
+            "unitPrice": {
+                "value": 1.16,
+                "unit": "100g"
+            }
+        },
+        "quantity": "380g",
+        "quantityPrice": "1.16/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-10-09T09:18:41"
+}

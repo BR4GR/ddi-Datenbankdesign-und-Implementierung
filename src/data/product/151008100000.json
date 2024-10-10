@@ -1,0 +1,90 @@
+{
+    "uid": 100143480,
+    "migrosId": "151008100000",
+    "name": "VIS Feigenkonfitüre",
+    "brand": "VIS",
+    "title": "VIS Feigenkonfitüre",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "VIS",
+                "slug": "vis",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077217/brands/Vis_VIS_s.r.l._Logo"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/151008100000"
+        },
+        "otherInformation": {
+            "articleNumber": "151008100000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "8001395101275"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/5598748a8ff3afe6fdcfef12d1eb516cec9668f9/vis-feigenkonfituere.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494768",
+            "name": "Jam, spreads & honey",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "jam-spreads-honey"
+            ]
+        },
+        {
+            "id": "7494945",
+            "name": "Jams",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "jam-spreads-honey",
+                "jams"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/151008100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.95",
+            "advertisedDisplayValue": "3.95",
+            "effectiveDisplayValue": "3.95",
+            "multiplier": 1,
+            "value": 3.95,
+            "effectiveValue": 3.95,
+            "advertisedValue": 3.95,
+            "unitPrice": {
+                "value": 1.13,
+                "unit": "100g"
+            }
+        },
+        "quantity": "350g",
+        "quantityPrice": "1.13/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-20T03:31:18"
+}

@@ -1,0 +1,150 @@
+{
+    "uid": 100050997,
+    "migrosId": "151409000000",
+    "name": "Aus der Region Cremiger Honig",
+    "title": "Aus der Region Cremiger Honig",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 7,
+                    "productionRatio": 86,
+                    "transportRatio": 1,
+                    "packagingRatio": 13,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/151409000000"
+        },
+        "otherInformation": {
+            "articleNumber": "151409000000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Suitable for cooking",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Production process",
+                    "value": "Aus der Region"
+                },
+                {
+                    "code": "Seasonal",
+                    "value": "Seasonal"
+                },
+                {
+                    "code": "Number of removable individual units",
+                    "value": "250 g"
+                },
+                {
+                    "code": "Type of honey",
+                    "value": "Swiss honey"
+                },
+                {
+                    "code": "Honey consistency",
+                    "value": "Creamy"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Glas"
+                },
+                {
+                    "code": "Without milk",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Contains no added sugar",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Creamy",
+                    "value": "Yes"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312191583"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/7471c9881dc455dfd55be5670d0a006cf214bf1e/aus-der-region-cremiger-honig.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494768",
+            "name": "Jam, spreads & honey",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "jam-spreads-honey"
+            ]
+        },
+        {
+            "id": "7494947",
+            "name": "Honeys & molasses",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "jam-spreads-honey",
+                "honeys-molasses"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/151409000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "11.80",
+            "advertisedDisplayValue": "11.80",
+            "effectiveDisplayValue": "11.80",
+            "multiplier": 1,
+            "value": 11.8,
+            "effectiveValue": 11.8,
+            "advertisedValue": 11.8,
+            "unitPrice": {
+                "value": 4.72,
+                "unit": "100g"
+            }
+        },
+        "quantity": "250g",
+        "quantityPrice": "4.72/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T04:53:54"
+}

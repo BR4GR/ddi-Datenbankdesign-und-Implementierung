@@ -1,0 +1,131 @@
+{
+    "uid": 100088146,
+    "migrosId": "847938500084",
+    "name": "Schuhlöffel lang",
+    "brand": "Central Square",
+    "title": "Schuhlöffel lang",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Central Square",
+                "slug": "central-square",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076642/brands/CentralSquare_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 21,
+                "nbStars": 3.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/847938500084"
+        },
+        "otherInformation": {
+            "articleNumber": "847938500084",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Accessoires"
+                },
+                {
+                    "code": "Category/theme",
+                    "value": "Zubehör"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613432490160"
+    ],
+    "variants": {
+        "baseProductMigrosId": "847938500000",
+        "mainVariantMigrosId": "847938500084",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "color silver",
+                    "size": "000"
+                },
+                "migrosId": "847938500084"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "color silver",
+                "options": [
+                    "color silver"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "000",
+                "options": [
+                    "000"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a0f241425c449f68fbd283c15b36a40cf8c5d17c/schuhloeffel-lang.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10553494",
+            "name": "Shoes",
+            "slugs": [
+                "clothing-accessories",
+                "shoes"
+            ]
+        },
+        {
+            "id": "10553524",
+            "name": "Shoe accessories",
+            "slugs": [
+                "clothing-accessories",
+                "shoes",
+                "shoe-accessories"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/847938500084",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "17.95",
+            "advertisedDisplayValue": "17.95",
+            "effectiveDisplayValue": "17.95",
+            "multiplier": 1,
+            "value": 17.95,
+            "effectiveValue": 17.95,
+            "advertisedValue": 17.95
+        },
+        "quantity": "1 Stk.",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T09:58:29"
+}

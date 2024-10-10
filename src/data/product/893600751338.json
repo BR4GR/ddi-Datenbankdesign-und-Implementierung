@@ -1,0 +1,176 @@
+{
+    "uid": 100172635,
+    "migrosId": "893600751338",
+    "name": "Baby cap",
+    "brand": "Smile",
+    "title": "Baby cap",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Smile",
+                "slug": "smile",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252488/brands/smile"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/893600751338"
+        },
+        "otherInformation": {
+            "articleNumber": "893600751338",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7628871719185"
+    ],
+    "variants": {
+        "baseProductMigrosId": "893600700000",
+        "mainVariantMigrosId": "893600751238",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "rose",
+                    "size": "3-6"
+                },
+                "migrosId": "893600751238"
+            },
+            {
+                "declinationOptions": {
+                    "color": "navy",
+                    "size": "3-6"
+                },
+                "migrosId": "893600751243"
+            },
+            {
+                "declinationOptions": {
+                    "color": "dark grey",
+                    "size": "3-6"
+                },
+                "migrosId": "893600751283"
+            },
+            {
+                "declinationOptions": {
+                    "color": "rose",
+                    "size": "6-12"
+                },
+                "migrosId": "893600751338"
+            },
+            {
+                "declinationOptions": {
+                    "color": "navy",
+                    "size": "6-12"
+                },
+                "migrosId": "893600751343"
+            },
+            {
+                "declinationOptions": {
+                    "color": "dark grey",
+                    "size": "6-12"
+                },
+                "migrosId": "893600751383"
+            },
+            {
+                "declinationOptions": {
+                    "color": "rose",
+                    "size": "12-24"
+                },
+                "migrosId": "893600751438"
+            },
+            {
+                "declinationOptions": {
+                    "color": "navy",
+                    "size": "12-24"
+                },
+                "migrosId": "893600751443"
+            },
+            {
+                "declinationOptions": {
+                    "color": "dark grey",
+                    "size": "12-24"
+                },
+                "migrosId": "893600751483"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "rose",
+                "options": [
+                    "rose",
+                    "navy",
+                    "dark grey"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "6-12",
+                "options": [
+                    "3-6",
+                    "6-12",
+                    "12-24"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3af084a1946479a32306d0ea26fc15d96610cdea/baby-cap.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "11117240",
+            "name": "Baby clothes",
+            "slugs": [
+                "baby-kids",
+                "baby-clothes"
+            ]
+        },
+        {
+            "id": "11117266",
+            "name": "Baby accessories",
+            "slugs": [
+                "baby-kids",
+                "baby-clothes",
+                "baby-accessories"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/893600751338",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "7.95",
+            "advertisedDisplayValue": "7.95",
+            "effectiveDisplayValue": "7.95",
+            "multiplier": 1,
+            "value": 7.95,
+            "effectiveValue": 7.95,
+            "advertisedValue": 7.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-18T12:35:27"
+}

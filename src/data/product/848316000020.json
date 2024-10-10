@@ -1,0 +1,187 @@
+{
+    "uid": 100094990,
+    "migrosId": "848316000020",
+    "name": "City Bag",
+    "brand": "Miomojo",
+    "title": "City Bag",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Miomojo",
+                "slug": "miomojo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/848316000020"
+        },
+        "otherInformation": {
+            "articleNumber": "848316000020",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Height",
+                    "value": "18.5 cm"
+                },
+                {
+                    "code": "Depth",
+                    "value": "30 cm"
+                },
+                {
+                    "code": "Length",
+                    "value": "41 cm"
+                },
+                {
+                    "code": "Weight",
+                    "value": "0.5 kg"
+                },
+                {
+                    "code": "Volume",
+                    "value": "22 l"
+                },
+                {
+                    "code": "Category/theme",
+                    "value": "Taschen"
+                },
+                {
+                    "code": "Main material",
+                    "value": "Recycling Polyester"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "abnehmbarer Tragriemen, Externes Fach, interne Trennfächer/Organizer, Laptopfach gepolstert, Laptop kompatibel, Tasche für schnellen Zugriff / Pendler"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613434839714"
+    ],
+    "variants": {
+        "baseProductMigrosId": "848316000000",
+        "mainVariantMigrosId": "848316000020",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "black"
+                },
+                "migrosId": "848316000020"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "aubergine"
+                },
+                "migrosId": "848316000035"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "taupe"
+                },
+                "migrosId": "848316000078"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "black",
+                "options": [
+                    "black",
+                    "aubergine",
+                    "taupe"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "one Size",
+                "options": [
+                    "one Size"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/417d06f422e117b4302d4d9cb9a34143f74856a9/city-bag.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/440bf949788897f2689ec9cd31700e24d85c3963.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f8ace332cd0a38c90a18adb7fdcee331d9287d34.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/df485763779e7d8a1c4d27e3d89f055d49d5e8dc.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10555197",
+            "name": "Travel",
+            "slugs": [
+                "clothing-accessories",
+                "travel"
+            ]
+        },
+        {
+            "id": "10555204",
+            "name": "Travel bags",
+            "slugs": [
+                "clothing-accessories",
+                "travel",
+                "travel-bags"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/848316000020",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "79.95",
+            "advertisedDisplayValue": "79.95",
+            "effectiveDisplayValue": "79.95",
+            "multiplier": 1,
+            "value": 79.95,
+            "effectiveValue": 79.95,
+            "advertisedValue": 79.95,
+            "unitPrice": {
+                "value": 79.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "79.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T09:44:12"
+}

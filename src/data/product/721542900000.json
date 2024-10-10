@@ -1,0 +1,113 @@
+{
+    "uid": 100055413,
+    "migrosId": "721542900000",
+    "name": "Scotch Schere",
+    "brand": "Scotch",
+    "title": "Scotch Schere",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Scotch",
+                "slug": "scotch",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077145/brands/Scotch_3M_Schweiz_GmbH_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 7,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/721542900000"
+        },
+        "otherInformation": {
+            "articleNumber": "721542900000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Number",
+                    "value": "1 Pcs."
+                },
+                {
+                    "code": "Dimensions/size",
+                    "value": "20cm"
+                },
+                {
+                    "code": "Color",
+                    "value": "schwarz, weiss"
+                },
+                {
+                    "code": "Material",
+                    "value": "Stahl vernickelt"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4046719271368"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3b4d190d0db40d0ea9a788e4b4112ee666996a08/scotch-schere.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494813",
+            "name": "Office & stationery",
+            "slugs": [
+                "household-and-living",
+                "office-stationery"
+            ]
+        },
+        {
+            "id": "7495167",
+            "name": "Office supplies",
+            "slugs": [
+                "household-and-living",
+                "office-stationery",
+                "office-supplies"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/721542900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "16.95",
+            "advertisedDisplayValue": "16.95",
+            "effectiveDisplayValue": "16.95",
+            "multiplier": 1,
+            "value": 16.95,
+            "effectiveValue": 16.95,
+            "advertisedValue": 16.95,
+            "unitPrice": {
+                "value": 16.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "16.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T11:30:30"
+}

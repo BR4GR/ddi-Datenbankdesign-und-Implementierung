@@ -1,0 +1,109 @@
+{
+    "uid": 100094343,
+    "migrosId": "113267700000",
+    "name": "Rohner Gebrannte Mandeln",
+    "brand": "Rohner's",
+    "title": "Rohner Gebrannte Mandeln",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Rohner's",
+                "slug": "rohners"
+            },
+            "rating": {
+                "nbReviews": 12,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/113267700000"
+        },
+        "otherInformation": {
+            "articleNumber": "113267700000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Sugar-free",
+                    "value": "No"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Beutel"
+                },
+                {
+                    "code": "Production process",
+                    "value": "Gebrannt"
+                },
+                {
+                    "code": "Resealable",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7629999011779",
+        "7613404603536"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/5613d91390bf4fc63ddcec6026dc92ff84a79647/rohner-gebrannte-mandeln.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ef5025ba2f1d8a12e68d5a681b0851ec09002caa.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494785",
+            "name": "Dried fruit",
+            "slugs": [
+                "snacks-sweets",
+                "dried-fruit"
+            ]
+        },
+        {
+            "id": "7495032",
+            "name": "Nuts & almonds",
+            "slugs": [
+                "snacks-sweets",
+                "dried-fruit",
+                "nuts-almonds"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/113267700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-16T14:13:54"
+}

@@ -1,0 +1,93 @@
+{
+    "uid": 100144328,
+    "migrosId": "113851340200",
+    "name": "Cremeschnitte 4er",
+    "brand": "In-store bakery",
+    "title": "Cremeschnitte 4er",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "In-store bakery",
+                "slug": "in-store-bakery"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/113851340200"
+        },
+        "otherInformation": {
+            "articleNumber": "113851340200",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613269880844"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/bf250e3015e533498dbc59012bf8bc28e656fa70/cremeschnitte-4er.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/8060019dc9937f803febd75e1fc2167c9c33f2a4.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494765",
+            "name": "Pastries",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "pastries"
+            ]
+        },
+        {
+            "id": "7494932",
+            "name": "Fresh pastries",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "pastries",
+                "fresh-pastries"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/113851340200",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.70",
+            "advertisedDisplayValue": "7.70",
+            "effectiveDisplayValue": "7.70",
+            "multiplier": 1,
+            "value": 7.7,
+            "effectiveValue": 7.7,
+            "advertisedValue": 7.7,
+            "unitPrice": {
+                "value": 1.93,
+                "unit": "100g"
+            }
+        },
+        "quantity": "400g",
+        "quantityPrice": "1.93/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T20:28:28"
+}

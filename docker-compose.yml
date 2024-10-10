@@ -1,7 +1,7 @@
 services:
   mongo:
     image: mongo:latest
-    container_name: mongodb
+    container_name: ddi-mongodb
     ports:
       - "27017:27017"
     volumes:
@@ -9,7 +9,7 @@ services:
 
   postgres:
     image: postgres:latest
-    container_name: postgresdb
+    container_name: ddi-postgresdb
     environment:
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: password

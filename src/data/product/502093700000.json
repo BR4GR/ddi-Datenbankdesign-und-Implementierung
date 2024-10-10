@@ -1,0 +1,115 @@
+{
+    "uid": 100132286,
+    "migrosId": "502093700000",
+    "name": "Express Cucina",
+    "brand": "Smac",
+    "title": "Express Cucina",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Smac",
+                "slug": "smac"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/502093700000"
+        },
+        "usageInformation": {
+            "signalWord": "Gefahr",
+            "chemicalPictosV2": [
+                {
+                    "cdn": "rokka",
+                    "pictoId": "GHS05",
+                    "pictoPath": "https://image.migros.ch/original/b9b6d67492a097fcc99d628551e84904ab689e51/%C3%84tzwirkung.jpg",
+                    "pictoPathStack": "https://image.migros.ch/{stack}/b9b6d67492a097fcc99d628551e84904ab689e51/%C3%84tzwirkung.jpg"
+                }
+            ],
+            "chemicalWarnings": [
+                "Verursacht schwere Augenschäden.",
+                "Verursacht Hautreizungen."
+            ],
+            "chemicalSafetyInstructions": [
+                "BEI KONTAKT MIT DER HAUT: Mit viel Wasser und Seife waschen.",
+                "Sofort GIFTINFORMATIONSZENTRUM oder Arzt anrufen.",
+                "Darf nicht in die Hände von Kindern gelangen.",
+                "Ist ärztlicher Rat erforderlich, Verpackung oder Kennzeichnungsetikett bereithalten.",
+                "BEI KONTAKT MIT DEN AUGEN: Einige Minuten lang behutsam mit Wasser ausspülen. Eventuell vorhandene Kontaktlinsen nach Möglichkeit entfernen. Weiter spülen.",
+                "Nur im Freien oder in gut belüfteten Räumen verwenden.",
+                "Staub/Rauch/Gas/Nebel/Dampf/Aerosol nicht einatmen.",
+                "Schutzhandschuhe / Schutzkleidung / Augenschutz / Gesichtsschutz tragen."
+            ]
+        },
+        "otherInformation": {
+            "articleNumber": "502093700000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "8003650018359",
+        "8003650002471"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/010e4afbd7f4105084e3f3f1b4b84c3cd36c5a0e/express-cucina.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494740",
+            "name": "Laundry & cleaning",
+            "slugs": [
+                "laundry-cleaning"
+            ]
+        },
+        {
+            "id": "7494807",
+            "name": "Kitchen cleaning supplies",
+            "slugs": [
+                "laundry-cleaning",
+                "kitchen-cleaning-supplies"
+            ]
+        },
+        {
+            "id": "7495144",
+            "name": "Descalers & cleaners",
+            "slugs": [
+                "laundry-cleaning",
+                "kitchen-cleaning-supplies",
+                "descalers-cleaners"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/502093700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.15",
+            "advertisedDisplayValue": "4.15",
+            "effectiveDisplayValue": "4.15",
+            "multiplier": 1,
+            "value": 4.15,
+            "effectiveValue": 4.15,
+            "advertisedValue": 4.15,
+            "unitPrice": {
+                "value": 0.64,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "650ml",
+        "quantityPrice": "0.64/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T08:44:31"
+}

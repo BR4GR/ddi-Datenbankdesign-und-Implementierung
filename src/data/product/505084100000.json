@@ -1,0 +1,155 @@
+{
+    "uid": 100001199,
+    "migrosId": "505084100000",
+    "migrosOnlineId": "4203961",
+    "name": "mini spray",
+    "brand": "Migros Fresh",
+    "versioning": "White Musk",
+    "title": "Migros Fresh · mini spray · White Musk",
+    "description": "Migros Fresh mini spray White Musk",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Fresh",
+                "slug": "migros-fresh"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 44,
+                    "productionRatio": 96,
+                    "transportRatio": 1,
+                    "packagingRatio": 2,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 7,
+                "nbStars": 4.5
+            }
+        },
+        "usageInformation": {
+            "usage": "Seek medical advice if swallowed. Use exclusively for the intended purpose. Scent fluid can damage surfaces.",
+            "signalWord": "Gefahr",
+            "chemicalPictosV2": [
+                {
+                    "cdn": "rokka",
+                    "pictoId": "GHS02",
+                    "pictoPath": "https://image.migros.ch/original/45c0793944b0697e7b8b20b514a368ecbeea0633/Flamme.jpg",
+                    "pictoPathStack": "https://image.migros.ch/{stack}/45c0793944b0697e7b8b20b514a368ecbeea0633/Flamme.jpg"
+                }
+            ],
+            "chemicalWarnings": [
+                "Extrem entzündbares Aerosol.",
+                "Behälter steht unter Druck: kann bei Erwärmung bersten.",
+                "Schädlich für Wasserorganismen, mit langfristiger Wirkung."
+            ],
+            "chemicalSafetyInstructions": [
+                "Schutzhandschuhe / Schutzkleidung / Augenschutz / Gesichtsschutz tragen.",
+                "Vor Sonnenbestrahlung schützen und nicht Temperaturen von mehr als 50°C aussetzen.",
+                "Inhalt/Behälter gemäss den örtlichen Vorschriften der Ensorgung zuführen",
+                "Von Hitze, heissen Oberflächen, Funken, offenen Flammen sowie anderen Zündquellenarten fernhalten. Nicht rauchen.",
+                "Nicht durchstechen oder verbrennen, auch nicht nach Gebrauch.",
+                "BEI KONTAKT MIT DEN AUGEN: Einige Minuten lang behutsam mit Wasser ausspülen. Eventuell vorhandene Kontaktlinsen nach Möglichkeit entfernen. Weiter spülen.",
+                "Darf nicht in die Hände von Kindern gelangen."
+            ]
+        },
+        "otherInformation": {
+            "articleNumber": "505084100000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613312173091"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/abcb9e0daf2d5dd6323546bcedc3a63f00b5b9f4/mini-spray-trio-white-musk.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494811",
+            "name": "Household aids",
+            "slugs": [
+                "household-and-living",
+                "household-aids"
+            ]
+        },
+        {
+            "id": "7495163",
+            "name": "Air fresheners",
+            "slugs": [
+                "household-and-living",
+                "household-aids",
+                "air-fresheners"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/505084100000",
+    "isMgbCompatible": false,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "10.50",
+            "advertisedDisplayValue": "10.50",
+            "effectiveDisplayValue": "10.50",
+            "multiplier": 1,
+            "value": 10.5,
+            "effectiveValue": 10.5,
+            "advertisedValue": 10.5
+        },
+        "promotionPrice": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.–",
+            "advertisedDisplayValue": "7.–",
+            "effectiveDisplayValue": "7.–",
+            "multiplier": 1,
+            "value": 7,
+            "effectiveValue": 7,
+            "advertisedValue": 7,
+            "unitPrice": {
+                "value": 2.33,
+                "unit": "piece"
+            }
+        },
+        "priceInsteadOfLabel": "was",
+        "quantity": "3 x 12ml",
+        "quantityPrice": "2.33/piece",
+        "promotionHint": "2 + 1 for free",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "badges": [
+            {
+                "type": "PLUS_ONE_PROMOTION",
+                "description": "2 + 1"
+            }
+        ],
+        "promotionDateRange": {
+            "startDate": "2024-09-03",
+            "endDate": "2024-09-16"
+        },
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T21:42:06"
+}

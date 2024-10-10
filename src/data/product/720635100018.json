@@ -1,0 +1,131 @@
+{
+    "uid": 100110248,
+    "migrosId": "720635100018",
+    "name": "Briefablagekorb",
+    "brand": "Rotho",
+    "title": "Briefablagekorb",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "Rotho",
+                "slug": "rotho",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077113/brands/Rotho_Rotho_Kunststoff_AG_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/720635100018"
+        },
+        "otherInformation": {
+            "articleNumber": "720635100018",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Number",
+                    "value": "1 Pcs."
+                },
+                {
+                    "code": "Dimensions/size",
+                    "value": "32.7 cm x 23.4 cm x 6.4 cm"
+                },
+                {
+                    "code": "Material",
+                    "value": "Polystyrol"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610859098504",
+        "7613247694159"
+    ],
+    "variants": {
+        "baseProductMigrosId": "720635100000",
+        "mainVariantMigrosId": "720635100018",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "transparent"
+                },
+                "migrosId": "720635100018"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "transparent",
+                "options": [
+                    "transparent"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/c7154a31cbf47d31f45d196f3b6512baede1b6b4/briefablagekorb.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494813",
+            "name": "Office & stationery",
+            "slugs": [
+                "household-and-living",
+                "office-stationery"
+            ]
+        },
+        {
+            "id": "7495168",
+            "name": "Organise & store",
+            "slugs": [
+                "household-and-living",
+                "office-stationery",
+                "organise-store"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/720635100018",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "6.20",
+            "advertisedDisplayValue": "6.20",
+            "effectiveDisplayValue": "6.20",
+            "multiplier": 1,
+            "value": 6.2,
+            "effectiveValue": 6.2,
+            "advertisedValue": 6.2
+        },
+        "quantity": "Transparent",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-18T09:08:17"
+}

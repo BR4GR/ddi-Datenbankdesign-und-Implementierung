@@ -1,0 +1,161 @@
+{
+    "uid": 100171817,
+    "migrosId": "897001841070",
+    "name": "Baby slippers",
+    "brand": "Smile",
+    "title": "Baby slippers",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Smile",
+                "slug": "smile",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252488/brands/smile"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/897001841070"
+        },
+        "otherInformation": {
+            "articleNumber": "897001841070",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Zielgruppe",
+                    "value": "Kinder"
+                },
+                {
+                    "code": "Material",
+                    "value": "Polyester"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "100 %"
+                },
+                {
+                    "code": "Age",
+                    "value": "6-9 Monate"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "antirutsch"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871742893"
+    ],
+    "variants": {
+        "baseProductMigrosId": "897001800000",
+        "mainVariantMigrosId": "897001841011",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "off white",
+                    "size": "6-9 // 18"
+                },
+                "migrosId": "897001841011"
+            },
+            {
+                "declinationOptions": {
+                    "color": "brown",
+                    "size": "6-9 // 18"
+                },
+                "migrosId": "897001841070"
+            },
+            {
+                "declinationOptions": {
+                    "color": "off white",
+                    "size": "9-12 // 19"
+                },
+                "migrosId": "897001841111"
+            },
+            {
+                "declinationOptions": {
+                    "color": "brown",
+                    "size": "9-12 // 19"
+                },
+                "migrosId": "897001841170"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "brown",
+                "options": [
+                    "off white",
+                    "brown"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "6-9 // 18",
+                "options": [
+                    "6-9 // 18",
+                    "9-12 // 19"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1d633a67b5cb6e1f8ff4d86d57248dfe0e047dd5/baby-slippers.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "7494824",
+            "name": "Baby & kids shoes",
+            "slugs": [
+                "baby-kids",
+                "baby-kids-shoes"
+            ]
+        },
+        {
+            "id": "7495231",
+            "name": "Kids & baby slippers",
+            "slugs": [
+                "baby-kids",
+                "baby-kids-shoes",
+                "kids-baby-slippers"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/897001841070",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "12.95",
+            "advertisedDisplayValue": "12.95",
+            "effectiveDisplayValue": "12.95",
+            "multiplier": 1,
+            "value": 12.95,
+            "effectiveValue": 12.95,
+            "advertisedValue": 12.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T10:56:34"
+}

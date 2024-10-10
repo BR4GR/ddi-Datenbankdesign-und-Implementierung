@@ -1,0 +1,181 @@
+{
+    "uid": 100080029,
+    "migrosId": "721641200040",
+    "name": "Ring binder A4",
+    "brand": "MIGROS PAPER & CO.",
+    "title": "Ring binder A4",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                },
+                {
+                    "id": "L09",
+                    "name": "FSC®",
+                    "slug": "fsc",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483057/labels/FSC_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "MIGROS PAPER & CO.",
+                "slug": "migros-paper-co",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1716291025/brands/MIGROS_PaperCo_GR6"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 22,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/721641200040"
+        },
+        "otherInformation": {
+            "articleNumber": "721641200040",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Number",
+                    "value": "1 Pcs."
+                },
+                {
+                    "code": "Dimensions/size",
+                    "value": "25.5 x 3.1 x 32 cm"
+                },
+                {
+                    "code": "Material",
+                    "value": "Karton"
+                },
+                {
+                    "code": "Format",
+                    "value": "A4, 210 x 297 mm"
+                },
+                {
+                    "code": "Color",
+                    "value": "blau"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613346996147"
+    ],
+    "variants": {
+        "baseProductMigrosId": "721641200000",
+        "mainVariantMigrosId": "721641200010",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "Weiss"
+                },
+                "migrosId": "721641200010"
+            },
+            {
+                "declinationOptions": {
+                    "color": "Schwarz"
+                },
+                "migrosId": "721641200020"
+            },
+            {
+                "declinationOptions": {
+                    "color": "Rosa"
+                },
+                "migrosId": "721641200036"
+            },
+            {
+                "declinationOptions": {
+                    "color": "Blau"
+                },
+                "migrosId": "721641200040"
+            },
+            {
+                "declinationOptions": {
+                    "color": "Grün"
+                },
+                "migrosId": "721641200060"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "Blau",
+                "options": [
+                    "Weiss",
+                    "Schwarz",
+                    "Rosa",
+                    "Blau",
+                    "Grün"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f484f03b450273aa08a32dc5254a8282d8f31277/ring-binder-a4.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494813",
+            "name": "Office & stationery",
+            "slugs": [
+                "household-and-living",
+                "office-stationery"
+            ]
+        },
+        {
+            "id": "7495168",
+            "name": "Organise & store",
+            "slugs": [
+                "household-and-living",
+                "office-stationery",
+                "organise-store"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/721641200040",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.95",
+            "advertisedDisplayValue": "3.95",
+            "effectiveDisplayValue": "3.95",
+            "multiplier": 1,
+            "value": 3.95,
+            "effectiveValue": 3.95,
+            "advertisedValue": 3.95,
+            "unitPrice": {
+                "value": 3.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "3.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T20:23:34"
+}

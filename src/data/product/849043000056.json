@@ -1,0 +1,126 @@
+{
+    "uid": 100173124,
+    "migrosId": "849043000056",
+    "name": "Bag",
+    "brand": "MIGROS TRAVEL & CO.",
+    "title": "Bag",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "MIGROS TRAVEL & CO.",
+                "slug": "migros-travel-co",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1689862767/brands/Migros_Travel_und_Co"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/849043000056"
+        },
+        "otherInformation": {
+            "articleNumber": "849043000056",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Category/theme",
+                    "value": "Tasche"
+                },
+                {
+                    "code": "Main material",
+                    "value": "Polyester"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871937794"
+    ],
+    "variants": {
+        "baseProductMigrosId": "849043000000",
+        "mainVariantMigrosId": "849043000056",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "rust",
+                    "size": "one size"
+                },
+                "migrosId": "849043000056"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "rust",
+                "options": [
+                    "rust"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "one size",
+                "options": [
+                    "one size"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/00aa84d4d50e3c3eaea48787031dfc3c5e3ec342/bag.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10552745",
+            "name": "Accessories",
+            "slugs": [
+                "clothing-accessories",
+                "accessories"
+            ]
+        },
+        {
+            "id": "10552752",
+            "name": "Bags",
+            "slugs": [
+                "clothing-accessories",
+                "accessories",
+                "bags"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/849043000056",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "19.95",
+            "advertisedDisplayValue": "19.95",
+            "effectiveDisplayValue": "19.95",
+            "multiplier": 1,
+            "value": 19.95,
+            "effectiveValue": 19.95,
+            "advertisedValue": 19.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T10:01:31"
+}

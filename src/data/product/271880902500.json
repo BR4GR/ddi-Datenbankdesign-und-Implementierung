@@ -1,0 +1,139 @@
+{
+    "uid": 100005217,
+    "migrosId": "271880902500",
+    "migrosOnlineId": "6343313",
+    "name": "Shiitake mushrooms",
+    "brand": "Migros Bio",
+    "versioning": "Fresh",
+    "title": "Migros Bio · Shiitake mushrooms · Fresh",
+    "description": "Migros Bio Shiitake mushrooms Fresh",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L73",
+                    "name": "Bio Knospe",
+                    "slug": "bio-knospe",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1687156946/labels/Bio_Knospe"
+                }
+            ],
+            "brand": {
+                "name": "Migros Bio",
+                "slug": "migros-bio",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1678265962/brands/MIGROS_BIO_screen_pantone1_rgb"
+            },
+            "nutritionalCharacteristics": [
+                "Organic"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                }
+            ],
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 66,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/271880902500"
+        },
+        "usageInformation": {
+            "usage": "Shiitake in Japanese means mushroom (take), which grows on the Pasania tree (shii). It originates from the forests of China and Japan and is also highly regarded there as a medicinal mushroom. Its color ranges from light to dark brown and is partly covered with white flakes. The taste of the thickly fleshed, firm mushroom with a brown cap is slightly reminiscent of garlic.",
+            "additionalInformation": "Cut the stems away before cooking"
+        },
+        "otherInformation": {
+            "articleNumber": "271880902500",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613269568438"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/6f532bc1233ad56495714d761117e8cf7811b968/migros-bio-shii-take.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a67d53739a6c905be8096950bc4477d5a13ac733.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494757",
+            "name": "Vegetables",
+            "slugs": [
+                "fruits-vegetables",
+                "vegetables"
+            ]
+        },
+        {
+            "id": "7494906",
+            "name": "Mushrooms",
+            "slugs": [
+                "fruits-vegetables",
+                "vegetables",
+                "mushrooms"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/271880902500",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.55",
+            "advertisedDisplayValue": "4.55",
+            "effectiveDisplayValue": "4.55",
+            "multiplier": 1,
+            "value": 4.55,
+            "effectiveValue": 4.55,
+            "advertisedValue": 4.55,
+            "unitPrice": {
+                "value": 3.03,
+                "unit": "100g"
+            }
+        },
+        "quantity": "150g",
+        "quantityPrice": "3.03/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            },
+            {
+                "type": "REGION",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679482984/labels/suisse",
+                "description": "Switzerland"
+            },
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483166/labels/fresh",
+                "description": "fresh"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T03:23:38"
+}

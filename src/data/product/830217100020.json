@@ -1,0 +1,188 @@
+{
+    "uid": 100085579,
+    "migrosId": "830217100020",
+    "name": "Lady's Knee Tights",
+    "brand": "Ellen Amber",
+    "title": "Lady's Knee Tights",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L59",
+                    "name": "OEKO-TEX® MADE IN GREEN",
+                    "slug": "oeko-tex-made-in-green"
+                }
+            ],
+            "brand": {
+                "name": "Ellen Amber",
+                "slug": "ellen-amber",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076704/brands/EllenAmber_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 26,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/830217100020"
+        },
+        "otherInformation": {
+            "articleNumber": "830217100020",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Article type",
+                    "value": "Kniestrümpfe"
+                },
+                {
+                    "code": "Line",
+                    "value": "Classic"
+                },
+                {
+                    "code": "Multipack",
+                    "value": "2er Pack"
+                },
+                {
+                    "code": "Material",
+                    "value": "Polyamid"
+                },
+                {
+                    "code": "Denier",
+                    "value": "20 DEN"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "100 %"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613432952309",
+        "7613346805661"
+    ],
+    "variants": {
+        "baseProductMigrosId": "830217100000",
+        "mainVariantMigrosId": "830217100003",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "bronze",
+                    "size": "one size"
+                },
+                "migrosId": "830217100003"
+            },
+            {
+                "declinationOptions": {
+                    "color": "porcelaine",
+                    "size": "one size"
+                },
+                "migrosId": "830217100017"
+            },
+            {
+                "declinationOptions": {
+                    "color": "black",
+                    "size": "one size"
+                },
+                "migrosId": "830217100020"
+            },
+            {
+                "declinationOptions": {
+                    "color": "choco",
+                    "size": "one size"
+                },
+                "migrosId": "830217100025"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "one size",
+                "options": [
+                    "one size"
+                ]
+            },
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "black",
+                "options": [
+                    "bronze",
+                    "porcelaine",
+                    "black",
+                    "choco"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d6fff202a51dfdbde180864c84747d3cbf04fdab/ladys-knee-tights.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/72dc3dbade7a4cbaf57ee1609ab6478bbd951a7d.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10553347",
+            "name": "Women",
+            "slugs": [
+                "clothing-accessories",
+                "women"
+            ]
+        },
+        {
+            "id": "10553383",
+            "name": "Socks & tights",
+            "slugs": [
+                "clothing-accessories",
+                "women",
+                "socks-tights"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/830217100020",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.90",
+            "advertisedDisplayValue": "2.90",
+            "effectiveDisplayValue": "2.90",
+            "multiplier": 1,
+            "value": 2.9,
+            "effectiveValue": 2.9,
+            "advertisedValue": 2.9,
+            "unitPrice": {
+                "value": 1.45,
+                "unit": "piece"
+            }
+        },
+        "quantity": "2 Paar",
+        "quantityPrice": "1.45/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T13:50:51"
+}

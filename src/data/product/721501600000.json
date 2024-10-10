@@ -1,0 +1,122 @@
+{
+    "uid": 100055605,
+    "migrosId": "721501600000",
+    "name": "Dosierspender",
+    "brand": "Papeteria",
+    "title": "Dosierspender",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Papeteria",
+                "slug": "papeteria",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077073/brands/Papeteria_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/721501600000"
+        },
+        "usageInformation": {
+            "signalWord": "Achtung",
+            "chemicalPictosV2": [
+                {
+                    "cdn": "rokka",
+                    "pictoId": "GHS07",
+                    "pictoPath": "https://image.migros.ch/original/09b3c0810d45b7f83a5ad48c5bc38d4d0227615b/Dickes%20Ausrufezeichen.jpg",
+                    "pictoPathStack": "https://image.migros.ch/{stack}/09b3c0810d45b7f83a5ad48c5bc38d4d0227615b/Dickes%20Ausrufezeichen.jpg"
+                }
+            ],
+            "chemicalWarnings": [
+                "Verursacht Hautreizungen.",
+                "Verursacht schwere Augenreizung.",
+                "Kann die Atemwege reizen."
+            ],
+            "chemicalSafetyInstructions": [
+                "BEI KONTAKT MIT DEN AUGEN: Einige Minuten lang behutsam mit Wasser ausspülen. Eventuell vorhandene Kontaktlinsen nach Möglichkeit entfernen. Weiter spülen.",
+                "Einatmen von Staub/Rauch/Gas/­Nebel/Dampf/Aerosol vermeiden.",
+                "Darf nicht in die Hände von Kindern gelangen."
+            ]
+        },
+        "otherInformation": {
+            "articleNumber": "721501600000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Content",
+                    "value": "3 g"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613296447669"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1b67ca1860e7add644d9da7e0f9af06ad072ba5c/dosierspender.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494813",
+            "name": "Office & stationery",
+            "slugs": [
+                "household-and-living",
+                "office-stationery"
+            ]
+        },
+        {
+            "id": "7495167",
+            "name": "Office supplies",
+            "slugs": [
+                "household-and-living",
+                "office-stationery",
+                "office-supplies"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/721501600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.80",
+            "advertisedDisplayValue": "6.80",
+            "effectiveDisplayValue": "6.80",
+            "multiplier": 1,
+            "value": 6.8,
+            "effectiveValue": 6.8,
+            "advertisedValue": 6.8,
+            "unitPrice": {
+                "value": 6.8,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "6.80/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T20:12:29"
+}

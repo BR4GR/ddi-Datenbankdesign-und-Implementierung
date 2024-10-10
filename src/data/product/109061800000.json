@@ -1,0 +1,98 @@
+{
+    "uid": 100123234,
+    "migrosId": "109061800000",
+    "migrosOnlineId": "10495344",
+    "name": "dry food for cats",
+    "brand": "Exelcat",
+    "brandLine": "Adult",
+    "versioning": "Chicken",
+    "title": "Exelcat Adult · dry food for cats · Chicken",
+    "description": "Exelcat dry food for cats Chicken",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Exelcat",
+                "slug": "exelcat",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1656506252/brands/Exelcat_Mars_Schweiz_AG_Logo"
+            },
+            "rating": {
+                "nbReviews": 33,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/109061800000"
+        },
+        "otherInformation": {
+            "articleNumber": "109061800000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "5900951305849"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/74ec8e3ba99d6aea7eecbde8ad24b9621e874ec9/exelcat-knusper-menu-mit-huhn.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494739",
+            "name": "Pets",
+            "slugs": [
+                "pets"
+            ]
+        },
+        {
+            "id": "7494802",
+            "name": "Cats",
+            "slugs": [
+                "pets",
+                "cats"
+            ]
+        },
+        {
+            "id": "7495119",
+            "name": "Dry foods",
+            "slugs": [
+                "pets",
+                "cats",
+                "dry-foods"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/109061800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.70",
+            "advertisedDisplayValue": "6.70",
+            "effectiveDisplayValue": "6.70",
+            "multiplier": 1,
+            "value": 6.7,
+            "effectiveValue": 6.7,
+            "advertisedValue": 6.7,
+            "unitPrice": {
+                "value": 0.71,
+                "unit": "100g"
+            }
+        },
+        "quantity": "950g",
+        "quantityPrice": "0.71/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T07:56:20"
+}

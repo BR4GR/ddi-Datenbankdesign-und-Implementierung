@@ -1,0 +1,171 @@
+{
+    "uid": 100094995,
+    "migrosId": "848315400020",
+    "name": "Mobile Bag",
+    "brand": "Miomojo",
+    "title": "Mobile Bag",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Miomojo",
+                "slug": "miomojo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/848315400020"
+        },
+        "otherInformation": {
+            "articleNumber": "848315400020",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Height",
+                    "value": "18 cm"
+                },
+                {
+                    "code": "Depth",
+                    "value": "2.5 cm"
+                },
+                {
+                    "code": "Length",
+                    "value": "10 cm"
+                },
+                {
+                    "code": "Weight",
+                    "value": "0.1 kg"
+                },
+                {
+                    "code": "Volume",
+                    "value": "0.45 l"
+                },
+                {
+                    "code": "Category/theme",
+                    "value": "Taschen"
+                },
+                {
+                    "code": "Main material",
+                    "value": "Recycling Polyester"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "abnehmbarer Tragriemen, Handy kompatibel"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613434839462"
+    ],
+    "variants": {
+        "baseProductMigrosId": "848315400000",
+        "mainVariantMigrosId": "848315400020",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "black"
+                },
+                "migrosId": "848315400020"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "aubergine"
+                },
+                "migrosId": "848315400035"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "taupe"
+                },
+                "migrosId": "848315400078"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "black",
+                "options": [
+                    "black",
+                    "aubergine",
+                    "taupe"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "one Size",
+                "options": [
+                    "one Size"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/784181a838dbe7e55d1ee9b2363f8d4f38f17f11/mobile-bag.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10555197",
+            "name": "Travel",
+            "slugs": [
+                "clothing-accessories",
+                "travel"
+            ]
+        },
+        {
+            "id": "10555228",
+            "name": "Backpacks & bags",
+            "slugs": [
+                "clothing-accessories",
+                "travel",
+                "backpacks-bags"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/848315400020",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "29.95",
+            "advertisedDisplayValue": "29.95",
+            "effectiveDisplayValue": "29.95",
+            "multiplier": 1,
+            "value": 29.95,
+            "effectiveValue": 29.95,
+            "advertisedValue": 29.95,
+            "unitPrice": {
+                "value": 29.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "29.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T22:48:42"
+}

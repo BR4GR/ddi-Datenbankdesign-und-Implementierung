@@ -1,0 +1,132 @@
+{
+    "uid": 100047349,
+    "migrosId": "109631100000",
+    "migrosOnlineId": "4960414",
+    "name": "Bitter almond flavor",
+    "brand": "Patissier",
+    "title": "Patissier · Bitter almond flavor",
+    "description": "Patissier Bitter almond flavor ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Patissier",
+                "slug": "patissier",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077074/brands/Patissier_Logo"
+            },
+            "ingredients": "Bittermandelaroma.",
+            "allergens": "Almonds and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 3,
+                    "productionRatio": 71,
+                    "transportRatio": 3,
+                    "packagingRatio": 26,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 28,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/109631100000"
+        },
+        "usageInformation": {
+            "preparationInstructions": "1/2 - 1 Fläschchen ist ausreichend für 500 g Mehl oder 500 ml Flüssigkeit."
+        },
+        "otherInformation": {
+            "articleNumber": "109631100000",
+            "legalDesignation": "Bittermandelaroma zum Backen und für Desserts",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store in a cool, dry place and protected from light."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Number of removable individual units",
+                    "value": "5"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Blister"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312407516",
+        "7613312076576"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f14ad017963f57f08c4214b66d77f47b16de84bc/patissier-aroma-bittermandel.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494766",
+            "name": "Baking ingredients",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "baking-ingredients"
+            ]
+        },
+        {
+            "id": "7494938",
+            "name": "Flavours & gelling agents",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "baking-ingredients",
+                "flavours-gelling-agents"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/109631100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.95",
+            "advertisedDisplayValue": "1.95",
+            "effectiveDisplayValue": "1.95",
+            "multiplier": 1,
+            "value": 1.95,
+            "effectiveValue": 1.95,
+            "advertisedValue": 1.95,
+            "unitPrice": {
+                "value": 19.5,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "5 x 2ml",
+        "quantityPrice": "19.50/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:57:42"
+}

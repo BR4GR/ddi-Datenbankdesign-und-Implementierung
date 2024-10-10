@@ -1,0 +1,187 @@
+{
+    "uid": 100050606,
+    "migrosId": "114012605500",
+    "name": "Berlinerbrezel",
+    "title": "Berlinerbrezel",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "ingredients": "<strong>wheat</strong> flour, palm fat, sugar, whole <strong>egg</strong> (free range), water, yeast, rapeseed oil, sweet <strong>whey</strong> powder, emulsifiers: mono- and diglycerides of fatty acids and rapeseed lecithin, glucose syrup, table salt, <strong>egg</strong> white powder (Barn), <strong>wheat</strong> gluten, flavourings, colouring plant extracts (curcuma, carrots), cinnamon, corn starch.",
+            "allergenIndication": "May contain: soybeans, nuts, sesame.",
+            "allergens": "Eggs and products thereof, Milk and products thereof, Cereals containing gluten and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 9,
+                    "productionRatio": 86,
+                    "transportRatio": 4,
+                    "packagingRatio": 10,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 89,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/114012605500"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "1 Stück (70 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1897 kJ (454 kcal)",
+                            "1342 kJ (321 kcal)",
+                            "0 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "25 g",
+                            "18 g",
+                            "26 %"
+                        ]
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "11 g",
+                            "8 g",
+                            "40 %"
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "49 g",
+                            "34 g",
+                            "13 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "12 g",
+                            "8.6 g",
+                            "10 %"
+                        ]
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "2.3 g",
+                            "1.6 g",
+                            "0 %"
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "7.1 g",
+                            "5 g",
+                            "10 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.75 g",
+                            "0.53 g",
+                            "9 %"
+                        ]
+                    }
+                ]
+            },
+            "portionSentence": "1 Package = 1 serving",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "114012605500",
+            "legalDesignation": "Süsses Hefegebäck, frittiert",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Type of pastry /spread",
+                    "value": "Süsses Gebäck"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7616700187861"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/dc195408ec7a43c1bb60481999c07b19dfb2f79a/berlinerbrezel.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494763",
+            "name": "Fresh bread",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "fresh-bread"
+            ]
+        },
+        {
+            "id": "7494925",
+            "name": "Pastries",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "fresh-bread",
+                "pastries"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/114012605500",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.50",
+            "advertisedDisplayValue": "1.50",
+            "effectiveDisplayValue": "1.50",
+            "multiplier": 1,
+            "value": 1.5,
+            "effectiveValue": 1.5,
+            "advertisedValue": 1.5,
+            "unitPrice": {
+                "value": 2.14,
+                "unit": "100g"
+            }
+        },
+        "quantity": "70g",
+        "quantityPrice": "2.14/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T03:02:51"
+}

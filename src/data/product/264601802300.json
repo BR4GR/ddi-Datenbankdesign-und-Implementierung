@@ -1,0 +1,114 @@
+{
+    "uid": 100000509,
+    "migrosId": "264601802300",
+    "migrosOnlineId": "3937176",
+    "name": "dates",
+    "brand": "Sélection",
+    "title": "Sélection · dates",
+    "description": "Sélection dates ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Sélection",
+                "slug": "selection",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652251541/brands/selection"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "airRating": 3,
+                    "co2CarKmEquivalent": 18,
+                    "airProductionRatio": 7,
+                    "airTransportRatio": 91,
+                    "airPackagingRatio": 1,
+                    "productionRatio": 60,
+                    "transportRatio": 28,
+                    "packagingRatio": 13,
+                    "image": "https://image.migros.ch/original/8a58c20e0c0369c883e6d5a7d32e87b58e104bc6.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/8a58c20e0c0369c883e6d5a7d32e87b58e104bc6.svg",
+                    "co2KgRange": "2 - 4.7 kg CO₂eq / kg",
+                    "lowerCo2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 30,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/264601802300"
+        },
+        "otherInformation": {
+            "articleNumber": "264601802300",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613269651130"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/29054e81bdf60477df17b5e3931e3a72bdcbb468/selection-datteln.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494756",
+            "name": "Fruits",
+            "slugs": [
+                "fruits-vegetables",
+                "fruits"
+            ]
+        },
+        {
+            "id": "7494899",
+            "name": "Exotic fruits",
+            "slugs": [
+                "fruits-vegetables",
+                "fruits",
+                "exotic-fruits"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/264601802300",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.95",
+            "advertisedDisplayValue": "5.95",
+            "effectiveDisplayValue": "5.95",
+            "multiplier": 1,
+            "value": 5.95,
+            "effectiveValue": 5.95,
+            "advertisedValue": 5.95,
+            "unitPrice": {
+                "value": 2.98,
+                "unit": "100g"
+            }
+        },
+        "quantity": "200g",
+        "quantityPrice": "2.98/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T02:28:44"
+}

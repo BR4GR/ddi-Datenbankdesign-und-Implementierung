@@ -1,0 +1,98 @@
+{
+    "uid": 100003601,
+    "migrosId": "160180400000",
+    "migrosOnlineId": "6584924",
+    "name": "Pizza",
+    "brand": "Buitoni",
+    "brandLine": "Forno di Pietra",
+    "versioning": "Prosciutto e funghi",
+    "title": "Buitoni Forno di Pietra · Pizza · Prosciutto e funghi",
+    "description": "Buitoni Pizza Prosciutto e funghi",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Buitoni",
+                "slug": "buitoni",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076641/brands/buitoni_Nestle%CC%81_Suisse_S.A.___TK_House_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store."
+        },
+        "usageInformation": {
+            "usage": "1. preheat the oven. Please keep the pizza deep-frozen. 220°C bottom and top heat. 200°C circulating air. 2nd Baking: Remove the pizza from the packaging before baking. 10, 12 minutes. Store baking tray at room temperature during preheating.",
+            "additionalInformation": "Pizza with cheese, cooked ham and mushrooms, deep frozen."
+        },
+        "otherInformation": {
+            "articleNumber": "160180400000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Number of removable individual units",
+                    "value": "3"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Karton"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "backen"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "8000300413991"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/edf28017b21e46fe681f638dd3367701b9313a96/buitoni-prosciutto-funghi.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494738",
+            "name": "Frozen food",
+            "slugs": [
+                "frozen-food"
+            ]
+        },
+        {
+            "id": "7494796",
+            "name": "Pizza, bread & apero pastries",
+            "slugs": [
+                "frozen-food",
+                "pizza-bread-apero-pastries"
+            ]
+        },
+        {
+            "id": "7495092",
+            "name": "Pizza & tarte flambée",
+            "slugs": [
+                "frozen-food",
+                "pizza-bread-apero-pastries",
+                "pizza-tarte-flambee"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/160180400000",
+    "isMgbCompatible": false,
+    "isConsignmentProduct": false,
+    "offer": {
+        "isVariableWeight": false,
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483530/labels/frozen",
+                "description": "frozen"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true
+    },
+    "dateAdded": "2024-09-29T03:05:56"
+}

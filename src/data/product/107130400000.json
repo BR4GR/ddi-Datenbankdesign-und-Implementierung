@@ -1,0 +1,122 @@
+{
+    "uid": 100123895,
+    "migrosId": "107130400000",
+    "migrosOnlineId": "10510358",
+    "name": "Coffee Capsules",
+    "brand": "Delizio",
+    "brandLine": "La Semeuse",
+    "versioning": "Espresso, Delizio System",
+    "title": "Delizio La Semeuse · Coffee Capsules · Espresso, Delizio System",
+    "description": "Delizio Coffee Capsules Espresso, Delizio System",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Delizio",
+                "slug": "delizio",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252415/brands/delizio"
+            },
+            "ingredients": "Roasted ground coffee",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 9,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/107130400000"
+        },
+        "nutrientsInformation": {
+            "portionSentence": "1 pack ≈ 16 servings"
+        },
+        "usageInformation": {
+            "usage": "The capsule application exclusively for the Delizio system."
+        },
+        "otherInformation": {
+            "articleNumber": "107130400000",
+            "legalDesignation": "Roasted ground coffee",
+            "distributorName": "La Semeuse SA",
+            "remarks": [
+                {
+                    "code": "Consumer storage instructions",
+                    "value": "Packaged in a protective atmosphere. Protect from heat."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Notes for preparation",
+                    "value": "Delizio Kapselsystem"
+                },
+                {
+                    "code": "Number of pads/capsules/bags",
+                    "value": "16"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610244013471"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/97bd33888342474becdea7fdc44bc2c373e2cf3e/la-semeuse-espresso-16-kapseln.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494772",
+            "name": "Coffee",
+            "slugs": [
+                "drinks-coffee-tea",
+                "coffee"
+            ]
+        },
+        {
+            "id": "7494965",
+            "name": "Coffee capsules",
+            "slugs": [
+                "drinks-coffee-tea",
+                "coffee",
+                "coffee-capsules"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/107130400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.95",
+            "advertisedDisplayValue": "7.95",
+            "effectiveDisplayValue": "7.95",
+            "multiplier": 1,
+            "value": 7.95,
+            "effectiveValue": 7.95,
+            "advertisedValue": 7.95,
+            "unitPrice": {
+                "value": 8.28,
+                "unit": "100g"
+            }
+        },
+        "quantity": "96g",
+        "quantityPrice": "8.28/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:11:44"
+}

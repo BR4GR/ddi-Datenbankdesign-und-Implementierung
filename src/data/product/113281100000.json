@@ -1,0 +1,88 @@
+{
+    "uid": 100062386,
+    "migrosId": "113281100000",
+    "name": "Bananenkuchen",
+    "title": "Bananenkuchen",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/113281100000"
+        },
+        "otherInformation": {
+            "articleNumber": "113281100000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613404344514"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/0331ec21405d10c49ef7e79a43a8617cba8d95eb/bananenkuchen.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/5b34aa5a5a97caa0650408052a5a6562bd959399.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494784",
+            "name": "Cake, madeleines & panettone",
+            "slugs": [
+                "snacks-sweets",
+                "cake-madeleines-panettone"
+            ]
+        },
+        {
+            "id": "7495027",
+            "name": "Cakes & dry cakes",
+            "slugs": [
+                "snacks-sweets",
+                "cake-madeleines-panettone",
+                "cakes-dry-cakes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/113281100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.70",
+            "advertisedDisplayValue": "4.70",
+            "effectiveDisplayValue": "4.70",
+            "multiplier": 1,
+            "value": 4.7,
+            "effectiveValue": 4.7,
+            "advertisedValue": 4.7,
+            "unitPrice": {
+                "value": 1.31,
+                "unit": "100g"
+            }
+        },
+        "quantity": "360g",
+        "quantityPrice": "1.31/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:49:41"
+}

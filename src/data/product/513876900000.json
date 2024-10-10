@@ -1,0 +1,111 @@
+{
+    "uid": 100068424,
+    "migrosId": "513876900000",
+    "migrosOnlineId": "7393272",
+    "name": "Shower cream",
+    "brand": "Nivea",
+    "versioning": "Orange & avocado oil",
+    "title": "Nivea · Shower cream · Orange & avocado oil",
+    "description": "Nivea Shower cream Orange & avocado oil",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Nivea",
+                "slug": "nivea",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1656506258/brands/Nivea_Beiersdorf_AG_Logo"
+            },
+            "rating": {
+                "nbReviews": 30,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/513876900000"
+        },
+        "usageInformation": {
+            "usage": "The shower gel can be used for the daily shower. Apply the shower gel to the wet skin, massage it in as required and leave it to work for a short time. Rinse thoroughly with water.",
+            "additionalInformation": "Enjoy a pleasant moment of care. This shower gel with natural avocado oil cares for the skin and its delicate orange scent pampers the senses: NIVEA Shower Care Orange & Avocado Oil"
+        },
+        "otherInformation": {
+            "articleNumber": "513876900000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Cremedusche"
+                },
+                {
+                    "code": "Customer group",
+                    "value": "Unisex"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4005900939746"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/e3f192595301010ce99bfa45dfa02dec07a8d674/nivea-shower-orange-avo.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494826",
+            "name": "Body care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care"
+            ]
+        },
+        {
+            "id": "7495239",
+            "name": "Shower & bath",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care",
+                "shower-bath"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/513876900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.95",
+            "advertisedDisplayValue": "2.95",
+            "effectiveDisplayValue": "2.95",
+            "multiplier": 1,
+            "value": 2.95,
+            "effectiveValue": 2.95,
+            "advertisedValue": 2.95,
+            "unitPrice": {
+                "value": 1.18,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "250ml",
+        "quantityPrice": "1.18/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T20:24:30"
+}

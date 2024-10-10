@@ -1,0 +1,201 @@
+{
+    "uid": 100035263,
+    "migrosId": "111274200000",
+    "migrosOnlineId": "216078",
+    "name": "Light wheat bread",
+    "brand": "Jacquet",
+    "versioning": "nature",
+    "title": "Jacquet · Light wheat bread · nature",
+    "description": "Jacquet Light wheat bread nature",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Jacquet",
+                "slug": "jacquet"
+            },
+            "ingredients": "<strong>wheat</strong> flour, water, rapeseed oil, sugar, <strong>wheat</strong> gluten, table salt, ethanol, yeast, emulsifiers: mono- and diglycerides of fatty acids and sodium stearoyl-2-lactylate, flavourings, preservative: calcium propionate, flour treatment agent: ascorbic acid.",
+            "allergenIndication": "May contain: eggs, soybeans, milk, sesame.",
+            "allergens": "Cereals containing gluten and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 5,
+                    "productionRatio": 80,
+                    "transportRatio": 1,
+                    "packagingRatio": 19,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 52,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/111274200000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1313 kJ (311 kcal)",
+                            "0 kJ (0 kcal)",
+                            "0 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "7.2 g",
+                            "0 g",
+                            "0 %"
+                        ]
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0.8 g",
+                            "0 g",
+                            "0 %"
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "51 g",
+                            "0 g",
+                            "0 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "5.8 g",
+                            "0 g",
+                            "0 %"
+                        ]
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "2.1 g",
+                            "0 g",
+                            "0 %"
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "7.5 g",
+                            "0 g",
+                            "0 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "1.2 g",
+                            "0 g",
+                            "0 %"
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "111274200000",
+            "legalDesignation": "Helles Weizenbrot",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store at room temperature."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "3029330002765"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/2da8924b0ff37439ecda8250266d4948a632e464/mini-canapes.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/2c359888dc5b125ac4b8fba1d4cf5e0026e4de20.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/36fe835493b9d8c8d95e92fe94bf9478748cfd98.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494764",
+            "name": "Bread & rusk",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "bread-rusk"
+            ]
+        },
+        {
+            "id": "7494927",
+            "name": "Toast",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "bread-rusk",
+                "toast"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/111274200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.10",
+            "advertisedDisplayValue": "3.10",
+            "effectiveDisplayValue": "3.10",
+            "multiplier": 1,
+            "value": 3.1,
+            "effectiveValue": 3.1,
+            "advertisedValue": 3.1,
+            "unitPrice": {
+                "value": 1.22,
+                "unit": "100g"
+            }
+        },
+        "quantity": "255g",
+        "quantityPrice": "1.22/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T12:09:40"
+}

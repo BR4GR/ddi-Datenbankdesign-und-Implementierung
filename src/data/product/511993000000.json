@@ -1,0 +1,105 @@
+{
+    "uid": 100053246,
+    "migrosId": "511993000000",
+    "name": "Kneipp Mini Handcreme",
+    "brand": "Kneipp",
+    "title": "Kneipp Mini Handcreme",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Kneipp",
+                "slug": "kneipp",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076841/brands/Kneipp_Kneipp_Schweiz_GmbH_Logo"
+            },
+            "rating": {
+                "nbReviews": 16,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/511993000000"
+        },
+        "otherInformation": {
+            "articleNumber": "511993000000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Handcreme"
+                },
+                {
+                    "code": "Requirements/uses",
+                    "value": "Feuchtigkeit"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4008233101439",
+        "4008233123325"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/de2729fdd37c88ca4cc76a8bbc8f9508d745ebaf/kneipp-mini-handcreme.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494827",
+            "name": "Hand & foot care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hand-foot-care"
+            ]
+        },
+        {
+            "id": "7495245",
+            "name": "Hand care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hand-foot-care",
+                "hand-care"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/511993000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.20",
+            "advertisedDisplayValue": "2.20",
+            "effectiveDisplayValue": "2.20",
+            "multiplier": 1,
+            "value": 2.2,
+            "effectiveValue": 2.2,
+            "advertisedValue": 2.2,
+            "unitPrice": {
+                "value": 11,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "20g",
+        "quantityPrice": "11.–/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T08:20:06"
+}

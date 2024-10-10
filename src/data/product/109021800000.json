@@ -1,0 +1,100 @@
+{
+    "uid": 100168148,
+    "migrosId": "109021800000",
+    "migrosOnlineId": "12667450",
+    "name": "pâté",
+    "brand": "Edgard & Cooper",
+    "brandLine": "Adult",
+    "versioning": "chicken, salmon, lamb, turkey",
+    "title": "Edgard & Cooper Adult · pâté · chicken, salmon, lamb, turkey",
+    "description": "Edgard & Cooper pâté chicken, salmon, lamb, turkey",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Edgard & Cooper",
+                "slug": "edgard-cooper"
+            },
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 2.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/109021800000"
+        },
+        "usageInformation": {
+            "additionalInformation": "canned"
+        },
+        "otherInformation": {
+            "articleNumber": "109021800000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "5407009641046"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/69a0d79b49aeba4dc1a1e274beab273d602748c5/ec-multipack-8x85g.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494739",
+            "name": "Pets",
+            "slugs": [
+                "pets"
+            ]
+        },
+        {
+            "id": "7494802",
+            "name": "Cats",
+            "slugs": [
+                "pets",
+                "cats"
+            ]
+        },
+        {
+            "id": "7495118",
+            "name": "Wet foods",
+            "slugs": [
+                "pets",
+                "cats",
+                "wet-foods"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/109021800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "15.95",
+            "advertisedDisplayValue": "15.95",
+            "effectiveDisplayValue": "15.95",
+            "multiplier": 1,
+            "value": 15.95,
+            "effectiveValue": 15.95,
+            "advertisedValue": 15.95,
+            "unitPrice": {
+                "value": 2.35,
+                "unit": "100g"
+            }
+        },
+        "quantity": "8 x 85g",
+        "quantityPrice": "2.35/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:03:23"
+}

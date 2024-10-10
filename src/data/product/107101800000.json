@@ -1,0 +1,94 @@
+{
+    "uid": 100145847,
+    "migrosId": "107101800000",
+    "name": "La Semeuse Mocca Bohnen",
+    "brand": "La Semeuse",
+    "title": "La Semeuse Mocca Bohnen",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "La Semeuse",
+                "slug": "la-semeuse",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076886/brands/La_Semeuse_La_Semeuse_S.A._Logo"
+            },
+            "rating": {
+                "nbReviews": 14,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/107101800000"
+        },
+        "otherInformation": {
+            "articleNumber": "107101800000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7610244010432"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/9275b063d89e220fed708e0bdbe35be684f5ab7a/la-semeuse-mocca-bohnen.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494772",
+            "name": "Coffee",
+            "slugs": [
+                "drinks-coffee-tea",
+                "coffee"
+            ]
+        },
+        {
+            "id": "7494966",
+            "name": "Coffee beans",
+            "slugs": [
+                "drinks-coffee-tea",
+                "coffee",
+                "coffee-beans"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/107101800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "25.90",
+            "advertisedDisplayValue": "25.90",
+            "effectiveDisplayValue": "25.90",
+            "multiplier": 1,
+            "value": 25.9,
+            "effectiveValue": 25.9,
+            "advertisedValue": 25.9,
+            "unitPrice": {
+                "value": 1.3,
+                "unit": "100g"
+            }
+        },
+        "quantity": "2x1kg",
+        "quantityPrice": "1.30/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:14:15"
+}

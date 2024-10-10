@@ -1,0 +1,94 @@
+{
+    "uid": 100145693,
+    "migrosId": "280251600000",
+    "name": "Strauss",
+    "title": "Strauss",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 1,
+                    "airRating": 2,
+                    "co2CarKmEquivalent": 357,
+                    "airProductionRatio": 21,
+                    "airTransportRatio": 76,
+                    "airPackagingRatio": 3,
+                    "productionRatio": 97,
+                    "transportRatio": 3,
+                    "packagingRatio": 0,
+                    "image": "https://image.migros.ch/original/c7b3bc29d532f0bb03744b5880ef54fec350b61b.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/c7b3bc29d532f0bb03744b5880ef54fec350b61b.svg",
+                    "co2KgRange": "≥10 kg CO₂eq / kg",
+                    "lowerCo2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                }
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/280251600000"
+        },
+        "otherInformation": {
+            "articleNumber": "280251600000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613269853367"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/cffb80718d49f0ccbacdbdbee6fc5711f9911aa6/strauss.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/9ce610510f6914cda22fed17d1d9450f324898f6.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494815",
+            "name": "Garden, plants & flowers",
+            "slugs": [
+                "household-and-living",
+                "garden-plants-flowers"
+            ]
+        },
+        {
+            "id": "7495179",
+            "name": "Fresh flowers",
+            "slugs": [
+                "household-and-living",
+                "garden-plants-flowers",
+                "fresh-flowers"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/280251600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-17T07:24:53"
+}

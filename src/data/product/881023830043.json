@@ -1,0 +1,187 @@
+{
+    "uid": 100169691,
+    "migrosId": "881023830043",
+    "name": "Kids sweatshirt",
+    "brand": "Kids",
+    "title": "Kids sweatshirt",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Kids",
+                "slug": "kids",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076840/brands/KIDS_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/881023830043"
+        },
+        "otherInformation": {
+            "articleNumber": "881023830043",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Zielgruppe",
+                    "value": "Kinder"
+                },
+                {
+                    "code": "Material",
+                    "value": "Baumwolle"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "100 %"
+                },
+                {
+                    "code": "Age",
+                    "value": "2-4 Jahre"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871737080"
+    ],
+    "variants": {
+        "baseProductMigrosId": "881023800000",
+        "mainVariantMigrosId": "881023830043",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "navy",
+                    "size": "2-4 // 98/104"
+                },
+                "migrosId": "881023830043"
+            },
+            {
+                "declinationOptions": {
+                    "color": "light grey",
+                    "size": "2-4 // 98/104"
+                },
+                "migrosId": "881023830081"
+            },
+            {
+                "declinationOptions": {
+                    "color": "navy",
+                    "size": "4-6 // 110/116"
+                },
+                "migrosId": "881023830143"
+            },
+            {
+                "declinationOptions": {
+                    "color": "light grey",
+                    "size": "4-6 // 110/116"
+                },
+                "migrosId": "881023830181"
+            },
+            {
+                "declinationOptions": {
+                    "color": "navy",
+                    "size": "6-8 // 122/128"
+                },
+                "migrosId": "881023830243"
+            },
+            {
+                "declinationOptions": {
+                    "color": "light grey",
+                    "size": "6-8 // 122/128"
+                },
+                "migrosId": "881023830281"
+            },
+            {
+                "declinationOptions": {
+                    "color": "navy",
+                    "size": "8-10 // 134/140"
+                },
+                "migrosId": "881023830343"
+            },
+            {
+                "declinationOptions": {
+                    "color": "light grey",
+                    "size": "8-10 // 134/140"
+                },
+                "migrosId": "881023830381"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "navy",
+                "options": [
+                    "navy",
+                    "light grey"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "2-4 // 98/104",
+                "options": [
+                    "2-4 // 98/104",
+                    "4-6 // 110/116",
+                    "6-8 // 122/128",
+                    "8-10 // 134/140"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/cfd67542a4cd5d9f7f10952612fa103f8a656af5/kids-sweatshirt.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "11117258",
+            "name": "Children's clothing",
+            "slugs": [
+                "baby-kids",
+                "childrens-clothing"
+            ]
+        },
+        {
+            "id": "11124117",
+            "name": "Children's clothes",
+            "slugs": [
+                "baby-kids",
+                "childrens-clothing",
+                "childrens-clothes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/881023830043",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "22.95",
+            "advertisedDisplayValue": "22.95",
+            "effectiveDisplayValue": "22.95",
+            "multiplier": 1,
+            "value": 22.95,
+            "effectiveValue": 22.95,
+            "advertisedValue": 22.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T00:38:45"
+}

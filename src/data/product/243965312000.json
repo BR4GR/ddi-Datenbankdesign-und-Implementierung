@@ -1,0 +1,90 @@
+{
+    "uid": 100145437,
+    "migrosId": "243965312000",
+    "name": "Confit Vieux Rhum",
+    "brand": "Delpeyrat",
+    "title": "Confit Vieux Rhum",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Delpeyrat",
+                "slug": "delpeyrat"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/243965312000"
+        },
+        "otherInformation": {
+            "articleNumber": "243965312000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "3067163621777",
+        "7613404133569"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f6adcc99224f566ef8413d57ba95a0bb9ea3cd39/confit-vieux-rhum.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494748",
+            "name": "Cold cuts",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts"
+            ]
+        },
+        {
+            "id": "7494857",
+            "name": "Pâté, terrines & foie gras",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts",
+                "pate-terrines-foie-gras"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/243965312000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.90",
+            "advertisedDisplayValue": "4.90",
+            "effectiveDisplayValue": "4.90",
+            "multiplier": 1,
+            "value": 4.9,
+            "effectiveValue": 4.9,
+            "advertisedValue": 4.9,
+            "unitPrice": {
+                "value": 12.25,
+                "unit": "100g"
+            }
+        },
+        "quantity": "40g",
+        "quantityPrice": "12.25/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:14:46"
+}

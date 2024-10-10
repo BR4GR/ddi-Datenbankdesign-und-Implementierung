@@ -1,0 +1,140 @@
+{
+    "uid": 100079836,
+    "migrosId": "708217500020",
+    "name": "Haft/flauschband",
+    "title": "Haft/flauschband",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 11,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/708217500020"
+        },
+        "otherInformation": {
+            "articleNumber": "708217500020",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Area of application",
+                    "value": "Flicken, säumen"
+                },
+                {
+                    "code": "Number",
+                    "value": "1 Pcs."
+                },
+                {
+                    "code": "Dimensions/size",
+                    "value": "20mm x 1m"
+                },
+                {
+                    "code": "Material",
+                    "value": "Polyester"
+                },
+                {
+                    "code": "Color",
+                    "value": "schwarz"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613295871823"
+    ],
+    "variants": {
+        "baseProductMigrosId": "708217500000",
+        "mainVariantMigrosId": "708217500010",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "weiss"
+                },
+                "migrosId": "708217500010"
+            },
+            {
+                "declinationOptions": {
+                    "color": "schwarz"
+                },
+                "migrosId": "708217500020"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "schwarz",
+                "options": [
+                    "weiss",
+                    "schwarz"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/7ac46f469f853f7baae970d59213ec394d1adf60/haftflauschband.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494812",
+            "name": "DIY, home decoration and haberdashery",
+            "slugs": [
+                "household-and-living",
+                "diy-home-decoration-and-haberdas"
+            ]
+        },
+        {
+            "id": "7495164",
+            "name": "Haberdashery",
+            "slugs": [
+                "household-and-living",
+                "diy-home-decoration-and-haberdas",
+                "haberdashery"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/708217500020",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.60",
+            "advertisedDisplayValue": "6.60",
+            "effectiveDisplayValue": "6.60",
+            "multiplier": 1,
+            "value": 6.6,
+            "effectiveValue": 6.6,
+            "advertisedValue": 6.6,
+            "unitPrice": {
+                "value": 3.3,
+                "unit": "piece"
+            }
+        },
+        "quantity": "2 Stk.",
+        "quantityPrice": "3.30/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-18T07:07:26"
+}

@@ -1,0 +1,137 @@
+{
+    "uid": 100080243,
+    "migrosId": "744917290200",
+    "name": "MEMORY ITALIEN.",
+    "brand": "Ravensburger",
+    "title": "MEMORY ITALIEN.",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Ravensburger",
+                "slug": "ravensburger",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252478/brands/ravensburger"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 4,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/744917290200"
+        },
+        "otherInformation": {
+            "articleNumber": "744917290200",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7624500036999",
+        "4005556261772",
+        "7610355900677",
+        "4005556210459",
+        "4005556214907",
+        "4000006212960",
+        "4005556212965"
+    ],
+    "variants": {
+        "baseProductMigrosId": "744917200000",
+        "mainVariantMigrosId": "744917290000",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "typ_sprache": "Deutsch"
+                },
+                "migrosId": "744917290000"
+            },
+            {
+                "declinationOptions": {
+                    "typ_sprache": "Französisch"
+                },
+                "migrosId": "744917290100"
+            },
+            {
+                "declinationOptions": {
+                    "typ_sprache": "Italienisch"
+                },
+                "migrosId": "744917290200"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "typ_sprache",
+                "dimensionName": "Sprache",
+                "currentValue": "Italienisch",
+                "options": [
+                    "Deutsch",
+                    "Französisch",
+                    "Italienisch"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/97f3d06296696bb4f5b2ba6aad491fbdbda03ff5/memory-italien.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "7494822",
+            "name": "Toys",
+            "slugs": [
+                "baby-kids",
+                "toys"
+            ]
+        },
+        {
+            "id": "7495213",
+            "name": "Board games, role-playing games & puzzles",
+            "slugs": [
+                "baby-kids",
+                "toys",
+                "board-games-role-playing-games-p"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/744917290200",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "21.95",
+            "advertisedDisplayValue": "21.95",
+            "effectiveDisplayValue": "21.95",
+            "multiplier": 1,
+            "value": 21.95,
+            "effectiveValue": 21.95,
+            "advertisedValue": 21.95,
+            "unitPrice": {
+                "value": 21.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "21.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:38:14"
+}

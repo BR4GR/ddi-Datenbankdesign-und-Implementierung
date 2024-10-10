@@ -1,0 +1,182 @@
+{
+    "uid": 100004705,
+    "migrosId": "120236100000",
+    "migrosOnlineId": "6340411",
+    "name": "Lemonade",
+    "brand": "Fanta",
+    "versioning": "Exotic",
+    "title": "Fanta · Lemonade · Exotic",
+    "description": "Fanta Lemonade Exotic",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Fanta",
+                "slug": "fanta",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1656506252/brands/Fanta_Coca-Cola_HBC_Schweiz_AG_Logo"
+            },
+            "ingredients": "water, sugar, fruit juices from concentrate (3,4%): (orange 3%), peach (0,2%) & passion fruit (0,2%), carbon dioxide, acid: citric acid, citrus extract, flavors, preservative: potassium sorbate, stabilizers: E 414 & E 445, color: carotenes.",
+            "allergens": "Does not contain any allergenic ingredients that require labelling",
+            "rating": {
+                "nbReviews": 31,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/120236100000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 ml"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "~ 176 kJ (~ 41 kcal)",
+                            "~ 581 kJ (~ 135 kcal)",
+                            "7 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "~ 0 g",
+                            "~ 0 g",
+                            "0 %"
+                        ]
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "~ 0 g",
+                            "~ 0 g",
+                            "0 %"
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "~ 10.1 g",
+                            "~ 33 g",
+                            "13 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "~ 10.1 g",
+                            "~ 33 g",
+                            "37 %"
+                        ]
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "~ 0 g",
+                            "~ 0 g",
+                            "0 %"
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "~ 0 g",
+                            "~ 0 g",
+                            "0 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "~ 0 g",
+                            "~ 0 g",
+                            "0 %"
+                        ]
+                    }
+                ]
+            },
+            "portionSentence": "1 pack ≈ 1 serving",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "120236100000",
+            "legalDesignation": "Carbonated refreshing beverage with fruit taste",
+            "distributorName": "Coca-Cola HBC Schweiz AG",
+            "distributorStreetAndNumber": "Stationsstrasse 33, CH-8306 Brüttisellen",
+            "remarks": [
+                {
+                    "code": "Aufbewahrungshinweise für den Konsumenten",
+                    "value": "Kühl und trocken lagern."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "5449000308917",
+        "5449000298409"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/8812c4e42796a69c4e68f67ecd6870c0afd64409/fanta-exotic.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494769",
+            "name": "Soft drinks",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks"
+            ]
+        },
+        {
+            "id": "7494951",
+            "name": "Soft drinks",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks",
+                "soft-drinks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/120236100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.20",
+            "advertisedDisplayValue": "1.20",
+            "effectiveDisplayValue": "1.20",
+            "multiplier": 1,
+            "value": 1.2,
+            "effectiveValue": 1.2,
+            "advertisedValue": 1.2,
+            "unitPrice": {
+                "value": 0.36,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "330ml",
+        "quantityPrice": "0.36/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:24:14"
+}

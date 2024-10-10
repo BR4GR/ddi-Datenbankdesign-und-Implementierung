@@ -1,0 +1,197 @@
+{
+    "uid": 100103848,
+    "migrosId": "157001200000",
+    "name": "Aus der Region Gaspacho",
+    "brand": "Côté Jardin",
+    "title": "Aus der Region Gaspacho",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "brand": {
+                "name": "Côté Jardin",
+                "slug": "cote-jardin"
+            },
+            "ingredients": "Eau, tomate 33.3%, concombre 25%, poivron rouge 16%, oignon 5%, ail 0.5%, huile de colza 0.33%, sel de cuisine 0.33%.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/157001200000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 ml"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "102 kJ (24 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "0.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0.1 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "3.4 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "0.8 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.1 g",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "157001200000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Instructions de stockage pour le consommateur",
+                    "value": "Après ouverture, conserver à +5 °C au max. et consommer rapidement. Conserver au sec et à l’abri de la chaleur."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Production process",
+                    "value": "From the Region"
+                },
+                {
+                    "code": "Number of removable individual units",
+                    "value": "74"
+                },
+                {
+                    "code": "in cooking bag / with cooking bowl",
+                    "value": "No"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Glass"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "ready to eat"
+                },
+                {
+                    "code": "Type/quality",
+                    "value": "liquid"
+                },
+                {
+                    "code": "Storage at home",
+                    "value": "﻿store in a cool and dry place"
+                },
+                {
+                    "code": "Instant",
+                    "value": "Yes"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7640160010698"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d66e071a350c8bbe64cabaadd8d45f7534dd6ac7/aus-der-region-gaspacho.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494754",
+            "name": "Fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food"
+            ]
+        },
+        {
+            "id": "7494889",
+            "name": "Soups & gazpachos",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food",
+                "soups-gazpachos"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/157001200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "9.90",
+            "advertisedDisplayValue": "9.90",
+            "effectiveDisplayValue": "9.90",
+            "multiplier": 1,
+            "value": 9.9,
+            "effectiveValue": 9.9,
+            "advertisedValue": 9.9,
+            "unitPrice": {
+                "value": 1.34,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "740ml",
+        "quantityPrice": "1.34/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T16:43:36"
+}

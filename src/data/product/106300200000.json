@@ -1,0 +1,106 @@
+{
+    "uid": 100133200,
+    "migrosId": "106300200000",
+    "migrosOnlineId": "10785546",
+    "name": "cayenne pepper",
+    "brand": "M-Classic",
+    "versioning": "granulated",
+    "title": "M-Classic · cayenne pepper · granulated",
+    "description": "M-Classic cayenne pepper granulated",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Classic",
+                "slug": "m-classic",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252457/brands/m-classic"
+            },
+            "ingredients": "Cayennepfeffer.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 41,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/106300200000"
+        },
+        "otherInformation": {
+            "articleNumber": "106300200000",
+            "legalDesignation": "Cayennepfeffer, granuliert",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store in a cool, dry place and protected from light."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312411766"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/b898127bf4d95c2b8281517bfe7f3c2e9775281f/m-classic-cayennepfeffer-grob.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494776",
+            "name": "Spices & sauces",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces"
+            ]
+        },
+        {
+            "id": "7494983",
+            "name": "Salt & pepper",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces",
+                "salt-pepper"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/106300200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.15",
+            "advertisedDisplayValue": "1.15",
+            "effectiveDisplayValue": "1.15",
+            "multiplier": 1,
+            "value": 1.15,
+            "effectiveValue": 1.15,
+            "advertisedValue": 1.15,
+            "unitPrice": {
+                "value": 4.1,
+                "unit": "100g"
+            }
+        },
+        "quantity": "28g",
+        "quantityPrice": "4.10/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:22:54"
+}

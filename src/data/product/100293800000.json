@@ -1,0 +1,195 @@
+{
+    "uid": 100031094,
+    "migrosId": "100293800000",
+    "migrosOnlineId": "4116238",
+    "name": "Chocolate bars",
+    "brand": "Villars",
+    "versioning": "coffee",
+    "title": "Villars · Chocolate bars · coffee",
+    "description": "Villars Chocolate bars coffee Dark chocolate with pieces of coffee",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "Villars",
+                "slug": "villars",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077218/brands/Villars_Villars_Maitre_Chocolatier_SA_Logo"
+            },
+            "ingredients": "cocoa mass, sugar*, cocoa butter, coffee chips (6%) (wheat maltodextrin, sugar, skimmed MILK powder, coffee, starch), BUTTER* fat (MILK), emulsifier: rapeseed lecithine, natural coffee and vanilla flavours. Cocoa solids: 50% minimum. May contain traces of HAZELNUTS, ALMONDS, WALNUTS, PECAN NUTS, CASHEW NUTS, PISTACHIO NUTS, EGGS, WHEAT, SOYA and BARLEY. *Ingredients from Switzerland.",
+            "allergenIndication": "May contain: Almonds, Gluten-containing cereals, Casehw nuts, Eggs, Hazelnuts, Pecan nuts, Pistachio, Soya, Nuts, Walnuts",
+            "allergens": "Milk and its derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/100293800000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "2190 kJ (520 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "~ 34 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "~ 20 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "~ 50 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "~ 45 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "~ 6.7 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "~ 4.6 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "~ 0.03 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "100293800000",
+            "legalDesignation": "Dark chocolate with coffee pieces",
+            "identificationMark": "PSPC20099",
+            "distributorName": "VILLARS MAITRE CHOCOLATIER",
+            "distributorStreetAndNumber": "Route de la Fonderie 18 | 1700 Fribourg | Suisse / info@villars.com",
+            "remarks": [
+                {
+                    "code": "Consumer storage instructions",
+                    "value": "Store in a cool and dry place."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610036002805"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3edc9b44eb1a6e8993c534d2b940ab543198c837/villars-noir-cafe.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494782",
+            "name": "Chocolate & sweets",
+            "slugs": [
+                "snacks-sweets",
+                "chocolate-sweets"
+            ]
+        },
+        {
+            "id": "7495018",
+            "name": "Chocolate bars",
+            "slugs": [
+                "snacks-sweets",
+                "chocolate-sweets",
+                "chocolate-bars"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/100293800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.40",
+            "advertisedDisplayValue": "4.40",
+            "effectiveDisplayValue": "4.40",
+            "multiplier": 1,
+            "value": 4.4,
+            "effectiveValue": 4.4,
+            "advertisedValue": 4.4,
+            "unitPrice": {
+                "value": 4.4,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100g",
+        "quantityPrice": "4.40/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T16:37:30"
+}

@@ -1,0 +1,98 @@
+{
+    "uid": 100149879,
+    "migrosId": "280268571000",
+    "name": "Fairtrade Edelrosen weiss",
+    "title": "Fairtrade Edelrosen weiss",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L04",
+                    "name": "FAIRTRADE MAX HAVELAAR",
+                    "slug": "fairtrade-max-havelaar",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679482976/labels/Fairtrade_Max_Havelaar_-_RGB_-_DE"
+                }
+            ],
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 3,
+                    "airRating": 2,
+                    "co2CarKmEquivalent": 33,
+                    "airProductionRatio": 14,
+                    "airTransportRatio": 83,
+                    "airPackagingRatio": 3,
+                    "productionRatio": 28,
+                    "transportRatio": 66,
+                    "packagingRatio": 6,
+                    "image": "https://image.migros.ch/original/d87e5cdb5455fc36a115ca49adea18c541da659e.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/d87e5cdb5455fc36a115ca49adea18c541da659e.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg",
+                    "lowerCo2KgRange": "2 - 4.7 kg CO₂eq / kg"
+                }
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/280268571000"
+        },
+        "otherInformation": {
+            "articleNumber": "280268571000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7623186179389"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/e538ae106d9389432a1c8a95bb80d5855310ec78/fairtrade-edelrosen-weiss.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494815",
+            "name": "Garden, plants & flowers",
+            "slugs": [
+                "household-and-living",
+                "garden-plants-flowers"
+            ]
+        },
+        {
+            "id": "7495179",
+            "name": "Fresh flowers",
+            "slugs": [
+                "household-and-living",
+                "garden-plants-flowers",
+                "fresh-flowers"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/280268571000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-17T07:02:09"
+}

@@ -1,0 +1,182 @@
+{
+    "uid": 100118351,
+    "migrosId": "805428130941",
+    "name": "UVP cap",
+    "brand": "Smile",
+    "title": "UVP cap",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L70",
+                    "name": "GRS",
+                    "slug": "grs",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1707834844/labels/GRS-1"
+                }
+            ],
+            "brand": {
+                "name": "Smile",
+                "slug": "smile",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252488/brands/smile"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 6,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/805428130941"
+        },
+        "otherInformation": {
+            "articleNumber": "805428130941",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Zielgruppe",
+                    "value": "Kinder"
+                },
+                {
+                    "code": "Altersgruppe",
+                    "value": "Kinder"
+                },
+                {
+                    "code": "Look",
+                    "value": "uni"
+                },
+                {
+                    "code": "Material",
+                    "value": "Polyamid"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "80 %"
+                },
+                {
+                    "code": "Age",
+                    "value": "18-24 Monate"
+                },
+                {
+                    "code": "Material 2",
+                    "value": "Elasthan"
+                },
+                {
+                    "code": "Proportion of material 2",
+                    "value": "20 %"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "Elastisch, UV-Schutz"
+                },
+                {
+                    "code": "GRS label certified by",
+                    "value": "ESTS"
+                },
+                {
+                    "code": "GRS label license number",
+                    "value": "201221"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613434864310"
+    ],
+    "variants": {
+        "baseProductMigrosId": "805428100000",
+        "mainVariantMigrosId": "805428130941",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "98-122",
+                    "color": "light blue"
+                },
+                "migrosId": "805428130941"
+            },
+            {
+                "declinationOptions": {
+                    "size": "80-92",
+                    "color": "light blue"
+                },
+                "migrosId": "805428141141"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "light blue",
+                "options": [
+                    "light blue"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "98-122",
+                "options": [
+                    "98-122",
+                    "80-92"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/791f3370c4b71c1d01c32d96c0ce6fb9d0e7be12/uvp-cap.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "11117240",
+            "name": "Baby clothes",
+            "slugs": [
+                "baby-kids",
+                "baby-clothes"
+            ]
+        },
+        {
+            "id": "11117343",
+            "name": "Baby swimwear & UV clothing",
+            "slugs": [
+                "baby-kids",
+                "baby-clothes",
+                "baby-swimwear-uv-clothing"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/805428130941",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "12.95",
+            "advertisedDisplayValue": "12.95",
+            "effectiveDisplayValue": "12.95",
+            "multiplier": 1,
+            "value": 12.95,
+            "effectiveValue": 12.95,
+            "advertisedValue": 12.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T00:18:43"
+}

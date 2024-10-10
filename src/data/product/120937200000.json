@@ -1,0 +1,180 @@
+{
+    "uid": 100160011,
+    "migrosId": "120937200000",
+    "migrosOnlineId": "12270563",
+    "name": "Soft drink",
+    "brand": "Schweppes",
+    "versioning": "Pomelo",
+    "title": "Schweppes · Soft drink · Pomelo",
+    "description": "Schweppes Soft drink Pomelo",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Schweppes",
+                "slug": "schweppes",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077145/brands/Schweppes_Feldschlo%CC%88sschen_Getra%CC%88nke_AG_Logo"
+            },
+            "ingredients": "Kohlensäurehaltiges Wasser, Zucker, Säuerungsmittel: Citronensäure, Aromen, natürliches Aroma von nepalesischen Timurbeeren, Farbstoffe: Karminsäure und Anthocyane, Karotten- und Saflorkonzentrate, natürliches Grapefruitaroma, Aroma: Chinin",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 8,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/120937200000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 ml"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "144 kJ (34 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "7.9 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "7.9 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.01 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "120937200000",
+            "legalDesignation": "Kohlensäurehaltiges Erfrischungsgetränk, aromatisiert, mit Grapefruit- und Nepalbeerengeschmack",
+            "distributorName": "Feldschlösschen Getränke AG",
+            "distributorStreetAndNumber": "Theophil-Roniger-Strasse, 4310 Rheinfelden",
+            "remarks": [
+                {
+                    "code": "Warnhinweise / Pflichthinweise",
+                    "value": "enthält Chinine"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "5410221205880"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f2aaf7e2dac94b713c8c1856de4b4ada4f5ab59e/schweppes-selection-tonic-pomelo.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/cd5c4fc4463d5bd7df46bd932e39212cb8e1cb4b.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494769",
+            "name": "Soft drinks",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks"
+            ]
+        },
+        {
+            "id": "7494952",
+            "name": "Bitter & tonic",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks",
+                "bitter-tonic"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/120937200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.80",
+            "advertisedDisplayValue": "7.80",
+            "effectiveDisplayValue": "7.80",
+            "multiplier": 1,
+            "value": 7.8,
+            "effectiveValue": 7.8,
+            "advertisedValue": 7.8,
+            "unitPrice": {
+                "value": 0.98,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "4 x 200ml",
+        "quantityPrice": "0.98/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T19:05:53"
+}

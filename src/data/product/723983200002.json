@@ -1,0 +1,197 @@
+{
+    "uid": 100080195,
+    "migrosId": "723983200002",
+    "name": "Birthday candle",
+    "brand": "Migros Ambiance",
+    "title": "Birthday candle",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Ambiance",
+                "slug": "migros-ambiance"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 74,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/723983200002"
+        },
+        "otherInformation": {
+            "articleNumber": "723983200002",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Content quantity",
+                    "value": "1 Pcs."
+                },
+                {
+                    "code": "Material",
+                    "value": "Wachs"
+                },
+                {
+                    "code": "Color",
+                    "value": "grün"
+                },
+                {
+                    "code": "Height",
+                    "value": "8 cm"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613434047157"
+    ],
+    "variants": {
+        "baseProductMigrosId": "723983200000",
+        "mainVariantMigrosId": "723983200001",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "typ_art": "ZAHL 1"
+                },
+                "migrosId": "723983200001"
+            },
+            {
+                "declinationOptions": {
+                    "typ_art": "ZAHL 2"
+                },
+                "migrosId": "723983200002"
+            },
+            {
+                "declinationOptions": {
+                    "typ_art": "ZAHL 3"
+                },
+                "migrosId": "723983200003"
+            },
+            {
+                "declinationOptions": {
+                    "typ_art": "ZAHL 4"
+                },
+                "migrosId": "723983200004"
+            },
+            {
+                "declinationOptions": {
+                    "typ_art": "ZAHL 5"
+                },
+                "migrosId": "723983200005"
+            },
+            {
+                "declinationOptions": {
+                    "typ_art": "ZAHL 6"
+                },
+                "migrosId": "723983200006"
+            },
+            {
+                "declinationOptions": {
+                    "typ_art": "ZAHL 7"
+                },
+                "migrosId": "723983200007"
+            },
+            {
+                "declinationOptions": {
+                    "typ_art": "ZAHL 8"
+                },
+                "migrosId": "723983200008"
+            },
+            {
+                "declinationOptions": {
+                    "typ_art": "ZAHL 9"
+                },
+                "migrosId": "723983200009"
+            },
+            {
+                "declinationOptions": {
+                    "typ_art": "ZAHL 0"
+                },
+                "migrosId": "723983200010"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "typ_art",
+                "dimensionName": "Art",
+                "currentValue": "ZAHL 2",
+                "options": [
+                    "ZAHL 1",
+                    "ZAHL 2",
+                    "ZAHL 3",
+                    "ZAHL 4",
+                    "ZAHL 5",
+                    "ZAHL 6",
+                    "ZAHL 7",
+                    "ZAHL 8",
+                    "ZAHL 9",
+                    "ZAHL 0"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f17eb5b904ab88492906c0d25e5e007b6c76b26f/birthday-candle.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494811",
+            "name": "Household aids",
+            "slugs": [
+                "household-and-living",
+                "household-aids"
+            ]
+        },
+        {
+            "id": "7495616",
+            "name": "Candles and candlesticks",
+            "slugs": [
+                "household-and-living",
+                "household-aids",
+                "candles-and-candlesticks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/723983200002",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.95",
+            "advertisedDisplayValue": "2.95",
+            "effectiveDisplayValue": "2.95",
+            "multiplier": 1,
+            "value": 2.95,
+            "effectiveValue": 2.95,
+            "advertisedValue": 2.95,
+            "unitPrice": {
+                "value": 2.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "2.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:42:08"
+}

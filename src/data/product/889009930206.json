@@ -1,0 +1,166 @@
+{
+    "uid": 100168794,
+    "migrosId": "889009930206",
+    "name": "Kids pullover",
+    "brand": "Kids",
+    "title": "Kids pullover",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L07",
+                    "name": "ECO",
+                    "slug": "eco",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483145/labels/Eco-Textilien_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "Kids",
+                "slug": "kids",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076840/brands/KIDS_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/889009930206"
+        },
+        "otherInformation": {
+            "articleNumber": "889009930206",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Zielgruppe",
+                    "value": "Kinder"
+                },
+                {
+                    "code": "Material",
+                    "value": "Baumwolle"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "100 %"
+                },
+                {
+                    "code": "Age",
+                    "value": "6-8 Jahre"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871676044"
+    ],
+    "variants": {
+        "baseProductMigrosId": "889009900000",
+        "mainVariantMigrosId": "889009930006",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "lilac",
+                    "size": "2-4 // 98/104"
+                },
+                "migrosId": "889009930006"
+            },
+            {
+                "declinationOptions": {
+                    "color": "lilac",
+                    "size": "4-6 // 110/116"
+                },
+                "migrosId": "889009930106"
+            },
+            {
+                "declinationOptions": {
+                    "color": "lilac",
+                    "size": "6-8 // 122/128"
+                },
+                "migrosId": "889009930206"
+            },
+            {
+                "declinationOptions": {
+                    "color": "lilac",
+                    "size": "8-10 // 134/140"
+                },
+                "migrosId": "889009930306"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "lilac",
+                "options": [
+                    "lilac"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "6-8 // 122/128",
+                "options": [
+                    "2-4 // 98/104",
+                    "4-6 // 110/116",
+                    "6-8 // 122/128",
+                    "8-10 // 134/140"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/4b7edab3ead76c4e3b1dd9993ed3583e44bdd40b/kids-pullover.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "11117258",
+            "name": "Children's clothing",
+            "slugs": [
+                "baby-kids",
+                "childrens-clothing"
+            ]
+        },
+        {
+            "id": "11124117",
+            "name": "Children's clothes",
+            "slugs": [
+                "baby-kids",
+                "childrens-clothing",
+                "childrens-clothes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/889009930206",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "22.95",
+            "advertisedDisplayValue": "22.95",
+            "effectiveDisplayValue": "22.95",
+            "multiplier": 1,
+            "value": 22.95,
+            "effectiveValue": 22.95,
+            "advertisedValue": 22.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T10:03:09"
+}

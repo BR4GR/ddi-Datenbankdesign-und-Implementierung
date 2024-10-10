@@ -1,0 +1,105 @@
+{
+    "uid": 100053667,
+    "migrosId": "513655300000",
+    "name": "Nivea Creme Dose",
+    "brand": "Nivea",
+    "title": "Nivea Creme Dose",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Nivea",
+                "slug": "nivea",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1656506258/brands/Nivea_Beiersdorf_AG_Logo"
+            },
+            "rating": {
+                "nbReviews": 40,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/513655300000"
+        },
+        "otherInformation": {
+            "articleNumber": "513655300000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Creme"
+                },
+                {
+                    "code": "Requirements/uses",
+                    "value": "Pflege"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "40060583",
+        "4005808158485"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/ba668060ba3fff4771b6d5b9b97fad183e433fb3/nivea-creme-dose.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494826",
+            "name": "Body care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care"
+            ]
+        },
+        {
+            "id": "7495242",
+            "name": "Treatments & creams",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care",
+                "treatments-creams"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/513655300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.50",
+            "advertisedDisplayValue": "2.50",
+            "effectiveDisplayValue": "2.50",
+            "multiplier": 1,
+            "value": 2.5,
+            "effectiveValue": 2.5,
+            "advertisedValue": 2.5,
+            "unitPrice": {
+                "value": 3.3,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "75ml",
+        "quantityPrice": "3.30/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T18:30:28"
+}

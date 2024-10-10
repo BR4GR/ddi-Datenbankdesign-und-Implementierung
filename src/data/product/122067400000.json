@@ -1,0 +1,128 @@
+{
+    "uid": 100127229,
+    "migrosId": "122067400000",
+    "migrosOnlineId": "10928988",
+    "name": "Fruity drink",
+    "brand": "Oasis",
+    "versioning": "Tropical",
+    "title": "Oasis · Fruity drink · Tropical",
+    "description": "Oasis Fruity drink Tropical",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Oasis",
+                "slug": "oasis"
+            },
+            "ingredients": "water, fruit juices from concentrates 12% (oranges 7%, lemon 3%, pineapple 2%, passion fruit 0.1%), sugar, flavourings, acid: citric acid, antioxidant: ascorbic acid, colour: beta-apo-8'-carotenal (C30).",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 4,
+                    "productionRatio": 76,
+                    "transportRatio": 5,
+                    "packagingRatio": 20,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 10,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/122067400000"
+        },
+        "nutrientsInformation": {
+            "portionSentence": "1 pack ≈ 8 servings"
+        },
+        "otherInformation": {
+            "articleNumber": "122067400000",
+            "legalDesignation": "Erfrischungsgetränk mit 12% Mehrfruchtsaft, pasteurisiert.",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Once opened, keep refigerated and consume quickly."
+                },
+                {
+                    "code": "Production information",
+                    "value": "pasteurized"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "8435185978622"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/6d3e15adc127b8b91b96e20aeee7511a39b32eb6/oasis-tropical.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3f349a472b7d98b4b53ac3cb99a65b0d86f62e8f.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494769",
+            "name": "Soft drinks",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks"
+            ]
+        },
+        {
+            "id": "7494951",
+            "name": "Soft drinks",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks",
+                "soft-drinks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/122067400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "15.–",
+            "advertisedDisplayValue": "15.–",
+            "effectiveDisplayValue": "15.–",
+            "multiplier": 1,
+            "value": 15,
+            "effectiveValue": 15,
+            "advertisedValue": 15,
+            "unitPrice": {
+                "value": 0.17,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "6 x 1.5l",
+        "quantityPrice": "0.17/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:22:23"
+}

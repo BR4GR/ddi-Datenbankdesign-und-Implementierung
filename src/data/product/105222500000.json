@@ -1,0 +1,84 @@
+{
+    "uid": 100171111,
+    "migrosId": "105222500000",
+    "name": "Sun Snack Knuspermischung",
+    "title": "Sun Snack Knuspermischung",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/105222500000"
+        },
+        "otherInformation": {
+            "articleNumber": "105222500000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613312474877"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/05d47837b4dd62ab1d6f95b18b7533ddf51f3044/sun-snack-knuspermischung.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494785",
+            "name": "Dried fruit",
+            "slugs": [
+                "snacks-sweets",
+                "dried-fruit"
+            ]
+        },
+        {
+            "id": "7495033",
+            "name": "Mixes",
+            "slugs": [
+                "snacks-sweets",
+                "dried-fruit",
+                "mixes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/105222500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.10",
+            "advertisedDisplayValue": "4.10",
+            "effectiveDisplayValue": "4.10",
+            "multiplier": 1,
+            "value": 4.1,
+            "effectiveValue": 4.1,
+            "advertisedValue": 4.1,
+            "unitPrice": {
+                "value": 3.28,
+                "unit": "100g"
+            }
+        },
+        "quantity": "125g",
+        "quantityPrice": "3.28/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:15:40"
+}

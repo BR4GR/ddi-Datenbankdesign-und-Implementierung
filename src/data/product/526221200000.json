@@ -1,0 +1,140 @@
+{
+    "uid": 100048093,
+    "migrosId": "526221200000",
+    "migrosOnlineId": "5226246",
+    "name": "Toilet paper",
+    "brand": "Soft",
+    "brandLine": "Deluxe Ultra",
+    "versioning": "6 layers",
+    "title": "Soft Deluxe Ultra · Toilet paper · 6 layers",
+    "description": "Soft Toilet paper 6 layers",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L09",
+                    "name": "FSC®",
+                    "slug": "fsc",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483057/labels/FSC_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "Soft",
+                "slug": "soft",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252490/brands/soft"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 10,
+                    "productionRatio": 85,
+                    "transportRatio": 6,
+                    "packagingRatio": 9,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 195,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/526221200000"
+        },
+        "otherInformation": {
+            "articleNumber": "526221200000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Special features",
+                    "value": "mit einem Hauch Jojoba- Lotion auf der Oberfläche für ein samtiges Hautgefühl"
+                },
+                {
+                    "code": "Number of sheets/roll",
+                    "value": "120 Sheet"
+                },
+                {
+                    "code": "Environmental information",
+                    "value": "Mix aus Frischzellstoff und Recyclingmaterial, Papier aus nachhaltiger Forstwirtschaft \"FSC\""
+                },
+                {
+                    "code": "Anzahl Lagen",
+                    "value": "6"
+                },
+                {
+                    "code": "Product added value",
+                    "value": "Mit Pflegelotion, Hautverträglichkeit dermatologisch bestätigt"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7612999003691"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a754e3ac175718a7121cf67db6bff8ffb81c3bc6/deluxe-toilettenpapier.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494830",
+            "name": "Hygiene & protection",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hygiene-protection"
+            ]
+        },
+        {
+            "id": "7495256",
+            "name": "Toilet paper & wet wipes",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hygiene-protection",
+                "toilet-paper-wet-wipes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/526221200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.25",
+            "advertisedDisplayValue": "6.25",
+            "effectiveDisplayValue": "6.25",
+            "multiplier": 1,
+            "value": 6.25,
+            "effectiveValue": 6.25,
+            "advertisedValue": 6.25,
+            "unitPrice": {
+                "value": 1.04,
+                "unit": "piece"
+            }
+        },
+        "quantity": "6 Stk.",
+        "quantityPrice": "1.04/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T02:24:53"
+}

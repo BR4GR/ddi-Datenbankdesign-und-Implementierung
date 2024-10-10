@@ -1,0 +1,138 @@
+{
+    "uid": 100052260,
+    "migrosId": "131032000000",
+    "name": "Sommersalat",
+    "title": "Sommersalat",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/131032000000"
+        },
+        "otherInformation": {
+            "articleNumber": "131032000000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Production process",
+                    "value": "Aus der Region"
+                },
+                {
+                    "code": "Saison von",
+                    "value": "Juni"
+                },
+                {
+                    "code": "Number of removable individual units",
+                    "value": "150 g"
+                },
+                {
+                    "code": "Saison bis",
+                    "value": "August"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Beutel"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                },
+                {
+                    "code": "Storage at home",
+                    "value": "keep refrigerated (2-5°C)"
+                },
+                {
+                    "code": "Availability",
+                    "value": "August, June"
+                },
+                {
+                    "code": "Washing instructions",
+                    "value": "washed, ready to consume"
+                },
+                {
+                    "code": "Interesting information",
+                    "value": "washed"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613269474708"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/729f064d2539aeacf1d77b95abe03661b4a913b1/sommersalat.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494759",
+            "name": "Salad",
+            "slugs": [
+                "fruits-vegetables",
+                "salad"
+            ]
+        },
+        {
+            "id": "7494914",
+            "name": "Packaged salads",
+            "slugs": [
+                "fruits-vegetables",
+                "salad",
+                "packaged-salads"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/131032000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.30",
+            "advertisedDisplayValue": "2.30",
+            "effectiveDisplayValue": "2.30",
+            "multiplier": 1,
+            "value": 2.3,
+            "effectiveValue": 2.3,
+            "advertisedValue": 2.3,
+            "unitPrice": {
+                "value": 1.53,
+                "unit": "100g"
+            }
+        },
+        "quantity": "150g",
+        "quantityPrice": "1.53/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T11:38:02"
+}

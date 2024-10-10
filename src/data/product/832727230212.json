@@ -1,0 +1,182 @@
+{
+    "uid": 100157842,
+    "migrosId": "832727230212",
+    "name": "Ladies slipper",
+    "brand": "MIGROS ESSENTIALS",
+    "title": "Ladies slipper",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L07",
+                    "name": "ECO",
+                    "slug": "eco",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483145/labels/Eco-Textilien_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "MIGROS ESSENTIALS",
+                "slug": "migros-essentials",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1708333701/brands/Migros_Essentials_-_RGB_-_DE"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/832727230212"
+        },
+        "otherInformation": {
+            "articleNumber": "832727230212",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Article type",
+                    "value": "Slippers"
+                },
+                {
+                    "code": "Line",
+                    "value": "Fashion"
+                },
+                {
+                    "code": "Multipack",
+                    "value": "2 Paar"
+                },
+                {
+                    "code": "Material",
+                    "value": "Polyamid"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "85 %"
+                },
+                {
+                    "code": "Material 2",
+                    "value": "Elasthan"
+                },
+                {
+                    "code": "Proportion of material 2",
+                    "value": "15 %"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871576016"
+    ],
+    "variants": {
+        "baseProductMigrosId": "832727200000",
+        "mainVariantMigrosId": "832727230212",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "35-38",
+                    "color": "nude"
+                },
+                "migrosId": "832727230212"
+            },
+            {
+                "declinationOptions": {
+                    "size": "35-38",
+                    "color": "black"
+                },
+                "migrosId": "832727230220"
+            },
+            {
+                "declinationOptions": {
+                    "size": "39-42",
+                    "color": "nude"
+                },
+                "migrosId": "832727230312"
+            },
+            {
+                "declinationOptions": {
+                    "size": "39-42",
+                    "color": "black"
+                },
+                "migrosId": "832727230320"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "35-38",
+                "options": [
+                    "35-38",
+                    "39-42"
+                ]
+            },
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "nude",
+                "options": [
+                    "nude",
+                    "black"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/85120bf9fb2a493d747242ac10399b3a345a764a/ladies-slipper.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10553347",
+            "name": "Women",
+            "slugs": [
+                "clothing-accessories",
+                "women"
+            ]
+        },
+        {
+            "id": "10553383",
+            "name": "Socks & tights",
+            "slugs": [
+                "clothing-accessories",
+                "women",
+                "socks-tights"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/832727230212",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "7.95",
+            "advertisedDisplayValue": "7.95",
+            "effectiveDisplayValue": "7.95",
+            "multiplier": 1,
+            "value": 7.95,
+            "effectiveValue": 7.95,
+            "advertisedValue": 7.95
+        },
+        "quantity": "2 Paar",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T16:33:26"
+}

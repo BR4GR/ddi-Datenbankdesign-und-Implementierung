@@ -1,0 +1,184 @@
+{
+    "uid": 100022950,
+    "migrosId": "113631600000",
+    "migrosOnlineId": "124696",
+    "name": "Galette des rois",
+    "title": "Galette des rois",
+    "description": "Galette des rois ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "ingredients": "<strong>wheat</strong> flour, cooked <strong>almonds</strong> 23%, vegetable margarine (palm oil, rapeseed oil, water, emulsifiers: mono- and diglycerides of fatty acids and polyglycerol esters of fatty acids, acid: citric acid), sugar, <strong>butter</strong>, whole <strong>egg</strong> (Barn), <strong>wheat</strong> protein, iodized table salt, bitter <strong>almonds</strong>, <strong>barley</strong> malt flour, flavourings.",
+            "allergenIndication": "May contain: soy, other nuts, sesame.",
+            "allergens": "Eggs and products thereof, Milk and products thereof, Almonds and products thereof, Cereals containing gluten and products thereof",
+            "rating": {
+                "nbReviews": 15,
+                "nbStars": 3.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/113631600000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "1 Portion (50 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "2046 kJ (492 kcal)",
+                            "1024 kJ (246 kcal)",
+                            "12 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "34 g",
+                            "17 g",
+                            "24 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "13 g",
+                            "6.5 g",
+                            "33 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "36 g",
+                            "18 g",
+                            "7 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "14 g",
+                            "6.9 g",
+                            "8 %"
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "3.8 g",
+                            "1.9 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "8.5 g",
+                            "4.3 g",
+                            "9 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.72 g",
+                            "0.36 g",
+                            "6 %"
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    }
+                ]
+            },
+            "portionSentence": "1 Package = 8 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "113631600000",
+            "legalDesignation": "Blätterteiggebäck mit Mandelfüllung",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Warning and other mandatory information",
+                    "value": "CAUTION! This product contains small parts which can be swallowed!"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7616700015492"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/075af88cfb659a7158c3a8b77b95b094663be301/galette-des-rois.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a23311eb958c45fe2b8d16463c1fb9b2b90e6271.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494763",
+            "name": "Fresh bread",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "fresh-bread"
+            ]
+        },
+        {
+            "id": "7494924",
+            "name": "Fresh bread",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "fresh-bread",
+                "fresh-bread"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/113631600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "11.20",
+            "advertisedDisplayValue": "11.20",
+            "effectiveDisplayValue": "11.20",
+            "multiplier": 1,
+            "value": 11.2,
+            "effectiveValue": 11.2,
+            "advertisedValue": 11.2,
+            "unitPrice": {
+                "value": 2.8,
+                "unit": "100g"
+            }
+        },
+        "quantity": "400g",
+        "quantityPrice": "2.80/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T13:10:58"
+}

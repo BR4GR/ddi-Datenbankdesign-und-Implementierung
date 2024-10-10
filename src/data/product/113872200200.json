@@ -1,0 +1,97 @@
+{
+    "uid": 100143746,
+    "migrosId": "113872200200",
+    "name": "Erdbeer Schwarzwald 2er",
+    "brand": "In-store bakery",
+    "title": "Erdbeer Schwarzwald 2er",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "In-store bakery",
+                "slug": "in-store-bakery"
+            },
+            "rating": {
+                "nbReviews": 8,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/113872200200"
+        },
+        "otherInformation": {
+            "articleNumber": "113872200200",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613269024330"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a1697f6c779e87b57f5ef8f8cbbbe45bdab6b75b/erdbeer-schwarzwald-2er.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f5cfb736bb58a64e49b9efc165684692cad9211f.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494765",
+            "name": "Pastries",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "pastries"
+            ]
+        },
+        {
+            "id": "7494932",
+            "name": "Fresh pastries",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "pastries",
+                "fresh-pastries"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/113872200200",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.10",
+            "advertisedDisplayValue": "7.10",
+            "effectiveDisplayValue": "7.10",
+            "multiplier": 1,
+            "value": 7.1,
+            "effectiveValue": 7.1,
+            "advertisedValue": 7.1,
+            "unitPrice": {
+                "value": 2.73,
+                "unit": "100g"
+            }
+        },
+        "quantity": "260g",
+        "quantityPrice": "2.73/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T20:37:34"
+}

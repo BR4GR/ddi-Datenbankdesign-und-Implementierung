@@ -1,0 +1,89 @@
+{
+    "uid": 100174196,
+    "migrosId": "158539700000",
+    "name": "Göral Maiskörner",
+    "brand": "Goeral",
+    "title": "Göral Maiskörner",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Goeral",
+                "slug": "goeral"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/158539700000"
+        },
+        "otherInformation": {
+            "articleNumber": "158539700000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "8696000006528"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/52608fd6438b8f4c3cc3c36b6df832ff1f9cae33/goeral-maiskoerner.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494780",
+            "name": "Snacks & crisps",
+            "slugs": [
+                "snacks-sweets",
+                "snacks-crisps"
+            ]
+        },
+        {
+            "id": "7495007",
+            "name": "Peanuts & salted nuts",
+            "slugs": [
+                "snacks-sweets",
+                "snacks-crisps",
+                "peanuts-salted-nuts"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/158539700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.20",
+            "advertisedDisplayValue": "3.20",
+            "effectiveDisplayValue": "3.20",
+            "multiplier": 1,
+            "value": 3.2,
+            "effectiveValue": 3.2,
+            "advertisedValue": 3.2,
+            "unitPrice": {
+                "value": 0.8,
+                "unit": "100g"
+            }
+        },
+        "quantity": "400g",
+        "quantityPrice": "0.80/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T18:05:55"
+}

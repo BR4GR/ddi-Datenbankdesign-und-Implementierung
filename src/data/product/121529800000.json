@@ -1,0 +1,140 @@
+{
+    "uid": 100003807,
+    "migrosId": "121529800000",
+    "migrosOnlineId": "5277750",
+    "name": "Syrup",
+    "brand": "Morand",
+    "versioning": "Grenadine",
+    "title": "Morand · Syrup · Grenadine",
+    "description": "Morand Syrup Grenadine",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Morand",
+                "slug": "morand"
+            },
+            "ingredients": "Sucre, eau, acidifiant (acide citrique), colorants (anthocyanes, acide carminique), arôme grenadine, (jus de fruits rouges, extrait de vanille), conservateur (sorbate de potassium)",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 2,
+                    "productionRatio": 55,
+                    "transportRatio": 8,
+                    "packagingRatio": 37,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 64,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/121529800000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1470 kJ (346 kcal)",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "usageInformation": {
+            "usage": "As a drink: mixed with still water, sparkling water, milk  or beer Dilution: 1 part syrup to 5-7 parts water (according to your taste) Ingredient for: cocktails (sunrise  example), ice creams, desserts, pastries, etcfor.",
+            "additionalInformation": "Founded in 1889, the Louis Morand distillery quickly began to produce syrup, beginning with its legendary grenadine syrup. Our parents and even our grandparents drank Morand grenadine syrup,, the taste of sharing that brings several generations together. Morand grenadine syrup, with its delicious blend of fruits and vanilla, is available in a 1 liter format.",
+            "preparationInstructions": "Comme boisson : mélangée avec de l?eau plate, gazeuse ou du lait.Dilution: 1 volume de sirop pour 5 à 7 volumes d?eau (selon les goûts).Ingrédient pour: cocktails, glaces, desserts, pâtisseries, etc..."
+        },
+        "otherInformation": {
+            "articleNumber": "121529800000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7610173018264"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/8e2d0b114098d1831625cfe31c41abf9d438ca07/morand-grenadinesirup.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494769",
+            "name": "Soft drinks",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks"
+            ]
+        },
+        {
+            "id": "7494954",
+            "name": "Syrups",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks",
+                "syrups"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/121529800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.95",
+            "advertisedDisplayValue": "5.95",
+            "effectiveDisplayValue": "5.95",
+            "multiplier": 1,
+            "value": 5.95,
+            "effectiveValue": 5.95,
+            "advertisedValue": 5.95,
+            "unitPrice": {
+                "value": 0.6,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "1l",
+        "quantityPrice": "0.60/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "REGION",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679482984/labels/suisse",
+                "description": "Switzerland"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T23:40:38"
+}

@@ -1,0 +1,138 @@
+{
+    "uid": 100040431,
+    "migrosId": "120874300000",
+    "migrosOnlineId": "222971",
+    "name": "Natural mineral water",
+    "brand": "Valais",
+    "versioning": "still",
+    "title": "Valais · Natural mineral water · still",
+    "description": "Valais Natural mineral water still Drink Pure",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Valais",
+                "slug": "valais"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 1,
+                    "productionRatio": 39,
+                    "transportRatio": 11,
+                    "packagingRatio": 49,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 26,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/120874300000"
+        },
+        "usageInformation": {
+            "additionalInformation": "Suitable for a low-sodium diet."
+        },
+        "otherInformation": {
+            "articleNumber": "120874300000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Production process",
+                    "value": "Aus der Region"
+                },
+                {
+                    "code": "Number of removable individual units",
+                    "value": "6"
+                },
+                {
+                    "code": "Carbonated",
+                    "value": "No"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Bottle"
+                },
+                {
+                    "code": "Type of soft drink",
+                    "value": "Mineralwasser"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7617500193618"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/cb6156db2f05925a17f37f99cdf2d3509d21b9d9/valais-ohne-co2.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/672a7d9d81b7d2654d168fb4476c453d72088d48.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494770",
+            "name": "Water",
+            "slugs": [
+                "drinks-coffee-tea",
+                "water"
+            ]
+        },
+        {
+            "id": "7494955",
+            "name": "Still water",
+            "slugs": [
+                "drinks-coffee-tea",
+                "water",
+                "still-water"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/120874300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.60",
+            "advertisedDisplayValue": "5.60",
+            "effectiveDisplayValue": "5.60",
+            "multiplier": 1,
+            "value": 5.6,
+            "effectiveValue": 5.6,
+            "advertisedValue": 5.6,
+            "unitPrice": {
+                "value": 0.19,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "6 x 500ml",
+        "quantityPrice": "0.19/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T01:03:38"
+}

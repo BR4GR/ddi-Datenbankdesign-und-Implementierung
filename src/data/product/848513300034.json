@@ -1,0 +1,215 @@
+{
+    "uid": 100092886,
+    "migrosId": "848513300034",
+    "name": "Wallet Maria",
+    "brand": "MIGROS ESSENTIALS",
+    "title": "Wallet Maria",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "MIGROS ESSENTIALS",
+                "slug": "migros-essentials",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1708333701/brands/Migros_Essentials_-_RGB_-_DE"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 13,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/848513300034"
+        },
+        "otherInformation": {
+            "articleNumber": "848513300034",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "RFID",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Zielgruppe",
+                    "value": "Damen"
+                },
+                {
+                    "code": "Category/theme",
+                    "value": "Portmonnaie"
+                },
+                {
+                    "code": "Look",
+                    "value": "uni"
+                },
+                {
+                    "code": "Gender",
+                    "value": "Damen"
+                },
+                {
+                    "code": "Material",
+                    "value": "PU-Leder (synthetisches Leder)"
+                },
+                {
+                    "code": "Coin compartment",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Length",
+                    "value": "11.5 cm"
+                },
+                {
+                    "code": "Height",
+                    "value": "10 cm"
+                },
+                {
+                    "code": "Compartment for bills",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Kartenfächer",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Closure",
+                    "value": "Reissverschluss"
+                },
+                {
+                    "code": "Real leather",
+                    "value": "No"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613434565187"
+    ],
+    "variants": {
+        "baseProductMigrosId": "848513300000",
+        "mainVariantMigrosId": "848513300020",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "black"
+                },
+                "migrosId": "848513300020"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "bordeaux"
+                },
+                "migrosId": "848513300034"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "rose 1"
+                },
+                "migrosId": "848513300038"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "navy"
+                },
+                "migrosId": "848513300043"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "taupe"
+                },
+                "migrosId": "848513300078"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "bordeaux",
+                "options": [
+                    "black",
+                    "bordeaux",
+                    "rose 1",
+                    "navy",
+                    "taupe"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "one Size",
+                "options": [
+                    "one Size"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/719bc2252dde05bf019498e4c0c8844763e6512b/wallet-maria.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/14c1da22b009a48f2909176f39aea0ff1b34c69e.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/097e93dc2e85a6c7824b6783738873267a8836a2.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10552745",
+            "name": "Accessories",
+            "slugs": [
+                "clothing-accessories",
+                "accessories"
+            ]
+        },
+        {
+            "id": "10552771",
+            "name": "Wallets",
+            "slugs": [
+                "clothing-accessories",
+                "accessories",
+                "wallets"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/848513300034",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "19.95",
+            "advertisedDisplayValue": "19.95",
+            "effectiveDisplayValue": "19.95",
+            "multiplier": 1,
+            "value": 19.95,
+            "effectiveValue": 19.95,
+            "advertisedValue": 19.95
+        },
+        "quantity": "1 Stk.",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T23:11:22"
+}

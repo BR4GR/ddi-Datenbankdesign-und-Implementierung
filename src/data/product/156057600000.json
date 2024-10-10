@@ -1,0 +1,94 @@
+{
+    "uid": 100051501,
+    "migrosId": "156057600000",
+    "name": "Polli Bruschetta Pomodoro e aglio",
+    "brand": "Polli",
+    "title": "Polli Bruschetta Pomodoro e aglio",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Polli",
+                "slug": "polli",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077076/brands/Polli_F.lli_Polli_S.p.A._Logo"
+            },
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/156057600000"
+        },
+        "otherInformation": {
+            "articleNumber": "156057600000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "8001310120329"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/6f656467729b7c171b03109aab2b9beb4852d3dc/polli-bruschetta-pomodoro-e-aglio.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494780",
+            "name": "Snacks & crisps",
+            "slugs": [
+                "snacks-sweets",
+                "snacks-crisps"
+            ]
+        },
+        {
+            "id": "7495004",
+            "name": "Olives & antipasti",
+            "slugs": [
+                "snacks-sweets",
+                "snacks-crisps",
+                "olives-antipasti"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/156057600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.20",
+            "advertisedDisplayValue": "1.20",
+            "effectiveDisplayValue": "1.20",
+            "multiplier": 1,
+            "value": 1.2,
+            "effectiveValue": 1.2,
+            "advertisedValue": 1.2,
+            "unitPrice": {
+                "value": 1.33,
+                "unit": "100g"
+            }
+        },
+        "quantity": "90g",
+        "quantityPrice": "1.33/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:42:49"
+}

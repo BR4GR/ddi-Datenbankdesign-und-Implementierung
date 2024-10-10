@@ -1,0 +1,114 @@
+{
+    "uid": 100017244,
+    "migrosId": "153226400000",
+    "migrosOnlineId": "5078137",
+    "name": "pesto rosso",
+    "brand": "Agnesi",
+    "title": "Agnesi · pesto rosso",
+    "description": "Agnesi pesto rosso ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Agnesi",
+                "slug": "agnesi",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1638170825/brands/Agnesi_Colussi_S.p.A._Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/153226400000"
+        },
+        "usageInformation": {
+            "additionalInformation": "Gluten free"
+        },
+        "otherInformation": {
+            "articleNumber": "153226400000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Type of sauce/dip",
+                    "value": "Pesto"
+                },
+                {
+                    "code": "Intended use of sauce",
+                    "value": "Teigwaren"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Glas"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "8001200047590"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/19b3b6758d88a57b9aa519bfbe9be9a05a9545db/agnesi-pesto-rosso.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/58c27630589fbf4014dea35f71b3bf3680cbe8d2.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494776",
+            "name": "Spices & sauces",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces"
+            ]
+        },
+        {
+            "id": "12671420",
+            "name": "Pasta sauces & pesto",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces",
+                "pasta-sauces-pesto"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/153226400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.55",
+            "advertisedDisplayValue": "5.55",
+            "effectiveDisplayValue": "5.55",
+            "multiplier": 1,
+            "value": 5.55,
+            "effectiveValue": 5.55,
+            "advertisedValue": 5.55,
+            "unitPrice": {
+                "value": 1.5,
+                "unit": "100g"
+            }
+        },
+        "quantity": "2 x 185g",
+        "quantityPrice": "1.50/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:48:43"
+}

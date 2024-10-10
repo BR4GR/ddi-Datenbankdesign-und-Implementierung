@@ -1,0 +1,192 @@
+{
+    "uid": 100000197,
+    "migrosId": "155131200000",
+    "migrosOnlineId": "5244903",
+    "name": "Tuna",
+    "brand": "Rio Mare",
+    "versioning": "in olive oil",
+    "title": "Rio Mare · Tuna · in olive oil",
+    "description": "Rio Mare Tuna in olive oil",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L06",
+                    "name": "DOLPHIN SAFE",
+                    "slug": "dolphin-safe",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483391/labels/Dolphin-Safe_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "Rio Mare",
+                "slug": "rio-mare",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077112/brands/Rio_Mare_Bolton_Swiss_SA_Logo"
+            },
+            "ingredients": "TUNA**, olive oil, salt.**Euthynnus (Katsuwonus) pelamis",
+            "allergens": "Fish and their derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 49,
+                    "productionRatio": 97,
+                    "transportRatio": 1,
+                    "packagingRatio": 2,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 25,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/155131200000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "~ 410 kJ (~ 97 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "~ 0.5 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "~ 0.2 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "~ 0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "~ 0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "~ 23 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "~ 1.3 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "155131200000",
+            "legalDesignation": "Tuna in olive oil",
+            "identificationMark": "IT5 CE",
+            "distributorName": "Bolton Swiss SA",
+            "distributorStreetAndNumber": "Via Lisano 3, 6900 Lugano-Massagno"
+        }
+    },
+    "gtins": [
+        "8004030381681"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/58b50915d834538f92a6263ab9718cea19994ed2/riomare-thunfisch-in-olivenoel.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494777",
+            "name": "Canned food & convenience food",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "canned-food-convenience-food"
+            ]
+        },
+        {
+            "id": "7494990",
+            "name": "Tinned fish",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "canned-food-convenience-food",
+                "tinned-fish"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/155131200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "8.–",
+            "advertisedDisplayValue": "8.–",
+            "effectiveDisplayValue": "8.–",
+            "multiplier": 1,
+            "value": 8,
+            "effectiveValue": 8,
+            "advertisedValue": 8,
+            "unitPrice": {
+                "value": 3.85,
+                "unit": "100g"
+            }
+        },
+        "quantity": "2 x 104g",
+        "quantityPrice": "3.85/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-15T22:06:54"
+}

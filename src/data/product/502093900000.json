@@ -1,0 +1,95 @@
+{
+    "uid": 100132326,
+    "migrosId": "502093900000",
+    "name": "Express Bagno",
+    "brand": "Smac",
+    "title": "Express Bagno",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Smac",
+                "slug": "smac"
+            },
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/502093900000"
+        },
+        "otherInformation": {
+            "articleNumber": "502093900000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "8003650026002",
+        "8003650002518",
+        "8003650018410"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/81d35e958648e76bef8b69d908025bc2423cf4a9/express-bagno.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494740",
+            "name": "Laundry & cleaning",
+            "slugs": [
+                "laundry-cleaning"
+            ]
+        },
+        {
+            "id": "7494809",
+            "name": "Household & floor cleaners",
+            "slugs": [
+                "laundry-cleaning",
+                "household-floor-cleaners"
+            ]
+        },
+        {
+            "id": "7495149",
+            "name": "Bleaches & disinfectants",
+            "slugs": [
+                "laundry-cleaning",
+                "household-floor-cleaners",
+                "bleaches-disinfectants"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/502093900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.15",
+            "advertisedDisplayValue": "4.15",
+            "effectiveDisplayValue": "4.15",
+            "multiplier": 1,
+            "value": 4.15,
+            "effectiveValue": 4.15,
+            "advertisedValue": 4.15,
+            "unitPrice": {
+                "value": 0.64,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "650ml",
+        "quantityPrice": "0.64/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T08:38:45"
+}

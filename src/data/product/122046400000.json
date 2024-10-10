@@ -1,0 +1,212 @@
+{
+    "uid": 100025733,
+    "migrosId": "122046400000",
+    "migrosOnlineId": "5116638",
+    "name": "Fruity drink",
+    "brand": "Oasis",
+    "versioning": "Peach",
+    "title": "Oasis · Fruity drink · Peach",
+    "description": "Oasis Fruity drink Peach",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Oasis",
+                "slug": "oasis"
+            },
+            "ingredients": "water, sugar, acid: citric acid, peach juice from concentrate 0.1%, flavourings, acidity regulator: sodium citrates, tea extract 0.04%, colour: E 150d, antioxidant: ascorbic acid, sweeteners: aspartame, acesulfame K and saccharin.",
+            "allergens": "Sulphur dioxide and sulphites",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 32,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/122046400000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 ml",
+                    "1 Glas (250 ml)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "94 kJ (22 kcal)",
+                            "234 kJ (55 kcal)",
+                            "3 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            "0 %"
+                        ]
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            "0 %"
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "5.3 g",
+                            "13.3 g",
+                            "5 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "5.3 g",
+                            "13.2 g",
+                            "15 %"
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            "0 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.05 g",
+                            "0.13 g",
+                            "2 %"
+                        ]
+                    }
+                ]
+            },
+            "portionSentence": "1 Bottle = 1 serving",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "122046400000",
+            "legalDesignation": "Limonade mit Pfirsichgeschmack, pasteurisiert. Mit Zucker und Süssungsmitteln.",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Once opened, keep refigerated and consume quickly."
+                },
+                {
+                    "code": "Production information",
+                    "value": "pasteurized"
+                },
+                {
+                    "code": "Warning and other mandatory information",
+                    "value": "Contains a source of phenylalanine."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Production process",
+                    "value": "Mit Süssungsmitteln"
+                },
+                {
+                    "code": "Number of removable individual units",
+                    "value": "6"
+                },
+                {
+                    "code": "Carbonated",
+                    "value": "No"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Bottle"
+                },
+                {
+                    "code": "From concentrate",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Type of soft drink",
+                    "value": "Fruchtsaft"
+                },
+                {
+                    "code": "Flavor",
+                    "value": "Pfirsich"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "8435185966506"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/37e98a49e96502e9268ee12a2a114b02883cfa07/oasis-pfirsich.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494769",
+            "name": "Soft drinks",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks"
+            ]
+        },
+        {
+            "id": "7494951",
+            "name": "Soft drinks",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks",
+                "soft-drinks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/122046400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.50",
+            "advertisedDisplayValue": "7.50",
+            "effectiveDisplayValue": "7.50",
+            "multiplier": 1,
+            "value": 7.5,
+            "effectiveValue": 7.5,
+            "advertisedValue": 7.5,
+            "unitPrice": {
+                "value": 0.5,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "6 x 250ml",
+        "quantityPrice": "0.50/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:21:28"
+}

@@ -1,0 +1,117 @@
+{
+    "uid": 100024730,
+    "migrosId": "513001600000",
+    "migrosOnlineId": "129380",
+    "name": "Body lotion",
+    "brand": "Nivea",
+    "versioning": "Almond oil & vitamin E",
+    "title": "Nivea · Body lotion · Almond oil & vitamin E",
+    "description": "Nivea Body lotion Almond oil & vitamin E",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Nivea",
+                "slug": "nivea",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1656506258/brands/Nivea_Beiersdorf_AG_Logo"
+            },
+            "rating": {
+                "nbReviews": 37,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/513001600000"
+        },
+        "usageInformation": {
+            "usage": "Skin tolerance dermatologically proven",
+            "additionalInformation": "NIVEA Body Milk, the particularly creamy and rich care product, provides long-lasting suppleness for dry skin"
+        },
+        "otherInformation": {
+            "articleNumber": "513001600000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Lotionen"
+                },
+                {
+                    "code": "Requirements/uses",
+                    "value": "Pflege"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4006000083315",
+        "4005900626653",
+        "4005808701780",
+        "4005808623860",
+        "4005808701650",
+        "4005900669599",
+        "4005808236794"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d0210ffbb540a70855d0659f94e10eedeefb24a1/nivea-body-milk-400ml.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494826",
+            "name": "Body care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care"
+            ]
+        },
+        {
+            "id": "7495242",
+            "name": "Treatments & creams",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care",
+                "treatments-creams"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/513001600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.95",
+            "advertisedDisplayValue": "6.95",
+            "effectiveDisplayValue": "6.95",
+            "multiplier": 1,
+            "value": 6.95,
+            "effectiveValue": 6.95,
+            "advertisedValue": 6.95,
+            "unitPrice": {
+                "value": 1.74,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "400ml",
+        "quantityPrice": "1.74/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T15:40:33"
+}

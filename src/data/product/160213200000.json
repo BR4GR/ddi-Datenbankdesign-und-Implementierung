@@ -1,0 +1,118 @@
+{
+    "uid": 100126885,
+    "migrosId": "160213200000",
+    "name": "Gasparini Banane & Chocolat",
+    "brand": "Gasparini",
+    "title": "Gasparini Banane & Chocolat",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Gasparini",
+                "slug": "gasparini"
+            },
+            "rating": {
+                "nbReviews": 6,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/160213200000"
+        },
+        "otherInformation": {
+            "articleNumber": "160213200000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Number of removable individual units",
+                    "value": "4"
+                },
+                {
+                    "code": "Type of dessert",
+                    "value": "﻿Ice cream lollipop"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Cardboard box"
+                },
+                {
+                    "code": "Type of ice cream",
+                    "value": "Bananenglace, Schokoladeglace"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7640136981632"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/5e27b5f13cdd6552f98190618f3f62711df969f8/gasparini-banane-chocolat.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494738",
+            "name": "Frozen food",
+            "slugs": [
+                "frozen-food"
+            ]
+        },
+        {
+            "id": "7494801",
+            "name": "Ice cream & desserts",
+            "slugs": [
+                "frozen-food",
+                "ice-cream-desserts"
+            ]
+        },
+        {
+            "id": "7495112",
+            "name": "Cones & ice lollies",
+            "slugs": [
+                "frozen-food",
+                "ice-cream-desserts",
+                "cones-ice-lollies"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/160213200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "9.50",
+            "advertisedDisplayValue": "9.50",
+            "effectiveDisplayValue": "9.50",
+            "multiplier": 1,
+            "value": 9.5,
+            "effectiveValue": 9.5,
+            "advertisedValue": 9.5,
+            "unitPrice": {
+                "value": 2.97,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "4 x 80ml",
+        "quantityPrice": "2.97/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483530/labels/frozen",
+                "description": "frozen"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-18T09:07:43"
+}

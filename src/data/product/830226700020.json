@@ -1,0 +1,188 @@
+{
+    "uid": 100158112,
+    "migrosId": "830226700020",
+    "name": "Ladies knee-highs",
+    "brand": "MIGROS ESSENTIALS",
+    "title": "Ladies knee-highs",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L59",
+                    "name": "OEKO-TEX® MADE IN GREEN",
+                    "slug": "oeko-tex-made-in-green"
+                },
+                {
+                    "id": "L70",
+                    "name": "GRS",
+                    "slug": "grs",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1707834844/labels/GRS-1"
+                }
+            ],
+            "brand": {
+                "name": "MIGROS ESSENTIALS",
+                "slug": "migros-essentials",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1708333701/brands/Migros_Essentials_-_RGB_-_DE"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/830226700020"
+        },
+        "otherInformation": {
+            "articleNumber": "830226700020",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Article type",
+                    "value": "Kniestrümpfe"
+                },
+                {
+                    "code": "Multipack",
+                    "value": "2 Paar"
+                },
+                {
+                    "code": "Material",
+                    "value": "Polyamid (recycled content)"
+                },
+                {
+                    "code": "Denier",
+                    "value": "70 DEN"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "93 %"
+                },
+                {
+                    "code": "Material 2",
+                    "value": "Elasthan"
+                },
+                {
+                    "code": "Proportion of material 2",
+                    "value": "7 %"
+                },
+                {
+                    "code": "GRS label certified by",
+                    "value": "IDFL"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871617634"
+    ],
+    "variants": {
+        "baseProductMigrosId": "830226700000",
+        "mainVariantMigrosId": "830226700014",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "coffee",
+                    "size": "one size"
+                },
+                "migrosId": "830226700014"
+            },
+            {
+                "declinationOptions": {
+                    "color": "black",
+                    "size": "one size"
+                },
+                "migrosId": "830226700020"
+            },
+            {
+                "declinationOptions": {
+                    "color": "anthracite",
+                    "size": "one size"
+                },
+                "migrosId": "830226700084"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "one size",
+                "options": [
+                    "one size"
+                ]
+            },
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "black",
+                "options": [
+                    "coffee",
+                    "black",
+                    "anthracite"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/5287fe8d60f2c59e666a68b43930bcaaaf3943ba/ladies-knee-highs.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/75978bc028c9bc169cbdb9f4dcf04c9f5db61438.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/e73d3f607ef8ce308378dc3145d5bddec7772b81.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10553347",
+            "name": "Women",
+            "slugs": [
+                "clothing-accessories",
+                "women"
+            ]
+        },
+        {
+            "id": "10553383",
+            "name": "Socks & tights",
+            "slugs": [
+                "clothing-accessories",
+                "women",
+                "socks-tights"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/830226700020",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "7.95",
+            "advertisedDisplayValue": "7.95",
+            "effectiveDisplayValue": "7.95",
+            "multiplier": 1,
+            "value": 7.95,
+            "effectiveValue": 7.95,
+            "advertisedValue": 7.95
+        },
+        "quantity": "2 Paar",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-20T22:17:21"
+}

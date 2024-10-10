@@ -1,0 +1,119 @@
+{
+    "uid": 100123014,
+    "migrosId": "121335600000",
+    "migrosOnlineId": "10485829",
+    "name": "Lager beer",
+    "brand": "Corona",
+    "brandLine": "Cero",
+    "versioning": "Alcohol free",
+    "title": "Corona Cero · Lager beer · Alcohol free",
+    "description": "Corona Lager beer Alcohol free",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Corona",
+                "slug": "corona",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1642402911/brands/Corona_Auslaendische_Biere_AG_Logo"
+            },
+            "ingredients": "Water, BARLEY MALT, Maize, Sugar, Hop, Natural Flavours",
+            "allergens": "Barley and barley products, Cereal grains containing gluten and its derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 27,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/121335600000"
+        },
+        "usageInformation": {
+            "conservation": "Best served ice cold and with a wedge of a lime"
+        },
+        "otherInformation": {
+            "articleNumber": "121335600000",
+            "distributorName": "AB InBev Switzerland GmbH",
+            "distributorStreetAndNumber": "Suurstoffi 22, 6343 Risch-Rotkreuz",
+            "remarks": [
+                {
+                    "code": "Consumer storage instructions",
+                    "value": "Store in a cool and dark place. Protect from direct sunlight."
+                },
+                {
+                    "code": "Percentage of alcohol by volume [%]",
+                    "value": "0"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "5410228292784",
+        "5410228291886"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/43b215fc0e115c1d87eecb8bfe06abefae090ad4/corona-alkoholfrei-00.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ecedb91c7d3382f8cffc62eb9ab4d52d3a77b739.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494737",
+            "name": "Wine, beer & spirits",
+            "slugs": [
+                "wine-beer-spirits"
+            ]
+        },
+        {
+            "id": "10583761",
+            "name": "Alcohol free drinks",
+            "slugs": [
+                "wine-beer-spirits",
+                "alcohol-free-drinks"
+            ]
+        },
+        {
+            "id": "10614101",
+            "name": "Beers & ciders",
+            "slugs": [
+                "wine-beer-spirits",
+                "alcohol-free-drinks",
+                "beers-ciders"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/121335600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "10.50",
+            "advertisedDisplayValue": "10.50",
+            "effectiveDisplayValue": "10.50",
+            "multiplier": 1,
+            "value": 10.5,
+            "effectiveValue": 10.5,
+            "advertisedValue": 10.5,
+            "unitPrice": {
+                "value": 0.53,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "6 x 330ml",
+        "quantityPrice": "0.53/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:21:39"
+}

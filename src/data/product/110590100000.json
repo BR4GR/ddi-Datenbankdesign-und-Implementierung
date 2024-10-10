@@ -1,0 +1,93 @@
+{
+    "uid": 100124232,
+    "migrosId": "110590100000",
+    "migrosOnlineId": "11739338",
+    "name": "Genoa biscuit",
+    "brand": "LU",
+    "brandLine": "Barquette",
+    "versioning": "with Strawberry filling",
+    "title": "LU Barquette · Genoa biscuit · with Strawberry filling",
+    "description": "LU Genoa biscuit with Strawberry filling",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "LU",
+                "slug": "lu",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076903/brands/LU_Mondelez_Suisse_Sarl_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/110590100000"
+        },
+        "otherInformation": {
+            "articleNumber": "110590100000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613312410387"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/e883fb8b8a45b0199b56ad56eee9d20c945e08a4/lu-barquette-erdbeere.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494781",
+            "name": "Biscuits",
+            "slugs": [
+                "snacks-sweets",
+                "biscuits"
+            ]
+        },
+        {
+            "id": "7495012",
+            "name": "Fruit biscuits",
+            "slugs": [
+                "snacks-sweets",
+                "biscuits",
+                "fruit-biscuits"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/110590100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "7.–",
+            "advertisedDisplayValue": "7.–",
+            "effectiveDisplayValue": "7.–",
+            "multiplier": 1,
+            "value": 7,
+            "effectiveValue": 7,
+            "advertisedValue": 7
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:06:26"
+}

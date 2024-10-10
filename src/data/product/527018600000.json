@@ -1,0 +1,151 @@
+{
+    "uid": 100048993,
+    "migrosId": "527018600000",
+    "migrosOnlineId": "4976502",
+    "name": "Family shampoo",
+    "brand": "I am",
+    "brandLine": "Natural Cosmetics",
+    "versioning": "Normal hair",
+    "title": "I am Natural Cosmetics · Family shampoo · Normal hair",
+    "description": "I am Family shampoo Normal hair",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "I am",
+                "slug": "i-am",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076768/brands/Iam_Logo"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 44,
+                    "productionRatio": 97,
+                    "transportRatio": 1,
+                    "packagingRatio": 2,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 15,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/527018600000",
+            "cosmeticInformation": {
+                "ingredients": "Aqua, Sodium Coco-Sulfate, Coco-Glucoside, Sodium Chloride, Malus Domestica Fruit Water*, Chamomilla Recutita Flower Extract*, Citric Acid, Glyceryl Oleate, Glycerin, Hydrogenated Palm Glycerides Citrate, Tocopherol, Sodium Benzoate, Parfum**, Benzyl Benzoate, Benzyl Alcohol"
+            }
+        },
+        "usageInformation": {
+            "additionalInformation": "Mild care for young and old"
+        },
+        "otherInformation": {
+            "articleNumber": "527018600000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Shampoo"
+                },
+                {
+                    "code": "Suitable for",
+                    "value": "Normales Haar"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7630028605081"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/a2592c4ba2e909ed4bc61169e656831219e556d9/i-am-natural-cosmetics-familienshampoo.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494825",
+            "name": "Hair care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hair-care"
+            ]
+        },
+        {
+            "id": "7495232",
+            "name": "Shampoos",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hair-care",
+                "shampoos"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/527018600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "8.95",
+            "advertisedDisplayValue": "8.95",
+            "effectiveDisplayValue": "8.95",
+            "multiplier": 1,
+            "value": 8.95,
+            "effectiveValue": 8.95,
+            "advertisedValue": 8.95
+        },
+        "promotionPrice": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.30",
+            "advertisedDisplayValue": "6.30",
+            "effectiveDisplayValue": "6.30",
+            "multiplier": 1,
+            "value": 6.3,
+            "effectiveValue": 6.3,
+            "advertisedValue": 6.3,
+            "unitPrice": {
+                "value": 1.26,
+                "unit": "100ml"
+            }
+        },
+        "priceInsteadOfLabel": "was",
+        "quantity": "500ml",
+        "quantityPrice": "1.26/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "badges": [
+            {
+                "type": "PERCENTAGE_PROMOTION",
+                "description": "30%"
+            },
+            {
+                "type": "MINIMUM_PIECES",
+                "description": "2 or more"
+            }
+        ],
+        "promotionDateRange": {
+            "startDate": "2024-09-17",
+            "endDate": "2024-09-30"
+        },
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:19:15"
+}

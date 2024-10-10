@@ -1,0 +1,90 @@
+{
+    "uid": 100168075,
+    "migrosId": "107140600000",
+    "name": "Rast Sommer Traum",
+    "brand": "Kaffee Rast",
+    "title": "Rast Sommer Traum",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Kaffee Rast",
+                "slug": "kaffee-rast",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1714392565/brands/Rast_Kaffee_JR0"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/107140600000"
+        },
+        "otherInformation": {
+            "articleNumber": "107140600000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7640126839882"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d95c11e88b338650d43c231ef727213a4da94cec/rast-sommer-traum.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494772",
+            "name": "Coffee",
+            "slugs": [
+                "drinks-coffee-tea",
+                "coffee"
+            ]
+        },
+        {
+            "id": "7494966",
+            "name": "Coffee beans",
+            "slugs": [
+                "drinks-coffee-tea",
+                "coffee",
+                "coffee-beans"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/107140600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "13.50",
+            "advertisedDisplayValue": "13.50",
+            "effectiveDisplayValue": "13.50",
+            "multiplier": 1,
+            "value": 13.5,
+            "effectiveValue": 13.5,
+            "advertisedValue": 13.5,
+            "unitPrice": {
+                "value": 2.7,
+                "unit": "100g"
+            }
+        },
+        "quantity": "500g",
+        "quantityPrice": "2.70/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:13:51"
+}

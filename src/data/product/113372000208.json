@@ -1,0 +1,93 @@
+{
+    "uid": 100164283,
+    "migrosId": "113372000208",
+    "name": "Schwarzwälder Torte",
+    "brand": "In-store bakery",
+    "title": "Schwarzwälder Torte",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "In-store bakery",
+                "slug": "in-store-bakery"
+            },
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/113372000208"
+        },
+        "otherInformation": {
+            "articleNumber": "113372000208",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7610200436528"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f54280b9064f7233e1186829138f124842ecb6a2/schwarzwaelder-torte.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494765",
+            "name": "Pastries",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "pastries"
+            ]
+        },
+        {
+            "id": "7494934",
+            "name": "Cakes",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "pastries",
+                "cakes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/113372000208",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "23.–",
+            "advertisedDisplayValue": "23.–",
+            "effectiveDisplayValue": "23.–",
+            "multiplier": 1,
+            "value": 23,
+            "effectiveValue": 23,
+            "advertisedValue": 23,
+            "unitPrice": {
+                "value": 3.07,
+                "unit": "100g"
+            }
+        },
+        "quantity": "750g",
+        "quantityPrice": "3.07/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T18:32:18"
+}

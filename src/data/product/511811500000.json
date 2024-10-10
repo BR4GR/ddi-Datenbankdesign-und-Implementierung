@@ -1,0 +1,99 @@
+{
+    "uid": 100138379,
+    "migrosId": "511811500000",
+    "name": "Paranix Shampoo + Kamm",
+    "brand": "Paranix",
+    "title": "Paranix Shampoo + Kamm",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Paranix",
+                "slug": "paranix"
+            },
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 3.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/511811500000"
+        },
+        "otherInformation": {
+            "articleNumber": "511811500000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Suitable for",
+                    "value": "Haut, Haare, Nägel"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "5400951003825"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/75ea971d535fecc42e90201fb4acde9d4eddc548/paranix-shampoo-kamm.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494831",
+            "name": "Drugstore",
+            "slugs": [
+                "drugstore-cosmetics",
+                "drugstore"
+            ]
+        },
+        {
+            "id": "7495264",
+            "name": "Medicine cabinet & plaster",
+            "slugs": [
+                "drugstore-cosmetics",
+                "drugstore",
+                "medicine-cabinet-plaster"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/511811500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "16.95",
+            "advertisedDisplayValue": "16.95",
+            "effectiveDisplayValue": "16.95",
+            "multiplier": 1,
+            "value": 16.95,
+            "effectiveValue": 16.95,
+            "advertisedValue": 16.95,
+            "unitPrice": {
+                "value": 8.48,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "200ml",
+        "quantityPrice": "8.48/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T16:28:03"
+}

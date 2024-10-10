@@ -1,0 +1,201 @@
+{
+    "uid": 100006104,
+    "migrosId": "120851100000",
+    "migrosOnlineId": "56746",
+    "name": "Natural mineral water",
+    "brand": "M-Classic",
+    "brandLine": "Aquella",
+    "versioning": "Still",
+    "title": "M-Classic Aquella · Natural mineral water · Still",
+    "description": "M-Classic Natural mineral water Still From the Valais Alps",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Classic",
+                "slug": "m-classic",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252457/brands/m-classic"
+            },
+            "ingredients": "natural mineral water.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 1,
+                    "productionRatio": 39,
+                    "transportRatio": 11,
+                    "packagingRatio": 49,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 30,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/120851100000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "1 l"
+                ],
+                "rows": [
+                    {
+                        "label": "Sodium",
+                        "values": [
+                            "5 mg",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Potassium",
+                        "values": [
+                            "2 mg",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Calcium",
+                        "values": [
+                            "288 mg",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Magnesium",
+                        "values": [
+                            "70 mg",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Silicon",
+                        "values": [
+                            "2.5 mg",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Bicarbonate (or hydrogen carbonate)",
+                        "values": [
+                            "245 mg",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "nitrate",
+                        "values": [
+                            "1.5 mg",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "sulfate",
+                        "values": [
+                            "788 mg",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "usageInformation": {
+            "additionalInformation": "Suitable for low-sodium diets."
+        },
+        "otherInformation": {
+            "articleNumber": "120851100000",
+            "legalDesignation": "Natürliches Mineralwasser ohne Kohlensäure.",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Other additional information",
+                    "value": "suitable for a low in sodium diet;Contains calcium;Contains magnesium"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7617027005302",
+        "8822"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/2645a9c43af876f6d060cf3efed76686cc3fc8a4/m-classic-aquella-rot.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/c9fecff37b21b84bde783e7c34f06cda13297730.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494770",
+            "name": "Water",
+            "slugs": [
+                "drinks-coffee-tea",
+                "water"
+            ]
+        },
+        {
+            "id": "7494955",
+            "name": "Still water",
+            "slugs": [
+                "drinks-coffee-tea",
+                "water",
+                "still-water"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/120851100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.65",
+            "advertisedDisplayValue": "3.65",
+            "effectiveDisplayValue": "3.65",
+            "multiplier": 1,
+            "value": 3.65,
+            "effectiveValue": 3.65,
+            "advertisedValue": 3.65,
+            "unitPrice": {
+                "value": 0.04,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "6 x 1.5l",
+        "quantityPrice": "0.04/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:23:17"
+}

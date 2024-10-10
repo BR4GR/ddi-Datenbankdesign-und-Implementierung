@@ -1,0 +1,188 @@
+{
+    "uid": 100094955,
+    "migrosId": "848312100081",
+    "name": "Backpack",
+    "brand": "MIGROS TRAVEL & CO.",
+    "title": "Backpack",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "MIGROS TRAVEL & CO.",
+                "slug": "migros-travel-co",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1689862767/brands/Migros_Travel_und_Co"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 5,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/848312100081"
+        },
+        "otherInformation": {
+            "articleNumber": "848312100081",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Category/theme",
+                    "value": "Rucksäcke"
+                },
+                {
+                    "code": "Main material",
+                    "value": "Recycling Polyester"
+                },
+                {
+                    "code": "Volume",
+                    "value": "15 l"
+                },
+                {
+                    "code": "Length",
+                    "value": "31 cm"
+                },
+                {
+                    "code": "Height",
+                    "value": "43 cm"
+                },
+                {
+                    "code": "Depth",
+                    "value": "12 cm"
+                },
+                {
+                    "code": "Weight",
+                    "value": "0.28 kg"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "Laptopfach gepolstert"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613434679341"
+    ],
+    "variants": {
+        "baseProductMigrosId": "848312100000",
+        "mainVariantMigrosId": "848312100020",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "black",
+                    "size": "one Size"
+                },
+                "migrosId": "848312100020"
+            },
+            {
+                "declinationOptions": {
+                    "color": "navy",
+                    "size": "one Size"
+                },
+                "migrosId": "848312100043"
+            },
+            {
+                "declinationOptions": {
+                    "color": "light grey",
+                    "size": "one Size"
+                },
+                "migrosId": "848312100081"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "light grey",
+                "options": [
+                    "black",
+                    "navy",
+                    "light grey"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "one Size",
+                "options": [
+                    "one Size"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/c76997cc86e32f54481f5134b9509786d7f4f3f1/backpack.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3487fac4211faf9e9d42d011433880a88209c3b2.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d27c7248fd0774c8dee27ef0ff524d81fe5ac7e5.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3dda56203cdd5cd6a3d1af40c0ea95ff9e8ee9bb.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10555197",
+            "name": "Travel",
+            "slugs": [
+                "clothing-accessories",
+                "travel"
+            ]
+        },
+        {
+            "id": "10555228",
+            "name": "Backpacks & bags",
+            "slugs": [
+                "clothing-accessories",
+                "travel",
+                "backpacks-bags"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/848312100081",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "19.95",
+            "advertisedDisplayValue": "19.95",
+            "effectiveDisplayValue": "19.95",
+            "multiplier": 1,
+            "value": 19.95,
+            "effectiveValue": 19.95,
+            "advertisedValue": 19.95,
+            "unitPrice": {
+                "value": 19.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "19.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T14:04:28"
+}

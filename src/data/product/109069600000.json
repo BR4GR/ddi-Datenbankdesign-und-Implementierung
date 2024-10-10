@@ -1,0 +1,98 @@
+{
+    "uid": 100168149,
+    "migrosId": "109069600000",
+    "migrosOnlineId": "12667467",
+    "name": "Snack for cat",
+    "brand": "Dreamies",
+    "versioning": "poultry",
+    "title": "Dreamies · Snack for cat · poultry",
+    "description": "Dreamies Snack for cat poultry",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Dreamies",
+                "slug": "dreamies",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1656506250/brands/Dreamies_Mars_Schweiz_AG_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 5,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/109069600000"
+        },
+        "otherInformation": {
+            "articleNumber": "109069600000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "5998749144633"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/9aa539b1ab5725d68033cffa791d45ee69719c4b/dreamies-shake-ups-multivitamins.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494739",
+            "name": "Pets",
+            "slugs": [
+                "pets"
+            ]
+        },
+        {
+            "id": "7494802",
+            "name": "Cats",
+            "slugs": [
+                "pets",
+                "cats"
+            ]
+        },
+        {
+            "id": "7495120",
+            "name": "Confectionery",
+            "slugs": [
+                "pets",
+                "cats",
+                "confectionery"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/109069600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.95",
+            "advertisedDisplayValue": "2.95",
+            "effectiveDisplayValue": "2.95",
+            "multiplier": 1,
+            "value": 2.95,
+            "effectiveValue": 2.95,
+            "advertisedValue": 2.95,
+            "unitPrice": {
+                "value": 5.4,
+                "unit": "100g"
+            }
+        },
+        "quantity": "55g",
+        "quantityPrice": "5.40/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T00:54:50"
+}

@@ -1,0 +1,92 @@
+{
+    "uid": 100015392,
+    "migrosId": "104233000000",
+    "migrosOnlineId": "89755",
+    "name": "Cereals made from whole wheat and rice, with cinnamon",
+    "brand": "Cini-Minis",
+    "title": "Cini-Minis · Cereals made from whole wheat and rice, with cinnamon",
+    "description": "Cini-Minis Cereals made from whole wheat and rice, with cinnamon ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Cini-Minis",
+                "slug": "cini-minis"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/104233000000"
+        },
+        "otherInformation": {
+            "articleNumber": "104233000000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613039414866"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/099ccfff1376562a6a54c0ad1eb944d228043cdb/nestle-cini-minis.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494767",
+            "name": "Cereals & muesli",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "cereals-muesli"
+            ]
+        },
+        {
+            "id": "7494942",
+            "name": "Cereals",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "cereals-muesli",
+                "cereals"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/104233000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.40",
+            "advertisedDisplayValue": "7.40",
+            "effectiveDisplayValue": "7.40",
+            "multiplier": 1,
+            "value": 7.4,
+            "effectiveValue": 7.4,
+            "advertisedValue": 7.4,
+            "unitPrice": {
+                "value": 0.74,
+                "unit": "100g"
+            }
+        },
+        "quantity": "2 x 500g",
+        "quantityPrice": "0.74/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-10-03T17:11:28"
+}

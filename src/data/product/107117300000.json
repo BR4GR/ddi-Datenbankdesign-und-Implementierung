@@ -1,0 +1,94 @@
+{
+    "uid": 100050523,
+    "migrosId": "107117300000",
+    "name": "Orzo Bimbo",
+    "brand": "Orzo Bimbo",
+    "title": "Orzo Bimbo",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Orzo Bimbo",
+                "slug": "orzo-bimbo"
+            },
+            "rating": {
+                "nbReviews": 10,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/107117300000"
+        },
+        "otherInformation": {
+            "articleNumber": "107117300000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "8000050482209",
+        "3175681250673"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/b50c68109a5f45668bed76b0aa132ebfff9477f3/orzo-bimbo.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494772",
+            "name": "Coffee",
+            "slugs": [
+                "drinks-coffee-tea",
+                "coffee"
+            ]
+        },
+        {
+            "id": "7494968",
+            "name": "Instant coffee",
+            "slugs": [
+                "drinks-coffee-tea",
+                "coffee",
+                "instant-coffee"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/107117300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.50",
+            "advertisedDisplayValue": "3.50",
+            "effectiveDisplayValue": "3.50",
+            "multiplier": 1,
+            "value": 3.5,
+            "effectiveValue": 3.5,
+            "advertisedValue": 3.5,
+            "unitPrice": {
+                "value": 2.92,
+                "unit": "100g"
+            }
+        },
+        "quantity": "120g",
+        "quantityPrice": "2.92/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T23:42:16"
+}

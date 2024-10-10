@@ -1,0 +1,151 @@
+{
+    "uid": 100088251,
+    "migrosId": "847942223810",
+    "name": "Insole form",
+    "brand": "Central Square",
+    "title": "Insole form",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Central Square",
+                "slug": "central-square",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076642/brands/CentralSquare_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 15,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/847942223810"
+        },
+        "otherInformation": {
+            "articleNumber": "847942223810",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Function/property",
+                    "value": "Atmungsaktiv, Sport, stossdämpfend"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613432486460"
+    ],
+    "variants": {
+        "baseProductMigrosId": "847942200000",
+        "mainVariantMigrosId": "847942223810",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "white",
+                    "size": "38/39"
+                },
+                "migrosId": "847942223810"
+            },
+            {
+                "declinationOptions": {
+                    "color": "white",
+                    "size": "40/41"
+                },
+                "migrosId": "847942224010"
+            },
+            {
+                "declinationOptions": {
+                    "color": "white",
+                    "size": "42/43"
+                },
+                "migrosId": "847942224210"
+            },
+            {
+                "declinationOptions": {
+                    "color": "white",
+                    "size": "44/45"
+                },
+                "migrosId": "847942224410"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "white",
+                "options": [
+                    "white"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "38/39",
+                "options": [
+                    "38/39",
+                    "40/41",
+                    "42/43",
+                    "44/45"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/7dd5d7251e2ef2c48ec4557b1ce701a1c9150639/insole-form.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10553494",
+            "name": "Shoes",
+            "slugs": [
+                "clothing-accessories",
+                "shoes"
+            ]
+        },
+        {
+            "id": "10553514",
+            "name": "Insoles",
+            "slugs": [
+                "clothing-accessories",
+                "shoes",
+                "insoles"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/847942223810",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "9.95",
+            "advertisedDisplayValue": "9.95",
+            "effectiveDisplayValue": "9.95",
+            "multiplier": 1,
+            "value": 9.95,
+            "effectiveValue": 9.95,
+            "advertisedValue": 9.95
+        },
+        "quantity": "1 Paar",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T15:04:07"
+}

@@ -1,0 +1,125 @@
+{
+    "uid": 100058379,
+    "migrosId": "500431000000",
+    "name": "Gallseife",
+    "brand": "Total",
+    "title": "Gallseife",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Total",
+                "slug": "total",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1716291026/brands/Total_188"
+            },
+            "rating": {
+                "nbReviews": 37,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/500431000000"
+        },
+        "usageInformation": {
+            "chemicalSafetyInstructions": [
+                "Darf nicht in die Hände von Kindern gelangen."
+            ]
+        },
+        "otherInformation": {
+            "articleNumber": "500431000000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Form",
+                    "value": "flüssig"
+                },
+                {
+                    "code": "Special features",
+                    "value": "Intensive und gezielte Fleckentfernung"
+                },
+                {
+                    "code": "Suitable for",
+                    "value": "Bleichbare Flecken, Farbiges, Fetthaltigen Schmutz, Vorwaschbehandlung, weisses und helles, Textilien"
+                },
+                {
+                    "code": "Environmental information",
+                    "value": "Biologisch gut abbaubar (OECD-Test 302B, ergänzt mit CO2-Analytik)"
+                },
+                {
+                    "code": "Hazard warnings",
+                    "value": "Darf nicht in die Hände von Kindern gelangen."
+                },
+                {
+                    "code": "Not suitable for",
+                    "value": "Daunen, Kaschmir, Seide, Wolle"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4008455350912"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/19bbecee465ecf04757df8cf96cc99d5f9951026/gallseife.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494740",
+            "name": "Laundry & cleaning",
+            "slugs": [
+                "laundry-cleaning"
+            ]
+        },
+        {
+            "id": "7494806",
+            "name": "Laundry & textile care",
+            "slugs": [
+                "laundry-cleaning",
+                "laundry-textile-care"
+            ]
+        },
+        {
+            "id": "7495137",
+            "name": "Stain removers",
+            "slugs": [
+                "laundry-cleaning",
+                "laundry-textile-care",
+                "stain-removers"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/500431000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.50",
+            "advertisedDisplayValue": "2.50",
+            "effectiveDisplayValue": "2.50",
+            "multiplier": 1,
+            "value": 2.5,
+            "effectiveValue": 2.5,
+            "advertisedValue": 2.5,
+            "unitPrice": {
+                "value": 2.5,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100g",
+        "quantityPrice": "2.50/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T08:16:07"
+}

@@ -1,0 +1,90 @@
+{
+    "uid": 100144378,
+    "migrosId": "104127600000",
+    "name": "Garofalo Pappardelle Vollkorn",
+    "brand": "Garofalo",
+    "title": "Garofalo Pappardelle Vollkorn",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Garofalo",
+                "slug": "garofalo",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076709/brands/Garofalo_Pastificio_Lucio_Garofalo_SpA_Logo"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/104127600000"
+        },
+        "otherInformation": {
+            "articleNumber": "104127600000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "8000139910722"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/c8215b37c95b5aa6636055df913569f8aacad19b/garofalo-pappardelle-vollkorn.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494775",
+            "name": "Pasta, rice, semolina & grain",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "pasta-rice-semolina-grain"
+            ]
+        },
+        {
+            "id": "7494976",
+            "name": "Pasta",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "pasta-rice-semolina-grain",
+                "pasta"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/104127600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.25",
+            "advertisedDisplayValue": "4.25",
+            "effectiveDisplayValue": "4.25",
+            "multiplier": 1,
+            "value": 4.25,
+            "effectiveValue": 4.25,
+            "advertisedValue": 4.25,
+            "unitPrice": {
+                "value": 0.85,
+                "unit": "100g"
+            }
+        },
+        "quantity": "500g",
+        "quantityPrice": "0.85/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:56:15"
+}

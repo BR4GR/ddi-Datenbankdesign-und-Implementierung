@@ -1,0 +1,108 @@
+{
+    "uid": 100059167,
+    "migrosId": "514221100000",
+    "migrosOnlineId": "10093186",
+    "name": "Mouthwash",
+    "brand": "Listerine",
+    "versioning": "Total Care",
+    "title": "Listerine · Mouthwash · Total Care",
+    "description": "Listerine Mouthwash Total Care",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Listerine",
+                "slug": "listerine",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076901/brands/Listerine_Johnson_Johnson_Consumer_Health_C_Logo"
+            },
+            "rating": {
+                "nbReviews": 56,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/514221100000"
+        },
+        "otherInformation": {
+            "articleNumber": "514221100000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Mundspülungen"
+                },
+                {
+                    "code": "Suitable for",
+                    "value": "Empfindliches Zahnfleisch, Kariesschutz"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "3574661734514",
+        "3574661617596"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/a23447ed18fa664cbd2bc7087ea98336b55b179c/listerine-tc-zahnfleisch.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494829",
+            "name": "Dental care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "dental-care"
+            ]
+        },
+        {
+            "id": "7495253",
+            "name": "Mouthwash",
+            "slugs": [
+                "drugstore-cosmetics",
+                "dental-care",
+                "mouthwash"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/514221100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.50",
+            "advertisedDisplayValue": "6.50",
+            "effectiveDisplayValue": "6.50",
+            "multiplier": 1,
+            "value": 6.5,
+            "effectiveValue": 6.5,
+            "advertisedValue": 6.5,
+            "unitPrice": {
+                "value": 1.3,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "500ml",
+        "quantityPrice": "1.30/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T10:15:33"
+}

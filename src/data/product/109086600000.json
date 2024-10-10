@@ -1,0 +1,100 @@
+{
+    "uid": 100050628,
+    "migrosId": "109086600000",
+    "migrosOnlineId": "7844351",
+    "name": "sliced in sauce",
+    "brand": "Sheba",
+    "brandLine": "Fresh & Fine",
+    "versioning": "chicken & beef",
+    "title": "Sheba Fresh & Fine · sliced in sauce · chicken & beef",
+    "description": "Sheba sliced in sauce chicken & beef",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Sheba",
+                "slug": "sheba",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077145/brands/Sheba_Mars_Schweiz_AG_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 30,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/109086600000"
+        },
+        "otherInformation": {
+            "articleNumber": "109086600000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "4770608259747",
+        "4770608253608"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/5ae63662117437dea0db007fdf0c36712a1474a4/sheba-freshfine-sauce-komposition.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494739",
+            "name": "Pets",
+            "slugs": [
+                "pets"
+            ]
+        },
+        {
+            "id": "7494802",
+            "name": "Cats",
+            "slugs": [
+                "pets",
+                "cats"
+            ]
+        },
+        {
+            "id": "7495118",
+            "name": "Wet foods",
+            "slugs": [
+                "pets",
+                "cats",
+                "wet-foods"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/109086600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.95",
+            "advertisedDisplayValue": "4.95",
+            "effectiveDisplayValue": "4.95",
+            "multiplier": 1,
+            "value": 4.95,
+            "effectiveValue": 4.95,
+            "advertisedValue": 4.95,
+            "unitPrice": {
+                "value": 1.65,
+                "unit": "100g"
+            }
+        },
+        "quantity": "6 x 50g",
+        "quantityPrice": "1.65/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T00:30:12"
+}

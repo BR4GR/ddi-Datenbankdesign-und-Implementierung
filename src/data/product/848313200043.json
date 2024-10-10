@@ -1,0 +1,180 @@
+{
+    "uid": 100094964,
+    "migrosId": "848313200043",
+    "name": "Backpack",
+    "brand": "MIGROS TRAVEL & CO.",
+    "title": "Backpack",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "MIGROS TRAVEL & CO.",
+                "slug": "migros-travel-co",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1689862767/brands/Migros_Travel_und_Co"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/848313200043"
+        },
+        "otherInformation": {
+            "articleNumber": "848313200043",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Height",
+                    "value": "43 cm"
+                },
+                {
+                    "code": "Depth",
+                    "value": "15 cm"
+                },
+                {
+                    "code": "Length",
+                    "value": "26 cm"
+                },
+                {
+                    "code": "Weight",
+                    "value": "0.36 kg"
+                },
+                {
+                    "code": "Volume",
+                    "value": "16 l"
+                },
+                {
+                    "code": "Category/theme",
+                    "value": "Rucksäcke"
+                },
+                {
+                    "code": "Main material",
+                    "value": "Recycling Polyester"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "faltbar, interne Trennfächer/Organizer"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613434680545"
+    ],
+    "variants": {
+        "baseProductMigrosId": "848313200000",
+        "mainVariantMigrosId": "848313200020",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "black"
+                },
+                "migrosId": "848313200020"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "navy"
+                },
+                "migrosId": "848313200043"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "khaki"
+                },
+                "migrosId": "848313200064"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "navy",
+                "options": [
+                    "black",
+                    "navy",
+                    "khaki"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "one Size",
+                "options": [
+                    "one Size"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d8989637e9fd32fbdc8970ed45c9291aa62db5ff/backpack.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/b4f8292290c7d5d0aa838800463096651d30ac5f.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3c68a81674d9be8eaee7809a78c66cdf3b267de6.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10555197",
+            "name": "Travel",
+            "slugs": [
+                "clothing-accessories",
+                "travel"
+            ]
+        },
+        {
+            "id": "10555228",
+            "name": "Backpacks & bags",
+            "slugs": [
+                "clothing-accessories",
+                "travel",
+                "backpacks-bags"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/848313200043",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "39.95",
+            "advertisedDisplayValue": "39.95",
+            "effectiveDisplayValue": "39.95",
+            "multiplier": 1,
+            "value": 39.95,
+            "effectiveValue": 39.95,
+            "advertisedValue": 39.95,
+            "unitPrice": {
+                "value": 39.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "39.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T14:10:30"
+}

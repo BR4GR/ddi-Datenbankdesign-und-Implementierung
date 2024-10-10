@@ -1,0 +1,131 @@
+{
+    "uid": 100031024,
+    "migrosId": "107004200000",
+    "migrosOnlineId": "5164089",
+    "name": "Organic herbal tea",
+    "brand": "Cupper",
+    "versioning": "Licorice & Mint",
+    "title": "Cupper · Organic herbal tea · Licorice & Mint",
+    "description": "Cupper Organic herbal tea Licorice & Mint",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Cupper",
+                "slug": "cupper",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1656506249/brands/Cupper_Allos_Hof-Manufaktur_GmbH_Logo"
+            },
+            "nutritionalCharacteristics": [
+                "Organic",
+                "Vegan"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                },
+                {
+                    "name": "Vegan"
+                }
+            ],
+            "ingredients": "Süßholzwurzel* (70%), Grüne Minze* (30%).; *aus ökologischem Anbau.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 18,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/107004200000"
+        },
+        "otherInformation": {
+            "articleNumber": "107004200000",
+            "legalDesignation": "Bio-Kräutertee mit Süßholz & grüner Minze",
+            "distributorName": "Allos Hof-Manufaktur GmbH",
+            "distributorStreetAndNumber": "Postfach 107527, 28075, Bremen, Deutschland",
+            "remarks": [
+                {
+                    "code": "Legal Notice",
+                    "value": "Enthält Süssholz - bei hohem Blutdruck sollte ein übermässiger Verzehr dieses Erzeugnisses vermieden werden"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegan, Vegetarian"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "5021991939044"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3f66215a6c19bb5ea2c2b5445ffc7c868fb2f2b6/cupper-bio-suessholz-minze.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494773",
+            "name": "Tea",
+            "slugs": [
+                "drinks-coffee-tea",
+                "tea"
+            ]
+        },
+        {
+            "id": "7494973",
+            "name": "Herbal infusions with mint",
+            "slugs": [
+                "drinks-coffee-tea",
+                "tea",
+                "herbal-infusions-with-mint"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/107004200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.95",
+            "advertisedDisplayValue": "5.95",
+            "effectiveDisplayValue": "5.95",
+            "multiplier": 1,
+            "value": 5.95,
+            "effectiveValue": 5.95,
+            "advertisedValue": 5.95,
+            "unitPrice": {
+                "value": 19.8,
+                "unit": "100g"
+            }
+        },
+        "quantity": "30g",
+        "quantityPrice": "19.80/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T01:30:42"
+}

@@ -1,0 +1,113 @@
+{
+    "uid": 100011166,
+    "migrosId": "122042100000",
+    "migrosOnlineId": "70157",
+    "name": "Jus de fruits mélangés",
+    "brand": "Sarasay",
+    "brandLine": "Smoothie",
+    "versioning": "Mango-Pineapple",
+    "title": "Sarasay Smoothie · Jus de fruits mélangés · Mango-Pineapple",
+    "description": "Sarasay Jus de fruits mélangés Mango-Pineapple",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Sarasay",
+                "slug": "sarasay",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252481/brands/sarasay"
+            },
+            "nutritionalCharacteristics": [
+                "Organic"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                }
+            ],
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/122042100000"
+        },
+        "usageInformation": {
+            "usage": "Agiter avant d'ouvrir. Une fois ouvert, à consommer dans les 3 jours à une température inférieur à 5°C.",
+            "additionalInformation": "A partir de concentré et de pulpe. Sans sucre ajouté. Pasteurisé."
+        },
+        "otherInformation": {
+            "articleNumber": "122042100000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7616800812083"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/e2443a398493df389a661df976e92b0397628cff/biotta-bio-aprikosen-nektar.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494771",
+            "name": "Fruit & vegetable juices",
+            "slugs": [
+                "drinks-coffee-tea",
+                "fruit-vegetable-juices"
+            ]
+        },
+        {
+            "id": "7494962",
+            "name": "Smoothies",
+            "slugs": [
+                "drinks-coffee-tea",
+                "fruit-vegetable-juices",
+                "smoothies"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/122042100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.10",
+            "advertisedDisplayValue": "3.10",
+            "effectiveDisplayValue": "3.10",
+            "multiplier": 1,
+            "value": 3.1,
+            "effectiveValue": 3.1,
+            "advertisedValue": 3.1,
+            "unitPrice": {
+                "value": 1.24,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "250ml",
+        "quantityPrice": "1.24/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T18:46:06"
+}

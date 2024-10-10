@@ -1,0 +1,139 @@
+{
+    "uid": 100031717,
+    "migrosId": "513213000000",
+    "migrosOnlineId": "7007707",
+    "name": "Baby shampoo",
+    "brand": "Milette",
+    "brandLine": "Baby Care Naturals",
+    "title": "Milette Baby Care Naturals · Baby shampoo",
+    "description": "Milette Baby shampoo ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L55",
+                    "name": "Vegan Flower",
+                    "slug": "vegan-flower",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483262/labels/Vegan_flower"
+                }
+            ],
+            "brand": {
+                "name": "Milette",
+                "slug": "milette",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076999/brands/Milette_Logo"
+            },
+            "nutritionalCharacteristics": [
+                "Vegan"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegan"
+                }
+            ],
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 30,
+                    "productionRatio": 95,
+                    "transportRatio": 2,
+                    "packagingRatio": 3,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 10,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/513213000000"
+        },
+        "otherInformation": {
+            "articleNumber": "513213000000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegan"
+                },
+                {
+                    "code": "Contents (volume)",
+                    "value": "240 ml"
+                },
+                {
+                    "code": "Category/theme",
+                    "value": "Naturkosmetik, Shampoo"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312361641"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f1105ff6a80d58d2b89f1e61fb79f77c9be97788/naturals-shampoo-calendula.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "7494821",
+            "name": "Hygiene & care",
+            "slugs": [
+                "baby-kids",
+                "hygiene-care"
+            ]
+        },
+        {
+            "id": "7495209",
+            "name": "Skin & hair care",
+            "slugs": [
+                "baby-kids",
+                "hygiene-care",
+                "skin-hair-care"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/513213000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.95",
+            "advertisedDisplayValue": "5.95",
+            "effectiveDisplayValue": "5.95",
+            "multiplier": 1,
+            "value": 5.95,
+            "effectiveValue": 5.95,
+            "advertisedValue": 5.95,
+            "unitPrice": {
+                "value": 2.48,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "240ml",
+        "quantityPrice": "2.48/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:00:12"
+}

@@ -1,0 +1,96 @@
+{
+    "uid": 100161146,
+    "migrosId": "120244800000",
+    "migrosOnlineId": "12344831",
+    "name": "Energy drink",
+    "brand": "Tenzing",
+    "versioning": "Pineapple & Passionfruit",
+    "title": "Tenzing · Energy drink · Pineapple & Passionfruit",
+    "description": "Tenzing Energy drink Pineapple & Passionfruit",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Tenzing",
+                "slug": "tenzing"
+            },
+            "rating": {
+                "nbReviews": 8,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/120244800000"
+        },
+        "otherInformation": {
+            "articleNumber": "120244800000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "5060444850093"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/284c9d2acdafe7a1b2a2c4a48a2201d3eca5619d/tenzing-pineapple-passion.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494769",
+            "name": "Soft drinks",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks"
+            ]
+        },
+        {
+            "id": "7494953",
+            "name": "Energy & sport drinks",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks",
+                "energy-sport-drinks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/120244800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.20",
+            "advertisedDisplayValue": "2.20",
+            "effectiveDisplayValue": "2.20",
+            "multiplier": 1,
+            "value": 2.2,
+            "effectiveValue": 2.2,
+            "advertisedValue": 2.2,
+            "unitPrice": {
+                "value": 0.67,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "330ml",
+        "quantityPrice": "0.67/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T18:32:09"
+}

@@ -1,0 +1,121 @@
+{
+    "uid": 100008240,
+    "migrosId": "121325000000",
+    "migrosOnlineId": "62756",
+    "name": "alcohol-free beer",
+    "brand": "Eichhof",
+    "versioning": "0.0%",
+    "title": "Eichhof · alcohol-free beer · 0.0%",
+    "description": "Eichhof alcohol-free beer 0.0%",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Eichhof",
+                "slug": "eichhof"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "alcoholContent": 0.0,
+            "rating": {
+                "nbReviews": 44,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/121325000000"
+        },
+        "usageInformation": {
+            "additionalInformation": "The finely spiced aroma, mild bitterness and freshness make Eichhof non-alcoholic a harmonious whole. Because our beer is a pleasure even without alcohol."
+        },
+        "otherInformation": {
+            "articleNumber": "121325000000",
+            "legalDesignation": "Alcohol-free beer",
+            "distributorName": "Heineken Switzerland AG",
+            "distributorStreetAndNumber": "Obergrundstrasse 110, 6002 Luzern",
+            "remarks": [
+                {
+                    "code": "Warnings / mandatory notes",
+                    "value": "16+."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610096010734",
+        "7610096011014",
+        "7610096670259"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/6a3eef228eefce03aa7d8f959e0ff65ddf1eac80/eichhof-alkoholfrei.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f5985bf28d40a79bac598d09858476a9e17bef40.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494737",
+            "name": "Wine, beer & spirits",
+            "slugs": [
+                "wine-beer-spirits"
+            ]
+        },
+        {
+            "id": "10583761",
+            "name": "Alcohol free drinks",
+            "slugs": [
+                "wine-beer-spirits",
+                "alcohol-free-drinks"
+            ]
+        },
+        {
+            "id": "10614101",
+            "name": "Beers & ciders",
+            "slugs": [
+                "wine-beer-spirits",
+                "alcohol-free-drinks",
+                "beers-ciders"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/121325000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "11.95",
+            "advertisedDisplayValue": "11.95",
+            "effectiveDisplayValue": "11.95",
+            "multiplier": 1,
+            "value": 11.95,
+            "effectiveValue": 11.95,
+            "advertisedValue": 11.95,
+            "unitPrice": {
+                "value": 0.36,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "10 x 330ml",
+        "quantityPrice": "0.36/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "REGION",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483279/labels/lucerne",
+                "description": "Luzern"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T15:22:21"
+}

@@ -1,0 +1,162 @@
+{
+    "uid": 100172042,
+    "migrosId": "848711824420",
+    "name": "rain boot unisex",
+    "brand": "MIGROS ESSENTIALS",
+    "title": "rain boot unisex",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "MIGROS ESSENTIALS",
+                "slug": "migros-essentials",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1708333701/brands/Migros_Essentials_-_RGB_-_DE"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/848711824420"
+        },
+        "otherInformation": {
+            "articleNumber": "848711824420",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Category/theme",
+                    "value": "Regenbekleidung"
+                },
+                {
+                    "code": "Look",
+                    "value": "uni"
+                },
+                {
+                    "code": "Gender",
+                    "value": "Unisex"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871778892"
+    ],
+    "variants": {
+        "baseProductMigrosId": "848711800000",
+        "mainVariantMigrosId": "848711823620",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "black",
+                    "size": "36/37"
+                },
+                "migrosId": "848711823620"
+            },
+            {
+                "declinationOptions": {
+                    "color": "black",
+                    "size": "38/39"
+                },
+                "migrosId": "848711823820"
+            },
+            {
+                "declinationOptions": {
+                    "color": "black",
+                    "size": "40/41"
+                },
+                "migrosId": "848711824020"
+            },
+            {
+                "declinationOptions": {
+                    "color": "black",
+                    "size": "42/43"
+                },
+                "migrosId": "848711824220"
+            },
+            {
+                "declinationOptions": {
+                    "color": "black",
+                    "size": "44/45"
+                },
+                "migrosId": "848711824420"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "black",
+                "options": [
+                    "black"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "44/45",
+                "options": [
+                    "36/37",
+                    "38/39",
+                    "40/41",
+                    "42/43",
+                    "44/45"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/825ee9024db687069782be1cae8cbbf51279ca47/rain-boot-unisex.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10553494",
+            "name": "Shoes",
+            "slugs": [
+                "clothing-accessories",
+                "shoes"
+            ]
+        },
+        {
+            "id": "10553500",
+            "name": "Casual shoes",
+            "slugs": [
+                "clothing-accessories",
+                "shoes",
+                "casual-shoes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/848711824420",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "29.95",
+            "advertisedDisplayValue": "29.95",
+            "effectiveDisplayValue": "29.95",
+            "multiplier": 1,
+            "value": 29.95,
+            "effectiveValue": 29.95,
+            "advertisedValue": 29.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T17:00:10"
+}

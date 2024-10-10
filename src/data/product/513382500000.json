@@ -1,0 +1,152 @@
+{
+    "uid": 100042615,
+    "migrosId": "513382500000",
+    "migrosOnlineId": "6780391",
+    "name": "Hand cream",
+    "brand": "good mood",
+    "versioning": "Vanilla & Lavender",
+    "title": "good mood · Hand cream · Vanilla & Lavender",
+    "description": "good mood Hand cream Vanilla & Lavender For you with <3",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L55",
+                    "name": "Vegan Flower",
+                    "slug": "vegan-flower",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483262/labels/Vegan_flower"
+                }
+            ],
+            "brand": {
+                "name": "good mood",
+                "slug": "good-mood",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076723/brands/GoodMood_Logo"
+            },
+            "nutritionalCharacteristics": [
+                "Vegan"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegan"
+                }
+            ],
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 44,
+                    "productionRatio": 97,
+                    "transportRatio": 1,
+                    "packagingRatio": 2,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 13,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/513382500000",
+            "cosmeticInformation": {
+                "ingredients": "Aqua, Caprylic/Capric Triglyceride, Glycerin, Helianthus Annuus Hybrid Oil, Cetearyl Alcohol, Aloe Barbadensis Leaf Juice, Glyceryl Stearate, Glyceryl Stearate Citrate, Orbignya Oleifera Seed Oil, Stearic Acid, Olus Oil, Tocopheryl Acetate, Xanthan Gum, Citric Acid, Sodium Cetearyl Sulfate, Parfum, Linalool, Citronellol, Benzyl Alcohol, Sodium Benzoate"
+            }
+        },
+        "usageInformation": {
+            "additionalInformation": "Applying your cream becomes a moment of pure well-being. This vegan hand cream with the scent of vanilla flower and lavender deeply moisturises your skin - pH neutral for the skin - skin tolerance confirmed by dermatological tests"
+        },
+        "otherInformation": {
+            "articleNumber": "513382500000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegan"
+                },
+                {
+                    "code": "Product type",
+                    "value": "Handcreme"
+                },
+                {
+                    "code": "Requirements/uses",
+                    "value": "Feuchtigkeit"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7630028628936"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/5941bc9903eaf6ecf51e83123ebc9ebce4868ceb/good-mood-hc-vanilav.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494827",
+            "name": "Hand & foot care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hand-foot-care"
+            ]
+        },
+        {
+            "id": "7495245",
+            "name": "Hand care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hand-foot-care",
+                "hand-care"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/513382500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.50",
+            "advertisedDisplayValue": "4.50",
+            "effectiveDisplayValue": "4.50",
+            "multiplier": 1,
+            "value": 4.5,
+            "effectiveValue": 4.5,
+            "advertisedValue": 4.5,
+            "unitPrice": {
+                "value": 6,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "75ml",
+        "quantityPrice": "6.–/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "REGION",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679482984/labels/suisse",
+                "description": "Switzerland"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T20:27:48"
+}

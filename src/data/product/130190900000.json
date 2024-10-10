@@ -1,0 +1,84 @@
+{
+    "uid": 100064912,
+    "migrosId": "130190900000",
+    "name": "Plin Royal Raclette",
+    "title": "Plin Royal Raclette",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/130190900000"
+        },
+        "otherInformation": {
+            "articleNumber": "130190900000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613404237205"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/b974b0162fa301b48e5971525fd9a0c968683485/plin-royal-raclette.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494754",
+            "name": "Fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food"
+            ]
+        },
+        {
+            "id": "7494886",
+            "name": "Fresh pasta & lasagnes",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food",
+                "fresh-pasta-lasagnes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/130190900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "8.35",
+            "advertisedDisplayValue": "8.35",
+            "effectiveDisplayValue": "8.35",
+            "multiplier": 1,
+            "value": 8.35,
+            "effectiveValue": 8.35,
+            "advertisedValue": 8.35,
+            "unitPrice": {
+                "value": 1.67,
+                "unit": "100g"
+            }
+        },
+        "quantity": "2 x 250g",
+        "quantityPrice": "1.67/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:15:32"
+}

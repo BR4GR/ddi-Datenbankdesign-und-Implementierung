@@ -1,0 +1,124 @@
+{
+    "uid": 100139513,
+    "migrosId": "107026800000",
+    "migrosOnlineId": "11234106",
+    "name": "Infusion",
+    "brand": "Tetley",
+    "versioning": "Rooibos Vanilla",
+    "title": "Tetley · Infusion · Rooibos Vanilla",
+    "description": "Tetley Infusion Rooibos Vanilla",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L71",
+                    "name": "Rainforest Alliance",
+                    "slug": "rainforest-alliance",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483537/labels/Rainforest_Alliance_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "Tetley",
+                "slug": "tetley",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077203/brands/Tetley_Tata_Consumer_Products_GB_Ltd_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 17,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/107026800000"
+        },
+        "otherInformation": {
+            "articleNumber": "107026800000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Tea type",
+                    "value": "Rooibos"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Box"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "add hot water"
+                },
+                {
+                    "code": "Number of removable individual units",
+                    "value": "20"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "5014328000364"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ce984ba2ce0f5957bd4d9ce99675c905491f243f/tetley-rooibos-vanilla.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494773",
+            "name": "Tea",
+            "slugs": [
+                "drinks-coffee-tea",
+                "tea"
+            ]
+        },
+        {
+            "id": "7494972",
+            "name": "Rooibos, chai & spiced tea",
+            "slugs": [
+                "drinks-coffee-tea",
+                "tea",
+                "rooibos-chai-spiced-tea"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/107026800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.65",
+            "advertisedDisplayValue": "3.65",
+            "effectiveDisplayValue": "3.65",
+            "multiplier": 1,
+            "value": 3.65,
+            "effectiveValue": 3.65,
+            "advertisedValue": 3.65,
+            "unitPrice": {
+                "value": 10.1,
+                "unit": "100g"
+            }
+        },
+        "quantity": "36g",
+        "quantityPrice": "10.10/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:15:53"
+}

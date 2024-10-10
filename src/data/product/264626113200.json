@@ -1,0 +1,97 @@
+{
+    "uid": 100146112,
+    "migrosId": "264626113200",
+    "name": "Pitahaya gelb",
+    "brand": "Migros Fresca",
+    "title": "Pitahaya gelb",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Fresca",
+                "slug": "migros-fresca",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076970/brands/Migros_Fresca_Logo"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "airRating": 2,
+                    "co2CarKmEquivalent": 51,
+                    "airProductionRatio": 2,
+                    "airTransportRatio": 96,
+                    "airPackagingRatio": 0,
+                    "productionRatio": 60,
+                    "transportRatio": 27,
+                    "packagingRatio": 12,
+                    "image": "https://image.migros.ch/original/1cba405980356b434f67ea7106c8bc25d0d6723d.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/1cba405980356b434f67ea7106c8bc25d0d6723d.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg",
+                    "lowerCo2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/264626113200"
+        },
+        "otherInformation": {
+            "articleNumber": "264626113200",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7623186075070",
+        "7610632954171"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/e55f8941cd6cc336dc5e586a1163bd190852e617/pitahaya-gelb.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494756",
+            "name": "Fruits",
+            "slugs": [
+                "fruits-vegetables",
+                "fruits"
+            ]
+        },
+        {
+            "id": "7494899",
+            "name": "Exotic fruits",
+            "slugs": [
+                "fruits-vegetables",
+                "fruits",
+                "exotic-fruits"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/264626113200",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-17T02:23:15"
+}

@@ -1,0 +1,95 @@
+{
+    "uid": 100053241,
+    "migrosId": "511841900000",
+    "name": "Salus Multivitamin",
+    "brand": "Salus",
+    "title": "Salus Multivitamin",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Salus",
+                "slug": "salus",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077143/brands/Salus_Salus_Schweiz_AG_Logo"
+            },
+            "rating": {
+                "nbReviews": 6,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/511841900000"
+        },
+        "otherInformation": {
+            "articleNumber": "511841900000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "4004148352362",
+        "4004148342899"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/dea6d8deab7d4f32844a2ddc6edea67c5e72ce87/salus-multivitamin.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494831",
+            "name": "Drugstore",
+            "slugs": [
+                "drugstore-cosmetics",
+                "drugstore"
+            ]
+        },
+        {
+            "id": "7495261",
+            "name": "Food supplements",
+            "slugs": [
+                "drugstore-cosmetics",
+                "drugstore",
+                "food-supplements"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/511841900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "20.95",
+            "advertisedDisplayValue": "20.95",
+            "effectiveDisplayValue": "20.95",
+            "multiplier": 1,
+            "value": 20.95,
+            "effectiveValue": 20.95,
+            "advertisedValue": 20.95,
+            "unitPrice": {
+                "value": 8.38,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "250ml",
+        "quantityPrice": "8.38/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:57:05"
+}

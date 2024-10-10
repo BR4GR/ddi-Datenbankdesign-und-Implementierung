@@ -1,0 +1,110 @@
+{
+    "uid": 100056692,
+    "migrosId": "511537300000",
+    "migrosOnlineId": "11942093",
+    "name": "Eau de Parfum",
+    "brand": "My Looks",
+    "brandLine": "by Wolfgang Joop",
+    "title": "My Looks by Wolfgang Joop · Eau de Parfum",
+    "description": "My Looks Eau de Parfum ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "My Looks",
+                "slug": "my-looks"
+            },
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 3.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/511537300000"
+        },
+        "otherInformation": {
+            "articleNumber": "511537300000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Eau de Parfum"
+                },
+                {
+                    "code": "Customer group",
+                    "value": "Frauen"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4022343086028"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/0f725886f194b336b29daa3de2208dd5d812925f/my-looks-by-wolfgang-joop-signature-woman-edp.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/1c8e2ba0b6c5e82d7f17972b92440429c7c114d5.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494826",
+            "name": "Body care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care"
+            ]
+        },
+        {
+            "id": "7495243",
+            "name": "Perfumes",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care",
+                "perfumes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/511537300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "26.95",
+            "advertisedDisplayValue": "26.95",
+            "effectiveDisplayValue": "26.95",
+            "multiplier": 1,
+            "value": 26.95,
+            "effectiveValue": 26.95,
+            "advertisedValue": 26.95,
+            "unitPrice": {
+                "value": 53.9,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "50ml",
+        "quantityPrice": "53.90/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T20:19:45"
+}

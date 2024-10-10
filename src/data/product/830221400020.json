@@ -1,0 +1,192 @@
+{
+    "uid": 100085772,
+    "migrosId": "830221400020",
+    "name": "Lady's Ankle Socks",
+    "brand": "Ellen Amber",
+    "title": "Lady's Ankle Socks",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L59",
+                    "name": "OEKO-TEX® MADE IN GREEN",
+                    "slug": "oeko-tex-made-in-green"
+                }
+            ],
+            "brand": {
+                "name": "Ellen Amber",
+                "slug": "ellen-amber",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076704/brands/EllenAmber_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 16,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/830221400020"
+        },
+        "otherInformation": {
+            "articleNumber": "830221400020",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Article type",
+                    "value": "Söckli"
+                },
+                {
+                    "code": "Line",
+                    "value": "Classic"
+                },
+                {
+                    "code": "Multipack",
+                    "value": "2er Pack"
+                },
+                {
+                    "code": "Look",
+                    "value": "transparent"
+                },
+                {
+                    "code": "Material",
+                    "value": "Polyamid"
+                },
+                {
+                    "code": "Denier",
+                    "value": "15 DEN"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "82 %"
+                },
+                {
+                    "code": "Material 2",
+                    "value": "Elasthan"
+                },
+                {
+                    "code": "Proportion of material 2",
+                    "value": "18 %"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613432952750",
+        "7613346859367"
+    ],
+    "variants": {
+        "baseProductMigrosId": "830221400000",
+        "mainVariantMigrosId": "830221400003",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "one size",
+                    "color": "bronze"
+                },
+                "migrosId": "830221400003"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one size",
+                    "color": "porcelaine"
+                },
+                "migrosId": "830221400017"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one size",
+                    "color": "black"
+                },
+                "migrosId": "830221400020"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "one size",
+                "options": [
+                    "one size"
+                ]
+            },
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "black",
+                "options": [
+                    "bronze",
+                    "porcelaine",
+                    "black"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/4d06cdce567615dde07ae983341be5a7f3b960cf/ladys-ankle-socks.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3bfec4994b21cefa70612b3460a13dbca41b7f2e.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10553347",
+            "name": "Women",
+            "slugs": [
+                "clothing-accessories",
+                "women"
+            ]
+        },
+        {
+            "id": "10553383",
+            "name": "Socks & tights",
+            "slugs": [
+                "clothing-accessories",
+                "women",
+                "socks-tights"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/830221400020",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.90",
+            "advertisedDisplayValue": "4.90",
+            "effectiveDisplayValue": "4.90",
+            "multiplier": 1,
+            "value": 4.9,
+            "effectiveValue": 4.9,
+            "advertisedValue": 4.9,
+            "unitPrice": {
+                "value": 2.45,
+                "unit": "piece"
+            }
+        },
+        "quantity": "2 Paar",
+        "quantityPrice": "2.45/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T14:40:30"
+}

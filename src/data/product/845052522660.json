@@ -1,0 +1,162 @@
+{
+    "uid": 100155536,
+    "migrosId": "845052522660",
+    "name": "Kids' bath slipper",
+    "brand": "Smile",
+    "title": "Kids' bath slipper",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L70",
+                    "name": "GRS",
+                    "slug": "grs",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1707834844/labels/GRS-1"
+                }
+            ],
+            "brand": {
+                "name": "Smile",
+                "slug": "smile",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252488/brands/smile"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/845052522660"
+        },
+        "otherInformation": {
+            "articleNumber": "845052522660",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Category/theme",
+                    "value": "Badeslipper & Flip Flops"
+                },
+                {
+                    "code": "Upper material",
+                    "value": "EVA"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "Klettverschluss"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871498134"
+    ],
+    "variants": {
+        "baseProductMigrosId": "845052500000",
+        "mainVariantMigrosId": "845052522060",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "green",
+                    "size": "20/21"
+                },
+                "migrosId": "845052522060"
+            },
+            {
+                "declinationOptions": {
+                    "color": "green",
+                    "size": "22/23"
+                },
+                "migrosId": "845052522260"
+            },
+            {
+                "declinationOptions": {
+                    "color": "green",
+                    "size": "24/25"
+                },
+                "migrosId": "845052522460"
+            },
+            {
+                "declinationOptions": {
+                    "color": "green",
+                    "size": "26/27"
+                },
+                "migrosId": "845052522660"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "green",
+                "options": [
+                    "green"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "26/27",
+                "options": [
+                    "20/21",
+                    "22/23",
+                    "24/25",
+                    "26/27"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/fcf9da39cf06b003702252e13bc192c7ce63f11b/kids-bath-slipper.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "7494824",
+            "name": "Baby & kids shoes",
+            "slugs": [
+                "baby-kids",
+                "baby-kids-shoes"
+            ]
+        },
+        {
+            "id": "7495231",
+            "name": "Kids & baby slippers",
+            "slugs": [
+                "baby-kids",
+                "baby-kids-shoes",
+                "kids-baby-slippers"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/845052522660",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "14.95",
+            "advertisedDisplayValue": "14.95",
+            "effectiveDisplayValue": "14.95",
+            "multiplier": 1,
+            "value": 14.95,
+            "effectiveValue": 14.95,
+            "advertisedValue": 14.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T10:49:07"
+}

@@ -1,0 +1,101 @@
+{
+    "uid": 100145740,
+    "migrosId": "280251505700",
+    "name": "Strauss orange",
+    "title": "Strauss orange",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 1,
+                    "airRating": 2,
+                    "co2CarKmEquivalent": 357,
+                    "airProductionRatio": 21,
+                    "airTransportRatio": 76,
+                    "airPackagingRatio": 3,
+                    "productionRatio": 97,
+                    "transportRatio": 3,
+                    "packagingRatio": 0,
+                    "image": "https://image.migros.ch/original/c7b3bc29d532f0bb03744b5880ef54fec350b61b.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/c7b3bc29d532f0bb03744b5880ef54fec350b61b.svg",
+                    "co2KgRange": "≥10 kg CO₂eq / kg",
+                    "lowerCo2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                }
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/280251505700"
+        },
+        "otherInformation": {
+            "articleNumber": "280251505700",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613269876106"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a1ad1ce06a1ae380def9984116d79922ae54db50/strauss-orange.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494815",
+            "name": "Garden, plants & flowers",
+            "slugs": [
+                "household-and-living",
+                "garden-plants-flowers"
+            ]
+        },
+        {
+            "id": "7495179",
+            "name": "Fresh flowers",
+            "slugs": [
+                "household-and-living",
+                "garden-plants-flowers",
+                "fresh-flowers"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/280251505700",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "69.95",
+            "advertisedDisplayValue": "69.95",
+            "effectiveDisplayValue": "69.95",
+            "multiplier": 1,
+            "value": 69.95,
+            "effectiveValue": 69.95,
+            "advertisedValue": 69.95,
+            "unitPrice": {
+                "value": 69.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stück",
+        "quantityPrice": "69.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:57:50"
+}

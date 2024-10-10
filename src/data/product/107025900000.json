@@ -1,0 +1,98 @@
+{
+    "uid": 100099709,
+    "migrosId": "107025900000",
+    "migrosOnlineId": "10135179",
+    "name": "black tea",
+    "brand": "Tetley",
+    "brandLine": "British Blends",
+    "versioning": "vanilla",
+    "title": "Tetley British Blends · black tea · vanilla",
+    "description": "Tetley black tea vanilla",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Tetley",
+                "slug": "tetley",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077203/brands/Tetley_Tata_Consumer_Products_GB_Ltd_Logo"
+            },
+            "rating": {
+                "nbReviews": 21,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/107025900000"
+        },
+        "otherInformation": {
+            "articleNumber": "107025900000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "5014328000104"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f730f29955e770d982389c1c768bcea1dff7418c/tetley-bb-duchess-balmora.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494773",
+            "name": "Tea",
+            "slugs": [
+                "drinks-coffee-tea",
+                "tea"
+            ]
+        },
+        {
+            "id": "7494969",
+            "name": "Black tea",
+            "slugs": [
+                "drinks-coffee-tea",
+                "tea",
+                "black-tea"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/107025900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.20",
+            "advertisedDisplayValue": "3.20",
+            "effectiveDisplayValue": "3.20",
+            "multiplier": 1,
+            "value": 3.2,
+            "effectiveValue": 3.2,
+            "advertisedValue": 3.2,
+            "unitPrice": {
+                "value": 8,
+                "unit": "100g"
+            }
+        },
+        "quantity": "40g",
+        "quantityPrice": "8.–/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T01:20:45"
+}
