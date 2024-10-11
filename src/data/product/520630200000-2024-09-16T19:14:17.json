@@ -1,0 +1,149 @@
+{
+    "uid": 100031843,
+    "migrosId": "520630200000",
+    "migrosOnlineId": "7009934",
+    "name": "Sanitary towels",
+    "brand": "Molfina",
+    "brandLine": "Organics",
+    "versioning": "Ultra Normal Plus",
+    "title": "Molfina Organics · Sanitary towels · Ultra Normal Plus",
+    "description": "Molfina Sanitary towels Ultra Normal Plus",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L09",
+                    "name": "FSC®",
+                    "slug": "fsc",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483057/labels/FSC_-_RGB_-_DE"
+                },
+                {
+                    "id": "L55",
+                    "name": "Vegan Flower",
+                    "slug": "vegan-flower",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483262/labels/Vegan_flower"
+                }
+            ],
+            "brand": {
+                "name": "Molfina",
+                "slug": "molfina",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077001/brands/Molfina_Logo"
+            },
+            "nutritionalCharacteristics": [
+                "Vegan"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegan"
+                }
+            ],
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 3,
+                    "co2CarKmEquivalent": 13,
+                    "productionRatio": 88,
+                    "transportRatio": 4,
+                    "packagingRatio": 7,
+                    "image": "https://image.migros.ch/original/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "co2KgRange": "2 - 4.7 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 27,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/520630200000"
+        },
+        "usageInformation": {
+            "additionalInformation": "100% BIO cotton cover\n40% nature-based materials\nPerfume-free\nVegan & Bio"
+        },
+        "otherInformation": {
+            "articleNumber": "520630200000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegan"
+                },
+                {
+                    "code": "Product type",
+                    "value": "Binden"
+                },
+                {
+                    "code": "Suitable for",
+                    "value": "Mittlere Regelblutung"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312355176"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/02d6d18e8648ec0cd69c3e98475dcfb4ca7cf123/molfina-eco-ultra-normal.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494830",
+            "name": "Hygiene & protection",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hygiene-protection"
+            ]
+        },
+        {
+            "id": "7495258",
+            "name": "Intimate hygiene and protection",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hygiene-protection",
+                "intimate-hygiene-and-protection"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/520630200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.25",
+            "advertisedDisplayValue": "2.25",
+            "effectiveDisplayValue": "2.25",
+            "multiplier": 1,
+            "value": 2.25,
+            "effectiveValue": 2.25,
+            "advertisedValue": 2.25,
+            "unitPrice": {
+                "value": 0.16,
+                "unit": "piece"
+            }
+        },
+        "quantity": "14 Stk.",
+        "quantityPrice": "0.16/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T19:14:17"
+}

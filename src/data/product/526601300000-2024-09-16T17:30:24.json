@@ -1,0 +1,107 @@
+{
+    "uid": 100124263,
+    "migrosId": "526601300000",
+    "migrosOnlineId": "11952517",
+    "name": "Lip balm",
+    "brand": "Labello",
+    "brandLine": "Hyaluron",
+    "title": "Labello Hyaluron · Lip balm",
+    "description": "Labello Lip balm ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Labello",
+                "slug": "labello",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076887/brands/Labello_Beiersdorf_AG_Logo"
+            },
+            "rating": {
+                "nbReviews": 14,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/526601300000"
+        },
+        "otherInformation": {
+            "articleNumber": "526601300000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Stift"
+                },
+                {
+                    "code": "Features",
+                    "value": "Farblos"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4006000003689"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/ee0d325b0280b3805194756f36d755622ad42b10/labello-hyaluron-lip-moisture-plus.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494828",
+            "name": "Facial care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "facial-care"
+            ]
+        },
+        {
+            "id": "7495248",
+            "name": "Treatments, creams & masks",
+            "slugs": [
+                "drugstore-cosmetics",
+                "facial-care",
+                "treatments-creams-masks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/526601300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.50",
+            "advertisedDisplayValue": "6.50",
+            "effectiveDisplayValue": "6.50",
+            "multiplier": 1,
+            "value": 6.5,
+            "effectiveValue": 6.5,
+            "advertisedValue": 6.5,
+            "unitPrice": {
+                "value": 135.4,
+                "unit": "100g"
+            }
+        },
+        "quantity": "5.5 ml",
+        "quantityPrice": "135.40/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:30:24"
+}

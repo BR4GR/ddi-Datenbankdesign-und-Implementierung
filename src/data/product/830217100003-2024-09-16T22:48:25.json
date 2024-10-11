@@ -1,0 +1,209 @@
+{
+    "uid": 100085577,
+    "migrosId": "830217100003",
+    "name": "Lady's Knee Tights",
+    "brand": "Ellen Amber",
+    "title": "Lady's Knee Tights",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L59",
+                    "name": "OEKO-TEX® MADE IN GREEN",
+                    "slug": "oeko-tex-made-in-green"
+                }
+            ],
+            "brand": {
+                "name": "Ellen Amber",
+                "slug": "ellen-amber",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076704/brands/EllenAmber_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 26,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/830217100003"
+        },
+        "otherInformation": {
+            "articleNumber": "830217100003",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Article type",
+                    "value": "Kniestrümpfe"
+                },
+                {
+                    "code": "Line",
+                    "value": "Classic"
+                },
+                {
+                    "code": "Multipack",
+                    "value": "2er Pack"
+                },
+                {
+                    "code": "Material",
+                    "value": "Polyamid"
+                },
+                {
+                    "code": "Denier",
+                    "value": "20 DEN"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "100 %"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613432951883",
+        "7613346805647"
+    ],
+    "variants": {
+        "baseProductMigrosId": "830217100000",
+        "mainVariantMigrosId": "830217100003",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "one size",
+                    "color": "bronze"
+                },
+                "migrosId": "830217100003"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one size",
+                    "color": "porcelaine"
+                },
+                "migrosId": "830217100017"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one size",
+                    "color": "black"
+                },
+                "migrosId": "830217100020"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one size",
+                    "color": "choco"
+                },
+                "migrosId": "830217100025"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "one size",
+                "options": [
+                    "one size"
+                ]
+            },
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "bronze",
+                "options": [
+                    "bronze",
+                    "porcelaine",
+                    "black",
+                    "choco"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a7e3a0b264ee193ad38311068093d5d04084aef7/ladys-knee-tights.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/dd23e3c349e7539ffc286f14043dd5505ae55979.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10553347",
+            "name": "Women",
+            "slugs": [
+                "clothing-accessories",
+                "women"
+            ]
+        },
+        {
+            "id": "10553383",
+            "name": "Socks & tights",
+            "slugs": [
+                "clothing-accessories",
+                "women",
+                "socks-tights"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/830217100003",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "2.90",
+            "advertisedDisplayValue": "2.90",
+            "effectiveDisplayValue": "2.90",
+            "multiplier": 1,
+            "value": 2.9,
+            "effectiveValue": 2.9,
+            "advertisedValue": 2.9
+        },
+        "promotionPrice": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.75",
+            "advertisedDisplayValue": "1.75",
+            "effectiveDisplayValue": "1.75",
+            "multiplier": 1,
+            "value": 1.75,
+            "effectiveValue": 1.75,
+            "advertisedValue": 1.75,
+            "unitPrice": {
+                "value": 0.88,
+                "unit": "piece"
+            }
+        },
+        "priceInsteadOfLabel": "was",
+        "quantity": "2 Paar",
+        "quantityPrice": "0.88/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "badges": [
+            {
+                "type": "PERCENTAGE_PROMOTION",
+                "description": "40%"
+            }
+        ],
+        "promotionDateRange": {
+            "startDate": "2024-09-10",
+            "endDate": "2024-09-16"
+        },
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T22:48:25"
+}

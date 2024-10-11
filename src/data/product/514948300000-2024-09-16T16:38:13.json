@@ -1,0 +1,111 @@
+{
+    "uid": 100154616,
+    "migrosId": "514948300000",
+    "migrosOnlineId": "12274884",
+    "name": "Hairspray",
+    "brand": "Schwarzkopf",
+    "brandLine": "Taft",
+    "versioning": "Power, hold 5/5",
+    "title": "Schwarzkopf Taft · Hairspray · Power, hold 5/5",
+    "description": "Schwarzkopf Hairspray Power, hold 5/5",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Schwarzkopf",
+                "slug": "schwarzkopf"
+            },
+            "rating": {
+                "nbReviews": 5,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/514948300000"
+        },
+        "otherInformation": {
+            "articleNumber": "514948300000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Spray"
+                },
+                {
+                    "code": "Requirements/uses",
+                    "value": "Bändigung und Fixierung"
+                },
+                {
+                    "code": "Features",
+                    "value": "Starker Halt"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4015100810240"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/a62b42bb046c894de9fa2c73f46cc6e1ebf1d4c0/taft-power-hair-lacquer-hg5.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494825",
+            "name": "Hair care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hair-care"
+            ]
+        },
+        {
+            "id": "7495235",
+            "name": "Hair styling products",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hair-care",
+                "hair-styling-products"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/514948300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.30",
+            "advertisedDisplayValue": "4.30",
+            "effectiveDisplayValue": "4.30",
+            "multiplier": 1,
+            "value": 4.3,
+            "effectiveValue": 4.3,
+            "advertisedValue": 4.3,
+            "unitPrice": {
+                "value": 1.72,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "250ml",
+        "quantityPrice": "1.72/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T16:38:13"
+}

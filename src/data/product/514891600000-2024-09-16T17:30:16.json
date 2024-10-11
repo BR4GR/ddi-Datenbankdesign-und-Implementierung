@@ -1,0 +1,107 @@
+{
+    "uid": 100129000,
+    "migrosId": "514891600000",
+    "migrosOnlineId": "10680437",
+    "name": "Lightening hair color",
+    "brand": "I am",
+    "versioning": "Intense bleach",
+    "title": "I am · Lightening hair color · Intense bleach",
+    "description": "I am Lightening hair color Intense bleach",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "I am",
+                "slug": "i-am",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076768/brands/Iam_Logo"
+            },
+            "rating": {
+                "nbReviews": 13,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/514891600000"
+        },
+        "otherInformation": {
+            "articleNumber": "514891600000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Dye",
+                    "value": "blond"
+                },
+                {
+                    "code": "Application",
+                    "value": "Färben"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4008082355861"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/26f7eafcd52860f53535e3a91996c3c7be7fcac2/i-am-intensiv-aufheller-meches.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494825",
+            "name": "Hair care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hair-care"
+            ]
+        },
+        {
+            "id": "7495236",
+            "name": "Hair dyes",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hair-care",
+                "hair-dyes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/514891600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.30",
+            "advertisedDisplayValue": "5.30",
+            "effectiveDisplayValue": "5.30",
+            "multiplier": 1,
+            "value": 5.3,
+            "effectiveValue": 5.3,
+            "advertisedValue": 5.3,
+            "unitPrice": {
+                "value": 5.3,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "5.30/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:30:16"
+}

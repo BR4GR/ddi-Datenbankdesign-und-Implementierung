@@ -1,0 +1,191 @@
+{
+    "uid": 100160142,
+    "migrosId": "232360051703",
+    "migrosOnlineId": "12272338",
+    "name": "Salametti",
+    "brand": "M-Budget",
+    "title": "M-Budget · Salametti",
+    "description": "M-Budget Salametti ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "M-Budget",
+                "slug": "m-budget",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252456/brands/m-budget"
+            },
+            "ingredients": "Schweinefleisch 59% (Schweiz), Speck (Schweiz), Rindfleisch 9% (Schweiz), Schwarten, Rindsfett, Kochsalz jodiert, Gewürze, Glucose, Antioxidationsmittel: Natriumascorbat, Konservierungsstoff: Kaliumnitrat, Gewürzextrakte. \nHülle nicht zum Verzehr geeignet.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 31,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/232360051703"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "1/2 Salametti (35 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1757 kJ (424 kcal)",
+                            "631 kJ (152 kcal)",
+                            "8 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "36 g",
+                            "13 g",
+                            "19 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "13 g",
+                            "4.6 g",
+                            "23 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            "< 5 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            "< 5 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "25 g",
+                            "8.8 g",
+                            "18 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "4 g",
+                            "1.4 g",
+                            "23 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    }
+                ]
+            },
+            "portionSentence": "1 package = 6 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "232360051703",
+            "legalDesignation": "Salami",
+            "identificationMark": "CH 319",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Can be stored without refrigeration."
+                },
+                {
+                    "code": "Warning and other mandatory information",
+                    "value": "This product may lose weight."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7623186369933"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/fbf2ec2cf610b3643a5e2ec50900a915388d6ed6/m-budget-salametti-3-stueck.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ed846f1b2eded36450fb6eafa179782d23ab61c0.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494748",
+            "name": "Cold cuts",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts"
+            ]
+        },
+        {
+            "id": "7494854",
+            "name": "Salami & dried sausages",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts",
+                "salami-dried-sausages"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/232360051703",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-16T23:39:35"
+}

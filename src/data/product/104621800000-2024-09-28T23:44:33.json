@@ -1,0 +1,233 @@
+{
+    "uid": 100131685,
+    "migrosId": "104621800000",
+    "migrosOnlineId": "10754944",
+    "name": "white flour",
+    "brand": "Migros Bio",
+    "title": "Migros Bio · white flour",
+    "description": "Migros Bio white flour ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L73",
+                    "name": "Bio Knospe",
+                    "slug": "bio-knospe",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1687156946/labels/Bio_Knospe"
+                }
+            ],
+            "brand": {
+                "name": "Migros Bio",
+                "slug": "migros-bio",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1678265962/brands/MIGROS_BIO_screen_pantone1_rgb"
+            },
+            "nutritionalCharacteristics": [
+                "Organic"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                }
+            ],
+            "ingredients": "<strong>Weizen</strong>weissmehl * (Österreich, Tschechien, Deutschland, Schweiz). \n* aus biologischer Landwirtschaft \nDie effektive Herkunft wird auf der Verpackung aufgedruckt.",
+            "allergens": "Cereals containing gluten and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 29,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/104621800000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1442 kJ (340 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "1 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0.3 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "70 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "0.5 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "3.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "11 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.03 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "104621800000",
+            "legalDesignation": "Bio Weizenweissmehl",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "CH-8031 Zürich",
+            "bioCertification": "Bio-Zertifizierung: CH-BIO-038",
+            "mainSpecificities": [
+                {
+                    "code": "Flour type (Germany)",
+                    "value": "550"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312397091"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/50919d6f075c7d11e24800a4c4f5afc427f5f72a/migros-bio-weissmehl.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494766",
+            "name": "Baking ingredients",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "baking-ingredients"
+            ]
+        },
+        {
+            "id": "7494935",
+            "name": "Flour & yeast",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "baking-ingredients",
+                "flour-yeast"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/104621800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "3.–",
+            "advertisedDisplayValue": "3.–",
+            "effectiveDisplayValue": "3.–",
+            "multiplier": 1,
+            "value": 3,
+            "effectiveValue": 3,
+            "advertisedValue": 3
+        },
+        "promotionPrice": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.40",
+            "advertisedDisplayValue": "2.40",
+            "effectiveDisplayValue": "2.40",
+            "multiplier": 1,
+            "value": 2.4,
+            "effectiveValue": 2.4,
+            "advertisedValue": 2.4,
+            "unitPrice": {
+                "value": 0.24,
+                "unit": "100g"
+            }
+        },
+        "priceInsteadOfLabel": "was",
+        "quantity": "1kg",
+        "quantityPrice": "0.24/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            }
+        ],
+        "badges": [
+            {
+                "type": "PERCENTAGE_PROMOTION",
+                "description": "20%"
+            },
+            {
+                "type": "MINIMUM_PIECES",
+                "description": "2 or more"
+            }
+        ],
+        "promotionDateRange": {
+            "startDate": "2024-09-24",
+            "endDate": "2024-09-30"
+        },
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-28T23:44:33"
+}

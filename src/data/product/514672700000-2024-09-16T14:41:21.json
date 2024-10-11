@@ -1,0 +1,112 @@
+{
+    "uid": 100094702,
+    "migrosId": "514672700000",
+    "migrosOnlineId": "8500593",
+    "name": "Shampoo",
+    "brand": "Garnier",
+    "brandLine": "Ultra Doux Avocado",
+    "versioning": "Very dry and frizzy hair",
+    "title": "Garnier Ultra Doux Avocado · Shampoo · Very dry and frizzy hair",
+    "description": "Garnier Shampoo Very dry and frizzy hair",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Garnier",
+                "slug": "garnier",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252433/brands/garnier"
+            },
+            "rating": {
+                "nbReviews": 10,
+                "nbStars": 3.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/514672700000"
+        },
+        "otherInformation": {
+            "articleNumber": "514672700000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Shampoo"
+                },
+                {
+                    "code": "Requirements/uses",
+                    "value": "nährend"
+                },
+                {
+                    "code": "Suitable for",
+                    "value": "Trockenes Haar, Widerspenstiges Haar"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "3600542484701"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/ff9543e1e1dac355098e32923888b7d0b5d78711/ultra-doux-avocado-shampoo.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494825",
+            "name": "Hair care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hair-care"
+            ]
+        },
+        {
+            "id": "7495232",
+            "name": "Shampoos",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hair-care",
+                "shampoos"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/514672700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.95",
+            "advertisedDisplayValue": "4.95",
+            "effectiveDisplayValue": "4.95",
+            "multiplier": 1,
+            "value": 4.95,
+            "effectiveValue": 4.95,
+            "advertisedValue": 4.95,
+            "unitPrice": {
+                "value": 1.65,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "300ml",
+        "quantityPrice": "1.65/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:41:21"
+}

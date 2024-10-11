@@ -36,6 +36,10 @@ def save_documents_to_folder(documents, folder_path, id_field):
             document.pop("_id", None)
 
             filename = os.path.join(folder_path, f"{document[id_field]}.json")
+            if id_field == "migrosId":
+                filename = os.path.join(
+                    folder_path, f"{document[id_field]}-{document["dateAdded"]}.json"
+                )
             with open(filename, "w") as f:
                 json.dump(document, f, indent=4, ensure_ascii=False)
 
@@ -74,6 +78,7 @@ def main():
 
     # Run the test download
     # download_and_save_test_data()
+    print("already done. nothing to do")
 
 
 if __name__ == "__main__":

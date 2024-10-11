@@ -1,0 +1,108 @@
+{
+    "uid": 100116321,
+    "migrosId": "520241100000",
+    "migrosOnlineId": "10575902",
+    "name": "Sanitary towels",
+    "brand": "Always",
+    "brandLine": "Ultra Day",
+    "versioning": "Size 1 - Normal",
+    "title": "Always Ultra Day · Sanitary towels · Size 1 - Normal",
+    "description": "Always Sanitary towels Size 1 - Normal",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Always",
+                "slug": "always",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1638170826/brands/Always_Procter_Gamble_Switzerland_SARL_Logo"
+            },
+            "rating": {
+                "nbReviews": 21,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/520241100000"
+        },
+        "otherInformation": {
+            "articleNumber": "520241100000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Binden"
+                },
+                {
+                    "code": "Suitable for",
+                    "value": "Leichte Regelblutung"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "8006540732045"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/41adeefd5605043ee77e17580fc4cf578f7cad5e/always-ultra-normal-30.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494830",
+            "name": "Hygiene & protection",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hygiene-protection"
+            ]
+        },
+        {
+            "id": "7495258",
+            "name": "Intimate hygiene and protection",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hygiene-protection",
+                "intimate-hygiene-and-protection"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/520241100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.75",
+            "advertisedDisplayValue": "4.75",
+            "effectiveDisplayValue": "4.75",
+            "multiplier": 1,
+            "value": 4.75,
+            "effectiveValue": 4.75,
+            "advertisedValue": 4.75,
+            "unitPrice": {
+                "value": 0.16,
+                "unit": "piece"
+            }
+        },
+        "quantity": "30 Stk.",
+        "quantityPrice": "0.16/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T16:55:48"
+}

@@ -1,0 +1,214 @@
+{
+    "uid": 100040525,
+    "migrosId": "265606702300",
+    "migrosOnlineId": "223058",
+    "name": "Blueberries",
+    "title": "Blueberries",
+    "description": "Blueberries ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "ingredients": "Heidelbeeren",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 2,
+                    "productionRatio": 60,
+                    "transportRatio": 28,
+                    "packagingRatio": 12,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 699,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/265606702300"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "174 kJ (42 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "0.6 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "6 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "6 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "0.6 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "< 0.01 g",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "usageInformation": {
+            "usage": "Blueberries taste particularly refreshing with a little milk and sugar or as a muesli ingredient.",
+            "additionalInformation": "The blueberry has a slightly tart aroma that harmonizes perfectly with raspberries and strawberries."
+        },
+        "otherInformation": {
+            "articleNumber": "265606702300",
+            "legalDesignation": "Heidelbeeren",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Weitere Zusatzangaben",
+                    "value": "-"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Saison von",
+                    "value": "Juni"
+                },
+                {
+                    "code": "Saison bis",
+                    "value": "September"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Schale"
+                },
+                {
+                    "code": "Storage at home",
+                    "value": "gekühlt aufbewahren/lagern"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "8715477665363",
+        "8717496042491",
+        "7623186242489",
+        "7610632050309"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3f68769a9f8d3e1f89c86b7e908b75a9e758d83c/heidelbeeren.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/077affc6ae6a9d96b209568b9e70a9773c370c80.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494756",
+            "name": "Fruits",
+            "slugs": [
+                "fruits-vegetables",
+                "fruits"
+            ]
+        },
+        {
+            "id": "7494895",
+            "name": "Red fruits & berries",
+            "slugs": [
+                "fruits-vegetables",
+                "fruits",
+                "red-fruits-berries"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/265606702300",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.95",
+            "advertisedDisplayValue": "5.95",
+            "effectiveDisplayValue": "5.95",
+            "multiplier": 1,
+            "value": 5.95,
+            "effectiveValue": 5.95,
+            "advertisedValue": 5.95,
+            "unitPrice": {
+                "value": 2.38,
+                "unit": "100g"
+            }
+        },
+        "quantity": "250g",
+        "quantityPrice": "2.38/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-15T22:58:42"
+}

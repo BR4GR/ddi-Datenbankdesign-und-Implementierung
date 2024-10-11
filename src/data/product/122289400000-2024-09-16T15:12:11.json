@@ -1,0 +1,159 @@
+{
+    "uid": 100130377,
+    "migrosId": "122289400000",
+    "name": "Sun Queen Fairtrade Orange",
+    "brand": "Sun Queen",
+    "title": "Sun Queen Fairtrade Orange",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L57",
+                    "name": "V-Label vegan",
+                    "slug": "v-label-vegan",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483003/labels/V-Label_Vegan_Color"
+                },
+                {
+                    "id": "L04",
+                    "name": "FAIRTRADE MAX HAVELAAR",
+                    "slug": "fairtrade-max-havelaar",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679482976/labels/Fairtrade_Max_Havelaar_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "Sun Queen",
+                "slug": "sun-queen",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1703170124/brands/sun_queen"
+            },
+            "nutritionalCharacteristics": [
+                "Vegan"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegan"
+                }
+            ],
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 4,
+                    "productionRatio": 76,
+                    "transportRatio": 5,
+                    "packagingRatio": 20,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 38,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/122289400000"
+        },
+        "otherInformation": {
+            "articleNumber": "122289400000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegan"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312415863"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/b37f74b89ffb8afdbee77120f18c4ea1133dc4a9/sun-queen-fairtrade-orange.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494771",
+            "name": "Fruit & vegetable juices",
+            "slugs": [
+                "drinks-coffee-tea",
+                "fruit-vegetable-juices"
+            ]
+        },
+        {
+            "id": "7494958",
+            "name": "Orange juice",
+            "slugs": [
+                "drinks-coffee-tea",
+                "fruit-vegetable-juices",
+                "orange-juice"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/122289400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "2.95",
+            "advertisedDisplayValue": "2.95",
+            "effectiveDisplayValue": "2.95",
+            "multiplier": 1,
+            "value": 2.95,
+            "effectiveValue": 2.95,
+            "advertisedValue": 2.95
+        },
+        "promotionPrice": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.10",
+            "advertisedDisplayValue": "2.10",
+            "effectiveDisplayValue": "2.10",
+            "multiplier": 1,
+            "value": 2.1,
+            "effectiveValue": 2.1,
+            "advertisedValue": 2.1,
+            "unitPrice": {
+                "value": 0.21,
+                "unit": "100ml"
+            }
+        },
+        "priceInsteadOfLabel": "was",
+        "quantity": "1l",
+        "quantityPrice": "0.21/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "badges": [
+            {
+                "type": "PERCENTAGE_PROMOTION",
+                "description": "30%"
+            },
+            {
+                "type": "MINIMUM_PIECES",
+                "description": "2 or more"
+            }
+        ],
+        "promotionDateRange": {
+            "startDate": "2024-09-10",
+            "endDate": "2024-09-16"
+        },
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T15:12:11"
+}

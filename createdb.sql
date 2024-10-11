@@ -3,9 +3,9 @@ USE migros;
 
 CREATE TABLE product (
     migros_id VARCHAR(30) NOT NULL PRIMARY KEY,
-    name VARCHAR(100),
-    brandLine VARCHAR(100),
-    title VARCHAR(100),
+    name VARCHAR(255) NOT NULL,
+    brand_line VARCHAR(100),
+    title VARCHAR(150),
     origin VARCHAR(50),
     description TEXT,
     ingredients TEXT,
@@ -42,20 +42,20 @@ CREATE TABLE offer (
 
 CREATE TABLE gtin (
     id INT AUTO_INCREMENT PRIMARY KEY,
-    gtin_number VARCHAR(50)
+    gtin_number VARCHAR(50) UNIQUE
 );
 
-CREATE TABLE categorie (
+CREATE TABLE category (
     id INT AUTO_INCREMENT PRIMARY KEY,
-    name VARCHAR(100),
+    name VARCHAR(100) NOT NULL,
     path VARCHAR(100),
-    slug VARCHAR(100)
+    slug VARCHAR(100) UNIQUE
 );
 
-CREATE TABLE productcategory ( 
+CREATE TABLE product_category ( 
     product_id VARCHAR(30),
     category_id INT,
     PRIMARY KEY (product_id, category_id),
     FOREIGN KEY (product_id) REFERENCES product(migros_id),
-    FOREIGN KEY (category_id) REFERENCES categorie(id)
+    FOREIGN KEY (category_id) REFERENCES category(id)
 );

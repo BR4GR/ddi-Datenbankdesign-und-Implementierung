@@ -1,0 +1,203 @@
+{
+    "uid": 100056185,
+    "migrosId": "271703401000",
+    "migrosOnlineId": "10152423",
+    "name": "peppers",
+    "versioning": "red",
+    "title": "peppers · red",
+    "description": "peppers red",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "ingredients": "Peperoni.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 1,
+                    "productionRatio": 83,
+                    "transportRatio": 17,
+                    "packagingRatio": 0,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 686,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/271703401000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "135 kJ (32 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "< 0.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0.1 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "5.2 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "5.1 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "2 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "0.9 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "< 0.01 g",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "usageInformation": {
+            "additionalInformation": "It appears in all kinds of colors, varieties and degrees of sharpness. The color reveals the degree of ripeness of the pod, and the green, \"unripe\" ones are also a culinary delight. Seeds and partitions contain the burning alkaloid capsaicin and are removed if the vegetables are to be mild."
+        },
+        "otherInformation": {
+            "articleNumber": "271703401000",
+            "legalDesignation": "Peperoni",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Weitere Zusatzangaben",
+                    "value": "-"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Saison von",
+                    "value": "Mai"
+                },
+                {
+                    "code": "Saison bis",
+                    "value": "Oktober"
+                },
+                {
+                    "code": "Storage at home",
+                    "value": "gekühlt aufbewahren/lagern"
+                },
+                {
+                    "code": "Washing instructions",
+                    "value": "vor Gebrauch waschen"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613404464724"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/c777e4eddf7f0622ae850b3c8d188a3b9f7f23dc/peperoni-rot.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494757",
+            "name": "Vegetables",
+            "slugs": [
+                "fruits-vegetables",
+                "vegetables"
+            ]
+        },
+        {
+            "id": "7494903",
+            "name": "Courgettes, aubergines & peppers",
+            "slugs": [
+                "fruits-vegetables",
+                "vegetables",
+                "courgettes-aubergines-peppers"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/271703401000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": true,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "pictos": [
+            {
+                "type": "VARIABLE_WEIGHT",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483133/labels/poids-variable",
+                "description": "Variable Weight"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-16T21:08:02"
+}
