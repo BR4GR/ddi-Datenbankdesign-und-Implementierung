@@ -1,5 +1,6 @@
-import os
 import json
+import os
+
 from pymongo import MongoClient
 
 # Set MongoDB connection for local database
@@ -32,6 +33,8 @@ def load_documents_from_folder(folder_path):
 def save_data_to_local_mongo():
     """Save JSON files from local folder to local MongoDB."""
     db = connect_to_local_mongo()
+    db[PRODUCT_COLLECTION].delete_many({})
+    db[CATEGORY_COLLECTION].delete_many({})
 
     # Load and save product data
     product_documents = load_documents_from_folder(PRODUCTS_PATH)

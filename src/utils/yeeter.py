@@ -1,10 +1,17 @@
 import logging
-from logging.handlers import RotatingFileHandler
 import os
 from datetime import datetime
+from logging.handlers import RotatingFileHandler
+
 
 class Yeeter:
-    def __init__(self, log_filename="scraper.log", log_dir="logs", max_bytes=5000000, backup_count=5):
+    def __init__(
+        self,
+        log_filename="scraper.log",
+        log_dir="logs",
+        max_bytes=5000000,
+        backup_count=5,
+    ):
         self.log_dir = log_dir
         if not os.path.exists(self.log_dir):
             os.makedirs(self.log_dir)
@@ -16,7 +23,7 @@ class Yeeter:
         self.logger.setLevel(logging.DEBUG)
 
         # Log formatting
-        formatter = logging.Formatter('%(asctime)s [%(levelname)s] %(message)s')
+        formatter = logging.Formatter("%(asctime)s [%(levelname)s] %(message)s")
 
         # Console handler
         console_handler = logging.StreamHandler()
@@ -24,7 +31,9 @@ class Yeeter:
         console_handler.setFormatter(formatter)
 
         # File handler with log rotation
-        file_handler = RotatingFileHandler(log_filepath, maxBytes=max_bytes, backupCount=backup_count)
+        file_handler = RotatingFileHandler(
+            log_filepath, maxBytes=max_bytes, backupCount=backup_count
+        )
         file_handler.setLevel(logging.DEBUG)
         file_handler.setFormatter(formatter)
 

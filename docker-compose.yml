@@ -13,12 +13,27 @@ services:
     environment:
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: password
-      POSTGRES_DB: productdb
+      POSTGRES_DB: postgres_db
     ports:
       - "5432:5432"
     volumes:
       - postgres_data:/var/lib/postgresql/data
+      - ./src/setup/sql/createdb.sql:/docker-entrypoint-initdb.d/createdb.sql
+
+  postgres_test:
+    image: postgres:latest
+    container_name: ddi-postgresdb-test
+    environment:
+      POSTGRES_USER: test_user
+      POSTGRES_PASSWORD: test_password
+      POSTGRES_DB: test_db
+    ports:
+      - "5433:5432" # Expose container's port 5432 as 5433 on the host
+    volumes:
+      - postgres_test_data:/var/lib/postgresql/data
+      - ./src/setup/sql/createdb.sql:/docker-entrypoint-initdb.d/createdb.sql
 
 volumes:
   mongo_data:
   postgres_data:
+  postgres_test_data:
