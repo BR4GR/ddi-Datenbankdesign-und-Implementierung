@@ -1,0 +1,104 @@
+{
+    "uid": 100058612,
+    "migrosId": "510312200000",
+    "name": "Vorlageartikel WG50282",
+    "brand": "Philips",
+    "title": "Vorlageartikel WG50282",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Philips",
+                "slug": "philips",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252470/brands/philips"
+            },
+            "rating": {
+                "nbReviews": 6,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/510312200000"
+        },
+        "otherInformation": {
+            "articleNumber": "510312200000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Aufsteckbürsten"
+                },
+                {
+                    "code": "Customer group",
+                    "value": "Erwachsene"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "8710103805632"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/26bd44ac1817d5ceb6479cc17787184b8936fdaf/vorlageartikel-wg50282.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494829",
+            "name": "Dental care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "dental-care"
+            ]
+        },
+        {
+            "id": "7495252",
+            "name": "Electric toothbrushes",
+            "slugs": [
+                "drugstore-cosmetics",
+                "dental-care",
+                "electric-toothbrushes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/510312200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "34.95",
+            "advertisedDisplayValue": "34.95",
+            "effectiveDisplayValue": "34.95",
+            "multiplier": 1,
+            "value": 34.95,
+            "effectiveValue": 34.95,
+            "advertisedValue": 34.95,
+            "unitPrice": {
+                "value": 17.48,
+                "unit": "piece"
+            }
+        },
+        "quantity": "2 Stk.",
+        "quantityPrice": "17.48/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T09:50:24"
+}

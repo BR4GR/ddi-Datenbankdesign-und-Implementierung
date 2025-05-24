@@ -1,0 +1,203 @@
+{
+    "uid": 100164436,
+    "migrosId": "210405106000",
+    "name": "Sennenmutschli Le petit pâtre",
+    "title": "Sennenmutschli Le petit pâtre",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "ingredients": "Schweizer Halbhartkäse, vollfett, aus pasteurisierter <strong>Milch</strong>",
+            "allergens": "Milk and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 5,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/210405106000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "1 Portion (40 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1410 kJ (339 kcal)",
+                            "560 kJ (135 kcal)",
+                            "7 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "25 g",
+                            "10 g",
+                            "14 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "15 g",
+                            "6 g",
+                            "30 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "0.5 g",
+                            "< 0.5 g",
+                            "< 0.5 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            "0 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "28 g",
+                            "11 g",
+                            "22 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "1.7 g",
+                            "0.67 g",
+                            "11 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    }
+                ]
+            },
+            "portionSentence": "1 package ≈ 6 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "210405106000",
+            "legalDesignation": "Schweizer Halbhartkäse, vollfett, aus pasteurisierter Milch",
+            "identificationMark": "CH 2049",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store refrigerated at max. +5 °C."
+                },
+                {
+                    "code": "Production information",
+                    "value": "Packaged in a protective atmosphere."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "2110334000008",
+        "7617067003382"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/e1a132b1434a526cfae5671da780065f8a49c083/sennenmutschli-le-petit-patre.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f543bc7835aff56621b625a58cc747b0de78db2c.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494752",
+            "name": "Cheese",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese"
+            ]
+        },
+        {
+            "id": "7494871",
+            "name": "Hard & semi-hard cheeses",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese",
+                "hard-semi-hard-cheeses"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/210405106000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.50",
+            "advertisedDisplayValue": "2.50",
+            "effectiveDisplayValue": "2.50",
+            "multiplier": 1,
+            "value": 2.5,
+            "effectiveValue": 2.5,
+            "advertisedValue": 2.5,
+            "unitPrice": {
+                "value": 2.5,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "2.50/100g",
+        "isVariableWeight": true,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "VARIABLE_WEIGHT",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483133/labels/poids-variable",
+                "description": "Variable Weight"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:06:34"
+}

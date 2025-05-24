@@ -1,0 +1,106 @@
+{
+    "uid": 100136721,
+    "migrosId": "205064400000",
+    "name": "Joghurt Aprikose",
+    "title": "Joghurt Aprikose",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "rating": {
+                "nbReviews": 11,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/205064400000"
+        },
+        "otherInformation": {
+            "articleNumber": "205064400000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Flavoring",
+                    "value": "Aprikose"
+                },
+                {
+                    "code": "Fat content",
+                    "value": "3.5% fat in milk"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Kunststoff-Verpackung"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613269685609"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/add46f4c0e928163e3b4c62d1105871396fe2c9a/joghurt-aprikose.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494753",
+            "name": "Yogurts & desserts",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "yogurts-desserts"
+            ]
+        },
+        {
+            "id": "7494879",
+            "name": "Yogurts",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "yogurts-desserts",
+                "yogurts"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/205064400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.15",
+            "advertisedDisplayValue": "3.15",
+            "effectiveDisplayValue": "3.15",
+            "multiplier": 1,
+            "value": 3.15,
+            "effectiveValue": 3.15,
+            "advertisedValue": 3.15,
+            "unitPrice": {
+                "value": 0.39,
+                "unit": "100g"
+            }
+        },
+        "quantity": "800g",
+        "quantityPrice": "0.39/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:00:35"
+}

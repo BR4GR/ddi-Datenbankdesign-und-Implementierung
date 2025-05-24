@@ -1,0 +1,205 @@
+{
+    "uid": 100003118,
+    "migrosId": "130733600000",
+    "migrosOnlineId": "6576261",
+    "name": "Smoothie",
+    "brand": "Trué Fruits",
+    "versioning": "Yellow",
+    "title": "Trué Fruits · Smoothie · Yellow",
+    "description": "Trué Fruits Smoothie Yellow",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Trué Fruits",
+                "slug": "true-fruits"
+            },
+            "nutritionalCharacteristics": [
+                "Vegan"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegan"
+                }
+            ],
+            "ingredients": "Orangensaft 25%, Apfelsaft 24%, Bananenpüree 20%, Mangopüree 18%, Maracujapüree 13%",
+            "allergens": "Does not contain any allergenic ingredients that require labelling",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 4,
+                    "productionRatio": 75,
+                    "transportRatio": 5,
+                    "packagingRatio": 20,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 55,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/130733600000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 ml"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "~ 235 kJ (~ 55 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "< 0.1 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "< 0.1 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "~ 11.8 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "~ 10.6 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "~ 0.75 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "~ 0.0038 g",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "130733600000",
+            "legalDesignation": "Zubereitung aus Früchten und Fruchtsaft",
+            "distributorName": "true fruits GmbH",
+            "distributorStreetAndNumber": "Auguststr. 19-29, 53229 Bonn, Deutschland",
+            "remarks": [
+                {
+                    "code": "Aufbewahrungshinweise für den Konsumenten",
+                    "value": "Bei +2 bis +7 Grad lagern"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegan"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4260122390373"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/c794328d0ae74fe13e14a629011753f0af85b60e/true-fruits-smoothie-yellow.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494771",
+            "name": "Fruit & vegetable juices",
+            "slugs": [
+                "drinks-coffee-tea",
+                "fruit-vegetable-juices"
+            ]
+        },
+        {
+            "id": "7494962",
+            "name": "Smoothies",
+            "slugs": [
+                "drinks-coffee-tea",
+                "fruit-vegetable-juices",
+                "smoothies"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/130733600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.95",
+            "advertisedDisplayValue": "6.95",
+            "effectiveDisplayValue": "6.95",
+            "multiplier": 1,
+            "value": 6.95,
+            "effectiveValue": 6.95,
+            "advertisedValue": 6.95,
+            "unitPrice": {
+                "value": 0.93,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "75cl",
+        "quantityPrice": "0.93/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483166/labels/fresh",
+                "description": "fresh"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:43:14"
+}

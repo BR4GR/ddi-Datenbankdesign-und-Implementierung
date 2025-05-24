@@ -1,0 +1,200 @@
+{
+    "uid": 100163835,
+    "migrosId": "233070068002",
+    "name": "M-Budget Apéro Beef",
+    "brand": "M-Budget",
+    "title": "M-Budget Apéro Beef",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "M-Budget",
+                "slug": "m-budget",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252456/brands/m-budget"
+            },
+            "ingredients": "Rindfleisch *, Kochsalz, Glucose, Zucker, Rohrzucker, Maltodextrin, Konservierungsstoff: Kaliumnitrat, Gewürzextrakte, Antioxidationsmittel: Natriumascorbat. \n*Herkunft: Schweiz, Deutschland, Polen, Irland oder Österreich \nDie effektive Herkunft wird auf der Verpackung aufgedruckt (siehe Spontandruckfeld).",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 17,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/233070068002"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "1 Portion (40 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "749 kJ (177 kcal)",
+                            "293 kJ (69 kcal)",
+                            "3 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "3 g",
+                            "1.2 g",
+                            "2 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "1 g",
+                            "0.4 g",
+                            "2 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "1.5 g",
+                            "0.6 g",
+                            "< 5 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "1 g",
+                            "< 0.5 g",
+                            "< 5 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "36 g",
+                            "14 g",
+                            "28 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "5.3 g",
+                            "2.1 g",
+                            "35 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    }
+                ]
+            },
+            "portionSentence": "1 package = 1 serving",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "233070068002",
+            "legalDesignation": "Fleischerzeugnis geräuchert, zum Rohessen",
+            "identificationMark": "CH 275",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Can be stored without refrigeration."
+                },
+                {
+                    "code": "Production information",
+                    "value": "Packaged in a protective atmosphere."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7623186228926"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/4f1eafda3b3d1a40bac9c33dac36fa4dda63f7e1/m-budget-apero-beef.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1bccd6cacb62a33263c60978fd504724a9b76e8c.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494748",
+            "name": "Cold cuts",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts"
+            ]
+        },
+        {
+            "id": "7494850",
+            "name": "Raw ham & cured meats",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts",
+                "raw-ham-cured-meats"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/233070068002",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.95",
+            "advertisedDisplayValue": "1.95",
+            "effectiveDisplayValue": "1.95",
+            "multiplier": 1,
+            "value": 1.95,
+            "effectiveValue": 1.95,
+            "advertisedValue": 1.95,
+            "unitPrice": {
+                "value": 4.88,
+                "unit": "100g"
+            }
+        },
+        "quantity": "40g",
+        "quantityPrice": "4.88/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:03:28"
+}

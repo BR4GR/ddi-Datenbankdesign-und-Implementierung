@@ -1,0 +1,94 @@
+{
+    "uid": 100170615,
+    "migrosId": "121342100000",
+    "migrosOnlineId": "12803324",
+    "name": "Sparkling wine",
+    "brand": "Mionetto",
+    "brandLine": "0.0%",
+    "versioning": "alcohol free",
+    "title": "Mionetto 0.0% · Sparkling wine · alcohol free",
+    "description": "Mionetto Sparkling wine alcohol free",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Mionetto",
+                "slug": "mionetto"
+            },
+            "alcoholContent": 0.0,
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/121342100000"
+        },
+        "otherInformation": {
+            "articleNumber": "121342100000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "8006220003533"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/2fd1c655921a25881b909385955e45a6e08028b7/mionetto.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494737",
+            "name": "Wine, beer & spirits",
+            "slugs": [
+                "wine-beer-spirits"
+            ]
+        },
+        {
+            "id": "10583761",
+            "name": "Alcohol free drinks",
+            "slugs": [
+                "wine-beer-spirits",
+                "alcohol-free-drinks"
+            ]
+        },
+        {
+            "id": "10614089",
+            "name": "Champagne & sparkling wines",
+            "slugs": [
+                "wine-beer-spirits",
+                "alcohol-free-drinks",
+                "champagne-sparkling-wines"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/121342100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "9.95",
+            "advertisedDisplayValue": "9.95",
+            "effectiveDisplayValue": "9.95",
+            "multiplier": 1,
+            "value": 9.95,
+            "effectiveValue": 9.95,
+            "advertisedValue": 9.95,
+            "unitPrice": {
+                "value": 1.33,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "750ml",
+        "quantityPrice": "1.33/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T16:22:19"
+}

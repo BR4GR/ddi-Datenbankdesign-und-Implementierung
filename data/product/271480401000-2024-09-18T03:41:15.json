@@ -1,0 +1,137 @@
+{
+    "uid": 100066958,
+    "migrosId": "271480401000",
+    "name": "Migros Bio Fleischtomate",
+    "brand": "Migros Bio",
+    "title": "Migros Bio Fleischtomate",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L73",
+                    "name": "Bio Knospe",
+                    "slug": "bio-knospe",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1687156946/labels/Bio_Knospe"
+                }
+            ],
+            "brand": {
+                "name": "Migros Bio",
+                "slug": "migros-bio",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1678265962/brands/MIGROS_BIO_screen_pantone1_rgb"
+            },
+            "nutritionalCharacteristics": [
+                "Organic"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                }
+            ],
+            "rating": {
+                "nbReviews": 24,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/271480401000"
+        },
+        "otherInformation": {
+            "articleNumber": "271480401000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Saison von",
+                    "value": "Juni"
+                },
+                {
+                    "code": "Saison bis",
+                    "value": "Oktober"
+                },
+                {
+                    "code": "Storage at home",
+                    "value": "gekühlt aufbewahren/lagern"
+                },
+                {
+                    "code": "Washing instructions",
+                    "value": "vor Gebrauch waschen"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "2167273000002",
+        "355919",
+        "7613404571019"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/67d60bee0e32f6e7d90089b7a1ca8d279d3dce4c/migros-bio-fleischtomate.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494757",
+            "name": "Vegetables",
+            "slugs": [
+                "fruits-vegetables",
+                "vegetables"
+            ]
+        },
+        {
+            "id": "7494901",
+            "name": "Tomatoes",
+            "slugs": [
+                "fruits-vegetables",
+                "vegetables",
+                "tomatoes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/271480401000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "8.90",
+            "advertisedDisplayValue": "8.90",
+            "effectiveDisplayValue": "8.90",
+            "multiplier": 1,
+            "value": 8.9,
+            "effectiveValue": 8.9,
+            "advertisedValue": 8.9,
+            "unitPrice": {
+                "value": 0.89,
+                "unit": "100g"
+            }
+        },
+        "quantity": "1 kg",
+        "quantityPrice": "0.89/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-18T03:41:15"
+}

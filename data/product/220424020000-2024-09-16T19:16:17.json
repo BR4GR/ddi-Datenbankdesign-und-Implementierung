@@ -1,0 +1,183 @@
+{
+    "uid": 100143790,
+    "migrosId": "220424020000",
+    "name": "M-Classic Kalbsgeschnetzeltes",
+    "brand": "M-Classic",
+    "title": "M-Classic Kalbsgeschnetzeltes",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "M-Classic",
+                "slug": "m-classic",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252457/brands/m-classic"
+            },
+            "ingredients": "Kalbfleisch",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "animalWelfare": {
+                    "rating": 3,
+                    "image": "https://image.migros.ch/original/02f56762a6d67ea0470f50e5e8cc4d96d84791f0.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/220424020000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "453 kJ (107 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "3 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "1 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "< 0.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "< 0.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "20 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.1 g",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "220424020000",
+            "legalDesignation": "Kalbfleisch",
+            "identificationMark": "CH 88665949",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store refrigerated at max. +5 °C."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "2185672000003",
+        "7617027753852"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/4e381fa791cb43adcf217810146b144df3770e00/m-classic-kalbsgeschnetzeltes.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d015a4169550b73e85d9dcdccd9efbac4efd5591.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494747",
+            "name": "Meat & poultry",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry"
+            ]
+        },
+        {
+            "id": "7494844",
+            "name": "Veal, lamb & horse",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry",
+                "veal-lamb-horse"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/220424020000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-16T19:16:17"
+}

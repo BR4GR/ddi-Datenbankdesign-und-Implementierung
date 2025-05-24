@@ -1,0 +1,137 @@
+{
+    "uid": 100111362,
+    "migrosId": "747272300001",
+    "migrosOnlineId": "10574279",
+    "name": "Learning cutlery set for babies",
+    "brand": "Milette",
+    "brandLine": "Baby Care",
+    "versioning": "From 6 months",
+    "title": "Milette Baby Care · Learning cutlery set for babies · From 6 months",
+    "description": "Milette Learning cutlery set for babies From 6 months",
+    "productRange": "VARIANT",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Milette",
+                "slug": "milette",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076999/brands/Milette_Logo"
+            },
+            "rating": {
+                "nbReviews": 12,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/747272300001"
+        },
+        "otherInformation": {
+            "articleNumber": "747272300001",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613434949390"
+    ],
+    "variants": {
+        "baseProductMigrosId": "747272300000",
+        "mainVariantMigrosId": "747272300001",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "000",
+                    "color": "pastell"
+                },
+                "migrosId": "747272300001"
+            },
+            {
+                "declinationOptions": {
+                    "size": "000",
+                    "color": "tradition"
+                },
+                "migrosId": "747272300002"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "pastell",
+                "options": [
+                    "pastell",
+                    "tradition"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "000",
+                "options": [
+                    "000"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a8f49e1cab1e27ebb718bcea9f8618f1ee3acbe7/cutlery-fruits.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "7494823",
+            "name": "Baby equipment",
+            "slugs": [
+                "baby-kids",
+                "baby-equipment"
+            ]
+        },
+        {
+            "id": "7495222",
+            "name": "Table accessories",
+            "slugs": [
+                "baby-kids",
+                "baby-equipment",
+                "table-accessories"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/747272300001",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.95",
+            "advertisedDisplayValue": "4.95",
+            "effectiveDisplayValue": "4.95",
+            "multiplier": 1,
+            "value": 4.95,
+            "effectiveValue": 4.95,
+            "advertisedValue": 4.95,
+            "unitPrice": {
+                "value": 1.65,
+                "unit": "piece"
+            }
+        },
+        "quantity": "3 Stk.",
+        "quantityPrice": "1.65/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:33:12"
+}

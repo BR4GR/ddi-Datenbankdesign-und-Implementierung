@@ -1,0 +1,136 @@
+{
+    "uid": 100012824,
+    "migrosId": "220658021010",
+    "migrosOnlineId": "73358",
+    "name": "Porc cou en tranches",
+    "brandLine": "IP-SUISSE",
+    "versioning": "Cou",
+    "title": "IP-SUISSE · Porc cou en tranches · Cou",
+    "description": "Porc cou en tranches Cou",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                },
+                {
+                    "id": "L03",
+                    "name": "IP-SUISSE",
+                    "slug": "ip-suisse",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483396/labels/IP-Suisse_-_RGB_-_DE"
+                }
+            ],
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 33,
+                    "productionRatio": 95,
+                    "transportRatio": 3,
+                    "packagingRatio": 3,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                },
+                "animalWelfare": {
+                    "rating": 4,
+                    "image": "https://image.migros.ch/original/58bd3042b45c82e79d3a18e05d0b73cc1abda5fb.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/220658021010"
+        },
+        "usageInformation": {
+            "usage": "2 pièces",
+            "additionalInformation": "Conditionné sous atmosphère protectrice"
+        },
+        "otherInformation": {
+            "articleNumber": "220658021010",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7617100011442"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/923bccf9abc15364776112f867c5fcfd6a48c636/halsplaetzli-schwein-ip-suisse.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494747",
+            "name": "Meat & poultry",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry"
+            ]
+        },
+        {
+            "id": "7494843",
+            "name": "Pork",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry",
+                "pork"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/220658021010",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.70",
+            "advertisedDisplayValue": "2.70",
+            "effectiveDisplayValue": "2.70",
+            "multiplier": 1,
+            "value": 2.7,
+            "effectiveValue": 2.7,
+            "advertisedValue": 2.7,
+            "unitPrice": {
+                "value": 2.7,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "2.70/100g",
+        "isVariableWeight": true,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483166/labels/fresh",
+                "description": "fresh"
+            },
+            {
+                "type": "VARIABLE_WEIGHT",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483133/labels/poids-variable",
+                "description": "Variable Weight"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T03:14:04"
+}

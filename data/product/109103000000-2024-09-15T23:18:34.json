@@ -1,0 +1,121 @@
+{
+    "uid": 100020403,
+    "migrosId": "109103000000",
+    "migrosOnlineId": "107035",
+    "name": "Wood shavings",
+    "brand": "M-Classic",
+    "title": "M-Classic · Wood shavings",
+    "description": "M-Classic Wood shavings ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Classic",
+                "slug": "m-classic",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252457/brands/m-classic"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 7,
+                    "productionRatio": 78,
+                    "transportRatio": 13,
+                    "packagingRatio": 8,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 57,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/109103000000"
+        },
+        "otherInformation": {
+            "articleNumber": "109103000000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Type of pet",
+                    "value": "Nager"
+                },
+                {
+                    "code": "Type of pet hygiene",
+                    "value": "Haustierstreu"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613269293750",
+        "7617015034666",
+        "7610200240040",
+        "7612308000045"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/76ee4cebac64e0a76f5a9e59a3972c73400131a2/holzhobelspaene.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494739",
+            "name": "Pets",
+            "slugs": [
+                "pets"
+            ]
+        },
+        {
+            "id": "7494805",
+            "name": "Other small pets",
+            "slugs": [
+                "pets",
+                "other-small-pets"
+            ]
+        },
+        {
+            "id": "7495133",
+            "name": "Rodents",
+            "slugs": [
+                "pets",
+                "other-small-pets",
+                "rodents"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/109103000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.80",
+            "advertisedDisplayValue": "3.80",
+            "effectiveDisplayValue": "3.80",
+            "multiplier": 1,
+            "value": 3.8,
+            "effectiveValue": 3.8,
+            "advertisedValue": 3.8,
+            "unitPrice": {
+                "value": 0.01,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "60l",
+        "quantityPrice": "0.01/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-15T23:18:34"
+}

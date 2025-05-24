@@ -1,0 +1,97 @@
+{
+    "uid": 100100531,
+    "migrosId": "510410700000",
+    "migrosOnlineId": "10595798",
+    "name": "Dental floss",
+    "brand": "M-Budget",
+    "versioning": "Mint",
+    "title": "M-Budget · Dental floss · Mint",
+    "description": "M-Budget Dental floss Mint",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Budget",
+                "slug": "m-budget",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252456/brands/m-budget"
+            },
+            "rating": {
+                "nbReviews": 54,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/510410700000"
+        },
+        "otherInformation": {
+            "articleNumber": "510410700000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613312378991"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/56814611abde6f6f2173c64a5aae9f35b8ea6def/m-bud-zahnseide-100m.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494829",
+            "name": "Dental care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "dental-care"
+            ]
+        },
+        {
+            "id": "7495254",
+            "name": "Dental floss & dental picks",
+            "slugs": [
+                "drugstore-cosmetics",
+                "dental-care",
+                "dental-floss-dental-picks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/510410700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.15",
+            "advertisedDisplayValue": "1.15",
+            "effectiveDisplayValue": "1.15",
+            "multiplier": 1,
+            "value": 1.15,
+            "effectiveValue": 1.15,
+            "advertisedValue": 1.15,
+            "unitPrice": {
+                "value": 0.01,
+                "unit": "m"
+            }
+        },
+        "quantity": "100m",
+        "quantityPrice": "0.01/m",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:00:20"
+}

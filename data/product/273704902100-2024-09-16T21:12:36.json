@@ -1,0 +1,97 @@
+{
+    "uid": 100052815,
+    "migrosId": "273704902100",
+    "name": "Zucchetti",
+    "brand": "Migros Fresca",
+    "title": "Zucchetti",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Fresca",
+                "slug": "migros-fresca",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076970/brands/Migros_Fresca_Logo"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 3,
+                    "productionRatio": 83,
+                    "transportRatio": 9,
+                    "packagingRatio": 8,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 7,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/273704902100"
+        },
+        "otherInformation": {
+            "articleNumber": "273704902100",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "2124069000004",
+        "356848",
+        "7617027554480"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/bfcc70cb1a9419dc9b149ba2e7fdcb8866ee6c97/zucchetti.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494757",
+            "name": "Vegetables",
+            "slugs": [
+                "fruits-vegetables",
+                "vegetables"
+            ]
+        },
+        {
+            "id": "7494903",
+            "name": "Courgettes, aubergines & peppers",
+            "slugs": [
+                "fruits-vegetables",
+                "vegetables",
+                "courgettes-aubergines-peppers"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/273704902100",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-16T21:12:36"
+}

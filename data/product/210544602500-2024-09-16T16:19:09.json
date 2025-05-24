@@ -1,0 +1,211 @@
+{
+    "uid": 100146309,
+    "migrosId": "210544602500",
+    "name": "Sommer Brie",
+    "title": "Sommer Brie",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                },
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "ingredients": "MILCH, Rahm, Salz",
+            "allergens": "Milk and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "animalWelfare": {
+                    "rating": 3,
+                    "image": "https://image.migros.ch/original/02f56762a6d67ea0470f50e5e8cc4d96d84791f0.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "rating": {
+                "nbReviews": 4,
+                "nbStars": 3.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/210544602500"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1241 kJ (302 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "33 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "20 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "1.2 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "0.5 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "20 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "1 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "210544602500",
+            "legalDesignation": "Schweizer Weissschimmel-Rahmweichkäse aus pasteurisierter Kuhmilch",
+            "identificationMark": "CH 5689",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store refrigerated at max. 5 °C."
+                },
+                {
+                    "code": "Production information",
+                    "value": "from pasteurized milk"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "2153864000001",
+        "307420",
+        "7613269194569"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a1ca7c5a2531be61af81957251b636c86650ed99/sommer-brie.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494752",
+            "name": "Cheese",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese"
+            ]
+        },
+        {
+            "id": "7494872",
+            "name": "Soft cheeses & blue cheeses",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese",
+                "soft-cheeses-blue-cheeses"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/210544602500",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.–",
+            "advertisedDisplayValue": "3.–",
+            "effectiveDisplayValue": "3.–",
+            "multiplier": 1,
+            "value": 3,
+            "effectiveValue": 3,
+            "advertisedValue": 3,
+            "unitPrice": {
+                "value": 3,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "3.–/100g",
+        "isVariableWeight": true,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "VARIABLE_WEIGHT",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483133/labels/poids-variable",
+                "description": "Variable Weight"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T16:19:09"
+}

@@ -1,0 +1,92 @@
+{
+    "uid": 100163191,
+    "migrosId": "113157500000",
+    "name": "Cannoli Gianduja",
+    "title": "Cannoli Gianduja",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 3.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/113157500000"
+        },
+        "otherInformation": {
+            "articleNumber": "113157500000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7623186481154"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/140d3053d6d02d8ee3123f11ef698dbf142673be/cannoli-gianduja.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/e4c6ce872e2c0a38bdc17cc9df95a95ca9276896.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494781",
+            "name": "Biscuits",
+            "slugs": [
+                "snacks-sweets",
+                "biscuits"
+            ]
+        },
+        {
+            "id": "7495010",
+            "name": "Chocolate biscuits & cookies",
+            "slugs": [
+                "snacks-sweets",
+                "biscuits",
+                "chocolate-biscuits-cookies"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/113157500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.95",
+            "advertisedDisplayValue": "5.95",
+            "effectiveDisplayValue": "5.95",
+            "multiplier": 1,
+            "value": 5.95,
+            "effectiveValue": 5.95,
+            "advertisedValue": 5.95,
+            "unitPrice": {
+                "value": 2.98,
+                "unit": "100g"
+            }
+        },
+        "quantity": "200g",
+        "quantityPrice": "2.98/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-18T08:50:28"
+}

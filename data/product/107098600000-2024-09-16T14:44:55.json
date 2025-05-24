@@ -1,0 +1,121 @@
+{
+    "uid": 100017956,
+    "migrosId": "107098600000",
+    "migrosOnlineId": "6653422",
+    "name": "infusion",
+    "brand": "L'éléphant",
+    "brandLine": "bio",
+    "versioning": "mint-thyme",
+    "title": "L'éléphant bio · infusion · mint-thyme",
+    "description": "L'éléphant infusion mint-thyme",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "L'éléphant",
+                "slug": "lelephant"
+            },
+            "nutritionalCharacteristics": [
+                "Organic"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                }
+            ],
+            "ingredients": "Ingrédients : menthe¹ (50%), thym¹ (50%). ¹Ingrédients issus de l'agriculture biologique.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 6,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/107098600000"
+        },
+        "otherInformation": {
+            "articleNumber": "107098600000",
+            "legalDesignation": "Plantes à infusion.",
+            "distributorName": "Unilever",
+            "remarks": [
+                {
+                    "code": "Instructions de stockage pour le consommateur",
+                    "value": "À conserver au sec et à température ambiante."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "8720608005307",
+        "8714100613962"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/7df760bf716b27142734bbebf665e425a0dff97d/elephant-bio-menthe-thymian.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494773",
+            "name": "Tea",
+            "slugs": [
+                "drinks-coffee-tea",
+                "tea"
+            ]
+        },
+        {
+            "id": "7494973",
+            "name": "Herbal infusions with mint",
+            "slugs": [
+                "drinks-coffee-tea",
+                "tea",
+                "herbal-infusions-with-mint"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/107098600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.90",
+            "advertisedDisplayValue": "3.90",
+            "effectiveDisplayValue": "3.90",
+            "multiplier": 1,
+            "value": 3.9,
+            "effectiveValue": 3.9,
+            "advertisedValue": 3.9,
+            "unitPrice": {
+                "value": 15,
+                "unit": "100g"
+            }
+        },
+        "quantity": "26g",
+        "quantityPrice": "15.–/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:44:55"
+}

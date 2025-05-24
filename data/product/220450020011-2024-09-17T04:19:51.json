@@ -1,0 +1,155 @@
+{
+    "uid": 100051922,
+    "migrosId": "220450020011",
+    "name": "Kalbsplätzli IP-SUISSE",
+    "title": "Kalbsplätzli IP-SUISSE",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                },
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                },
+                {
+                    "id": "L03",
+                    "name": "IP-SUISSE",
+                    "slug": "ip-suisse",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483396/labels/IP-Suisse_-_RGB_-_DE"
+                }
+            ],
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 1,
+                    "co2CarKmEquivalent": 135,
+                    "productionRatio": 99,
+                    "transportRatio": 1,
+                    "packagingRatio": 1,
+                    "image": "https://image.migros.ch/original/3e5cee492451bdf61aaed46537f4e5c8eb9a9b98.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3e5cee492451bdf61aaed46537f4e5c8eb9a9b98.svg",
+                    "co2KgRange": "≥10 kg CO₂eq / kg"
+                },
+                "animalWelfare": {
+                    "rating": 4,
+                    "image": "https://image.migros.ch/original/58bd3042b45c82e79d3a18e05d0b73cc1abda5fb.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "rating": {
+                "nbReviews": 32,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/220450020011"
+        },
+        "otherInformation": {
+            "articleNumber": "220450020011",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Additional characteristics",
+                    "value": "natural"
+                },
+                {
+                    "code": "Part",
+                    "value": "Leg"
+                },
+                {
+                    "code": "Meat form processed",
+                    "value": "Schnitzel"
+                },
+                {
+                    "code": "Hygiene notes",
+                    "value": "Rohes Fleisch nicht in Kontakt mit anderen Lebensmitteln bringen. Geschirr und Hände gründlich reinigen. Fleisch immer gut durchgekocht/gebraten servieren."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "2182539000008",
+        "7617027592451"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/5e56d8ef4bd7261923d3dde18c03798addfc486e/kalbsplaetzli-ip-suisse.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/e94016d0b189bb0772fd58881a64c01a1018a15b.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494747",
+            "name": "Meat & poultry",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry"
+            ]
+        },
+        {
+            "id": "7494844",
+            "name": "Veal, lamb & horse",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry",
+                "veal-lamb-horse"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/220450020011",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "8.90",
+            "advertisedDisplayValue": "8.90",
+            "effectiveDisplayValue": "8.90",
+            "multiplier": 1,
+            "value": 8.9,
+            "effectiveValue": 8.9,
+            "advertisedValue": 8.9,
+            "unitPrice": {
+                "value": 8.9,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "8.90/100g",
+        "isVariableWeight": true,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "VARIABLE_WEIGHT",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483133/labels/poids-variable",
+                "description": "Variable Weight"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:19:51"
+}

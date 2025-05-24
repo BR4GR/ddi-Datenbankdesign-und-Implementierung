@@ -1,0 +1,93 @@
+{
+    "uid": 100144078,
+    "migrosId": "113111800200",
+    "name": "Apfelkuchen",
+    "brand": "In-store bakery",
+    "title": "Apfelkuchen",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "In-store bakery",
+                "slug": "in-store-bakery"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/113111800200"
+        },
+        "otherInformation": {
+            "articleNumber": "113111800200",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613269666844"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/2a9463371fa7f766c70cb5ea8b47fadb894926e2/apfelkuchen.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/90bd5a86665dea502210680c43471eef7cfb6513.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494765",
+            "name": "Pastries",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "pastries"
+            ]
+        },
+        {
+            "id": "7494932",
+            "name": "Fresh pastries",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "pastries",
+                "fresh-pastries"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/113111800200",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "8.20",
+            "advertisedDisplayValue": "8.20",
+            "effectiveDisplayValue": "8.20",
+            "multiplier": 1,
+            "value": 8.2,
+            "effectiveValue": 8.2,
+            "advertisedValue": 8.2,
+            "unitPrice": {
+                "value": 2.65,
+                "unit": "100g"
+            }
+        },
+        "quantity": "310g",
+        "quantityPrice": "2.65/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T20:15:59"
+}

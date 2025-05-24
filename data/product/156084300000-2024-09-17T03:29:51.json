@@ -1,0 +1,197 @@
+{
+    "uid": 100053033,
+    "migrosId": "156084300000",
+    "name": "Polli Olive Rondelle",
+    "brand": "Polli",
+    "title": "Polli Olive Rondelle",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Polli",
+                "slug": "polli",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077076/brands/Polli_F.lli_Polli_S.p.A._Logo"
+            },
+            "ingredients": "Green and black olives in variable proportions 96%, salt, sunflower oil, antioxidant: ascorbic acid, acidity regulator: tartaric acid, stabilizer: ferrous gluconate",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 3,
+                    "productionRatio": 56,
+                    "transportRatio": 11,
+                    "packagingRatio": 32,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 9,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/156084300000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "599 kJ (146 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "14.8 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "2.4 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "0.2 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "1 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "3.5 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "usageInformation": {
+            "conservation": "Room temperature. After opening store in the refrigerator",
+            "preparationInstructions": "Ready to use"
+        },
+        "otherInformation": {
+            "articleNumber": "156084300000",
+            "legalDesignation": "Green and black olives in sunflower oil",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Packaging type",
+                    "value": "Kunststoff-Verpackung"
+                },
+                {
+                    "code": "Pitted",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Number of removable individual units",
+                    "value": "2"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "80090236"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/c88772df81d168f32180a3fdcc1c5b0c7e8e23bd/polli-olive-rondelle.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494780",
+            "name": "Snacks & crisps",
+            "slugs": [
+                "snacks-sweets",
+                "snacks-crisps"
+            ]
+        },
+        {
+            "id": "7495004",
+            "name": "Olives & antipasti",
+            "slugs": [
+                "snacks-sweets",
+                "snacks-crisps",
+                "olives-antipasti"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/156084300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.40",
+            "advertisedDisplayValue": "2.40",
+            "effectiveDisplayValue": "2.40",
+            "multiplier": 1,
+            "value": 2.4,
+            "effectiveValue": 2.4,
+            "advertisedValue": 2.4,
+            "unitPrice": {
+                "value": 3,
+                "unit": "100g"
+            }
+        },
+        "quantity": "80g",
+        "quantityPrice": "3.–/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T03:29:51"
+}

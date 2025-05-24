@@ -1,0 +1,113 @@
+{
+    "uid": 100124823,
+    "migrosId": "702037700000",
+    "name": "Espresso cup",
+    "brand": "MIGROS KITCHEN & CO.",
+    "title": "Espresso cup",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "MIGROS KITCHEN & CO.",
+                "slug": "migros-kitchen-co",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1715075047/brands/MIGROS_KitchenCo_CS4"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/702037700000"
+        },
+        "otherInformation": {
+            "articleNumber": "702037700000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Material",
+                    "value": "Kraftpapier"
+                },
+                {
+                    "code": "Content",
+                    "value": "10 Pcs."
+                },
+                {
+                    "code": "Volume",
+                    "value": "100 ml"
+                },
+                {
+                    "code": "suitable for food products",
+                    "value": "Yes"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613434772967"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d0ec687edc37cd1d09f19dd8faa163aee5c54748/espresso-cup.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494814",
+            "name": "Kitchen & dining",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining"
+            ]
+        },
+        {
+            "id": "7495178",
+            "name": "Table",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining",
+                "table"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/702037700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.50",
+            "advertisedDisplayValue": "2.50",
+            "effectiveDisplayValue": "2.50",
+            "multiplier": 1,
+            "value": 2.5,
+            "effectiveValue": 2.5,
+            "advertisedValue": 2.5,
+            "unitPrice": {
+                "value": 0.25,
+                "unit": "piece"
+            }
+        },
+        "quantity": "10 Stk.",
+        "quantityPrice": "0.25/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T16:50:57"
+}

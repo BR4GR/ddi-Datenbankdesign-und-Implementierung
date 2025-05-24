@@ -1,0 +1,132 @@
+{
+    "uid": 100159869,
+    "migrosId": "220224100001",
+    "name": "Rindsgeschnetzeltes",
+    "title": "Rindsgeschnetzeltes",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                },
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/220224100001"
+        },
+        "otherInformation": {
+            "articleNumber": "220224100001",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Additional characteristics",
+                    "value": "raw"
+                },
+                {
+                    "code": "Production process",
+                    "value": "Contains no bones"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Tray"
+                },
+                {
+                    "code": "Meat form processed",
+                    "value": "In slices"
+                },
+                {
+                    "code": "Hygiene notes",
+                    "value": "﻿Do not allow raw meat to come into contact with other food. Wash hands and dishes thoroughly. Always serve meat well cooked/fried."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "2170326000003",
+        "7623186178603"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/91d7f4e6cc2401e5beb00529d734a62efe7432ee/rindsgeschnetzeltes.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/7c5f53c3dd1e5ab66774f020174ffde2a692016b.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494747",
+            "name": "Meat & poultry",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry"
+            ]
+        },
+        {
+            "id": "7494841",
+            "name": "Beef",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry",
+                "beef"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/220224100001",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.10",
+            "advertisedDisplayValue": "4.10",
+            "effectiveDisplayValue": "4.10",
+            "multiplier": 1,
+            "value": 4.1,
+            "effectiveValue": 4.1,
+            "advertisedValue": 4.1,
+            "unitPrice": {
+                "value": 4.1,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "4.10/100g",
+        "isVariableWeight": true,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "VARIABLE_WEIGHT",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483133/labels/poids-variable",
+                "description": "Variable Weight"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:43:56"
+}

@@ -1,0 +1,104 @@
+{
+    "uid": 100142748,
+    "migrosId": "222850115001",
+    "name": "Rehschnitzel",
+    "title": "Rehschnitzel",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                },
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/222850115001"
+        },
+        "otherInformation": {
+            "articleNumber": "222850115001",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "2170637000006",
+        "161725",
+        "7623186227356"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/00ddcb68c826d10ca7028d2eebd87f7902ec697d/rehschnitzel.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494747",
+            "name": "Meat & poultry",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry"
+            ]
+        },
+        {
+            "id": "7494848",
+            "name": "Game",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry",
+                "game"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/222850115001",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.90",
+            "advertisedDisplayValue": "6.90",
+            "effectiveDisplayValue": "6.90",
+            "multiplier": 1,
+            "value": 6.9,
+            "effectiveValue": 6.9,
+            "advertisedValue": 6.9,
+            "unitPrice": {
+                "value": 6.9,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "6.90/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T06:45:52"
+}

@@ -1,0 +1,106 @@
+{
+    "uid": 100145869,
+    "migrosId": "131312601300",
+    "name": "Migros Daily Mezzaluna Schink/Käs",
+    "brand": "Migros Daily",
+    "title": "Migros Daily Mezzaluna Schink/Käs",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Daily",
+                "slug": "migros-daily",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076969/brands/Migros_Daily_Logo"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 3,
+                    "co2CarKmEquivalent": 16,
+                    "productionRatio": 92,
+                    "transportRatio": 1,
+                    "packagingRatio": 5,
+                    "image": "https://image.migros.ch/original/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "co2KgRange": "2 - 4.7 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 2.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/131312601300"
+        },
+        "otherInformation": {
+            "articleNumber": "131312601300",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613404827697"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/456033d36fb0ec78307cd3625476b260d3277ee3/migros-daily-mezzaluna-schinkkaes.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494754",
+            "name": "Fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food"
+            ]
+        },
+        {
+            "id": "7494887",
+            "name": "Ready-made meals",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food",
+                "ready-made-meals"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/131312601300",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.90",
+            "advertisedDisplayValue": "6.90",
+            "effectiveDisplayValue": "6.90",
+            "multiplier": 1,
+            "value": 6.9,
+            "effectiveValue": 6.9,
+            "advertisedValue": 6.9,
+            "unitPrice": {
+                "value": 4.31,
+                "unit": "100g"
+            }
+        },
+        "quantity": "160g",
+        "quantityPrice": "4.31/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T03:13:51"
+}

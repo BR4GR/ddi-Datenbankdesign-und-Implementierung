@@ -1,0 +1,118 @@
+{
+    "uid": 100029473,
+    "migrosId": "526277500000",
+    "migrosOnlineId": "3056533",
+    "name": "Toilet paper",
+    "brand": "Soft",
+    "brandLine": "Supreme Kamille",
+    "versioning": "4 layers",
+    "title": "Soft Supreme Kamille · Toilet paper · 4 layers",
+    "description": "Soft Toilet paper 4 layers",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L09",
+                    "name": "FSC®",
+                    "slug": "fsc",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483057/labels/FSC_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "Soft",
+                "slug": "soft",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252490/brands/soft"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 10,
+                    "productionRatio": 85,
+                    "transportRatio": 6,
+                    "packagingRatio": 9,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 72,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/526277500000"
+        },
+        "otherInformation": {
+            "articleNumber": "526277500000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613312410004",
+        "7613269310594"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ae06c8db5a305d326c5bf2145a947e17b0a6117e/toilet-paper-chamomile.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/b8d4bde024c207691dbf01efaf055a7f263daecc.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494830",
+            "name": "Hygiene & protection",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hygiene-protection"
+            ]
+        },
+        {
+            "id": "7495256",
+            "name": "Toilet paper & wet wipes",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hygiene-protection",
+                "toilet-paper-wet-wipes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/526277500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "14.55",
+            "advertisedDisplayValue": "14.55",
+            "effectiveDisplayValue": "14.55",
+            "multiplier": 1,
+            "value": 14.55,
+            "effectiveValue": 14.55,
+            "advertisedValue": 14.55
+        },
+        "quantity": "24 Stk.",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T19:24:43"
+}

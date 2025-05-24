@@ -1,0 +1,171 @@
+{
+    "uid": 100080174,
+    "migrosId": "723973000007",
+    "name": "Ipuro Duftkerze",
+    "brand": "Ipuro",
+    "title": "Ipuro Duftkerze",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Ipuro",
+                "slug": "ipuro",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076769/brands/ipuro_Gries_Deco_Company_GmbH_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 25,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/723973000007"
+        },
+        "otherInformation": {
+            "articleNumber": "723973000007",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Content quantity",
+                    "value": "1 Pcs."
+                },
+                {
+                    "code": "Content",
+                    "value": "125 g"
+                },
+                {
+                    "code": "Scent",
+                    "value": "Cedar Wood"
+                },
+                {
+                    "code": "Burn time",
+                    "value": "25 h"
+                },
+                {
+                    "code": "Material",
+                    "value": "Palmwachs, Paraffin, Glas"
+                },
+                {
+                    "code": "Color",
+                    "value": "hellbraun"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4051281984387"
+    ],
+    "variants": {
+        "baseProductMigrosId": "723973000000",
+        "mainVariantMigrosId": "723973000003",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "typ_duft": "FLOWER BOWL"
+                },
+                "migrosId": "723973000003"
+            },
+            {
+                "declinationOptions": {
+                    "typ_duft": "COTTON FIELDS"
+                },
+                "migrosId": "723973000005"
+            },
+            {
+                "declinationOptions": {
+                    "typ_duft": "CEDAR WOOD"
+                },
+                "migrosId": "723973000007"
+            },
+            {
+                "declinationOptions": {
+                    "typ_duft": "SUNNY BEACH"
+                },
+                "migrosId": "723973000010"
+            },
+            {
+                "declinationOptions": {
+                    "typ_duft": "LAVENDER TOUCH"
+                },
+                "migrosId": "723973000011"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "typ_duft",
+                "dimensionName": "Duft",
+                "currentValue": "CEDAR WOOD",
+                "options": [
+                    "FLOWER BOWL",
+                    "COTTON FIELDS",
+                    "CEDAR WOOD",
+                    "SUNNY BEACH",
+                    "LAVENDER TOUCH"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1fbb0d045d4da3f376ea91dc8533180c4f1a2e52/ipuro-duftkerze.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494811",
+            "name": "Household aids",
+            "slugs": [
+                "household-and-living",
+                "household-aids"
+            ]
+        },
+        {
+            "id": "7495163",
+            "name": "Air fresheners",
+            "slugs": [
+                "household-and-living",
+                "household-aids",
+                "air-fresheners"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/723973000007",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.95",
+            "advertisedDisplayValue": "5.95",
+            "effectiveDisplayValue": "5.95",
+            "multiplier": 1,
+            "value": 5.95,
+            "effectiveValue": 5.95,
+            "advertisedValue": 5.95,
+            "unitPrice": {
+                "value": 5.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "5.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T22:10:39"
+}

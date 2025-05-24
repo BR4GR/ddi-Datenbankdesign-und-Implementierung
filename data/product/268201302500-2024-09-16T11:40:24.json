@@ -1,0 +1,91 @@
+{
+    "uid": 100143824,
+    "migrosId": "268201302500",
+    "name": "Saft Gross 3",
+    "brand": "Migros Fresca",
+    "title": "Saft Gross 3",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Fresca",
+                "slug": "migros-fresca",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076970/brands/Migros_Fresca_Logo"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/268201302500"
+        },
+        "otherInformation": {
+            "articleNumber": "268201302500",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613269960690",
+        "7640102513829"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/e6468b7e1c76b6fa26b20442d8d59f0ae3acd50f/saft-gross-3.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494761",
+            "name": "Ready to use",
+            "slugs": [
+                "fruits-vegetables",
+                "ready-to-use"
+            ]
+        },
+        {
+            "id": "7494920",
+            "name": "Vegetables",
+            "slugs": [
+                "fruits-vegetables",
+                "ready-to-use",
+                "vegetables"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/268201302500",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.50",
+            "advertisedDisplayValue": "4.50",
+            "effectiveDisplayValue": "4.50",
+            "multiplier": 1,
+            "value": 4.5,
+            "effectiveValue": 4.5,
+            "advertisedValue": 4.5,
+            "unitPrice": {
+                "value": 1.13,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "4dl",
+        "quantityPrice": "1.13/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T11:40:24"
+}

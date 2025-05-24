@@ -1,0 +1,188 @@
+{
+    "uid": 100152761,
+    "migrosId": "120233900000",
+    "migrosOnlineId": "12116487",
+    "name": "Energy drink",
+    "brand": "El Tony",
+    "brandLine": "Mate & Mint",
+    "versioning": "Mate tea infusion",
+    "title": "El Tony Mate & Mint · Energy drink · Mate tea infusion",
+    "description": "El Tony Energy drink Mate tea infusion",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "El Tony",
+                "slug": "el-tony",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1656506251/brands/El_Tony_intelligentfood_Schweiz_AG_Logo"
+            },
+            "nutritionalCharacteristics": [
+                "Vegan"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegan"
+                }
+            ],
+            "ingredients": "Infusion of mate (77%) and mint (14%) (water, mate and mint), cane sugar, lemon juice from lemon concentrate, carbon dioxide, natural caffeine, natural flavor",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/120233900000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            " (23 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "< 0.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "< 0.1 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "< 0.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "< 0.01 g",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "120233900000",
+            "legalDesignation": "Caffeinated soft drink",
+            "distributorName": "intelligentfood",
+            "distributorStreetAndNumber": "Suurstoffi 20, CH-6343 Rotkreuz",
+            "remarks": [
+                {
+                    "code": "Consumer storage instructions",
+                    "value": "cool and dry"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegan, Vegetarian"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7640150491414",
+        "7613312454084"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1083a24afd830066d9bd00928683cf755b2cf2ee/el-tony-mate-mint.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/83bf6e14005062a12485460028fc2246044524e3.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494769",
+            "name": "Soft drinks",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks"
+            ]
+        },
+        {
+            "id": "7494953",
+            "name": "Energy & sport drinks",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks",
+                "energy-sport-drinks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/120233900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "45.60",
+            "advertisedDisplayValue": "45.60",
+            "effectiveDisplayValue": "45.60",
+            "multiplier": 1,
+            "value": 45.6,
+            "effectiveValue": 45.6,
+            "advertisedValue": 45.6,
+            "unitPrice": {
+                "value": 0.58,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "24 x 330ml",
+        "quantityPrice": "0.58/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:36:29"
+}

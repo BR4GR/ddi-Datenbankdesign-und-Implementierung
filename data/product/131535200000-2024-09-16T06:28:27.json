@@ -1,0 +1,102 @@
+{
+    "uid": 100146934,
+    "migrosId": "131535200000",
+    "name": "Sushiritto Fisch",
+    "title": "Sushiritto Fisch",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/131535200000"
+        },
+        "otherInformation": {
+            "articleNumber": "131535200000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Packaging type",
+                    "value": "Karton"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613404756690"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/4d300ef2c89e1f76eef114660169c5b1f8a73fee/sushiritto-fisch.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/9042d1cae5228d50caf70297893f8d0dd651ab02.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494749",
+            "name": "Fish",
+            "slugs": [
+                "meat-fish",
+                "fish"
+            ]
+        },
+        {
+            "id": "7494862",
+            "name": "Sushi",
+            "slugs": [
+                "meat-fish",
+                "fish",
+                "sushi"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/131535200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.95",
+            "advertisedDisplayValue": "6.95",
+            "effectiveDisplayValue": "6.95",
+            "multiplier": 1,
+            "value": 6.95,
+            "effectiveValue": 6.95,
+            "advertisedValue": 6.95,
+            "unitPrice": {
+                "value": 4.63,
+                "unit": "100g"
+            }
+        },
+        "quantity": "150g",
+        "quantityPrice": "4.63/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T06:28:27"
+}

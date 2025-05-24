@@ -1,0 +1,126 @@
+{
+    "uid": 100049348,
+    "migrosId": "130924800000",
+    "migrosOnlineId": "6815707",
+    "name": "Veggie Carre",
+    "brand": "Garden Gourmet",
+    "versioning": "Cherry tomatoes, mozzarella & basil",
+    "title": "Garden Gourmet · Veggie Carre · Cherry tomatoes, mozzarella & basil",
+    "description": "Garden Gourmet Veggie Carre Cherry tomatoes, mozzarella & basil",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L58",
+                    "name": "V-Label vegetarisch",
+                    "slug": "v-label-vegetarisch",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483422/labels/V-Label_Vegetarisch_Color"
+                }
+            ],
+            "brand": {
+                "name": "Garden Gourmet",
+                "slug": "garden-gourmet",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076709/brands/Garden_Gourmet_Nestle%CC%81_Suisse_S.A.___Pet_Care_Logo"
+            },
+            "nutritionalCharacteristics": [
+                "Vegetarian"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegetarian"
+                }
+            ],
+            "rating": {
+                "nbReviews": 6,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/130924800000"
+        },
+        "otherInformation": {
+            "articleNumber": "130924800000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "﻿Vegetarian"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613404727072"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/cb62e0272665ee2ec0a128ece8389b25d15678d0/garden-gourmet-veggie-carre.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494750",
+            "name": "Plant-based alternatives",
+            "slugs": [
+                "meat-fish",
+                "plant-based-alternatives"
+            ]
+        },
+        {
+            "id": "7494864",
+            "name": "Alternatives to burgers, cutlets & falafel",
+            "slugs": [
+                "meat-fish",
+                "plant-based-alternatives",
+                "alternatives-to-burgers-cutlets"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/130924800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.40",
+            "advertisedDisplayValue": "7.40",
+            "effectiveDisplayValue": "7.40",
+            "multiplier": 1,
+            "value": 7.4,
+            "effectiveValue": 7.4,
+            "advertisedValue": 7.4,
+            "unitPrice": {
+                "value": 2.31,
+                "unit": "100g"
+            }
+        },
+        "quantity": "2 x 160g",
+        "quantityPrice": "2.31/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483166/labels/fresh",
+                "description": "fresh"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T10:38:33"
+}

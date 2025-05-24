@@ -1,0 +1,134 @@
+{
+    "uid": 100133349,
+    "migrosId": "747271400001",
+    "name": "Milette stainless cup",
+    "brand": "Milette",
+    "title": "Milette stainless cup",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Milette",
+                "slug": "milette",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076999/brands/Milette_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/747271400001"
+        },
+        "otherInformation": {
+            "articleNumber": "747271400001",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613434946535"
+    ],
+    "variants": {
+        "baseProductMigrosId": "747271400000",
+        "mainVariantMigrosId": "747271400001",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "pastell",
+                    "size": "000"
+                },
+                "migrosId": "747271400001"
+            },
+            {
+                "declinationOptions": {
+                    "color": "tradition",
+                    "size": "000"
+                },
+                "migrosId": "747271400002"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "pastell",
+                "options": [
+                    "pastell",
+                    "tradition"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "000",
+                "options": [
+                    "000"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/04d8ba804492d21305f33d2701b3f9b21c80ed3e/milette-stainless-cup.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "7494823",
+            "name": "Baby equipment",
+            "slugs": [
+                "baby-kids",
+                "baby-equipment"
+            ]
+        },
+        {
+            "id": "7495222",
+            "name": "Table accessories",
+            "slugs": [
+                "baby-kids",
+                "baby-equipment",
+                "table-accessories"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/747271400001",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "16.95",
+            "advertisedDisplayValue": "16.95",
+            "effectiveDisplayValue": "16.95",
+            "multiplier": 1,
+            "value": 16.95,
+            "effectiveValue": 16.95,
+            "advertisedValue": 16.95,
+            "unitPrice": {
+                "value": 16.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "16.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T16:23:19"
+}

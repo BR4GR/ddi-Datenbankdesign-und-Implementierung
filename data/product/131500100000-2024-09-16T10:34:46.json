@@ -1,0 +1,110 @@
+{
+    "uid": 100067263,
+    "migrosId": "131500100000",
+    "name": "Sushi Tokio",
+    "title": "Sushi Tokio",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "rating": {
+                "nbReviews": 6,
+                "nbStars": 3.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/131500100000"
+        },
+        "otherInformation": {
+            "articleNumber": "131500100000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "with sauce",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "packed up"
+                },
+                {
+                    "code": "Meal",
+                    "value": "Hauptmahlzeit"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613404755334"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a698110eedf24141e664c6512e97ddf5af7895f6/sushi-tokio.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1c1073317e1f54c72f5aca4085811e7757714470.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494749",
+            "name": "Fish",
+            "slugs": [
+                "meat-fish",
+                "fish"
+            ]
+        },
+        {
+            "id": "7494862",
+            "name": "Sushi",
+            "slugs": [
+                "meat-fish",
+                "fish",
+                "sushi"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/131500100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "19.95",
+            "advertisedDisplayValue": "19.95",
+            "effectiveDisplayValue": "19.95",
+            "multiplier": 1,
+            "value": 19.95,
+            "effectiveValue": 19.95,
+            "advertisedValue": 19.95,
+            "unitPrice": {
+                "value": 11.08,
+                "unit": "100g"
+            }
+        },
+        "quantity": "240g",
+        "quantityPrice": "11.08/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T10:34:46"
+}

@@ -1,0 +1,193 @@
+{
+    "uid": 100141188,
+    "migrosId": "106302100000",
+    "name": "M-Classic Chili Mix",
+    "brand": "M-Classic",
+    "title": "M-Classic Chili Mix",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Classic",
+                "slug": "m-classic",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252457/brands/m-classic"
+            },
+            "ingredients": "Paprika, Kreuzkümmel, Cayennepfeffer 6%, Kochsalz jodiert, Oregano, Knoblauch.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 5,
+                    "productionRatio": 77,
+                    "transportRatio": 6,
+                    "packagingRatio": 17,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 13,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/106302100000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1307 kJ (315 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "13 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "2 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "21 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "8.7 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "31 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "13 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "5.2 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "106302100000",
+            "legalDesignation": "Gewürzzubereitung",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store in a cool, dry place and protected from light."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312412121"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/2fab001a940d88c7e9703fc8513e4c5ef0be213b/m-classic-chili-mix.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494776",
+            "name": "Spices & sauces",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces"
+            ]
+        },
+        {
+            "id": "7494984",
+            "name": "Spices, herbs & seasonings",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces",
+                "spices-herbs-seasonings"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/106302100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.75",
+            "advertisedDisplayValue": "1.75",
+            "effectiveDisplayValue": "1.75",
+            "multiplier": 1,
+            "value": 1.75,
+            "effectiveValue": 1.75,
+            "advertisedValue": 1.75,
+            "unitPrice": {
+                "value": 3.6,
+                "unit": "100g"
+            }
+        },
+        "quantity": "48g",
+        "quantityPrice": "3.60/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:19:28"
+}

@@ -1,0 +1,130 @@
+{
+    "uid": 100036882,
+    "migrosId": "526122600000",
+    "migrosOnlineId": "218911",
+    "name": "Tissues",
+    "brand": "Linsoft",
+    "brandLine": "Classic",
+    "versioning": "100 sheets, 4 ply",
+    "title": "Linsoft Classic · Tissues · 100 sheets, 4 ply",
+    "description": "Linsoft Tissues 100 sheets, 4 ply",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L09",
+                    "name": "FSC®",
+                    "slug": "fsc",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483057/labels/FSC_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "Linsoft",
+                "slug": "linsoft",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076890/brands/Linsoft_Logo"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 6,
+                    "productionRatio": 77,
+                    "transportRatio": 8,
+                    "packagingRatio": 15,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 139,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/526122600000"
+        },
+        "otherInformation": {
+            "articleNumber": "526122600000",
+            "additionalIndications": "This item is available in several designs. The item delivered may vary from the one shown in the photo.",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Taschentücher"
+                },
+                {
+                    "code": "Features",
+                    "value": "FSC zertifizierter Frischzellstoff"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312052570",
+        "7613269283621"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/0a7953a9800aebffdba68d492b160e2178d78e95/linsoft-taschentuecher-box.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494830",
+            "name": "Hygiene & protection",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hygiene-protection"
+            ]
+        },
+        {
+            "id": "7495257",
+            "name": "Tissues",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hygiene-protection",
+                "tissues"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/526122600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.30",
+            "advertisedDisplayValue": "2.30",
+            "effectiveDisplayValue": "2.30",
+            "multiplier": 1,
+            "value": 2.3,
+            "effectiveValue": 2.3,
+            "advertisedValue": 2.3,
+            "unitPrice": {
+                "value": 0.02,
+                "unit": "piece"
+            }
+        },
+        "quantity": "100 Stk.",
+        "quantityPrice": "0.02/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-15T21:20:27"
+}

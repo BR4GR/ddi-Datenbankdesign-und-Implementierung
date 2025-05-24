@@ -1,0 +1,94 @@
+{
+    "uid": 100050508,
+    "migrosId": "120810500000",
+    "name": "Brio blau",
+    "brand": "Brio",
+    "title": "Brio blau",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Brio",
+                "slug": "brio",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252402/brands/brio"
+            },
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/120810500000"
+        },
+        "otherInformation": {
+            "articleNumber": "120810500000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "8009245003007"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/8d21feadca12118b6fcb3d1014b886044d2e0cd7/brio-blau.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494770",
+            "name": "Water",
+            "slugs": [
+                "drinks-coffee-tea",
+                "water"
+            ]
+        },
+        {
+            "id": "7494956",
+            "name": "Sparkling water",
+            "slugs": [
+                "drinks-coffee-tea",
+                "water",
+                "sparkling-water"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/120810500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.90",
+            "advertisedDisplayValue": "4.90",
+            "effectiveDisplayValue": "4.90",
+            "multiplier": 1,
+            "value": 4.9,
+            "effectiveValue": 4.9,
+            "advertisedValue": 4.9,
+            "unitPrice": {
+                "value": 0.05,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "6 x 1.5l",
+        "quantityPrice": "0.05/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:58:32"
+}

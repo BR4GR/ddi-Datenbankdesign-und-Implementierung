@@ -1,0 +1,108 @@
+{
+    "uid": 100121416,
+    "migrosId": "233001570000",
+    "name": "Bresaola",
+    "title": "Bresaola",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 1,
+                    "co2CarKmEquivalent": 132,
+                    "productionRatio": 98,
+                    "transportRatio": 0,
+                    "packagingRatio": 0,
+                    "image": "https://image.migros.ch/original/3e5cee492451bdf61aaed46537f4e5c8eb9a9b98.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3e5cee492451bdf61aaed46537f4e5c8eb9a9b98.svg",
+                    "co2KgRange": "≥10 kg CO₂eq / kg"
+                }
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/233001570000"
+        },
+        "otherInformation": {
+            "articleNumber": "233001570000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "2160173000004",
+        "7613269719359"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/52d34f505d30d115034c8e3c8b319870c31188e1/bresaola.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ba8b448fc838837eee680d97438a015d590c26f0.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494748",
+            "name": "Cold cuts",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts"
+            ]
+        },
+        {
+            "id": "7494850",
+            "name": "Raw ham & cured meats",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts",
+                "raw-ham-cured-meats"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/233001570000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.35",
+            "advertisedDisplayValue": "6.35",
+            "effectiveDisplayValue": "6.35",
+            "multiplier": 1,
+            "value": 6.35,
+            "effectiveValue": 6.35,
+            "advertisedValue": 6.35,
+            "unitPrice": {
+                "value": 6.35,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "6.35/100g",
+        "isVariableWeight": true,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "VARIABLE_WEIGHT",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483133/labels/poids-variable",
+                "description": "Variable Weight"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T21:24:09"
+}

@@ -1,0 +1,202 @@
+{
+    "uid": 100121686,
+    "migrosId": "805424830541",
+    "name": "T-shirt",
+    "brand": "Kids",
+    "title": "T-shirt",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Kids",
+                "slug": "kids",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076840/brands/KIDS_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/805424830541"
+        },
+        "otherInformation": {
+            "articleNumber": "805424830541",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Zielgruppe",
+                    "value": "Kinder"
+                },
+                {
+                    "code": "Article type",
+                    "value": "Kurzarmshirt"
+                },
+                {
+                    "code": "Altersgruppe",
+                    "value": "Kinder"
+                },
+                {
+                    "code": "Look",
+                    "value": "Loose Fit"
+                },
+                {
+                    "code": "Material",
+                    "value": "Polyester"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "100 %"
+                },
+                {
+                    "code": "Age",
+                    "value": "12-14 Jahre"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "Elastisch, Sport"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613434863221"
+    ],
+    "variants": {
+        "baseProductMigrosId": "805424800000",
+        "mainVariantMigrosId": "805424830041",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "2-4 // 98/104",
+                    "color": "light blue"
+                },
+                "migrosId": "805424830041"
+            },
+            {
+                "declinationOptions": {
+                    "size": "4-6 // 110/116",
+                    "color": "light blue"
+                },
+                "migrosId": "805424830141"
+            },
+            {
+                "declinationOptions": {
+                    "size": "6-8 // 122/128",
+                    "color": "light blue"
+                },
+                "migrosId": "805424830241"
+            },
+            {
+                "declinationOptions": {
+                    "size": "8-10 // 134/140",
+                    "color": "light blue"
+                },
+                "migrosId": "805424830341"
+            },
+            {
+                "declinationOptions": {
+                    "size": "10-12 // 146/152",
+                    "color": "light blue"
+                },
+                "migrosId": "805424830441"
+            },
+            {
+                "declinationOptions": {
+                    "size": "12-14 // 158/164",
+                    "color": "light blue"
+                },
+                "migrosId": "805424830541"
+            },
+            {
+                "declinationOptions": {
+                    "size": "14-16 // 170/176",
+                    "color": "light blue"
+                },
+                "migrosId": "805424830641"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "light blue",
+                "options": [
+                    "light blue"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "12-14 // 158/164",
+                "options": [
+                    "2-4 // 98/104",
+                    "4-6 // 110/116",
+                    "6-8 // 122/128",
+                    "8-10 // 134/140",
+                    "10-12 // 146/152",
+                    "12-14 // 158/164",
+                    "14-16 // 170/176"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/c2dea0a4df5180c58ec534c46d9457e6e049e759/t-shirt.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "11117258",
+            "name": "Children's clothing",
+            "slugs": [
+                "baby-kids",
+                "childrens-clothing"
+            ]
+        },
+        {
+            "id": "11124117",
+            "name": "Children's clothes",
+            "slugs": [
+                "baby-kids",
+                "childrens-clothing",
+                "childrens-clothes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/805424830541",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "14.95",
+            "advertisedDisplayValue": "14.95",
+            "effectiveDisplayValue": "14.95",
+            "multiplier": 1,
+            "value": 14.95,
+            "effectiveValue": 14.95,
+            "advertisedValue": 14.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T10:01:43"
+}

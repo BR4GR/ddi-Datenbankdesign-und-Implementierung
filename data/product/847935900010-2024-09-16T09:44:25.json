@@ -1,0 +1,159 @@
+{
+    "uid": 100088122,
+    "migrosId": "847935900010",
+    "name": "TANA Shoe Deo Antibak.",
+    "brand": "Tana",
+    "title": "TANA Shoe Deo Antibak.",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Tana",
+                "slug": "tana",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252501/brands/tana"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 25,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/847935900010"
+        },
+        "usageInformation": {
+            "signalWord": "Gefahr",
+            "chemicalPictosV2": [
+                {
+                    "cdn": "rokka",
+                    "pictoId": "GHS02",
+                    "pictoPath": "https://image.migros.ch/original/45c0793944b0697e7b8b20b514a368ecbeea0633/Flamme.jpg",
+                    "pictoPathStack": "https://image.migros.ch/{stack}/45c0793944b0697e7b8b20b514a368ecbeea0633/Flamme.jpg"
+                }
+            ],
+            "chemicalWarnings": [
+                "Extrem entzündbares Aerosol.",
+                "Behälter steht unter Druck: kann bei Erwärmung bersten."
+            ],
+            "chemicalSafetyInstructions": [
+                "Von Hitze, heissen Oberflächen, Funken, offenen Flammen sowie anderen Zündquellenarten fernhalten. Nicht rauchen.",
+                "Vor Sonnenbestrahlung schützen und nicht Temperaturen von mehr als 50°C aussetzen.",
+                "Nicht gegen offene Flamme oder andere Zündquelle sprühen.",
+                "BEI KONTAKT MIT DEN AUGEN: Einige Minuten lang behutsam mit Wasser ausspülen. Eventuell vorhandene Kontaktlinsen nach Möglichkeit entfernen. Weiter spülen.",
+                "Nicht durchstechen oder verbrennen, auch nicht nach Gebrauch.",
+                "Darf nicht in die Hände von Kindern gelangen."
+            ]
+        },
+        "otherInformation": {
+            "articleNumber": "847935900010",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Imprägnierer"
+                },
+                {
+                    "code": "Category/theme",
+                    "value": "Pflegemittel"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "Hygienische Frische"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4053201074055",
+        "4053201046700"
+    ],
+    "variants": {
+        "baseProductMigrosId": "847935900000",
+        "mainVariantMigrosId": "847935900010",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "white",
+                    "size": "000"
+                },
+                "migrosId": "847935900010"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "white",
+                "options": [
+                    "white"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "000",
+                "options": [
+                    "000"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1902c522b636abe988076b6cdbd66e9ce183176d/tana-shoe-deo-antibak.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10553494",
+            "name": "Shoes",
+            "slugs": [
+                "clothing-accessories",
+                "shoes"
+            ]
+        },
+        {
+            "id": "10553519",
+            "name": "Shoe care",
+            "slugs": [
+                "clothing-accessories",
+                "shoes",
+                "shoe-care"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/847935900010",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "4.95",
+            "advertisedDisplayValue": "4.95",
+            "effectiveDisplayValue": "4.95",
+            "multiplier": 1,
+            "value": 4.95,
+            "effectiveValue": 4.95,
+            "advertisedValue": 4.95
+        },
+        "quantity": "100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T09:44:25"
+}

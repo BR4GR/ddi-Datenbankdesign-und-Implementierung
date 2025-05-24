@@ -1,0 +1,149 @@
+{
+    "uid": 100079573,
+    "migrosId": "702024300001",
+    "name": "Paper cup, 1dl",
+    "brand": "MIGROS KITCHEN & CO.",
+    "title": "Paper cup, 1dl",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "MIGROS KITCHEN & CO.",
+                "slug": "migros-kitchen-co",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1715075047/brands/MIGROS_KitchenCo_CS4"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 31,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/702024300001"
+        },
+        "otherInformation": {
+            "articleNumber": "702024300001",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Material",
+                    "value": "Holzfasern"
+                },
+                {
+                    "code": "Volume",
+                    "value": "0.1 l"
+                },
+                {
+                    "code": "Max. temperature resistance",
+                    "value": "85 °C"
+                },
+                {
+                    "code": "suitable for food products",
+                    "value": "Yes"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613432475198"
+    ],
+    "variants": {
+        "baseProductMigrosId": "702024300000",
+        "mainVariantMigrosId": "702024300002",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "THERMOBECHER WELLPAPIER, 1DL"
+                },
+                "migrosId": "702024300001"
+            },
+            {
+                "declinationOptions": {
+                    "size": "THERMOBECHER WELLPAPIER, 2DL"
+                },
+                "migrosId": "702024300002"
+            },
+            {
+                "declinationOptions": {
+                    "size": "THERMOBECHER WELLPAPIER, 3DL"
+                },
+                "migrosId": "702024300003"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "THERMOBECHER WELLPAPIER, 1DL",
+                "options": [
+                    "THERMOBECHER WELLPAPIER, 1DL",
+                    "THERMOBECHER WELLPAPIER, 2DL",
+                    "THERMOBECHER WELLPAPIER, 3DL"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/2ba1bd6abf2b078753fc82ad8dce3b50829359f7/paper-cup-1dl.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494814",
+            "name": "Kitchen & dining",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining"
+            ]
+        },
+        {
+            "id": "7495178",
+            "name": "Table",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining",
+                "table"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/702024300001",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.95",
+            "advertisedDisplayValue": "2.95",
+            "effectiveDisplayValue": "2.95",
+            "multiplier": 1,
+            "value": 2.95,
+            "effectiveValue": 2.95,
+            "advertisedValue": 2.95,
+            "unitPrice": {
+                "value": 0.3,
+                "unit": "piece"
+            }
+        },
+        "quantity": "10 Stk.",
+        "quantityPrice": "0.30/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:55:53"
+}

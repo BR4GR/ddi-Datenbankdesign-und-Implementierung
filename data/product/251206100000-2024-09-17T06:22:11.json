@@ -1,0 +1,83 @@
+{
+    "uid": 100130853,
+    "migrosId": "251206100000",
+    "name": "Zanderfilet",
+    "title": "Zanderfilet",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/251206100000"
+        },
+        "otherInformation": {
+            "articleNumber": "251206100000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "2121957000009",
+        "7610200506207",
+        "7617100046949"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/acf2615b4d8767e6be30abf194537e644479abb3/zanderfilet.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/91d842a8b8614fc8ae168205fc001a9ef1d0994b.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494749",
+            "name": "Fish",
+            "slugs": [
+                "meat-fish",
+                "fish"
+            ]
+        },
+        {
+            "id": "7494858",
+            "name": "Fresh fish & shellfish",
+            "slugs": [
+                "meat-fish",
+                "fish",
+                "fresh-fish-shellfish"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/251206100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-17T06:22:11"
+}

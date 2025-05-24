@@ -1,0 +1,204 @@
+{
+    "uid": 100171663,
+    "migrosId": "881200830138",
+    "name": "Puffer jacket",
+    "brand": "Kids",
+    "title": "Puffer jacket",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L70",
+                    "name": "GRS",
+                    "slug": "grs",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1707834844/labels/GRS-1"
+                }
+            ],
+            "brand": {
+                "name": "Kids",
+                "slug": "kids",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076840/brands/KIDS_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/881200830138"
+        },
+        "otherInformation": {
+            "articleNumber": "881200830138",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Zielgruppe",
+                    "value": "Kinder"
+                },
+                {
+                    "code": "Look",
+                    "value": "Kapuze, Reissverschluss, uni"
+                },
+                {
+                    "code": "Material",
+                    "value": "Polyester"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "100 %"
+                },
+                {
+                    "code": "Age",
+                    "value": "4-6 Jahre"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "Reflector"
+                },
+                {
+                    "code": "GRS label certified by",
+                    "value": "IDFL"
+                },
+                {
+                    "code": "GRS label license number",
+                    "value": "TE-99970100"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871663310"
+    ],
+    "variants": {
+        "baseProductMigrosId": "881200800000",
+        "mainVariantMigrosId": "881200830038",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "2-4 // 98/104",
+                    "color": "rose"
+                },
+                "migrosId": "881200830038"
+            },
+            {
+                "declinationOptions": {
+                    "size": "2-4 // 98/104",
+                    "color": "blue"
+                },
+                "migrosId": "881200830040"
+            },
+            {
+                "declinationOptions": {
+                    "size": "4-6 // 110/116",
+                    "color": "rose"
+                },
+                "migrosId": "881200830138"
+            },
+            {
+                "declinationOptions": {
+                    "size": "4-6 // 110/116",
+                    "color": "blue"
+                },
+                "migrosId": "881200830140"
+            },
+            {
+                "declinationOptions": {
+                    "size": "6-8 // 122/128",
+                    "color": "blue"
+                },
+                "migrosId": "881200830240"
+            },
+            {
+                "declinationOptions": {
+                    "size": "8-10 // 134/140",
+                    "color": "rose"
+                },
+                "migrosId": "881200830338"
+            },
+            {
+                "declinationOptions": {
+                    "size": "8-10 // 134/140",
+                    "color": "blue"
+                },
+                "migrosId": "881200830340"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "rose",
+                "options": [
+                    "rose",
+                    "blue"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "4-6 // 110/116",
+                "options": [
+                    "2-4 // 98/104",
+                    "4-6 // 110/116",
+                    "6-8 // 122/128",
+                    "8-10 // 134/140"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d6109458a43f416f58e8cdaa7ad89c2b18901604/puffer-jacket.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "11117258",
+            "name": "Children's clothing",
+            "slugs": [
+                "baby-kids",
+                "childrens-clothing"
+            ]
+        },
+        {
+            "id": "11124195",
+            "name": "Outdoor children's clothes",
+            "slugs": [
+                "baby-kids",
+                "childrens-clothing",
+                "outdoor-childrens-clothes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/881200830138",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "49.95",
+            "advertisedDisplayValue": "49.95",
+            "effectiveDisplayValue": "49.95",
+            "multiplier": 1,
+            "value": 49.95,
+            "effectiveValue": 49.95,
+            "advertisedValue": 49.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T10:07:18"
+}

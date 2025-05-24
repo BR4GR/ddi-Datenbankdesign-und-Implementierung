@@ -1,0 +1,199 @@
+{
+    "uid": 100145408,
+    "migrosId": "210512442100",
+    "name": "S'Chüeli Schnittlauch",
+    "title": "S'Chüeli Schnittlauch",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "ingredients": "<strong>Milch</strong>, Schnittlauch 0.1%, Kochsalz, Kulturen, Lab",
+            "allergens": "Milk and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "animalWelfare": {
+                    "rating": 3,
+                    "image": "https://image.migros.ch/original/02f56762a6d67ea0470f50e5e8cc4d96d84791f0.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/210512442100"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1270 kJ (305 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "25 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "15 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "0.8 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "21 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "1.3 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "210512442100",
+            "legalDesignation": "Schweizer Weissschimmelkäse mit Schnittlauch, vollfett, aus thermisierter Milch",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store refrigerated at max. 5 °C."
+                },
+                {
+                    "code": "Production information",
+                    "value": "from thermized milk"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "2166316000009",
+        "7613404395370"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1e3f025753223b49ca03948745b3e16cf495ee67/schueeli-schnittlauch.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/0db16f1833ac0889cac02d8ed70d1f6d535e5680.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494752",
+            "name": "Cheese",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese"
+            ]
+        },
+        {
+            "id": "7494872",
+            "name": "Soft cheeses & blue cheeses",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese",
+                "soft-cheeses-blue-cheeses"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/210512442100",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.95",
+            "advertisedDisplayValue": "2.95",
+            "effectiveDisplayValue": "2.95",
+            "multiplier": 1,
+            "value": 2.95,
+            "effectiveValue": 2.95,
+            "advertisedValue": 2.95,
+            "unitPrice": {
+                "value": 2.95,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "2.95/100g",
+        "isVariableWeight": true,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "VARIABLE_WEIGHT",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483133/labels/poids-variable",
+                "description": "Variable Weight"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:17:36"
+}

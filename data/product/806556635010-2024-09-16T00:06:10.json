@@ -1,0 +1,140 @@
+{
+    "uid": 100132704,
+    "migrosId": "806556635010",
+    "name": "Kids cap",
+    "brand": "Kids",
+    "title": "Kids cap",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Kids",
+                "slug": "kids",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076840/brands/KIDS_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/806556635010"
+        },
+        "otherInformation": {
+            "articleNumber": "806556635010",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7628871075915"
+    ],
+    "variants": {
+        "baseProductMigrosId": "806556600000",
+        "mainVariantMigrosId": "806556635010",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "white",
+                    "size": "2-4years / 50 cm"
+                },
+                "migrosId": "806556635010"
+            },
+            {
+                "declinationOptions": {
+                    "color": "white",
+                    "size": "4-6years / 52 cm"
+                },
+                "migrosId": "806556635110"
+            },
+            {
+                "declinationOptions": {
+                    "color": "white",
+                    "size": "6-8years / 54 cm"
+                },
+                "migrosId": "806556635210"
+            },
+            {
+                "declinationOptions": {
+                    "color": "white",
+                    "size": "8-12years / 56 cm"
+                },
+                "migrosId": "806556635310"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "white",
+                "options": [
+                    "white"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "2-4years / 50 cm",
+                "options": [
+                    "2-4years / 50 cm",
+                    "4-6years / 52 cm",
+                    "6-8years / 54 cm",
+                    "8-12years / 56 cm"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/066b29684ab9684eeb98a7779d8dd3e0af55eafc/kids-cap.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "11117258",
+            "name": "Children's clothing",
+            "slugs": [
+                "baby-kids",
+                "childrens-clothing"
+            ]
+        },
+        {
+            "id": "11124064",
+            "name": "Children's accessories",
+            "slugs": [
+                "baby-kids",
+                "childrens-clothing",
+                "childrens-accessories"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/806556635010",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "8.95",
+            "advertisedDisplayValue": "8.95",
+            "effectiveDisplayValue": "8.95",
+            "multiplier": 1,
+            "value": 8.95,
+            "effectiveValue": 8.95,
+            "advertisedValue": 8.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T00:06:10"
+}

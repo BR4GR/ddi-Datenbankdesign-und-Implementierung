@@ -1,0 +1,91 @@
+{
+    "uid": 100067099,
+    "migrosId": "250618600000",
+    "name": "Lachstatar",
+    "title": "Lachstatar",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 28,
+                    "productionRatio": 91,
+                    "transportRatio": 5,
+                    "packagingRatio": 3,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/250618600000"
+        },
+        "otherInformation": {
+            "articleNumber": "250618600000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "2151870000008",
+        "256827",
+        "7617027956918"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3787a80ad03e4515b65145d6a8c97d16a78e5171/lachstatar.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494749",
+            "name": "Fish",
+            "slugs": [
+                "meat-fish",
+                "fish"
+            ]
+        },
+        {
+            "id": "7494860",
+            "name": "Salmon & smoked fish",
+            "slugs": [
+                "meat-fish",
+                "fish",
+                "salmon-smoked-fish"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/250618600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-17T03:15:02"
+}

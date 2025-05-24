@@ -1,0 +1,213 @@
+{
+    "uid": 100065670,
+    "migrosId": "210686822000",
+    "name": "Appenzeller Rahmkäse",
+    "brand": "Appenzeller-Käse",
+    "title": "Appenzeller Rahmkäse",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Appenzeller-Käse",
+                "slug": "appenzeller-kase",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1701693450/brands/APPENZELLER_KASE_Logo_auf_Schwarz"
+            },
+            "ingredients": "Schweizer Rahmhalbhartkäse, mit Rohmilch hergestellt",
+            "allergens": "Milk and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "animalWelfare": {
+                    "rating": 3,
+                    "image": "https://image.migros.ch/original/02f56762a6d67ea0470f50e5e8cc4d96d84791f0.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "rating": {
+                "nbReviews": 47,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/210686822000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "1 Portion (40 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1686 kJ (407 kcal)",
+                            "674 kJ (163 kcal)",
+                            "8 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "35 g",
+                            "14 g",
+                            "20 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "21 g",
+                            "8.4 g",
+                            "42 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            "0 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            "0 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "23 g",
+                            "9.2 g",
+                            "18 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.9 g",
+                            "0.36 g",
+                            "6 %"
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    }
+                ]
+            },
+            "portionSentence": "1 package ≈ 5 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "210686822000",
+            "legalDesignation": "Schweizer Rahmhalbhartkäse, mit Rohmilch hergestellt",
+            "identificationMark": "CH 83774886",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store refrigerated at max. +5 °C."
+                },
+                {
+                    "code": "Production information",
+                    "value": "Packaged in a protective atmosphere."
+                },
+                {
+                    "code": "Warning and other mandatory information",
+                    "value": "Naturally lactose-free."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "2164249000004",
+        "309837",
+        "7613404105702"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/c4d0a50854bf246061f7a02c910ec57bc26a0891/appenzeller-rahmkaese.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/dbc1029e4bfb26198d3a461e8e3d84560dd0e094.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494752",
+            "name": "Cheese",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese"
+            ]
+        },
+        {
+            "id": "7494871",
+            "name": "Hard & semi-hard cheeses",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese",
+                "hard-semi-hard-cheeses"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/210686822000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.50",
+            "advertisedDisplayValue": "2.50",
+            "effectiveDisplayValue": "2.50",
+            "multiplier": 1,
+            "value": 2.5,
+            "effectiveValue": 2.5,
+            "advertisedValue": 2.5,
+            "unitPrice": {
+                "value": 2.5,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "2.50/100g",
+        "isVariableWeight": true,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "VARIABLE_WEIGHT",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483133/labels/poids-variable",
+                "description": "Variable Weight"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T02:15:04"
+}

@@ -1,0 +1,155 @@
+{
+    "uid": 100133348,
+    "migrosId": "747270600002",
+    "name": "Milette glass bottle",
+    "brand": "Milette",
+    "title": "Milette glass bottle",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Milette",
+                "slug": "milette",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076999/brands/Milette_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/747270600002"
+        },
+        "otherInformation": {
+            "articleNumber": "747270600002",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613434945644"
+    ],
+    "variants": {
+        "baseProductMigrosId": "747270600000",
+        "mainVariantMigrosId": "747270600001",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "pastell",
+                    "size": "000"
+                },
+                "migrosId": "747270600001"
+            },
+            {
+                "declinationOptions": {
+                    "color": "tradition",
+                    "size": "000"
+                },
+                "migrosId": "747270600002"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "tradition",
+                "options": [
+                    "pastell",
+                    "tradition"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "000",
+                "options": [
+                    "000"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/668fa99ef8d33b57f6f21d96da564106c741b689/milette-glass-bottle.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "7494818",
+            "name": "Baby bottles & dummies",
+            "slugs": [
+                "baby-kids",
+                "baby-bottles-dummies"
+            ]
+        },
+        {
+            "id": "7495194",
+            "name": "Baby bottles & spare teats",
+            "slugs": [
+                "baby-kids",
+                "baby-bottles-dummies",
+                "baby-bottles-spare-teats"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/747270600002",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "9.50",
+            "advertisedDisplayValue": "9.50",
+            "effectiveDisplayValue": "9.50",
+            "multiplier": 1,
+            "value": 9.5,
+            "effectiveValue": 9.5,
+            "advertisedValue": 9.5
+        },
+        "promotionPrice": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.65",
+            "advertisedDisplayValue": "6.65",
+            "effectiveDisplayValue": "6.65",
+            "multiplier": 1,
+            "value": 6.65,
+            "effectiveValue": 6.65,
+            "advertisedValue": 6.65,
+            "unitPrice": {
+                "value": 6.65,
+                "unit": "piece"
+            }
+        },
+        "priceInsteadOfLabel": "was",
+        "quantity": "1 Stk.",
+        "quantityPrice": "6.65/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "badges": [
+            {
+                "type": "PERCENTAGE_PROMOTION",
+                "description": "30%"
+            },
+            {
+                "type": "MINIMUM_PIECES",
+                "description": "2 or more"
+            }
+        ],
+        "promotionDateRange": {
+            "startDate": "2024-09-10",
+            "endDate": "2024-09-23"
+        },
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T20:04:22"
+}

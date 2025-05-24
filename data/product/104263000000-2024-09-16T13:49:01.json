@@ -1,0 +1,200 @@
+{
+    "uid": 100163504,
+    "migrosId": "104263000000",
+    "name": "Aus der Region Leinsamen geschrotet",
+    "title": "Aus der Region Leinsamen geschrotet",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "ingredients": "Leinsamen ^. \n^ aus der Region (CH)",
+            "allergenIndication": "Kann enthalten: Hartschalenobst (Nüsse), Soja, Erdnüsse, Gluten.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 3.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/104263000000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "1 Esslöffel (10 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1967 kJ (476 kcal)",
+                            "197 kJ (48 kcal)",
+                            "2 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "34 g",
+                            "3.4 g",
+                            "5 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "2.9 g",
+                            "0.3 g",
+                            "1 %"
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "11 g",
+                            "1.1 g",
+                            "< 5 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "1.6 g",
+                            "< 0.5 g",
+                            "< 5 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "27 g",
+                            "2.7 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "18 g",
+                            "1.8 g",
+                            "4 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.08 g",
+                            "< 0.01 g",
+                            "< 5 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "portionSentence": "1 package = 15 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "104263000000",
+            "legalDesignation": "Leinsamen, geschrotet",
+            "distributorName": "Genossenschaft Migros Aare",
+            "distributorStreetAndNumber": "CH-3321 Schönbühl",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store in a cool, dry place."
+                },
+                {
+                    "code": "Production information",
+                    "value": "Packaged in a protective atmosphere."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Production process",
+                    "value": "From the Region"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Bag"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312451489"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/eece82540bc954003bcf0e95d606896118c4875f/aus-der-region-leinsamen-geschrotet.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494775",
+            "name": "Pasta, rice, semolina & grain",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "pasta-rice-semolina-grain"
+            ]
+        },
+        {
+            "id": "7494979",
+            "name": "Pulses & cereals",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "pasta-rice-semolina-grain",
+                "pulses-cereals"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/104263000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.95",
+            "advertisedDisplayValue": "2.95",
+            "effectiveDisplayValue": "2.95",
+            "multiplier": 1,
+            "value": 2.95,
+            "effectiveValue": 2.95,
+            "advertisedValue": 2.95,
+            "unitPrice": {
+                "value": 1.97,
+                "unit": "100g"
+            }
+        },
+        "quantity": "150g",
+        "quantityPrice": "1.97/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T13:49:01"
+}

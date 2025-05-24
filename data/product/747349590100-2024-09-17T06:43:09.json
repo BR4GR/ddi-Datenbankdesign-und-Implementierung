@@ -1,0 +1,111 @@
+{
+    "uid": 100093860,
+    "migrosId": "747349590100",
+    "name": "Walkie Talkie rechargeables (FR)",
+    "brand": "Buki",
+    "title": "Walkie Talkie rechargeables (FR)",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Buki",
+                "slug": "buki",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1712673585/brands/Buki_-_CMYK_JC5"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/747349590100"
+        },
+        "otherInformation": {
+            "articleNumber": "747349590100",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "3700802102199"
+    ],
+    "variants": {
+        "baseProductMigrosId": "747349500000",
+        "mainVariantMigrosId": "747349590100",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "typ_sprache": "FR"
+                },
+                "migrosId": "747349590100"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "typ_sprache",
+                "dimensionName": "Sprache",
+                "currentValue": "FR",
+                "options": [
+                    "FR"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1a976ab1979b76a922b28f7bf6d8f082b18a708a/walkie-talkie-rechargeables-fr.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/0368d25e2dedd2cc101e9f5b9131bbbfc53aad0a.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "7494822",
+            "name": "Toys",
+            "slugs": [
+                "baby-kids",
+                "toys"
+            ]
+        },
+        {
+            "id": "7495220",
+            "name": "Sports & outdoors",
+            "slugs": [
+                "baby-kids",
+                "toys",
+                "sports-outdoors"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/747349590100",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "54.95",
+            "advertisedDisplayValue": "54.95",
+            "effectiveDisplayValue": "54.95",
+            "multiplier": 1,
+            "value": 54.95,
+            "effectiveValue": 54.95,
+            "advertisedValue": 54.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:43:09"
+}

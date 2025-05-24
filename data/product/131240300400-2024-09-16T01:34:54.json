@@ -1,0 +1,179 @@
+{
+    "uid": 100144525,
+    "migrosId": "131240300400",
+    "name": "Migros Daily Ice Tea myrtilles",
+    "brand": "Migros Daily",
+    "title": "Migros Daily Ice Tea myrtilles",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Daily",
+                "slug": "migros-daily",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076969/brands/Migros_Daily_Logo"
+            },
+            "ingredients": "Wasser, Heidelbeeren 3%, Zucker, Schwarzteeextrakt 0.2%, natürliches Zitronengrasextrakt, Papayas, Süssholz, Zitronen, Orangen, Aroma. \nSchwarztee-Extrakt : 2g/l.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/131240300400"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 ml",
+                    "1 Flasche (480 ml)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "85 kJ (20 kcal)",
+                            "408 kJ (96 kcal)",
+                            "5 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            "< 0.5 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "< 0.1 g",
+                            "< 0.1 g",
+                            "< 0.5 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "5 g",
+                            "24 g",
+                            "9 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "5 g",
+                            "24 g",
+                            "27 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            "< 0.5 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.01 g",
+                            "0.05 g",
+                            "1 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "portionSentence": "1 Bottle = 1 serving",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "131240300400",
+            "legalDesignation": "Erfrischungsgetränk mit Heidelbeeren und Schwarzteextrakt, ohne Kohlensäure",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store refrigerated at max. +5 °C."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613269756392"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/8c3a491d0ae1777abdda1169bb1644bc3aa889f1/migros-daily-ice-tea-myrtilles.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494771",
+            "name": "Fruit & vegetable juices",
+            "slugs": [
+                "drinks-coffee-tea",
+                "fruit-vegetable-juices"
+            ]
+        },
+        {
+            "id": "7494961",
+            "name": "Other fresh juice",
+            "slugs": [
+                "drinks-coffee-tea",
+                "fruit-vegetable-juices",
+                "other-fresh-juice"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/131240300400",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.90",
+            "advertisedDisplayValue": "2.90",
+            "effectiveDisplayValue": "2.90",
+            "multiplier": 1,
+            "value": 2.9,
+            "effectiveValue": 2.9,
+            "advertisedValue": 2.9,
+            "unitPrice": {
+                "value": 0.58,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "500ml",
+        "quantityPrice": "0.58/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T01:34:54"
+}

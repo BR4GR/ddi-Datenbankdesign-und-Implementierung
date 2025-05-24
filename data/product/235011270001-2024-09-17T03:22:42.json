@@ -1,0 +1,196 @@
+{
+    "uid": 100145290,
+    "migrosId": "235011270001",
+    "name": "Speck gekocht",
+    "title": "Speck gekocht",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "ingredients": "Schweinefleisch ^, Nitritpökelsalz (Kochsalz, Konservierungsstoff: Natriumnitrit), Stabilisatoren: Diphosphate und Triphosphate, Glucosesirup, Antioxidationsmittel: Natriumascorbat, Würze, Gewürzextrakt. \n^ aus der Region (CH)",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 5,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/235011270001"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1352 kJ (326 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "28 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "11 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "0.6 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "< 0.5 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "< 0.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "18 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "1.7 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "235011270001",
+            "legalDesignation": "Rohessspeck",
+            "identificationMark": "CH 337",
+            "distributorName": "Genossenschaft Migros Ostschweiz",
+            "distributorStreetAndNumber": "CH-9201 Gossau",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store refrigerated at max. 5 °C."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "2169073000008",
+        "7623186106934"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/054f0cfd90329a55f451f7b97ee904671d194f7e/speck-gekocht.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/4f8b21a8749676b5111d52527803a1798c83ec5b.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494748",
+            "name": "Cold cuts",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts"
+            ]
+        },
+        {
+            "id": "7494853",
+            "name": "Bacon & diced bacon",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts",
+                "bacon-diced-bacon"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/235011270001",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.85",
+            "advertisedDisplayValue": "3.85",
+            "effectiveDisplayValue": "3.85",
+            "multiplier": 1,
+            "value": 3.85,
+            "effectiveValue": 3.85,
+            "advertisedValue": 3.85,
+            "unitPrice": {
+                "value": 3.85,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "3.85/100g",
+        "isVariableWeight": true,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "VARIABLE_WEIGHT",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483133/labels/poids-variable",
+                "description": "Variable Weight"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T03:22:42"
+}

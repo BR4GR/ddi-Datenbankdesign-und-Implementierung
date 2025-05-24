@@ -1,0 +1,154 @@
+{
+    "uid": 100173231,
+    "migrosId": "863924900056",
+    "name": "Banana Bag",
+    "brand": "MIGROS ESSENTIALS",
+    "title": "Banana Bag",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "MIGROS ESSENTIALS",
+                "slug": "migros-essentials",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1708333701/brands/Migros_Essentials_-_RGB_-_DE"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/863924900056"
+        },
+        "otherInformation": {
+            "articleNumber": "863924900056",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Line",
+                    "value": "Accessoires"
+                },
+                {
+                    "code": "Material",
+                    "value": "Polyamid"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "100 %"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871803921"
+    ],
+    "variants": {
+        "baseProductMigrosId": "863924900000",
+        "mainVariantMigrosId": "863924900007",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "vanilla",
+                    "size": "one size"
+                },
+                "migrosId": "863924900007"
+            },
+            {
+                "declinationOptions": {
+                    "color": "rust",
+                    "size": "one size"
+                },
+                "migrosId": "863924900056"
+            },
+            {
+                "declinationOptions": {
+                    "color": "olive green",
+                    "size": "one size"
+                },
+                "migrosId": "863924900065"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "rust",
+                "options": [
+                    "vanilla",
+                    "rust",
+                    "olive green"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "one size",
+                "options": [
+                    "one size"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ad07a08d28f9a41c3512dfa1d6fe63eeede5a894/banana-bag.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/889cd3e9c57d7b27e7d4b42c3ee91664e828bb59.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/370c9629781969f63642a8b96ab074b88d52c800.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10552745",
+            "name": "Accessories",
+            "slugs": [
+                "clothing-accessories",
+                "accessories"
+            ]
+        },
+        {
+            "id": "10552752",
+            "name": "Bags",
+            "slugs": [
+                "clothing-accessories",
+                "accessories",
+                "bags"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/863924900056",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "24.95",
+            "advertisedDisplayValue": "24.95",
+            "effectiveDisplayValue": "24.95",
+            "multiplier": 1,
+            "value": 24.95,
+            "effectiveValue": 24.95,
+            "advertisedValue": 24.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T17:03:05"
+}

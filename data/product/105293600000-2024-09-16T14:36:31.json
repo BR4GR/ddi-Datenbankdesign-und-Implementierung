@@ -1,0 +1,142 @@
+{
+    "uid": 100049822,
+    "migrosId": "105293600000",
+    "name": "Aus der Region Apfelringe",
+    "title": "Aus der Region Apfelringe",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 1,
+                    "productionRatio": 43,
+                    "transportRatio": 6,
+                    "packagingRatio": 51,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 28,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/105293600000"
+        },
+        "otherInformation": {
+            "articleNumber": "105293600000",
+            "legalDesignation": "Apfelringe getrocknet",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store in a dry place."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Production process",
+                    "value": "Aus der Region"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Beutel"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                },
+                {
+                    "code": "Resealable",
+                    "value": "No"
+                },
+                {
+                    "code": "Pitted",
+                    "value": "No"
+                },
+                {
+                    "code": "Sweetened",
+                    "value": "No"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312127353"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/30b2346d3897a081b59201c364449843f49039d3/aus-der-region-apfelringe.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494785",
+            "name": "Dried fruit",
+            "slugs": [
+                "snacks-sweets",
+                "dried-fruit"
+            ]
+        },
+        {
+            "id": "7495031",
+            "name": "Dried fruit",
+            "slugs": [
+                "snacks-sweets",
+                "dried-fruit",
+                "dried-fruit"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/105293600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.90",
+            "advertisedDisplayValue": "5.90",
+            "effectiveDisplayValue": "5.90",
+            "multiplier": 1,
+            "value": 5.9,
+            "effectiveValue": 5.9,
+            "advertisedValue": 5.9,
+            "unitPrice": {
+                "value": 5.9,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100g",
+        "quantityPrice": "5.90/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:36:31"
+}

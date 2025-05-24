@@ -1,0 +1,94 @@
+{
+    "uid": 100147708,
+    "migrosId": "111445100200",
+    "name": "Hartweizenbrot",
+    "brand": "Frisch & Handgemacht",
+    "title": "Hartweizenbrot",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Frisch & Handgemacht",
+                "slug": "frisch-handgemacht",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652249913/brands/frisch-handgemacht"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/111445100200"
+        },
+        "otherInformation": {
+            "articleNumber": "111445100200",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613269931386"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/8cba1f7d47ab93de8ee5a3b07b775c4162cf41f5/hartweizenbrot.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/72d757e266ef646df1fb814897b1e2913defdb85.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494763",
+            "name": "Fresh bread",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "fresh-bread"
+            ]
+        },
+        {
+            "id": "7494924",
+            "name": "Fresh bread",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "fresh-bread",
+                "fresh-bread"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/111445100200",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.40",
+            "advertisedDisplayValue": "3.40",
+            "effectiveDisplayValue": "3.40",
+            "multiplier": 1,
+            "value": 3.4,
+            "effectiveValue": 3.4,
+            "advertisedValue": 3.4,
+            "unitPrice": {
+                "value": 0.94,
+                "unit": "100g"
+            }
+        },
+        "quantity": "360g",
+        "quantityPrice": "0.94/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T16:47:38"
+}

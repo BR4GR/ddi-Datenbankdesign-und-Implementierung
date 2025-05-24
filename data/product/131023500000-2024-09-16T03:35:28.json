@@ -1,0 +1,120 @@
+{
+    "uid": 100130815,
+    "migrosId": "131023500000",
+    "name": "Anna's Best Salade Mégamix",
+    "brand": "Anna's Best",
+    "title": "Anna's Best Salade Mégamix",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Anna's Best",
+                "slug": "annas-best",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252314/brands/annas-best"
+            },
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/131023500000"
+        },
+        "otherInformation": {
+            "articleNumber": "131023500000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Production process",
+                    "value": "Gerüstet, Gewaschen"
+                },
+                {
+                    "code": "Washed",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Type/quality",
+                    "value": "cut"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Beutel"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                },
+                {
+                    "code": "Resealable",
+                    "value": "No"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613269681847"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/58b338e90ccb41214c3e645cd5505ea0b95051eb/annas-best-salade-megamix.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494759",
+            "name": "Salad",
+            "slugs": [
+                "fruits-vegetables",
+                "salad"
+            ]
+        },
+        {
+            "id": "7494914",
+            "name": "Packaged salads",
+            "slugs": [
+                "fruits-vegetables",
+                "salad",
+                "packaged-salads"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/131023500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.60",
+            "advertisedDisplayValue": "2.60",
+            "effectiveDisplayValue": "2.60",
+            "multiplier": 1,
+            "value": 2.6,
+            "effectiveValue": 2.6,
+            "advertisedValue": 2.6,
+            "unitPrice": {
+                "value": 1.3,
+                "unit": "100g"
+            }
+        },
+        "quantity": "200g",
+        "quantityPrice": "1.30/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T03:35:28"
+}

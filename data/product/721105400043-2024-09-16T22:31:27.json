@@ -1,0 +1,145 @@
+{
+    "uid": 100079985,
+    "migrosId": "721105400043",
+    "name": "Frixion Clicker",
+    "brand": "Pilot",
+    "title": "Frixion Clicker",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Pilot",
+                "slug": "pilot",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252471/brands/pilot"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 20,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/721105400043"
+        },
+        "otherInformation": {
+            "articleNumber": "721105400043",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Number",
+                    "value": "1 Pcs."
+                },
+                {
+                    "code": "Font width",
+                    "value": "0.7 mm"
+                },
+                {
+                    "code": "Anwendungsbereich",
+                    "value": "Papier"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "3131910506232"
+    ],
+    "variants": {
+        "baseProductMigrosId": "721105400000",
+        "mainVariantMigrosId": "721105400020",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "schwarz"
+                },
+                "migrosId": "721105400020"
+            },
+            {
+                "declinationOptions": {
+                    "color": "blau"
+                },
+                "migrosId": "721105400040"
+            },
+            {
+                "declinationOptions": {
+                    "color": "blauschwarz"
+                },
+                "migrosId": "721105400043"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "blauschwarz",
+                "options": [
+                    "schwarz",
+                    "blau",
+                    "blauschwarz"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/6eb9c7c08ca2ff13bd3a00aa9ed98bfadebd234f/frixion-clicker.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494813",
+            "name": "Office & stationery",
+            "slugs": [
+                "household-and-living",
+                "office-stationery"
+            ]
+        },
+        {
+            "id": "7495170",
+            "name": "Writing & taking notes",
+            "slugs": [
+                "household-and-living",
+                "office-stationery",
+                "writing-taking-notes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/721105400043",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.80",
+            "advertisedDisplayValue": "4.80",
+            "effectiveDisplayValue": "4.80",
+            "multiplier": 1,
+            "value": 4.8,
+            "effectiveValue": 4.8,
+            "advertisedValue": 4.8,
+            "unitPrice": {
+                "value": 4.8,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "4.80/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T22:31:27"
+}

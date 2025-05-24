@@ -1,0 +1,135 @@
+{
+    "uid": 100010277,
+    "migrosId": "103011000000",
+    "migrosOnlineId": "68352",
+    "name": "margarine with 10% butter",
+    "brand": "M-Classic",
+    "title": "M-Classic · margarine with 10% butter",
+    "description": "M-Classic margarine with 10% butter ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Classic",
+                "slug": "m-classic",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252457/brands/m-classic"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 6,
+                    "productionRatio": 81,
+                    "transportRatio": 5,
+                    "packagingRatio": 14,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 114,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/103011000000"
+        },
+        "usageInformation": {
+            "usage": "High quality vegetable oil for the hearty kitchen. Ideal for frying, steaming and cooking. Also suitable for seasoning pasta and vegetables."
+        },
+        "otherInformation": {
+            "articleNumber": "103011000000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Suitable for",
+                    "value": "baking, roast"
+                },
+                {
+                    "code": "Number of removable individual units",
+                    "value": "33"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Tube"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "Dosierung mit dem Esslöffel"
+                },
+                {
+                    "code": "Usage temperature",
+                    "value": "Kochen: 100 °C / Braten: 180 °C"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7617300701525",
+        "7613269192329"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d24b6e9843a17f2992d8f8c508da93b9640231bd/m-classic-mit-10-butter.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494776",
+            "name": "Spices & sauces",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces"
+            ]
+        },
+        {
+            "id": "7494986",
+            "name": "Other ingredients",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces",
+                "other-ingredients"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/103011000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.95",
+            "advertisedDisplayValue": "5.95",
+            "effectiveDisplayValue": "5.95",
+            "multiplier": 1,
+            "value": 5.95,
+            "effectiveValue": 5.95,
+            "advertisedValue": 5.95,
+            "unitPrice": {
+                "value": 1.19,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "50cl",
+        "quantityPrice": "1.19/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:45:49"
+}

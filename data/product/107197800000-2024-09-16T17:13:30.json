@@ -1,0 +1,131 @@
+{
+    "uid": 100167807,
+    "migrosId": "107197800000",
+    "migrosOnlineId": "12616224",
+    "name": "Coffee Capsules",
+    "brand": "M-Budget",
+    "versioning": "Espresso, intensity 4/5, Delizio system",
+    "title": "M-Budget · Coffee Capsules · Espresso, intensity 4/5, Delizio system",
+    "description": "M-Budget Coffee Capsules Espresso, intensity 4/5, Delizio system",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Budget",
+                "slug": "m-budget",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252456/brands/m-budget"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 47,
+                    "productionRatio": 97,
+                    "transportRatio": 0,
+                    "packagingRatio": 2,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 10,
+                "nbStars": 2.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/107197800000"
+        },
+        "usageInformation": {
+            "additionalInformation": "Suitable for Delizio machines"
+        },
+        "otherInformation": {
+            "articleNumber": "107197800000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Coffee shape",
+                    "value": "﻿Coffee capsule"
+                },
+                {
+                    "code": "Capsule system",
+                    "value": "Delizio-compatible"
+                },
+                {
+                    "code": "Number of pads/capsules/bags",
+                    "value": "24 Pcs."
+                },
+                {
+                    "code": "Strength (1-10)",
+                    "value": "4"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312458556"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/7cf9335446cdff82d60d88f190f99a15e51ff204/m-budget-delizio-espresso-24-kapseln.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494772",
+            "name": "Coffee",
+            "slugs": [
+                "drinks-coffee-tea",
+                "coffee"
+            ]
+        },
+        {
+            "id": "7494965",
+            "name": "Coffee capsules",
+            "slugs": [
+                "drinks-coffee-tea",
+                "coffee",
+                "coffee-capsules"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/107197800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.–",
+            "advertisedDisplayValue": "6.–",
+            "effectiveDisplayValue": "6.–",
+            "multiplier": 1,
+            "value": 6,
+            "effectiveValue": 6,
+            "advertisedValue": 6,
+            "unitPrice": {
+                "value": 4.48,
+                "unit": "100g"
+            }
+        },
+        "quantity": "134g",
+        "quantityPrice": "4.48/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:13:30"
+}

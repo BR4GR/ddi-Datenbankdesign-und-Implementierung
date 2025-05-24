@@ -1,0 +1,171 @@
+{
+    "uid": 100010844,
+    "migrosId": "700483000010",
+    "migrosOnlineId": "69534",
+    "name": "Tissue napkins, 3-ply, 40x40cm",
+    "brand": "Cucina & Tavola",
+    "versioning": "White",
+    "title": "Cucina & Tavola · Tissue napkins, 3-ply, 40x40cm · White",
+    "description": "Cucina & Tavola Tissue napkins, 3-ply, 40x40cm White",
+    "productRange": "VARIANT",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L09",
+                    "name": "FSC®",
+                    "slug": "fsc",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483057/labels/FSC_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "Cucina & Tavola",
+                "slug": "cucina-tavola",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076644/brands/CucinaTavola__Logo"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 3,
+                    "co2CarKmEquivalent": 23,
+                    "productionRatio": 94,
+                    "transportRatio": 2,
+                    "packagingRatio": 4,
+                    "image": "https://image.migros.ch/original/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "co2KgRange": "2 - 4.7 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 39,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/700483000010"
+        },
+        "otherInformation": {
+            "articleNumber": "700483000010",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Number of layers",
+                    "value": "3-lagig"
+                },
+                {
+                    "code": "Material",
+                    "value": "Tissue"
+                },
+                {
+                    "code": "Content",
+                    "value": "50 Pcs."
+                },
+                {
+                    "code": "Width",
+                    "value": "40 cm"
+                },
+                {
+                    "code": "Color",
+                    "value": "weiss"
+                },
+                {
+                    "code": "Length",
+                    "value": "40 cm"
+                },
+                {
+                    "code": "suitable for food products",
+                    "value": "Yes"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "2022000814003",
+        "7610144360712",
+        "07613296088527"
+    ],
+    "variants": {
+        "baseProductMigrosId": "700483000000",
+        "mainVariantMigrosId": "700483000010",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "WHITE"
+                },
+                "migrosId": "700483000010"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "WHITE",
+                "options": [
+                    "WHITE"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/389f1c1b2428adefc20b7665f366d8c41223b4b0/napkins-40x40cm.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494814",
+            "name": "Kitchen & dining",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining"
+            ]
+        },
+        {
+            "id": "7495178",
+            "name": "Table",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining",
+                "table"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/700483000010",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.95",
+            "advertisedDisplayValue": "2.95",
+            "effectiveDisplayValue": "2.95",
+            "multiplier": 1,
+            "value": 2.95,
+            "effectiveValue": 2.95,
+            "advertisedValue": 2.95,
+            "unitPrice": {
+                "value": 0.06,
+                "unit": "piece"
+            }
+        },
+        "quantity": "50 Stk.",
+        "quantityPrice": "0.06/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:22:08"
+}

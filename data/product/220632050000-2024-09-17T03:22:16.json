@@ -1,0 +1,117 @@
+{
+    "uid": 100143783,
+    "migrosId": "220632050000",
+    "name": "M-Classic Schweinsbraten",
+    "brand": "M-Classic",
+    "title": "M-Classic Schweinsbraten",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "M-Classic",
+                "slug": "m-classic",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252457/brands/m-classic"
+            },
+            "mcheck": {
+                "animalWelfare": {
+                    "rating": 3,
+                    "image": "https://image.migros.ch/original/02f56762a6d67ea0470f50e5e8cc4d96d84791f0.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/220632050000"
+        },
+        "otherInformation": {
+            "articleNumber": "220632050000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "2185879000004",
+        "7617027755771"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/35a65a5a5709e07894a59d0de8a181d2ca0044f0/m-classic-schweinsbraten.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/0941be718d333811e238dc4b6f1a82d9d0b7a29d.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494747",
+            "name": "Meat & poultry",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry"
+            ]
+        },
+        {
+            "id": "7494843",
+            "name": "Pork",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry",
+                "pork"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/220632050000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.95",
+            "advertisedDisplayValue": "1.95",
+            "effectiveDisplayValue": "1.95",
+            "multiplier": 1,
+            "value": 1.95,
+            "effectiveValue": 1.95,
+            "advertisedValue": 1.95,
+            "unitPrice": {
+                "value": 1.95,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "1.95/100g",
+        "isVariableWeight": true,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "VARIABLE_WEIGHT",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483133/labels/poids-variable",
+                "description": "Variable Weight"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T03:22:16"
+}

@@ -1,0 +1,98 @@
+{
+    "uid": 100143664,
+    "migrosId": "268119002300",
+    "name": "Ananas und Heidelbeeren",
+    "brand": "Migros Fresca",
+    "title": "Ananas und Heidelbeeren",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Fresca",
+                "slug": "migros-fresca",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076970/brands/Migros_Fresca_Logo"
+            },
+            "rating": {
+                "nbReviews": 4,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/268119002300"
+        },
+        "otherInformation": {
+            "articleNumber": "268119002300",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613404641897"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/dec8419292fc40aaf106ea5d130ef644afecd872/ananas-und-heidelbeeren.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/7c96834e6612de476f94633ebe7403edbc274389.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494761",
+            "name": "Ready to use",
+            "slugs": [
+                "fruits-vegetables",
+                "ready-to-use"
+            ]
+        },
+        {
+            "id": "7494919",
+            "name": "Fruits",
+            "slugs": [
+                "fruits-vegetables",
+                "ready-to-use",
+                "fruits"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/268119002300",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.90",
+            "advertisedDisplayValue": "5.90",
+            "effectiveDisplayValue": "5.90",
+            "multiplier": 1,
+            "value": 5.9,
+            "effectiveValue": 5.9,
+            "advertisedValue": 5.9,
+            "unitPrice": {
+                "value": 2.36,
+                "unit": "100g"
+            }
+        },
+        "quantity": "250g",
+        "quantityPrice": "2.36/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T03:57:07"
+}

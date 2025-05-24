@@ -1,0 +1,218 @@
+{
+    "uid": 100144418,
+    "migrosId": "204109100000",
+    "name": "Mini Délice de la Gruyère",
+    "title": "Mini Délice de la Gruyère",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "nutritionalCharacteristics": [
+                "Vegetarian"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegetarian"
+                }
+            ],
+            "ingredients": "DOPPELRAHM aus pasteurizierten MILCHMini-meringues: Zucker, EIweiss",
+            "allergens": "Eggs and their derivatives, Milk and its derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "animalWelfare": {
+                    "rating": 3,
+                    "image": "https://image.migros.ch/original/02f56762a6d67ea0470f50e5e8cc4d96d84791f0.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "rating": {
+                "nbReviews": 6,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/204109100000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "~ 2221 kJ (~ 540 kcal)",
+                            "~ 397 kJ (~ 1688 kcal)",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "~ 52 g",
+                            "~ 0.5 g",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "~ 32 g",
+                            "~ 0.5 g",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "~ 0.5 g",
+                            "~ 95 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "~ 0.5 g",
+                            "~ 95 g",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "~ 0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "~ 1.2 g",
+                            "~ 4 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "~ 0.05 g",
+                            "~ 0.18 g",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "204109100000",
+            "legalDesignation": "Meringen (25g) mit Doppelrahm (10cl)",
+            "identificationMark": "CH 2443",
+            "distributorName": "MILCO SA",
+            "distributorStreetAndNumber": "CH-1642 Sorens",
+            "remarks": [
+                {
+                    "code": "Aufbewahrungshinweise für den Konsumenten",
+                    "value": "Bei höchstens 5°C aufbewahren"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegetarian"
+                },
+                {
+                    "code": "Production process",
+                    "value": "Aus der Region"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Becher"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610411002994"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/75b2a09d0b69b45034b7cdc4c258f9e2ac1d9abb/mini-delice-de-la-gruyere.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494751",
+            "name": "Milk, butter & eggs",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "milk-butter-eggs"
+            ]
+        },
+        {
+            "id": "7494868",
+            "name": "Creams & whipped cream",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "milk-butter-eggs",
+                "creams-whipped-cream"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/204109100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.90",
+            "advertisedDisplayValue": "4.90",
+            "effectiveDisplayValue": "4.90",
+            "multiplier": 1,
+            "value": 4.9,
+            "effectiveValue": 4.9,
+            "advertisedValue": 4.9,
+            "unitPrice": {
+                "value": 3.92,
+                "unit": "100g"
+            }
+        },
+        "quantity": "125g",
+        "quantityPrice": "3.92/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:38:53"
+}

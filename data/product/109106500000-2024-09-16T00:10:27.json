@@ -1,0 +1,123 @@
+{
+    "uid": 100031498,
+    "migrosId": "109106500000",
+    "migrosOnlineId": "5169634",
+    "name": "Cat Litter",
+    "brand": "M-Budget",
+    "versioning": "Clumping",
+    "title": "M-Budget · Cat Litter · Clumping",
+    "description": "M-Budget Cat Litter Clumping",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Budget",
+                "slug": "m-budget",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252456/brands/m-budget"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 7,
+                    "productionRatio": 78,
+                    "transportRatio": 9,
+                    "packagingRatio": 13,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 141,
+                "nbStars": 3.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/109106500000"
+        },
+        "usageInformation": {
+            "usage": "Fill the cat toilet with at least 4-5 cm of cat litter. Remove excrement daily, loosen up litter. Refill as required. Weietere"
+        },
+        "otherInformation": {
+            "articleNumber": "109106500000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Type of pet",
+                    "value": "Katze"
+                },
+                {
+                    "code": "Type of pet hygiene",
+                    "value": "Haustierstreu"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7617027946162",
+        "7613312395042"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/0d59238b2474256c152b09a755a21d5bbe6d9e56/katzenstreu.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494739",
+            "name": "Pets",
+            "slugs": [
+                "pets"
+            ]
+        },
+        {
+            "id": "7494803",
+            "name": "Cat litter",
+            "slugs": [
+                "pets",
+                "cat-litter"
+            ]
+        },
+        {
+            "id": "7495124",
+            "name": "Clumping",
+            "slugs": [
+                "pets",
+                "cat-litter",
+                "clumping"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/109106500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.95",
+            "advertisedDisplayValue": "3.95",
+            "effectiveDisplayValue": "3.95",
+            "multiplier": 1,
+            "value": 3.95,
+            "effectiveValue": 3.95,
+            "advertisedValue": 3.95,
+            "unitPrice": {
+                "value": 0.04,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "10l",
+        "quantityPrice": "0.04/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T00:10:27"
+}

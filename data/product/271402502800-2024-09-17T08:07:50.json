@@ -1,0 +1,91 @@
+{
+    "uid": 100052769,
+    "migrosId": "271402502800",
+    "name": "Cherrytomaten gemischt",
+    "brand": "Migros Fresca",
+    "title": "Cherrytomaten gemischt",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Fresca",
+                "slug": "migros-fresca",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076970/brands/Migros_Fresca_Logo"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 3,
+                    "productionRatio": 84,
+                    "transportRatio": 8,
+                    "packagingRatio": 8,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/271402502800"
+        },
+        "otherInformation": {
+            "articleNumber": "271402502800",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613269460954"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/aa240949f53261e36d58a3b641d82ad55ed899d3/cherrytomaten-gemischt.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494757",
+            "name": "Vegetables",
+            "slugs": [
+                "fruits-vegetables",
+                "vegetables"
+            ]
+        },
+        {
+            "id": "7494901",
+            "name": "Tomatoes",
+            "slugs": [
+                "fruits-vegetables",
+                "vegetables",
+                "tomatoes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/271402502800",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-17T08:07:50"
+}

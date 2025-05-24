@@ -1,0 +1,139 @@
+{
+    "uid": 100049705,
+    "migrosId": "102036400000",
+    "name": "Alnatura Puderzucker",
+    "brand": "Alnatura",
+    "title": "Alnatura Puderzucker",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L55",
+                    "name": "Vegan Flower",
+                    "slug": "vegan-flower",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483262/labels/Vegan_flower"
+                }
+            ],
+            "brand": {
+                "name": "Alnatura",
+                "slug": "alnatura",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1638170826/brands/Alnatura_Alnatura_Produktions_Logo"
+            },
+            "nutritionalCharacteristics": [
+                "Organic",
+                "Vegan"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                },
+                {
+                    "name": "Vegan"
+                }
+            ],
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/102036400000"
+        },
+        "otherInformation": {
+            "articleNumber": "102036400000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "vegan"
+                },
+                {
+                    "code": "Production process",
+                    "value": "Bio-Produktion"
+                },
+                {
+                    "code": "Type/quality of sugar",
+                    "value": "Pulver/Puder"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Beutel/Sack"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312060032"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/e34042a6fdc89e938f6634b0821bd78b0a00a00a/alnatura-puderzucker.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494766",
+            "name": "Baking ingredients",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "baking-ingredients"
+            ]
+        },
+        {
+            "id": "7494936",
+            "name": "Sugar & sweeteners",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "baking-ingredients",
+                "sugar-sweeteners"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/102036400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.20",
+            "advertisedDisplayValue": "2.20",
+            "effectiveDisplayValue": "2.20",
+            "multiplier": 1,
+            "value": 2.2,
+            "effectiveValue": 2.2,
+            "advertisedValue": 2.2,
+            "unitPrice": {
+                "value": 1.1,
+                "unit": "100g"
+            }
+        },
+        "quantity": "200g",
+        "quantityPrice": "1.10/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T13:10:23"
+}

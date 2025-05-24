@@ -1,0 +1,187 @@
+{
+    "uid": 100129273,
+    "migrosId": "233561000100",
+    "name": "Del Maître Hinterschinken",
+    "brand": "Del Maître",
+    "title": "Del Maître Hinterschinken",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Del Maître",
+                "slug": "del-maitre"
+            },
+            "ingredients": "Schweinefleisch (Schweiz), Nitritpökelsalz (Kochsalz, Konservierungsstoff: Natriumnitrit), natürliche Aromen, Schweinegelatine, Glucose (Mais), Antioxidationsmittel: Natriumascorbat und Kaliumcitrate, Geschmacksverstärker: Kaliumchlorid.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/233561000100"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "1 Portion (30 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "503 kJ (120 kcal)",
+                            "151 kJ (36 kcal)",
+                            "2 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "5 g",
+                            "1.5 g",
+                            "2 %"
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "2 g",
+                            "0.6 g",
+                            "3 %"
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "0.7 g",
+                            "< 0.5 g",
+                            "< 5 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            "< 5 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "18 g",
+                            "5.4 g",
+                            "11 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "2.2 g",
+                            "0.66 g",
+                            "11 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    }
+                ]
+            },
+            "portionSentence": "1 package ≈ 9 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "233561000100",
+            "legalDesignation": "Hinterschinken",
+            "identificationMark": "CH 327",
+            "distributorName": "Société coopérative Migros Vaud",
+            "distributorStreetAndNumber": "CH-1024 Ecublens",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store refrigerated at max. +5 °C."
+                },
+                {
+                    "code": "Production information",
+                    "value": "Packaged in a protective atmosphere."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7612462879488"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/197208c39909fabda839055d9c6507147d72e7d2/del-maitre-hinterschinken.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3a4bd69f1f0f84ed0348ed70856601f81cfa483a.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494748",
+            "name": "Cold cuts",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts"
+            ]
+        },
+        {
+            "id": "7494851",
+            "name": "Cooked, rolled & smoked ham",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts",
+                "cooked-rolled-smoked-ham"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/233561000100",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "9.95",
+            "advertisedDisplayValue": "9.95",
+            "effectiveDisplayValue": "9.95",
+            "multiplier": 1,
+            "value": 9.95,
+            "effectiveValue": 9.95,
+            "advertisedValue": 9.95,
+            "unitPrice": {
+                "value": 8.29,
+                "unit": "100g"
+            }
+        },
+        "quantity": "120g",
+        "quantityPrice": "8.29/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T23:37:57"
+}

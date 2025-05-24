@@ -1,0 +1,92 @@
+{
+    "uid": 100145887,
+    "migrosId": "233120251000",
+    "name": "Malbuner Rohschinken-Würfeli",
+    "brand": "Malbuner",
+    "title": "Malbuner Rohschinken-Würfeli",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "Malbuner",
+                "slug": "malbuner",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076950/brands/Malbuner_Herbert_Ospelt_Anstalt_Logo"
+            },
+            "rating": {
+                "nbReviews": 4,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/233120251000"
+        },
+        "otherInformation": {
+            "articleNumber": "233120251000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "2129680000006",
+        "7617027152365"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/069fa9a0e8dbcf9fa6987003f4f9f396cc43a0f4/malbuner-rohschinken-wuerfeli.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494748",
+            "name": "Cold cuts",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts"
+            ]
+        },
+        {
+            "id": "7494853",
+            "name": "Bacon & diced bacon",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts",
+                "bacon-diced-bacon"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/233120251000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-17T03:50:06"
+}

@@ -1,0 +1,196 @@
+{
+    "uid": 100142849,
+    "migrosId": "232360015000",
+    "name": "Salametti Swiss Black Angus",
+    "brand": "Swiss Black Angus",
+    "title": "Salametti Swiss Black Angus",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "Swiss Black Angus",
+                "slug": "swiss-black-angus"
+            },
+            "ingredients": "Rindfleisch*, Speck*, Nitritpökelsalz (Kochsalz jodiert, Konservierungsstoff: E 250), Gewürze, Maltodextrin, Traubenzucker, Säuerungsmittel: E 331, Antioxidationsmittel: E 301, E 304.\n* in IP-SUISSE Qualität",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "animalWelfare": {
+                    "rating": 4,
+                    "image": "https://image.migros.ch/original/58bd3042b45c82e79d3a18e05d0b73cc1abda5fb.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "rating": {
+                "nbReviews": 6,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/232360015000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1691 kJ (407 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "31 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "12 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "1 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "31 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "5 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "232360015000",
+            "legalDesignation": "Fleischerzeugnis zum Rohessen",
+            "identificationMark": "CH 52035244",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Can be stored without refrigeration."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613404174876"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1b0c2203c3d7192e1ac83004b291a84516102208/salametti-swiss-black-angus.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494748",
+            "name": "Cold cuts",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts"
+            ]
+        },
+        {
+            "id": "7494854",
+            "name": "Salami & dried sausages",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts",
+                "salami-dried-sausages"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/232360015000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.10",
+            "advertisedDisplayValue": "5.10",
+            "effectiveDisplayValue": "5.10",
+            "multiplier": 1,
+            "value": 5.1,
+            "effectiveValue": 5.1,
+            "advertisedValue": 5.1,
+            "unitPrice": {
+                "value": 7.29,
+                "unit": "100g"
+            }
+        },
+        "quantity": "70g",
+        "quantityPrice": "7.29/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:50:04"
+}

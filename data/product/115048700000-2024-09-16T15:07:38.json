@@ -1,0 +1,105 @@
+{
+    "uid": 100099441,
+    "migrosId": "115048700000",
+    "migrosOnlineId": "10111458",
+    "name": "Wheat Pancakes",
+    "brand": "Bertel",
+    "versioning": "Cacao-Hazelnut",
+    "title": "Bertel · Wheat Pancakes · Cacao-Hazelnut",
+    "description": "Bertel Wheat Pancakes Cacao-Hazelnut",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Bertel",
+                "slug": "bertel"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/115048700000"
+        },
+        "usageInformation": {
+            "usage": "30 sec in the microwave, ready to reheat (without the tray) 750 to 850 watts or 1 min on each side with a knob of butter.",
+            "additionalInformation": "Palm oil free"
+        },
+        "otherInformation": {
+            "articleNumber": "115048700000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "3337040004451",
+        "7613404619261",
+        "3337040000729"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/23f7d9bb071eb28fcb9dbdbe527138e5b70e5293/crepes-chocolat-noisettes.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494754",
+            "name": "Fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food"
+            ]
+        },
+        {
+            "id": "7494887",
+            "name": "Ready-made meals",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food",
+                "ready-made-meals"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/115048700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.95",
+            "advertisedDisplayValue": "3.95",
+            "effectiveDisplayValue": "3.95",
+            "multiplier": 1,
+            "value": 3.95,
+            "effectiveValue": 3.95,
+            "advertisedValue": 3.95,
+            "unitPrice": {
+                "value": 2.47,
+                "unit": "100g"
+            }
+        },
+        "quantity": "160g",
+        "quantityPrice": "2.47/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483166/labels/fresh",
+                "description": "fresh"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T15:07:38"
+}

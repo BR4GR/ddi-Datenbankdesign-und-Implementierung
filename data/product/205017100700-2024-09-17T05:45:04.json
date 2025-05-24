@@ -1,0 +1,186 @@
+{
+    "uid": 100152806,
+    "migrosId": "205017100700",
+    "name": "Joghurt Honig",
+    "title": "Joghurt Honig",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "ingredients": "Vollmilch 86%, Zucker, Honig 5.3%, Magermilchpulver, Milchproteine.",
+            "allergens": "Milk and its derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 3.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/205017100700"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "446 kJ (107 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "3.5 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "2.1 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "15 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "15 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "< 0.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "3.7 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.11 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "205017100700",
+            "legalDesignation": "Joghurt aus pasteurisierter Milch, mit Honig",
+            "identificationMark": "CH 4201",
+            "distributorName": "Fromagerie Moléson SA",
+            "distributorStreetAndNumber": "Route de Villarsel 30, CH-1694 Orsonnens",
+            "remarks": [
+                {
+                    "code": "Aufbewahrungshinweise für den Konsumenten",
+                    "value": "Gekühlt aufbewahren bei max. +5°C"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "76237164",
+        "7623186280849"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/dc3a34756d068504ec18aad13ee34b9165e429ad/joghurt-honig.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494753",
+            "name": "Yogurts & desserts",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "yogurts-desserts"
+            ]
+        },
+        {
+            "id": "7494879",
+            "name": "Yogurts",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "yogurts-desserts",
+                "yogurts"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/205017100700",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.20",
+            "advertisedDisplayValue": "1.20",
+            "effectiveDisplayValue": "1.20",
+            "multiplier": 1,
+            "value": 1.2,
+            "effectiveValue": 1.2,
+            "advertisedValue": 1.2,
+            "unitPrice": {
+                "value": 0.8,
+                "unit": "100g"
+            }
+        },
+        "quantity": "150g",
+        "quantityPrice": "0.80/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:45:04"
+}

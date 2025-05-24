@@ -1,0 +1,105 @@
+{
+    "uid": 100055662,
+    "migrosId": "721544300000",
+    "name": "Papeteria Magnete",
+    "brand": "Papeteria",
+    "title": "Papeteria Magnete",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Papeteria",
+                "slug": "papeteria",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077073/brands/Papeteria_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/721544300000"
+        },
+        "otherInformation": {
+            "articleNumber": "721544300000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Number",
+                    "value": "4 Pcs."
+                },
+                {
+                    "code": "Color",
+                    "value": "assortiert"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613433282887"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/364d4797695cd1bfa1d14f835a86df503df64af2/papeteria-magnete.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494813",
+            "name": "Office & stationery",
+            "slugs": [
+                "household-and-living",
+                "office-stationery"
+            ]
+        },
+        {
+            "id": "7495167",
+            "name": "Office supplies",
+            "slugs": [
+                "household-and-living",
+                "office-stationery",
+                "office-supplies"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/721544300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.95",
+            "advertisedDisplayValue": "4.95",
+            "effectiveDisplayValue": "4.95",
+            "multiplier": 1,
+            "value": 4.95,
+            "effectiveValue": 4.95,
+            "advertisedValue": 4.95,
+            "unitPrice": {
+                "value": 1.24,
+                "unit": "piece"
+            }
+        },
+        "quantity": "4 Stk.",
+        "quantityPrice": "1.24/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T11:32:55"
+}

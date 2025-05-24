@@ -1,0 +1,192 @@
+{
+    "uid": 100004373,
+    "migrosId": "260220304300",
+    "migrosOnlineId": "6597908",
+    "name": "Apples",
+    "brand": "Fresca",
+    "versioning": "Golden",
+    "title": "Fresca · Apples · Golden",
+    "description": "Fresca Apples Golden",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Fresca",
+                "slug": "fresca",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252430/brands/fresca-S10"
+            },
+            "ingredients": "Äpfel.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 2,
+                    "productionRatio": 35,
+                    "transportRatio": 26,
+                    "packagingRatio": 40,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 146,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/260220304300"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "232 kJ (55 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "< 0.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0.1 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "12 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "12 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "2.1 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "< 0.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.01 g",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "usageInformation": {
+            "usage": "From an apple discovered by chance in the USA in 1890 came the Golden apple variety, which is widespread throughout the world and most widely cultivated in Europe. Manufacturers of baby food prefer this variety because of its low acidity and mild taste. The apple can also be used for all purposes in the kitchen.",
+            "additionalInformation": "Sometimes you only need half an apple. Drizzle the other half with lemon juice or dip it in a bowl of lemon water and it won't brown."
+        },
+        "otherInformation": {
+            "articleNumber": "260220304300",
+            "legalDesignation": "Äpfel",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Weitere Zusatzangaben",
+                    "value": "-"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613404675939"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/9772a726c4f30ce2b7d90b5f1cb90176ce8c6991/aepfel-golden.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494756",
+            "name": "Fruits",
+            "slugs": [
+                "fruits-vegetables",
+                "fruits"
+            ]
+        },
+        {
+            "id": "7494893",
+            "name": "Apples & pears",
+            "slugs": [
+                "fruits-vegetables",
+                "fruits",
+                "apples-pears"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/260220304300",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "pictos": [
+            {
+                "type": "REGION",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679482984/labels/suisse",
+                "description": "Switzerland"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-17T03:07:52"
+}

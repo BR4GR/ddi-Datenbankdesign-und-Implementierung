@@ -1,0 +1,116 @@
+{
+    "uid": 100000201,
+    "migrosId": "102705400000",
+    "migrosOnlineId": "4458425",
+    "name": "bourbon vanilla",
+    "title": "bourbon vanilla",
+    "description": "bourbon vanilla ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "ingredients": "Vanilleschoten (Madagaskar).",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 3,
+                    "productionRatio": 71,
+                    "transportRatio": 3,
+                    "packagingRatio": 26,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 104,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/102705400000"
+        },
+        "otherInformation": {
+            "articleNumber": "102705400000",
+            "legalDesignation": "Vanilleschoten",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Number of removable individual units",
+                    "value": "3"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Glas"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "07613269113720",
+        "7613312395950"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/e7704a3099d67731870dbd03778fe694cca8c61d/vanilleschoten.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494766",
+            "name": "Baking ingredients",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "baking-ingredients"
+            ]
+        },
+        {
+            "id": "7494938",
+            "name": "Flavours & gelling agents",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "baking-ingredients",
+                "flavours-gelling-agents"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/102705400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.95",
+            "advertisedDisplayValue": "5.95",
+            "effectiveDisplayValue": "5.95",
+            "multiplier": 1,
+            "value": 5.95,
+            "effectiveValue": 5.95,
+            "advertisedValue": 5.95,
+            "unitPrice": {
+                "value": 1.98,
+                "unit": "piece"
+            }
+        },
+        "quantity": "3 x 2g",
+        "quantityPrice": "1.98/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T04:23:18"
+}

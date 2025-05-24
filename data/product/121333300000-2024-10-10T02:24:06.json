@@ -1,0 +1,211 @@
+{
+    "uid": 100136866,
+    "migrosId": "121333300000",
+    "migrosOnlineId": "10928853",
+    "name": "Soft drink",
+    "brand": "Coca-Cola",
+    "title": "Coca-Cola · Soft drink",
+    "description": "Coca-Cola Soft drink ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Coca-Cola",
+                "slug": "coca-cola",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252410/brands/coca-cola"
+            },
+            "ingredients": "water, sugar, carbonic acid, colour E 150d, acid E 338, natural flavours incl. caffeine.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 41,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/121333300000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 ml"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "180 kJ (42 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "10.6 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "10.6 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "usageInformation": {
+            "additionalInformation": "Coca-Cola has been around in Switzerland since 1936, and the ingredients used to create the uniquely refreshing taste of Coca-Cola have remained unchanged to this day. We only use natural flavors and do not add any preservatives."
+        },
+        "otherInformation": {
+            "articleNumber": "121333300000",
+            "legalDesignation": "Caffeinated refreshing beverage",
+            "distributorName": "Coca-Cola HBC Schweiz AG",
+            "distributorStreetAndNumber": "Thurgauerstrasse 134, 8152 Glattpark (Opfikon)",
+            "remarks": [
+                {
+                    "code": "Consumer storage instructions",
+                    "value": "Store in a cool and dry place."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "5449000121967"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/7e9fa2389cd905bfbb9e1df90fd5000564d229d1/coca-cola-classic.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/dd4cc1660235067eb66f76e0b5a4cc16e2c05eda.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494769",
+            "name": "Soft drinks",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks"
+            ]
+        },
+        {
+            "id": "7494949",
+            "name": "Cola",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks",
+                "cola"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/121333300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "7.60",
+            "advertisedDisplayValue": "7.60",
+            "effectiveDisplayValue": "7.60",
+            "multiplier": 1,
+            "value": 7.6,
+            "effectiveValue": 7.6,
+            "advertisedValue": 7.6
+        },
+        "promotionPrice": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.30",
+            "advertisedDisplayValue": "5.30",
+            "effectiveDisplayValue": "5.30",
+            "multiplier": 1,
+            "value": 5.3,
+            "effectiveValue": 5.3,
+            "advertisedValue": 5.3,
+            "unitPrice": {
+                "value": 0.15,
+                "unit": "100ml"
+            }
+        },
+        "priceInsteadOfLabel": "was",
+        "quantity": "4x900ml",
+        "quantityPrice": "0.15/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "badges": [
+            {
+                "type": "PERCENTAGE_PROMOTION",
+                "description": "30%"
+            }
+        ],
+        "promotionDateRange": {
+            "startDate": "2024-10-08",
+            "endDate": "2024-10-14"
+        },
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-10-10T02:24:06"
+}

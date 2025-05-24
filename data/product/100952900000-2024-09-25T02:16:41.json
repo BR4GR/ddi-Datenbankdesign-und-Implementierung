@@ -1,0 +1,91 @@
+{
+    "uid": 100175474,
+    "migrosId": "100952900000",
+    "name": "Toffifee White",
+    "brand": "Toffifee",
+    "title": "Toffifee White",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Toffifee",
+                "slug": "toffifee",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077203/brands/Toffifee_Storck_Schweiz_GmbH_Logo"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/100952900000"
+        },
+        "otherInformation": {
+            "articleNumber": "100952900000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "4014400932959",
+        "7613312417447"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/4015c7ddfeb126881c486e4f47382c1086ed5230/toffifee-white.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494782",
+            "name": "Chocolate & sweets",
+            "slugs": [
+                "snacks-sweets",
+                "chocolate-sweets"
+            ]
+        },
+        {
+            "id": "7495019",
+            "name": "Bars, branches & snacks",
+            "slugs": [
+                "snacks-sweets",
+                "chocolate-sweets",
+                "bars-branches-snacks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/100952900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.20",
+            "advertisedDisplayValue": "2.20",
+            "effectiveDisplayValue": "2.20",
+            "multiplier": 1,
+            "value": 2.2,
+            "effectiveValue": 2.2,
+            "advertisedValue": 2.2,
+            "unitPrice": {
+                "value": 1.76,
+                "unit": "100g"
+            }
+        },
+        "quantity": "125g",
+        "quantityPrice": "1.76/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-25T02:16:41"
+}

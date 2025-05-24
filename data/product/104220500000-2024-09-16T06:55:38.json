@@ -1,0 +1,205 @@
+{
+    "uid": 100049634,
+    "migrosId": "104220500000",
+    "name": "Aus der Region Maiswaffeln",
+    "title": "Aus der Region Maiswaffeln",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "ingredients": "Mais ^. \n^ aus der Region (CH)",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 9,
+                    "productionRatio": 88,
+                    "transportRatio": 2,
+                    "packagingRatio": 10,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 16,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/104220500000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "1/2 Packung (40 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1646 kJ (388 kcal)",
+                            "658 kJ (155 kcal)",
+                            "8 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "1 g",
+                            "< 0.5 g",
+                            "1 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            "0 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "86 g",
+                            "34 g",
+                            "13 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "0.5 g",
+                            "< 0.5 g",
+                            "< 5 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "3.5 g",
+                            "1.4 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "7 g",
+                            "2.8 g",
+                            "6 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            "0 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "portionSentence": "1 Package = 2 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "104220500000",
+            "legalDesignation": "Maiswaffeln",
+            "distributorName": "Genossenschaft Migros Zürich",
+            "distributorStreetAndNumber": "CH-8021 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Packaging type",
+                    "value": "Beutel"
+                },
+                {
+                    "code": "Production process",
+                    "value": "Aus der Region"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7640153740090"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/c7f3a7e4ff23cd5eeaeced56926317e672d7d06e/aus-der-region-maiswaffeln.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494764",
+            "name": "Bread & rusk",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "bread-rusk"
+            ]
+        },
+        {
+            "id": "7494931",
+            "name": "Corn & rice pancakes",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "bread-rusk",
+                "corn-rice-pancakes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/104220500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.90",
+            "advertisedDisplayValue": "2.90",
+            "effectiveDisplayValue": "2.90",
+            "multiplier": 1,
+            "value": 2.9,
+            "effectiveValue": 2.9,
+            "advertisedValue": 2.9,
+            "unitPrice": {
+                "value": 3.63,
+                "unit": "100g"
+            }
+        },
+        "quantity": "80g",
+        "quantityPrice": "3.63/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T06:55:38"
+}

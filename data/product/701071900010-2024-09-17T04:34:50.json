@@ -1,0 +1,156 @@
+{
+    "uid": 100079525,
+    "migrosId": "701071900010",
+    "name": "Tassenuntersetzer",
+    "brand": "MIGROS KITCHEN & CO.",
+    "title": "Tassenuntersetzer",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L09",
+                    "name": "FSC®",
+                    "slug": "fsc",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483057/labels/FSC_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "MIGROS KITCHEN & CO.",
+                "slug": "migros-kitchen-co",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1715075047/brands/MIGROS_KitchenCo_CS4"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 6,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/701071900010"
+        },
+        "otherInformation": {
+            "articleNumber": "701071900010",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Material",
+                    "value": "Tissue"
+                },
+                {
+                    "code": "Width",
+                    "value": "9 cm"
+                },
+                {
+                    "code": "Content",
+                    "value": "24 Pcs."
+                },
+                {
+                    "code": "Color",
+                    "value": "weiss"
+                },
+                {
+                    "code": "Length",
+                    "value": "9 cm"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613248162152"
+    ],
+    "variants": {
+        "baseProductMigrosId": "701071900000",
+        "mainVariantMigrosId": "701071900010",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "000",
+                    "color": "white"
+                },
+                "migrosId": "701071900010"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "white",
+                "options": [
+                    "white"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "000",
+                "options": [
+                    "000"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1de7f33a9cd293222fb3208b41d33963776eaa51/tassenuntersetzer.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494814",
+            "name": "Kitchen & dining",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining"
+            ]
+        },
+        {
+            "id": "7495178",
+            "name": "Table",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining",
+                "table"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/701071900010",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.95",
+            "advertisedDisplayValue": "1.95",
+            "effectiveDisplayValue": "1.95",
+            "multiplier": 1,
+            "value": 1.95,
+            "effectiveValue": 1.95,
+            "advertisedValue": 1.95,
+            "unitPrice": {
+                "value": 0.08,
+                "unit": "piece"
+            }
+        },
+        "quantity": "24 Stk.",
+        "quantityPrice": "0.08/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:34:50"
+}

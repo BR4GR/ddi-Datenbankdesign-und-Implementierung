@@ -1,0 +1,133 @@
+{
+    "uid": 100079806,
+    "migrosId": "708201101010",
+    "name": "Baumwollband",
+    "title": "Baumwollband",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/708201101010"
+        },
+        "otherInformation": {
+            "articleNumber": "708201101010",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Area of application",
+                    "value": "Flicken, säumen"
+                },
+                {
+                    "code": "Number",
+                    "value": "1 Pcs."
+                },
+                {
+                    "code": "Dimensions/size",
+                    "value": "10mm x 4m"
+                },
+                {
+                    "code": "Material",
+                    "value": "Baumwolle"
+                },
+                {
+                    "code": "Color",
+                    "value": "weiss"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613047204077"
+    ],
+    "variants": {
+        "baseProductMigrosId": "708201100000",
+        "mainVariantMigrosId": "708201101010",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "typ_groesse_farbe": "10mm/4m weiss"
+                },
+                "migrosId": "708201101010"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "typ_groesse_farbe",
+                "dimensionName": "Grösse / Farbe",
+                "currentValue": "10mm/4m weiss",
+                "options": [
+                    "10mm/4m weiss"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/55c6f53dfeebc540d53592d0b99d9a40f6125701/baumwollband.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494812",
+            "name": "DIY, home decoration and haberdashery",
+            "slugs": [
+                "household-and-living",
+                "diy-home-decoration-and-haberdas"
+            ]
+        },
+        {
+            "id": "7495164",
+            "name": "Haberdashery",
+            "slugs": [
+                "household-and-living",
+                "diy-home-decoration-and-haberdas",
+                "haberdashery"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/708201101010",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.–",
+            "advertisedDisplayValue": "3.–",
+            "effectiveDisplayValue": "3.–",
+            "multiplier": 1,
+            "value": 3,
+            "effectiveValue": 3,
+            "advertisedValue": 3,
+            "unitPrice": {
+                "value": 3,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "3.–/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-20T15:28:15"
+}

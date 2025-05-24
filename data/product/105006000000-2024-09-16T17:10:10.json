@@ -1,0 +1,146 @@
+{
+    "uid": 100050112,
+    "migrosId": "105006000000",
+    "name": "Aus der Region Kichererbse",
+    "title": "Aus der Region Kichererbse",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "nutritionalCharacteristics": [
+                "Gluten-free"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Gluten-free"
+                }
+            ],
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 3,
+                    "productionRatio": 63,
+                    "transportRatio": 9,
+                    "packagingRatio": 27,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/105006000000"
+        },
+        "otherInformation": {
+            "articleNumber": "105006000000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Allergens",
+                    "value": "Gluten free"
+                },
+                {
+                    "code": "Production process",
+                    "value": "Aus der Region"
+                },
+                {
+                    "code": "Number of removable individual units",
+                    "value": "500 g"
+                },
+                {
+                    "code": "Variety",
+                    "value": "Chickpeas"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Beutel"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "zum gekochtessen"
+                },
+                {
+                    "code": "Resealable",
+                    "value": "No"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7640146685506"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/26a3526e2cd2cdefaa4e064543f2c9edbd675aa6/aus-der-region-kichererbse.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494777",
+            "name": "Canned food & convenience food",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "canned-food-convenience-food"
+            ]
+        },
+        {
+            "id": "7494987",
+            "name": "Tinned vegetables",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "canned-food-convenience-food",
+                "tinned-vegetables"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/105006000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.60",
+            "advertisedDisplayValue": "5.60",
+            "effectiveDisplayValue": "5.60",
+            "multiplier": 1,
+            "value": 5.6,
+            "effectiveValue": 5.6,
+            "advertisedValue": 5.6,
+            "unitPrice": {
+                "value": 1.12,
+                "unit": "100g"
+            }
+        },
+        "quantity": "500g",
+        "quantityPrice": "1.12/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:10:10"
+}

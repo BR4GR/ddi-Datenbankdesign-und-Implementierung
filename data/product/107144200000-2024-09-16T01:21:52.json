@@ -1,0 +1,108 @@
+{
+    "uid": 100123086,
+    "migrosId": "107144200000",
+    "name": "Tropical Mountains Bio Paradiso",
+    "brand": "Tropical Mountains",
+    "title": "Tropical Mountains Bio Paradiso",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Tropical Mountains",
+                "slug": "tropical-mountains",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1715070717/brands/Tropical_Mountains_O25"
+            },
+            "nutritionalCharacteristics": [
+                "Organic"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                }
+            ],
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/107144200000"
+        },
+        "otherInformation": {
+            "articleNumber": "107144200000",
+            "distributorName": "Tropical Mountains"
+        }
+    },
+    "gtins": [
+        "7640181110025"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/66b5803cf0f5c984d9fac023c7253af6b8c49e70/tropical-mountains-bio-paradiso.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494772",
+            "name": "Coffee",
+            "slugs": [
+                "drinks-coffee-tea",
+                "coffee"
+            ]
+        },
+        {
+            "id": "7494966",
+            "name": "Coffee beans",
+            "slugs": [
+                "drinks-coffee-tea",
+                "coffee",
+                "coffee-beans"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/107144200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "10.40",
+            "advertisedDisplayValue": "10.40",
+            "effectiveDisplayValue": "10.40",
+            "multiplier": 1,
+            "value": 10.4,
+            "effectiveValue": 10.4,
+            "advertisedValue": 10.4,
+            "unitPrice": {
+                "value": 4.16,
+                "unit": "100g"
+            }
+        },
+        "quantity": "250g",
+        "quantityPrice": "4.16/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T01:21:52"
+}

@@ -1,0 +1,105 @@
+{
+    "uid": 100145022,
+    "migrosId": "131127900000",
+    "name": "Migros Bio Rotkraut gekocht",
+    "brand": "Migros Bio",
+    "title": "Migros Bio Rotkraut gekocht",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Bio",
+                "slug": "migros-bio",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1678265962/brands/MIGROS_BIO_screen_pantone1_rgb"
+            },
+            "nutritionalCharacteristics": [
+                "Organic"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                }
+            ],
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/131127900000"
+        },
+        "otherInformation": {
+            "articleNumber": "131127900000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613404689424"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d89ae6b5159c2407680d513d7c96dd77980adb1e/migros-bio-rotkraut-gekocht.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494757",
+            "name": "Vegetables",
+            "slugs": [
+                "fruits-vegetables",
+                "vegetables"
+            ]
+        },
+        {
+            "id": "7494905",
+            "name": "Cauliflower, broccoli & cabbage",
+            "slugs": [
+                "fruits-vegetables",
+                "vegetables",
+                "cauliflower-broccoli-cabbage"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/131127900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.15",
+            "advertisedDisplayValue": "4.15",
+            "effectiveDisplayValue": "4.15",
+            "multiplier": 1,
+            "value": 4.15,
+            "effectiveValue": 4.15,
+            "advertisedValue": 4.15,
+            "unitPrice": {
+                "value": 0.42,
+                "unit": "100g"
+            }
+        },
+        "quantity": "1000g",
+        "quantityPrice": "0.42/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T16:48:59"
+}

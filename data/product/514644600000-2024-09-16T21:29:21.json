@@ -1,0 +1,112 @@
+{
+    "uid": 100095685,
+    "migrosId": "514644600000",
+    "migrosOnlineId": "10619914",
+    "name": "Shampoo",
+    "brand": "Garnier",
+    "brandLine": "Ultra Doux Camélia",
+    "versioning": "Dry, dull hair",
+    "title": "Garnier Ultra Doux Camélia · Shampoo · Dry, dull hair",
+    "description": "Garnier Shampoo Dry, dull hair",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Garnier",
+                "slug": "garnier",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252433/brands/garnier"
+            },
+            "rating": {
+                "nbReviews": 8,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/514644600000"
+        },
+        "otherInformation": {
+            "articleNumber": "514644600000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Shampoo"
+                },
+                {
+                    "code": "Requirements/uses",
+                    "value": "Reparierend"
+                },
+                {
+                    "code": "Suitable for",
+                    "value": "Strapaziertes Haar, Trockenes Haar"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "3600542461870"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/d3117597c7ee8e5afd1fd0c48bec391b5d304949/ultra-doux-kamelien-argan-shampoo.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494825",
+            "name": "Hair care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hair-care"
+            ]
+        },
+        {
+            "id": "7495232",
+            "name": "Shampoos",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hair-care",
+                "shampoos"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/514644600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.95",
+            "advertisedDisplayValue": "4.95",
+            "effectiveDisplayValue": "4.95",
+            "multiplier": 1,
+            "value": 4.95,
+            "effectiveValue": 4.95,
+            "advertisedValue": 4.95,
+            "unitPrice": {
+                "value": 1.65,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "300ml",
+        "quantityPrice": "1.65/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T21:29:21"
+}

@@ -1,0 +1,105 @@
+{
+    "uid": 100164372,
+    "migrosId": "210593932000",
+    "name": "Rahmli Gerzensee",
+    "title": "Rahmli Gerzensee",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "ingredients": "Schweizer Weichkäse, doppelrahm, aus pasteurisierter Milch",
+            "allergens": "Milk and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "animalWelfare": {
+                    "rating": 3,
+                    "image": "https://image.migros.ch/original/02f56762a6d67ea0470f50e5e8cc4d96d84791f0.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/210593932000"
+        },
+        "nutrientsInformation": {
+            "portionSentence": "1 package = 15 servings"
+        },
+        "otherInformation": {
+            "articleNumber": "210593932000",
+            "legalDesignation": "Schweizer Weichkäse, doppelrahm, aus pasteurisierter Milch",
+            "identificationMark": "CH 5612",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store refrigerated at max. 5 °C."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613404238455"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/99664cad0a836af4824c6b4d60950685857e6b99/rahmli-gerzensee.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494752",
+            "name": "Cheese",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese"
+            ]
+        },
+        {
+            "id": "7494872",
+            "name": "Soft cheeses & blue cheeses",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese",
+                "soft-cheeses-blue-cheeses"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/210593932000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.–",
+            "advertisedDisplayValue": "5.–",
+            "effectiveDisplayValue": "5.–",
+            "multiplier": 1,
+            "value": 5,
+            "effectiveValue": 5,
+            "advertisedValue": 5,
+            "unitPrice": {
+                "value": 3.33,
+                "unit": "100g"
+            }
+        },
+        "quantity": "150g",
+        "quantityPrice": "3.33/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:56:20"
+}

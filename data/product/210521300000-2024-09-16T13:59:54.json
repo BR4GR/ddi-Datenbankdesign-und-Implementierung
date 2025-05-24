@@ -1,0 +1,193 @@
+{
+    "uid": 100066589,
+    "migrosId": "210521300000",
+    "name": "Tomme Vaudoise",
+    "brand": "Jean-Louis",
+    "title": "Tomme Vaudoise",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "Jean-Louis",
+                "slug": "jean-louis",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076838/brands/Jean-Louis_Val_d_Arve_SA_Logo"
+            },
+            "ingredients": "MILK pasteurized to 3.1% Fat (98.2%) (CH), Salt (1.2%) (FR), Ferments (0.5%) (FR), Calcium Chloride (0.05%) (FR), Rennet (0.05%) (FR).",
+            "allergens": "Milk and its derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 38,
+                    "productionRatio": 97,
+                    "transportRatio": 0,
+                    "packagingRatio": 2,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 18,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/210521300000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "~ 1092 kJ (~ 261 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "~ 21 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "~ 13 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "< 0.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "~ 0.1 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "< 0.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "~ 19 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "~ 1.2 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Sodium",
+                        "values": [
+                            "~ 0.5 mg",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "210521300000",
+            "legalDesignation": "Swiss soft cheese, fat, pasteurized milk",
+            "distributorName": "Val d'Arve SA",
+            "distributorStreetAndNumber": "Chemin des Aulx, 6 - 1228 Plan-les-ouates - CH"
+        }
+    },
+    "gtins": [
+        "7610200328694"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d90569250887deb8411b8278df1c90002b4faf75/tomme-vaudoise.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494752",
+            "name": "Cheese",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese"
+            ]
+        },
+        {
+            "id": "7494872",
+            "name": "Soft cheeses & blue cheeses",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese",
+                "soft-cheeses-blue-cheeses"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/210521300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-16T13:59:54"
+}

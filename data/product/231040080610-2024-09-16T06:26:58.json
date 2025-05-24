@@ -1,0 +1,189 @@
+{
+    "uid": 100015584,
+    "migrosId": "231040080610",
+    "migrosOnlineId": "6644696",
+    "name": "M-Classic meat loaf",
+    "brandLine": "IP-SUISSE",
+    "title": "IP-SUISSE · M-Classic meat loaf",
+    "description": "M-Classic meat loaf ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L03",
+                    "name": "IP-SUISSE",
+                    "slug": "ip-suisse",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483396/labels/IP-Suisse_-_RGB_-_DE"
+                }
+            ],
+            "ingredients": "Schweinefleisch (Schweiz)*, Wasser, Speck (Schweiz)*,  Schwarten (Schweiz)*, Nitritpökelsalz (Kochsalz, Konservierungsstoff: Natriumnitrit), <strong>Milch</strong>protein, <strong>Milch</strong>zucker, Gewürze, Stabilisator: Diphosphate, Antioxidationsmittel: Ascorbinsäure,  Glucose, Hefeextrakt. *in IP-SUISSE Qualität.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 42,
+                    "productionRatio": 96,
+                    "transportRatio": 2,
+                    "packagingRatio": 2,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                },
+                "animalWelfare": {
+                    "rating": 4,
+                    "image": "https://image.migros.ch/original/58bd3042b45c82e79d3a18e05d0b73cc1abda5fb.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "rating": {
+                "nbReviews": 154,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/231040080610"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1039 kJ (251 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "22 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "1 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "12 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "2 g",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "usageInformation": {
+            "additionalInformation": "Packed under controlled atmosphere"
+        },
+        "otherInformation": {
+            "articleNumber": "231040080610",
+            "legalDesignation": "Fleischerzeugnis gekocht",
+            "identificationMark": "CH41152690",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store refrigerated at max. +5 °C."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613404621462"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a053224d27851102a66aa9dd70c0f4ba9f5c7216/fleischkaese-delikatesse-ip-suisse.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/b3ed939c9f8e5c2d25fe3ab2abcbd68c05fc1e19.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494748",
+            "name": "Cold cuts",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts"
+            ]
+        },
+        {
+            "id": "7494852",
+            "name": "Deli meat & meatloaf",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts",
+                "deli-meat-meatloaf"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/231040080610",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": true,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "pictos": [
+            {
+                "type": "REGION",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679482984/labels/suisse",
+                "description": "Switzerland"
+            },
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483166/labels/fresh",
+                "description": "fresh"
+            },
+            {
+                "type": "VARIABLE_WEIGHT",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483133/labels/poids-variable",
+                "description": "Variable Weight"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-16T06:26:58"
+}

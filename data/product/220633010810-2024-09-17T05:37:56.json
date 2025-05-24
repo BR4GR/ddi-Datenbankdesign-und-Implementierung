@@ -1,0 +1,98 @@
+{
+    "uid": 100144871,
+    "migrosId": "220633010810",
+    "name": "Schweinsbraten",
+    "title": "Schweinsbraten",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/220633010810"
+        },
+        "otherInformation": {
+            "articleNumber": "220633010810",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "2159470000008",
+        "140737",
+        "7613269650539"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/30f8c9fa7866c826984e759b57ff2a33ecc96c8f/schweinsbraten.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494747",
+            "name": "Meat & poultry",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry"
+            ]
+        },
+        {
+            "id": "7494843",
+            "name": "Pork",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry",
+                "pork"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/220633010810",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.30",
+            "advertisedDisplayValue": "3.30",
+            "effectiveDisplayValue": "3.30",
+            "multiplier": 1,
+            "value": 3.3,
+            "effectiveValue": 3.3,
+            "advertisedValue": 3.3,
+            "unitPrice": {
+                "value": 3.3,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "3.30/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:37:56"
+}

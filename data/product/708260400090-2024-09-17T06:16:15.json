@@ -1,0 +1,154 @@
+{
+    "uid": 100047627,
+    "migrosId": "708260400090",
+    "migrosOnlineId": "4961986",
+    "name": "Travel sewing kit",
+    "title": "Travel sewing kit",
+    "description": "Travel sewing kit ",
+    "productRange": "VARIANT",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 3,
+                    "co2CarKmEquivalent": 25,
+                    "productionRatio": 94,
+                    "transportRatio": 2,
+                    "packagingRatio": 4,
+                    "image": "https://image.migros.ch/original/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "co2KgRange": "2 - 4.7 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 8,
+                "nbStars": 3.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/708260400090"
+        },
+        "usageInformation": {
+            "additionalInformation": "Mini plastic bag: Mini box with 5 pins, 3 white buttons, 8 snap fasteners, 1 threader, 3 sewing needles, 7 safety pins Mini scissors, 10 colored sewing thread wrapped on cardboard, sewing thread white and black, centimetres"
+        },
+        "otherInformation": {
+            "articleNumber": "708260400090",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Area of application",
+                    "value": "Flicken"
+                },
+                {
+                    "code": "Number",
+                    "value": "1 Pcs."
+                },
+                {
+                    "code": "Dimensions/size",
+                    "value": "8.5 x 7cm"
+                },
+                {
+                    "code": "Inhalt",
+                    "value": "Mini-Plastiktasche: Mini-Box mit 5 Stecknadeln,  3 weisse Knöpfe,  8 Druckknöpfe,  1 Einfädler,  3 Nähnadeln,  7 Sicherheitsnadeln. Minischere,  10 farbige Nähfaden auf Karton gewickelt,  Nähfaden weiss und schwarz,  Zentimeter"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7617020538647"
+    ],
+    "variants": {
+        "baseProductMigrosId": "708260400000",
+        "mainVariantMigrosId": "708260400090",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "ass.",
+                    "size": "ohne"
+                },
+                "migrosId": "708260400090"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "ass.",
+                "options": [
+                    "ass."
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "ohne",
+                "options": [
+                    "ohne"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/c2fba7b7abe8f562065dcfd7241fc1f1f8219032/reisenaehset.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494812",
+            "name": "DIY, home decoration and haberdashery",
+            "slugs": [
+                "household-and-living",
+                "diy-home-decoration-and-haberdas"
+            ]
+        },
+        {
+            "id": "7495164",
+            "name": "Haberdashery",
+            "slugs": [
+                "household-and-living",
+                "diy-home-decoration-and-haberdas",
+                "haberdashery"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/708260400090",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.95",
+            "advertisedDisplayValue": "4.95",
+            "effectiveDisplayValue": "4.95",
+            "multiplier": 1,
+            "value": 4.95,
+            "effectiveValue": 4.95,
+            "advertisedValue": 4.95,
+            "unitPrice": {
+                "value": 4.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "4.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:16:15"
+}

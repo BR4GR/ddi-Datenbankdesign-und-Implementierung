@@ -1,0 +1,92 @@
+{
+    "uid": 100068120,
+    "migrosId": "268112102300",
+    "name": "Steinfrucht-Mix",
+    "title": "Steinfrucht-Mix",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/268112102300"
+        },
+        "otherInformation": {
+            "articleNumber": "268112102300",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613404861967"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/43467c9c9c299fcc610f428adc94d291c15a7a88/steinfrucht-mix.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/eb437bc7db90c2f770bfbd7dea2221e04067c3d8.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494761",
+            "name": "Ready to use",
+            "slugs": [
+                "fruits-vegetables",
+                "ready-to-use"
+            ]
+        },
+        {
+            "id": "7494919",
+            "name": "Fruits",
+            "slugs": [
+                "fruits-vegetables",
+                "ready-to-use",
+                "fruits"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/268112102300",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.95",
+            "advertisedDisplayValue": "3.95",
+            "effectiveDisplayValue": "3.95",
+            "multiplier": 1,
+            "value": 3.95,
+            "effectiveValue": 3.95,
+            "advertisedValue": 3.95,
+            "unitPrice": {
+                "value": 1.98,
+                "unit": "100g"
+            }
+        },
+        "quantity": "200g",
+        "quantityPrice": "1.98/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T11:38:44"
+}

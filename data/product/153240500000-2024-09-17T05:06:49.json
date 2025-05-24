@@ -1,0 +1,91 @@
+{
+    "uid": 100167108,
+    "migrosId": "153240500000",
+    "name": "Monini Pesto Rosso",
+    "brand": "Monini",
+    "title": "Monini Pesto Rosso",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Monini",
+                "slug": "monini",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077001/brands/Monini_MONINI_S.p.A._Logo"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/153240500000"
+        },
+        "otherInformation": {
+            "articleNumber": "153240500000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "8005510008357",
+        "8005510003703"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a18af75bbb356351d21d7056e592a8a66117910d/monini-pesto-rosso.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494776",
+            "name": "Spices & sauces",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces"
+            ]
+        },
+        {
+            "id": "12671420",
+            "name": "Pasta sauces & pesto",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces",
+                "pasta-sauces-pesto"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/153240500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.90",
+            "advertisedDisplayValue": "3.90",
+            "effectiveDisplayValue": "3.90",
+            "multiplier": 1,
+            "value": 3.9,
+            "effectiveValue": 3.9,
+            "advertisedValue": 3.9,
+            "unitPrice": {
+                "value": 2.05,
+                "unit": "100g"
+            }
+        },
+        "quantity": "190g",
+        "quantityPrice": "2.05/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:06:49"
+}

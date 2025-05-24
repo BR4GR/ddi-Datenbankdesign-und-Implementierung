@@ -1,0 +1,178 @@
+{
+    "uid": 100086294,
+    "migrosId": "830450628055",
+    "name": "DIM Lady's knee socks",
+    "brand": "Dim",
+    "title": "DIM Lady's knee socks",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Dim",
+                "slug": "dim"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 4,
+                "nbStars": 3.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/830450628055"
+        },
+        "otherInformation": {
+            "articleNumber": "830450628055",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Article type",
+                    "value": "Kniestrümpfe"
+                },
+                {
+                    "code": "Material",
+                    "value": "Polyamid"
+                },
+                {
+                    "code": "Denier",
+                    "value": "25 DEN"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "65 %"
+                },
+                {
+                    "code": "Material 2",
+                    "value": "Elasthan"
+                },
+                {
+                    "code": "Proportion of material 2",
+                    "value": "35 %"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "3610861817319"
+    ],
+    "variants": {
+        "baseProductMigrosId": "830450600000",
+        "mainVariantMigrosId": "830450628020",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "black",
+                    "size": "36-38"
+                },
+                "migrosId": "830450628020"
+            },
+            {
+                "declinationOptions": {
+                    "color": "cognac",
+                    "size": "36-38"
+                },
+                "migrosId": "830450628055"
+            },
+            {
+                "declinationOptions": {
+                    "color": "black",
+                    "size": "39-41"
+                },
+                "migrosId": "830450628120"
+            },
+            {
+                "declinationOptions": {
+                    "color": "cognac",
+                    "size": "39-41"
+                },
+                "migrosId": "830450628155"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "cognac",
+                "options": [
+                    "black",
+                    "cognac"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "36-38",
+                "options": [
+                    "36-38",
+                    "39-41"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/133007522d9806c44f1d27494e71ff45db023468/dim-ladys-knee-socks.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/13154c773214548f9696ab78e78040d7f6233ece.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10553347",
+            "name": "Women",
+            "slugs": [
+                "clothing-accessories",
+                "women"
+            ]
+        },
+        {
+            "id": "10553383",
+            "name": "Socks & tights",
+            "slugs": [
+                "clothing-accessories",
+                "women",
+                "socks-tights"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/830450628055",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "16.90",
+            "advertisedDisplayValue": "16.90",
+            "effectiveDisplayValue": "16.90",
+            "multiplier": 1,
+            "value": 16.9,
+            "effectiveValue": 16.9,
+            "advertisedValue": 16.9,
+            "unitPrice": {
+                "value": 16.9,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Paar",
+        "quantityPrice": "16.90/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T14:42:26"
+}

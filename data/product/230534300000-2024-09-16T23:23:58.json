@@ -1,0 +1,135 @@
+{
+    "uid": 100052154,
+    "migrosId": "230534300000",
+    "name": "Bauernwurst 2 Stück",
+    "title": "Bauernwurst 2 Stück",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 43,
+                    "productionRatio": 95,
+                    "transportRatio": 2,
+                    "packagingRatio": 2,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                },
+                "animalWelfare": {
+                    "rating": 3,
+                    "image": "https://image.migros.ch/original/02f56762a6d67ea0470f50e5e8cc4d96d84791f0.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "rating": {
+                "nbReviews": 11,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/230534300000"
+        },
+        "otherInformation": {
+            "articleNumber": "230534300000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Form",
+                    "value": "Portion"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Kunststoff-Verpackung"
+                },
+                {
+                    "code": "Typical feature",
+                    "value": "cooked"
+                },
+                {
+                    "code": "Additional characteristics",
+                    "value": "smoked"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610200014313"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1f4868bf400dc575624eed4f5d3ab104b05664ce/bauernwurst-2-stueck.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/723465c4302e7af94924e6ff12d9df6ce02baccf.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494748",
+            "name": "Cold cuts",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts"
+            ]
+        },
+        {
+            "id": "7494855",
+            "name": "Sausages & cervelats",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts",
+                "sausages-cervelats"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/230534300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.80",
+            "advertisedDisplayValue": "6.80",
+            "effectiveDisplayValue": "6.80",
+            "multiplier": 1,
+            "value": 6.8,
+            "effectiveValue": 6.8,
+            "advertisedValue": 6.8,
+            "unitPrice": {
+                "value": 2.52,
+                "unit": "100g"
+            }
+        },
+        "quantity": "270g",
+        "quantityPrice": "2.52/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T23:23:58"
+}

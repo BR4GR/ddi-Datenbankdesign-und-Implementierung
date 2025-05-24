@@ -1,0 +1,112 @@
+{
+    "uid": 100121558,
+    "migrosId": "130987400000",
+    "name": "Cornatur Crispy Burger Chicken Style",
+    "brand": "Cornatur",
+    "title": "Cornatur Crispy Burger Chicken Style",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L57",
+                    "name": "V-Label vegan",
+                    "slug": "v-label-vegan",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483003/labels/V-Label_Vegan_Color"
+                }
+            ],
+            "brand": {
+                "name": "Cornatur",
+                "slug": "cornatur",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076644/brands/Cornatur__Logo"
+            },
+            "nutritionalCharacteristics": [
+                "Vegan"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegan"
+                }
+            ],
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/130987400000"
+        },
+        "otherInformation": {
+            "articleNumber": "130987400000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegan"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613404377901"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/c9de6c2a92be1eb6d1e0d2e4cd895d7cac4c540f/cornatur-crispy-burger-chicken-style.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494750",
+            "name": "Plant-based alternatives",
+            "slugs": [
+                "meat-fish",
+                "plant-based-alternatives"
+            ]
+        },
+        {
+            "id": "7494864",
+            "name": "Alternatives to burgers, cutlets & falafel",
+            "slugs": [
+                "meat-fish",
+                "plant-based-alternatives",
+                "alternatives-to-burgers-cutlets"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/130987400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.–",
+            "advertisedDisplayValue": "7.–",
+            "effectiveDisplayValue": "7.–",
+            "multiplier": 1,
+            "value": 7,
+            "effectiveValue": 7,
+            "advertisedValue": 7,
+            "unitPrice": {
+                "value": 1.94,
+                "unit": "100g"
+            }
+        },
+        "quantity": "360g",
+        "quantityPrice": "1.94/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T06:32:16"
+}

@@ -1,0 +1,202 @@
+{
+    "uid": 100162319,
+    "migrosId": "100137500000",
+    "migrosOnlineId": "12445051",
+    "name": "Chocolate bars",
+    "brand": "Sélection",
+    "versioning": "dark, 80% cocoa Panama",
+    "title": "Sélection · Chocolate bars · dark, 80% cocoa Panama",
+    "description": "Sélection Chocolate bars dark, 80% cocoa Panama",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "Sélection",
+                "slug": "selection",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652251541/brands/selection"
+            },
+            "ingredients": "Kakaomasse (Panama), Rohrzucker, Kakaobutter, Vanilleschoten. \nKakao in der Schokolade: mind. 80%",
+            "allergenIndication": "Kann enthalten: Milch, Haselnüsse, Mandeln.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 3.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/100137500000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "2 Täfelchen (16 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "2457 kJ (594 kcal)",
+                            "394 kJ (95 kcal)",
+                            "5 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "50 g",
+                            "8 g",
+                            "11 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "31 g",
+                            "5 g",
+                            "25 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "22 g",
+                            "3.5 g",
+                            "1 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "19 g",
+                            "3 g",
+                            "3 %"
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "11 g",
+                            "1.8 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "8.5 g",
+                            "1.4 g",
+                            "3 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            "0 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "portionSentence": "1 package = 5 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "100137500000",
+            "legalDesignation": "Dunkle Schokolade",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store in a cool, dry place and protected from light."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312443293"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/9b6059ecd9c8da0b23e08e842f634d896a2b6235/selection-cacao-panama-80.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494782",
+            "name": "Chocolate & sweets",
+            "slugs": [
+                "snacks-sweets",
+                "chocolate-sweets"
+            ]
+        },
+        {
+            "id": "7495018",
+            "name": "Chocolate bars",
+            "slugs": [
+                "snacks-sweets",
+                "chocolate-sweets",
+                "chocolate-bars"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/100137500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.10",
+            "advertisedDisplayValue": "5.10",
+            "effectiveDisplayValue": "5.10",
+            "multiplier": 1,
+            "value": 5.1,
+            "effectiveValue": 5.1,
+            "advertisedValue": 5.1,
+            "unitPrice": {
+                "value": 6.4,
+                "unit": "100g"
+            }
+        },
+        "quantity": "80g",
+        "quantityPrice": "6.40/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "REGION",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679482984/labels/suisse",
+                "description": "Switzerland"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T16:04:18"
+}

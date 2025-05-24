@@ -1,0 +1,98 @@
+{
+    "uid": 100049968,
+    "migrosId": "106488900000",
+    "name": "Weisswurstsenf",
+    "title": "Weisswurstsenf",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "rating": {
+                "nbReviews": 28,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/106488900000"
+        },
+        "otherInformation": {
+            "articleNumber": "106488900000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Type of sauce/dip",
+                    "value": "Senf"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Glas"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4006824003971"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/db3ea2ffb4a1c66f1731a7df52d101fa77e3b829/weisswurstsenf.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494776",
+            "name": "Spices & sauces",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces"
+            ]
+        },
+        {
+            "id": "7494980",
+            "name": "Cold sauces",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces",
+                "cold-sauces"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/106488900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.95",
+            "advertisedDisplayValue": "3.95",
+            "effectiveDisplayValue": "3.95",
+            "multiplier": 1,
+            "value": 3.95,
+            "effectiveValue": 3.95,
+            "advertisedValue": 3.95,
+            "unitPrice": {
+                "value": 1.58,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "250ml",
+        "quantityPrice": "1.58/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:49:00"
+}

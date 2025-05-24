@@ -1,0 +1,143 @@
+{
+    "uid": 100146952,
+    "migrosId": "220411030100",
+    "name": "M-Classic Kalbsherz",
+    "brand": "M-Classic",
+    "title": "M-Classic Kalbsherz",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "M-Classic",
+                "slug": "m-classic",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252457/brands/m-classic"
+            },
+            "mcheck": {
+                "animalWelfare": {
+                    "rating": 3,
+                    "image": "https://image.migros.ch/original/02f56762a6d67ea0470f50e5e8cc4d96d84791f0.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/220411030100"
+        },
+        "otherInformation": {
+            "articleNumber": "220411030100",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Additional characteristics",
+                    "value": "natural"
+                },
+                {
+                    "code": "Part",
+                    "value": "Heart"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Kunststoff-Verpackung"
+                },
+                {
+                    "code": "Meat form processed",
+                    "value": "gewürfelt"
+                },
+                {
+                    "code": "Hygiene notes",
+                    "value": "Rohes Fleisch nicht in Kontakt mit anderen Lebensmitteln bringen. Geschirr und Hände gründlich reinigen. Fleisch immer gut durchgekocht/gebraten servieren."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "2185611000002",
+        "7617027753371"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/c69ad2c98174af9b3682e1b839765aaff8101aa9/m-classic-kalbsherz.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/481de561257a97de39554628ad3b266c487ebe7a.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494747",
+            "name": "Meat & poultry",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry"
+            ]
+        },
+        {
+            "id": "7494844",
+            "name": "Veal, lamb & horse",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry",
+                "veal-lamb-horse"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/220411030100",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.50",
+            "advertisedDisplayValue": "1.50",
+            "effectiveDisplayValue": "1.50",
+            "multiplier": 1,
+            "value": 1.5,
+            "effectiveValue": 1.5,
+            "advertisedValue": 1.5,
+            "unitPrice": {
+                "value": 1.5,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "1.50/100g",
+        "isVariableWeight": true,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "VARIABLE_WEIGHT",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483133/labels/poids-variable",
+                "description": "Variable Weight"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:49:28"
+}

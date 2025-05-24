@@ -1,0 +1,114 @@
+{
+    "uid": 100000566,
+    "migrosId": "161670200000",
+    "migrosOnlineId": "6559487",
+    "name": "Sliced porcini mushrooms",
+    "brand": "Valtaro",
+    "title": "Valtaro · Sliced porcini mushrooms",
+    "description": "Valtaro Sliced porcini mushrooms ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Valtaro",
+                "slug": "valtaro"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 4,
+                    "productionRatio": 52,
+                    "transportRatio": 25,
+                    "packagingRatio": 21,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg"
+                }
+            },
+            "rating": {
+                "nbReviews": 22,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/161670200000"
+        },
+        "otherInformation": {
+            "articleNumber": "161670200000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "8032942400053",
+        "7613312358559"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a8faf9232554cdf76ab95627a31e8bbef2d122a8/valtaro-steinpilzscheiben.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494738",
+            "name": "Frozen food",
+            "slugs": [
+                "frozen-food"
+            ]
+        },
+        {
+            "id": "7494795",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "frozen-food",
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7495089",
+            "name": "Vegetables",
+            "slugs": [
+                "frozen-food",
+                "fruits-vegetables",
+                "vegetables"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/161670200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "9.60",
+            "advertisedDisplayValue": "9.60",
+            "effectiveDisplayValue": "9.60",
+            "multiplier": 1,
+            "value": 9.6,
+            "effectiveValue": 9.6,
+            "advertisedValue": 9.6,
+            "unitPrice": {
+                "value": 3.2,
+                "unit": "100g"
+            }
+        },
+        "quantity": "300g",
+        "quantityPrice": "3.20/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483530/labels/frozen",
+                "description": "frozen"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T05:16:53"
+}

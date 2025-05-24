@@ -1,0 +1,208 @@
+{
+    "uid": 100143910,
+    "migrosId": "210495306500",
+    "name": "Hagenwiler Schlosskäse",
+    "title": "Hagenwiler Schlosskäse",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                },
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "allergens": "Milk and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "animalWelfare": {
+                    "rating": 3,
+                    "image": "https://image.migros.ch/original/02f56762a6d67ea0470f50e5e8cc4d96d84791f0.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "rating": {
+                "nbReviews": 7,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/210495306500"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "1 Portion (40 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1774 kJ (428 kcal)",
+                            "688 kJ (166 kcal)",
+                            "8 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "36 g",
+                            "14 g",
+                            "20 %"
+                        ]
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "21 g",
+                            "8.4 g",
+                            "42 %"
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            "0 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            "0 %"
+                        ]
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "26 g",
+                            "10 g",
+                            "20 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "1.5 g",
+                            "0.59 g",
+                            "10 %"
+                        ]
+                    }
+                ]
+            },
+            "portionSentence": "1 Package ≈ 40 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "210495306500",
+            "legalDesignation": "Schweizer Halbhartkäse, vollfett, mit Rohmilch hergestellt",
+            "identificationMark": "CH 83774886",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store refrigerated at max. 5 °C."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "2161311000009",
+        "306317",
+        "7613269845317"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/6fbfc571cf8f9f65cdd68d4d6be8cb1a39d44655/hagenwiler-schlosskaese.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/321625b08f2f9342f3d3e92bd5ec402623c36070.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494752",
+            "name": "Cheese",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese"
+            ]
+        },
+        {
+            "id": "7494871",
+            "name": "Hard & semi-hard cheeses",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese",
+                "hard-semi-hard-cheeses"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/210495306500",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.50",
+            "advertisedDisplayValue": "2.50",
+            "effectiveDisplayValue": "2.50",
+            "multiplier": 1,
+            "value": 2.5,
+            "effectiveValue": 2.5,
+            "advertisedValue": 2.5,
+            "unitPrice": {
+                "value": 2.5,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "2.50/100g",
+        "isVariableWeight": true,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "VARIABLE_WEIGHT",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483133/labels/poids-variable",
+                "description": "Variable Weight"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:05:13"
+}

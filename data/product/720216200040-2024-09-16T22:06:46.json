@@ -1,0 +1,138 @@
+{
+    "uid": 100079926,
+    "migrosId": "720216200040",
+    "name": "CdA Ersatzpatrone blau",
+    "brand": "Caran d' Ache",
+    "title": "CdA Ersatzpatrone blau",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Caran d' Ache",
+                "slug": "caran-d-ache",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252404/brands/caran-d-ache"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 23,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/720216200040"
+        },
+        "otherInformation": {
+            "articleNumber": "720216200040",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Number",
+                    "value": "1 Pcs."
+                },
+                {
+                    "code": "Font color",
+                    "value": "blau"
+                },
+                {
+                    "code": "Font width",
+                    "value": "0.7 mm"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610186579998"
+    ],
+    "variants": {
+        "baseProductMigrosId": "720216200000",
+        "mainVariantMigrosId": "720216200020",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "SCHWARZ"
+                },
+                "migrosId": "720216200020"
+            },
+            {
+                "declinationOptions": {
+                    "color": "BLAU"
+                },
+                "migrosId": "720216200040"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "BLAU",
+                "options": [
+                    "SCHWARZ",
+                    "BLAU"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/997c69ab76a73100abcf4ed0103c565e8395d9e8/cda-ersatzpatrone-blau.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494813",
+            "name": "Office & stationery",
+            "slugs": [
+                "household-and-living",
+                "office-stationery"
+            ]
+        },
+        {
+            "id": "7495170",
+            "name": "Writing & taking notes",
+            "slugs": [
+                "household-and-living",
+                "office-stationery",
+                "writing-taking-notes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/720216200040",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.95",
+            "advertisedDisplayValue": "5.95",
+            "effectiveDisplayValue": "5.95",
+            "multiplier": 1,
+            "value": 5.95,
+            "effectiveValue": 5.95,
+            "advertisedValue": 5.95,
+            "unitPrice": {
+                "value": 5.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "5.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T22:06:46"
+}

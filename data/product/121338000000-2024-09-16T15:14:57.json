@@ -1,0 +1,193 @@
+{
+    "uid": 100136867,
+    "migrosId": "121338000000",
+    "migrosOnlineId": "10928939",
+    "name": "Soft drink",
+    "brand": "Coca-Cola",
+    "brandLine": "Zero",
+    "versioning": "calorie-free",
+    "title": "Coca-Cola Zero · Soft drink · calorie-free",
+    "description": "Coca-Cola Soft drink calorie-free",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Coca-Cola",
+                "slug": "coca-cola",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252410/brands/coca-cola"
+            },
+            "ingredients": "water, carbonic acid, colouring E 150d, sweeteners cyclamate, acesulfame K and aspartame, acid: E 338, acidity regulator: sodium citrates, natural flavourings including caffeine.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 28,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/121338000000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 ml"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "~ 0.9 kJ (~ 0.2 kcal)",
+                            "~ 2.3 kJ (~ 1 kcal)",
+                            "0 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "~ 0 g",
+                            "~ 0 g",
+                            "0 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "~ 0 g",
+                            "~ 0 g",
+                            "0 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "~ 0 g",
+                            "~ 0 g",
+                            "0 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "~ 0 g",
+                            "~ 0 g",
+                            "0 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "~ 0 g",
+                            "~ 0 g",
+                            "0 %"
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "~ 0 g",
+                            "~ 0 g",
+                            "0 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "~ 0.02 g",
+                            "~ 0.05 g",
+                            "1 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "usageInformation": {
+            "usage": "The real taste of Coca-Cola and the pleasure without sugar.",
+            "additionalInformation": "Kalorienfreies koffeinhaltiges Erfrischungsgetränk, mit Süssungsmitteln"
+        },
+        "otherInformation": {
+            "articleNumber": "121338000000",
+            "legalDesignation": "Calorie-free caffeinated refreshing beverage. With sweeteners",
+            "distributorName": "Coca-Cola HBC Schweiz AG",
+            "distributorStreetAndNumber": "Thurgauerstrasse 134, CH-8152 Opfikon-Glattbrugg",
+            "remarks": [
+                {
+                    "code": "Consumer storage instructions",
+                    "value": "Store in a cool and dry place."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "5449000119674"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3c9b1009ff2695fefc0c0c5c957718e38458711e/coca-cola-zero.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/cd7c9aea0f13baa851763501d187bb01713b054f.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494769",
+            "name": "Soft drinks",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks"
+            ]
+        },
+        {
+            "id": "7494949",
+            "name": "Cola",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks",
+                "cola"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/121338000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.60",
+            "advertisedDisplayValue": "7.60",
+            "effectiveDisplayValue": "7.60",
+            "multiplier": 1,
+            "value": 7.6,
+            "effectiveValue": 7.6,
+            "advertisedValue": 7.6,
+            "unitPrice": {
+                "value": 0.21,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "4x900ml",
+        "quantityPrice": "0.21/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T15:14:57"
+}

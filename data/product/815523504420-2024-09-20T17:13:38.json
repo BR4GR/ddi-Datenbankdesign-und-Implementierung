@@ -1,0 +1,179 @@
+{
+    "uid": 100082153,
+    "migrosId": "815523504420",
+    "name": "Lady's Hipster",
+    "brand": "Sloggi",
+    "title": "Lady's Hipster",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Sloggi",
+                "slug": "sloggi",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1642402947/brands/Sloggi_Triumph_International_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 8,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/815523504420"
+        },
+        "otherInformation": {
+            "articleNumber": "815523504420",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Article type",
+                    "value": "Slip"
+                },
+                {
+                    "code": "Material",
+                    "value": "Polyamid"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "84 %"
+                },
+                {
+                    "code": "Material 2",
+                    "value": "Elasthan"
+                },
+                {
+                    "code": "Proportion of material 2",
+                    "value": "16 %"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613124286439"
+    ],
+    "variants": {
+        "baseProductMigrosId": "815523500000",
+        "mainVariantMigrosId": "815523503620",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "036",
+                    "color": "black"
+                },
+                "migrosId": "815523503620"
+            },
+            {
+                "declinationOptions": {
+                    "size": "038",
+                    "color": "black"
+                },
+                "migrosId": "815523503820"
+            },
+            {
+                "declinationOptions": {
+                    "size": "040",
+                    "color": "black"
+                },
+                "migrosId": "815523504020"
+            },
+            {
+                "declinationOptions": {
+                    "size": "042",
+                    "color": "black"
+                },
+                "migrosId": "815523504220"
+            },
+            {
+                "declinationOptions": {
+                    "size": "044",
+                    "color": "black"
+                },
+                "migrosId": "815523504420"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "black",
+                "options": [
+                    "black"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "044",
+                "options": [
+                    "036",
+                    "038",
+                    "040",
+                    "042",
+                    "044"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/dc658d7bc0d49139561f30dfe0568330d205602e/ladys-hipster.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/90895c9013ee17b5bca22e1b22adc6322c79f72e.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10553347",
+            "name": "Women",
+            "slugs": [
+                "clothing-accessories",
+                "women"
+            ]
+        },
+        {
+            "id": "10553439",
+            "name": "Underwear",
+            "slugs": [
+                "clothing-accessories",
+                "women",
+                "underwear"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/815523504420",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "16.95",
+            "advertisedDisplayValue": "16.95",
+            "effectiveDisplayValue": "16.95",
+            "multiplier": 1,
+            "value": 16.95,
+            "effectiveValue": 16.95,
+            "advertisedValue": 16.95
+        },
+        "quantity": "1 Stk.",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-20T17:13:38"
+}

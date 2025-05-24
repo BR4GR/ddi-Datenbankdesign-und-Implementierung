@@ -1,0 +1,132 @@
+{
+    "uid": 100160083,
+    "migrosId": "848317900041",
+    "name": "Gymbag Kids",
+    "brand": "MIGROS TRAVEL & CO.",
+    "title": "Gymbag Kids",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "MIGROS TRAVEL & CO.",
+                "slug": "migros-travel-co",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1689862767/brands/Migros_Travel_und_Co"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/848317900041"
+        },
+        "otherInformation": {
+            "articleNumber": "848317900041",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Category/theme",
+                    "value": "Sportbeutel"
+                },
+                {
+                    "code": "Main material",
+                    "value": "Recycling Polyester"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871559705"
+    ],
+    "variants": {
+        "baseProductMigrosId": "848317900000",
+        "mainVariantMigrosId": "848317900041",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "light blue"
+                },
+                "migrosId": "848317900041"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "light blue",
+                "options": [
+                    "light blue"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "one Size",
+                "options": [
+                    "one Size"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f9ae2d8784735348779d1dc117a89c5089f99519/gymbag-kids.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "7494823",
+            "name": "Baby equipment",
+            "slugs": [
+                "baby-kids",
+                "baby-equipment"
+            ]
+        },
+        {
+            "id": "7495228",
+            "name": "Bags, first day at school & accessories",
+            "slugs": [
+                "baby-kids",
+                "baby-equipment",
+                "bags-first-day-at-school-accesso"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/848317900041",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "12.95",
+            "advertisedDisplayValue": "12.95",
+            "effectiveDisplayValue": "12.95",
+            "multiplier": 1,
+            "value": 12.95,
+            "effectiveValue": 12.95,
+            "advertisedValue": 12.95,
+            "unitPrice": {
+                "value": 12.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 piece",
+        "quantityPrice": "12.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T01:16:44"
+}

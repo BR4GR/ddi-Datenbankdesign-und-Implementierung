@@ -1,0 +1,137 @@
+{
+    "uid": 100115437,
+    "migrosId": "109020800000",
+    "migrosOnlineId": "10884706",
+    "name": "Snacks pour dogs",
+    "brand": "Edgard & Cooper",
+    "versioning": "apple and eucalyptus",
+    "title": "Edgard & Cooper · Snacks pour dogs · apple and eucalyptus",
+    "description": "Edgard & Cooper Snacks pour dogs apple and eucalyptus",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Edgard & Cooper",
+                "slug": "edgard-cooper"
+            },
+            "nutritionalCharacteristics": [
+                "No grain"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "No grain"
+                }
+            ],
+            "rating": {
+                "nbReviews": 17,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/109020800000"
+        },
+        "usageInformation": {
+            "usage": "extra long chewing",
+            "additionalInformation": "for dogs between 10-25 kg"
+        },
+        "otherInformation": {
+            "articleNumber": "109020800000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Type of pet",
+                    "value": "Hund"
+                },
+                {
+                    "code": "Grain-free",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Ready to eat",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Category of feed",
+                    "value": "Ergänzungsfutter"
+                },
+                {
+                    "code": "Consistency of feed",
+                    "value": "trocken"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "5407007142224"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/4d10883c3a46a0c314ad9a726dc9872017f50ee0/ec-dental-apfel-eukaliptus-m.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494739",
+            "name": "Pets",
+            "slugs": [
+                "pets"
+            ]
+        },
+        {
+            "id": "7494804",
+            "name": "Dogs",
+            "slugs": [
+                "pets",
+                "dogs"
+            ]
+        },
+        {
+            "id": "7495129",
+            "name": "Treats",
+            "slugs": [
+                "pets",
+                "dogs",
+                "treats"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/109020800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.95",
+            "advertisedDisplayValue": "5.95",
+            "effectiveDisplayValue": "5.95",
+            "multiplier": 1,
+            "value": 5.95,
+            "effectiveValue": 5.95,
+            "advertisedValue": 5.95,
+            "unitPrice": {
+                "value": 3.72,
+                "unit": "100g"
+            }
+        },
+        "quantity": "160g",
+        "quantityPrice": "3.72/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "GRAIN_FREE",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483181/labels/grainfree_v1",
+                "description": "No grain"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T00:10:04"
+}

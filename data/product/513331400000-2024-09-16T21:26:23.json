@@ -1,0 +1,103 @@
+{
+    "uid": 100053501,
+    "migrosId": "513331400000",
+    "name": "Bi-Oil Körperöl",
+    "brand": "Bi-Oil",
+    "title": "Bi-Oil Körperöl",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Bi-Oil",
+                "slug": "bi-oil"
+            },
+            "rating": {
+                "nbReviews": 11,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/513331400000"
+        },
+        "otherInformation": {
+            "articleNumber": "513331400000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Öle"
+                },
+                {
+                    "code": "Requirements/uses",
+                    "value": "Pflege"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "6001159112020"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/4f28275923c3f5b16fa841cd104fafecd2e8ff83/bi-oil-koerperoel.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494826",
+            "name": "Body care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care"
+            ]
+        },
+        {
+            "id": "7495242",
+            "name": "Treatments & creams",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care",
+                "treatments-creams"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/513331400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "13.–",
+            "advertisedDisplayValue": "13.–",
+            "effectiveDisplayValue": "13.–",
+            "multiplier": 1,
+            "value": 13,
+            "effectiveValue": 13,
+            "advertisedValue": 13,
+            "unitPrice": {
+                "value": 21.7,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "60ml",
+        "quantityPrice": "21.70/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T21:26:23"
+}

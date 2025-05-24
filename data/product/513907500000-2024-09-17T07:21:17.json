@@ -1,0 +1,94 @@
+{
+    "uid": 100089707,
+    "migrosId": "513907500000",
+    "name": "I am Bart-& Schnauzschere",
+    "brand": "I am",
+    "title": "I am Bart-& Schnauzschere",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "I am",
+                "slug": "i-am",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076768/brands/Iam_Logo"
+            },
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 1.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/513907500000"
+        },
+        "otherInformation": {
+            "articleNumber": "513907500000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613312164686"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/9bf5116bb350c29491fc38ac2f3d0e414c91560f/i-am-bart-schnauzschere.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494826",
+            "name": "Body care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care"
+            ]
+        },
+        {
+            "id": "7495240",
+            "name": "Hair removal & shaving",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care",
+                "hair-removal-shaving"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/513907500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "9.95",
+            "advertisedDisplayValue": "9.95",
+            "effectiveDisplayValue": "9.95",
+            "multiplier": 1,
+            "value": 9.95,
+            "effectiveValue": 9.95,
+            "advertisedValue": 9.95,
+            "unitPrice": {
+                "value": 9.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "9.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:21:17"
+}

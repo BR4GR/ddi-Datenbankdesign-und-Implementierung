@@ -1,0 +1,91 @@
+{
+    "uid": 100001637,
+    "migrosId": "513955100000",
+    "migrosOnlineId": "6564643",
+    "name": "Soap dispenser",
+    "title": "Soap dispenser",
+    "description": "Soap dispenser ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "rating": {
+                "nbReviews": 6,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/513955100000"
+        },
+        "otherInformation": {
+            "articleNumber": "513955100000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7617027878258",
+        "7630002504645"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/96bf7de0d87862cfbd03c74be00c1a689ba67bb3/beauty-dispensers-75ml.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494812",
+            "name": "DIY, home decoration and haberdashery",
+            "slugs": [
+                "household-and-living",
+                "diy-home-decoration-and-haberdas"
+            ]
+        },
+        {
+            "id": "10657238",
+            "name": "Accessories",
+            "slugs": [
+                "household-and-living",
+                "diy-home-decoration-and-haberdas",
+                "accessories"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/513955100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.80",
+            "advertisedDisplayValue": "2.80",
+            "effectiveDisplayValue": "2.80",
+            "multiplier": 1,
+            "value": 2.8,
+            "effectiveValue": 2.8,
+            "advertisedValue": 2.8,
+            "unitPrice": {
+                "value": 2.8,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "2.80/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-23T07:28:29"
+}

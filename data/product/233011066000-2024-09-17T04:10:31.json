@@ -1,0 +1,88 @@
+{
+    "uid": 100144399,
+    "migrosId": "233011066000",
+    "name": "Antipasti Festivo",
+    "title": "Antipasti Festivo",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/233011066000"
+        },
+        "otherInformation": {
+            "articleNumber": "233011066000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613269972396"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/4d01fe874a9b06644625e42da6de91c6eb572004/antipasti-festivo.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ba90e1127c447aefff8867929d9e0880f77cbc6d.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494752",
+            "name": "Cheese",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese"
+            ]
+        },
+        {
+            "id": "7494878",
+            "name": "Snacks, appetisers & cheese for kids",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese",
+                "snacks-appetisers-cheese-for-kid"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/233011066000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "8.90",
+            "advertisedDisplayValue": "8.90",
+            "effectiveDisplayValue": "8.90",
+            "multiplier": 1,
+            "value": 8.9,
+            "effectiveValue": 8.9,
+            "advertisedValue": 8.9,
+            "unitPrice": {
+                "value": 6.59,
+                "unit": "100g"
+            }
+        },
+        "quantity": "135g",
+        "quantityPrice": "6.59/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:10:31"
+}

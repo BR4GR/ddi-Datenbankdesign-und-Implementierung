@@ -1,0 +1,121 @@
+{
+    "uid": 100000585,
+    "migrosId": "511511200000",
+    "migrosOnlineId": "4986765",
+    "name": "Eau de Toilette",
+    "brand": "All Woman",
+    "title": "All Woman · Eau de Toilette",
+    "description": "All Woman Eau de Toilette ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "All Woman",
+                "slug": "all-woman"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 44,
+                    "productionRatio": 96,
+                    "transportRatio": 1,
+                    "packagingRatio": 2,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 13,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/511511200000"
+        },
+        "otherInformation": {
+            "articleNumber": "511511200000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Eau de Toilette"
+                },
+                {
+                    "code": "Customer group",
+                    "value": "Frauen"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7630028602769"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/71e9b97d40fee12a5f0c7a6ee271938b525d546a/all-woman-edt.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/02c7a66b4d50e91fc883294744730aef506859a4.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494826",
+            "name": "Body care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care"
+            ]
+        },
+        {
+            "id": "7495243",
+            "name": "Perfumes",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care",
+                "perfumes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/511511200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "12.95",
+            "advertisedDisplayValue": "12.95",
+            "effectiveDisplayValue": "12.95",
+            "multiplier": 1,
+            "value": 12.95,
+            "effectiveValue": 12.95,
+            "advertisedValue": 12.95,
+            "unitPrice": {
+                "value": 25.9,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "50ml",
+        "quantityPrice": "25.90/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T10:08:43"
+}

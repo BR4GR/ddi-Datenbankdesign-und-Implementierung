@@ -1,0 +1,138 @@
+{
+    "uid": 100017706,
+    "migrosId": "704105800000",
+    "migrosOnlineId": "5865940",
+    "name": "Coat hanger",
+    "brand": "Migros Home",
+    "versioning": "Wood (Beech)",
+    "title": "Migros Home · Coat hanger · Wood (Beech)",
+    "description": "Migros Home Coat hanger Wood (Beech)",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L09",
+                    "name": "FSC®",
+                    "slug": "fsc",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483057/labels/FSC_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "Migros Home",
+                "slug": "migros-home",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1715075047/brands/MIGROS_Home_GR7"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 34,
+                    "productionRatio": 95,
+                    "transportRatio": 2,
+                    "packagingRatio": 3,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 13,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/704105800000"
+        },
+        "usageInformation": {
+            "additionalInformation": "Not suitable for wet garments"
+        },
+        "otherInformation": {
+            "articleNumber": "704105800000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Number",
+                    "value": "3 Pcs."
+                },
+                {
+                    "code": "Dimensions/size",
+                    "value": "42 cm x 15 cm"
+                },
+                {
+                    "code": "Material",
+                    "value": "Buchenholz, Holz"
+                },
+                {
+                    "code": "Color",
+                    "value": "natur"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613169682319"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/43ef02f06bda99eec2de3a560f846bfa5c950e92/einfachbuegel.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494740",
+            "name": "Laundry & cleaning",
+            "slugs": [
+                "laundry-cleaning"
+            ]
+        },
+        {
+            "id": "7494810",
+            "name": "Cleaning utensils",
+            "slugs": [
+                "laundry-cleaning",
+                "cleaning-utensils"
+            ]
+        },
+        {
+            "id": "7495162",
+            "name": "Laundry accessories",
+            "slugs": [
+                "laundry-cleaning",
+                "cleaning-utensils",
+                "laundry-accessories"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/704105800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.95",
+            "advertisedDisplayValue": "1.95",
+            "effectiveDisplayValue": "1.95",
+            "multiplier": 1,
+            "value": 1.95,
+            "effectiveValue": 1.95,
+            "advertisedValue": 1.95,
+            "unitPrice": {
+                "value": 0.65,
+                "unit": "piece"
+            }
+        },
+        "quantity": "3 Stk.",
+        "quantityPrice": "0.65/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T08:49:34"
+}

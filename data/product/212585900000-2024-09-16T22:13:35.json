@@ -1,0 +1,133 @@
+{
+    "uid": 100051843,
+    "migrosId": "212585900000",
+    "name": "Gazi Grill mix",
+    "brand": "Gazi",
+    "title": "Gazi Grill mix",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Gazi",
+                "slug": "gazi"
+            },
+            "ingredients": "Sorte Chili - pasteurisierte KUHMILCH, Speiseslaz, mikrobielles Lab, Milchsäurekulturen, Chili, PaprikamischungSorte Kräuter - pasteurisierte KUHMILCH, Speiseslaz, mikrobielles Lab, Milchsäurekulturen, Tymian, Rosmarin, OreganoSorte Natur - pasteurisierte KUHMILCH, Speiseslaz, mikrobielles Lab, MilchsäurekulturenSorte Natur - pasteurisierte KUHMILCH, Speiseslaz, mikrobielles Lab, Milchsäurekulturen, Gewürzmischung Honey BBQ",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 50,
+                    "productionRatio": 97,
+                    "transportRatio": 1,
+                    "packagingRatio": 0,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 58,
+                "nbStars": 3.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/212585900000"
+        },
+        "otherInformation": {
+            "articleNumber": "212585900000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Rennet type",
+                    "value": "mikrobielles"
+                },
+                {
+                    "code": "Fat content",
+                    "value": "halbfett"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Abgepackt, Karton"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "braten, grillieren, zum erhitztessen"
+                },
+                {
+                    "code": "Number of removable individual units",
+                    "value": "4"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4002566010901",
+        "4002566011540"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/b2963825b658e9d0b56c6e1f8e98762a8a00b67b/gazi-grill-mix.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d7619b8732cabdd9113b5e90e6f0855b1f09a0c2.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494752",
+            "name": "Cheese",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese"
+            ]
+        },
+        {
+            "id": "7494874",
+            "name": "Raclettes, fondues & grilling cheeses",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese",
+                "raclettes-fondues-grilling-chees"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/212585900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.95",
+            "advertisedDisplayValue": "5.95",
+            "effectiveDisplayValue": "5.95",
+            "multiplier": 1,
+            "value": 5.95,
+            "effectiveValue": 5.95,
+            "advertisedValue": 5.95,
+            "unitPrice": {
+                "value": 1.49,
+                "unit": "100g"
+            }
+        },
+        "quantity": "400g",
+        "quantityPrice": "1.49/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T22:13:35"
+}

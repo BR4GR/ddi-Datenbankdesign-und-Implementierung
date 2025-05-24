@@ -1,0 +1,179 @@
+{
+    "uid": 100143644,
+    "migrosId": "205202400000",
+    "name": "Joghurt Mocca Worb",
+    "title": "Joghurt Mocca Worb",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "nutritionalCharacteristics": [
+                "Vegetarian"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegetarian"
+                }
+            ],
+            "ingredients": "Vollmilch, Zucker, Magermilchpulver, Milchproteinkonzentrat, Kaffeeextrakt 1 %.",
+            "allergens": "Milk and its derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/205202400000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "421 kJ (100 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "3.4 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "2.2 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "13 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "13 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "4.3 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.05 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "205202400000",
+            "legalDesignation": "Jogurt",
+            "identificationMark": "3041",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Percentage of alcohol by volume [%]",
+                    "value": "0"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegetarian"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7640101100204"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/c77aae0a0619673c8870a076066c0e992751aacd/joghurt-mocca-worb.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494753",
+            "name": "Yogurts & desserts",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "yogurts-desserts"
+            ]
+        },
+        {
+            "id": "7494879",
+            "name": "Yogurts",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "yogurts-desserts",
+                "yogurts"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/205202400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.15",
+            "advertisedDisplayValue": "2.15",
+            "effectiveDisplayValue": "2.15",
+            "multiplier": 1,
+            "value": 2.15,
+            "effectiveValue": 2.15,
+            "advertisedValue": 2.15,
+            "unitPrice": {
+                "value": 0.43,
+                "unit": "100g"
+            }
+        },
+        "quantity": "500g",
+        "quantityPrice": "0.43/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:36:43"
+}

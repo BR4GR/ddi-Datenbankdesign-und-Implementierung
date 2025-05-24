@@ -1,0 +1,187 @@
+{
+    "uid": 100144004,
+    "migrosId": "200833000000",
+    "name": "Quark Zitrone Aarwangen",
+    "title": "Quark Zitrone Aarwangen",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "ingredients": "<strong>Quark</strong> dreiviertelfett 85%, Zucker, Wasser, Zitrone 0.1%, Zitronensaftkonzentrat, Wachsmaisstärke, natürliche Aromaextrakte, Säureregulator : Natriumhydroxid.",
+            "allergens": "Milk and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/200833000000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "1 Becher (125 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "691 kJ (165 kcal)",
+                            "863 kJ (206 kcal)",
+                            "10 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "8.1 g",
+                            "10 g",
+                            "14 %"
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "4.9 g",
+                            "6.1 g",
+                            "31 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "12 g",
+                            "15 g",
+                            "6 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "12 g",
+                            "15 g",
+                            "17 %"
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "11 g",
+                            "14 g",
+                            "28 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.1 g",
+                            "0.13 g",
+                            "2 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "portionSentence": "1 Cup = 1 serving",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "200833000000",
+            "legalDesignation": "Quark dreiviertelfett aus pasteurisierter Milch, mit Zitronenzubereitung",
+            "identificationMark": "CH 3056",
+            "distributorName": "Genossenschaft Migros Aare",
+            "distributorStreetAndNumber": "CH-3321 Schönbühl",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store refrigerated at max. +5 °C."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7640126870519"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/513fde3900db9ade99452fa5050ff2bff1842d59/quark-zitrone-aarwangen.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494753",
+            "name": "Yogurts & desserts",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "yogurts-desserts"
+            ]
+        },
+        {
+            "id": "7494881",
+            "name": "Quarks & cream cheeses",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "yogurts-desserts",
+                "quarks-cream-cheeses"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/200833000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.50",
+            "advertisedDisplayValue": "1.50",
+            "effectiveDisplayValue": "1.50",
+            "multiplier": 1,
+            "value": 1.5,
+            "effectiveValue": 1.5,
+            "advertisedValue": 1.5,
+            "unitPrice": {
+                "value": 1.2,
+                "unit": "100g"
+            }
+        },
+        "quantity": "125g",
+        "quantityPrice": "1.20/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T16:47:34"
+}

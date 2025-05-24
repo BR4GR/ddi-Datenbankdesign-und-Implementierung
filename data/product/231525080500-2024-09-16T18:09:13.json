@@ -1,0 +1,115 @@
+{
+    "uid": 100055227,
+    "migrosId": "231525080500",
+    "name": "Don Pollo Trutenbrust Asparagus",
+    "brand": "Don Pollo",
+    "title": "Don Pollo Trutenbrust Asparagus",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Don Pollo",
+                "slug": "don-pollo",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076645/brands/DonPollo_Logo"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 1,
+                    "co2CarKmEquivalent": 55,
+                    "productionRatio": 98,
+                    "transportRatio": 0,
+                    "packagingRatio": 2,
+                    "image": "https://image.migros.ch/original/3e5cee492451bdf61aaed46537f4e5c8eb9a9b98.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3e5cee492451bdf61aaed46537f4e5c8eb9a9b98.svg",
+                    "co2KgRange": "≥10 kg CO₂eq / kg"
+                },
+                "animalWelfare": {
+                    "rating": 1,
+                    "image": "https://image.migros.ch/original/b0be03be58b86dcbaffa6f96bdcdcf659fb1ccfd.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/231525080500"
+        },
+        "otherInformation": {
+            "articleNumber": "231525080500",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "2141595000001",
+        "7617100020345"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/fe6a5b9e5f9f8e1a691c408c62bde7f6bb395712/don-pollo-trutenbrust-asparagus.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494748",
+            "name": "Cold cuts",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts"
+            ]
+        },
+        {
+            "id": "7494856",
+            "name": "Deli poultry meat",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts",
+                "deli-poultry-meat"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/231525080500",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.90",
+            "advertisedDisplayValue": "2.90",
+            "effectiveDisplayValue": "2.90",
+            "multiplier": 1,
+            "value": 2.9,
+            "effectiveValue": 2.9,
+            "advertisedValue": 2.9,
+            "unitPrice": {
+                "value": 2.9,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "2.90/100g",
+        "isVariableWeight": true,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "VARIABLE_WEIGHT",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483133/labels/poids-variable",
+                "description": "Variable Weight"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T18:09:13"
+}

@@ -1,0 +1,255 @@
+{
+    "uid": 100026175,
+    "migrosId": "160369400000",
+    "migrosOnlineId": "6957608",
+    "name": "Ice cream",
+    "brand": "Crème d'or",
+    "versioning": "Cookies & Cream",
+    "title": "Crème d'or · Ice cream · Cookies & Cream",
+    "description": "Crème d'or Ice cream Cookies & Cream",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "Crème d'or",
+                "slug": "creme-dor",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076644/brands/CremeDor_Logo"
+            },
+            "ingredients": "whole <strong>milk</strong> 36%, <strong>cream</strong> 27%, sugar, glucose-fructose syrup, skimmed <strong>milk</strong> powder, <strong>wheat</strong> flour, glucose, shea oil, cocoa powder, <strong>egg</strong> yolk (free range), coconut fat, inulin, <strong>milk</strong> protein, rice flour, natural flavouring, raising agents: sodium carbonates, ammonium carbonates and potassium carbonates, table salt.",
+            "allergenIndication": "May contain: nuts.",
+            "allergens": "Eggs and products thereof, Milk and products thereof, Cereals containing gluten and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 8,
+                    "productionRatio": 74,
+                    "transportRatio": 14,
+                    "packagingRatio": 12,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                },
+                "animalWelfare": {
+                    "rating": 3,
+                    "image": "https://image.migros.ch/original/02f56762a6d67ea0470f50e5e8cc4d96d84791f0.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "rating": {
+                "nbReviews": 36,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/160369400000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "2 Kugeln (50 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1136 kJ (272 kcal)",
+                            "572 kJ (137 kcal)",
+                            "7 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "15 g",
+                            "7.4 g",
+                            "11 %"
+                        ]
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "9.2 g",
+                            "4.6 g",
+                            "23 %"
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "29 g",
+                            "15 g",
+                            "6 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "23 g",
+                            "11 g",
+                            "12 %"
+                        ]
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "1 g",
+                            "< 0.5 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "4.7 g",
+                            "2.3 g",
+                            "5 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.18 g",
+                            "0.09 g",
+                            "2 %"
+                        ]
+                    }
+                ]
+            },
+            "portionSentence": "1 Package ≈ 6 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "160369400000",
+            "legalDesignation": "Rahmglace mit Biscuitstücken (12%)",
+            "identificationMark": "CH 2440",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Type of dessert",
+                    "value": "Glace"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Becher"
+                },
+                {
+                    "code": "Type of ice cream",
+                    "value": "Rahmglace"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312362105"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/29bfab437a772f1b65f5a3411f3baab0826d0915/creme-dor-cookies-cream.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494738",
+            "name": "Frozen food",
+            "slugs": [
+                "frozen-food"
+            ]
+        },
+        {
+            "id": "7494801",
+            "name": "Ice cream & desserts",
+            "slugs": [
+                "frozen-food",
+                "ice-cream-desserts"
+            ]
+        },
+        {
+            "id": "7495111",
+            "name": "Tubs & cups",
+            "slugs": [
+                "frozen-food",
+                "ice-cream-desserts",
+                "tubs-cups"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/160369400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "6.30",
+            "advertisedDisplayValue": "6.30",
+            "effectiveDisplayValue": "6.30",
+            "multiplier": 1,
+            "value": 6.3,
+            "effectiveValue": 6.3,
+            "advertisedValue": 6.3
+        },
+        "promotionPrice": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.45",
+            "advertisedDisplayValue": "4.45",
+            "effectiveDisplayValue": "4.45",
+            "multiplier": 1,
+            "value": 4.45,
+            "effectiveValue": 4.45,
+            "advertisedValue": 4.45,
+            "unitPrice": {
+                "value": 0.89,
+                "unit": "100ml"
+            }
+        },
+        "priceInsteadOfLabel": "was",
+        "quantity": "500ml",
+        "quantityPrice": "0.89/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "REGION",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679482984/labels/suisse",
+                "description": "Switzerland"
+            },
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483530/labels/frozen",
+                "description": "frozen"
+            }
+        ],
+        "badges": [
+            {
+                "type": "PERCENTAGE_PROMOTION",
+                "description": "30%"
+            },
+            {
+                "type": "MINIMUM_PIECES",
+                "description": "2 or more"
+            }
+        ],
+        "promotionDateRange": {
+            "startDate": "2024-09-24",
+            "endDate": "2024-09-30"
+        },
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-26T16:25:42"
+}

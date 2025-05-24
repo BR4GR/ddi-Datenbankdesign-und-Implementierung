@@ -1,0 +1,102 @@
+{
+    "uid": 100095374,
+    "migrosId": "747519500000",
+    "migrosOnlineId": "8923488",
+    "name": "Fire truck",
+    "brand": "Paw Patrol",
+    "versioning": "3+",
+    "title": "Paw Patrol · Fire truck · 3+",
+    "description": "Paw Patrol Fire truck 3+",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Paw Patrol",
+                "slug": "paw-patrol"
+            },
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/747519500000"
+        },
+        "otherInformation": {
+            "articleNumber": "747519500000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7628871949742",
+        "0778988278659",
+        "778988278697"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/0080b124fa51cbdbff15b6ac0d6b96edf60f6e4e/w24-pp-rc-feuerwehr-polizeiauto-ass.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/bf47c80b86d58bf84ca3b4df9e2805833780eca8.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "7494822",
+            "name": "Toys",
+            "slugs": [
+                "baby-kids",
+                "toys"
+            ]
+        },
+        {
+            "id": "7495216",
+            "name": "Model cars & trains",
+            "slugs": [
+                "baby-kids",
+                "toys",
+                "model-cars-trains"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/747519500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "34.95",
+            "advertisedDisplayValue": "34.95",
+            "effectiveDisplayValue": "34.95",
+            "multiplier": 1,
+            "value": 34.95,
+            "effectiveValue": 34.95,
+            "advertisedValue": 34.95,
+            "unitPrice": {
+                "value": 34.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 piece",
+        "quantityPrice": "34.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T19:16:18"
+}

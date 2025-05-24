@@ -1,0 +1,126 @@
+{
+    "uid": 100144038,
+    "migrosId": "196042500600",
+    "name": "Berner Eier Freiland 53g+ IP-SUISSE",
+    "title": "Berner Eier Freiland 53g+ IP-SUISSE",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L03",
+                    "name": "IP-SUISSE",
+                    "slug": "ip-suisse",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483396/labels/IP-Suisse_-_RGB_-_DE"
+                },
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                },
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "ingredients": "<strong>Eier</strong>* (aus Freilandhaltung, Schweiz, Aus der Region). *in IP-SUISSE Qualität.",
+            "allergens": "Eggs and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "animalWelfare": {
+                    "rating": 4,
+                    "image": "https://image.migros.ch/original/58bd3042b45c82e79d3a18e05d0b73cc1abda5fb.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "rating": {
+                "nbReviews": 82,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/196042500600"
+        },
+        "otherInformation": {
+            "articleNumber": "196042500600",
+            "legalDesignation": "Eier roh",
+            "identificationMark": "CH1001",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Recommendation: keep the eggs refrigarated after purchase."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613404435151"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/261718c19479ac050c56ebe5d2a29f523165d79a/berner-eier-freiland-53g-ip-suisse.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494751",
+            "name": "Milk, butter & eggs",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "milk-butter-eggs"
+            ]
+        },
+        {
+            "id": "7494870",
+            "name": "Eggs",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "milk-butter-eggs",
+                "eggs"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/196042500600",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.95",
+            "advertisedDisplayValue": "3.95",
+            "effectiveDisplayValue": "3.95",
+            "multiplier": 1,
+            "value": 3.95,
+            "effectiveValue": 3.95,
+            "advertisedValue": 3.95,
+            "unitPrice": {
+                "value": 0.66,
+                "unit": "piece"
+            }
+        },
+        "quantity": "6 Stück",
+        "quantityPrice": "0.66/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T12:16:30"
+}

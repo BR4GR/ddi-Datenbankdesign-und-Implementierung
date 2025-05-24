@@ -1,0 +1,214 @@
+{
+    "uid": 100050109,
+    "migrosId": "104679400000",
+    "name": "Farina bòna",
+    "title": "Farina bòna",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L88",
+                    "name": "Nostrani del Ticino",
+                    "slug": "nostrani-del-ticino",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1707838713/labels/Nostrani_del_Ticino"
+                }
+            ],
+            "ingredients": "Maismehl geröstet ^. \n^ aus dem Tessin (CH)",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 5,
+                    "productionRatio": 79,
+                    "transportRatio": 2,
+                    "packagingRatio": 19,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/104679400000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1680 kJ (398 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "6 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "1 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "72 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "1 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "8 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "10 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.02 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "usageInformation": {
+            "preparationInstructions": "Obwohl es sich um ein Getreide handelt, muss es aufgrund der Röstung nicht gekocht werden. Das Lebensmittel kann auch ohne weitere Zubereitung verzehrt werden."
+        },
+        "otherInformation": {
+            "articleNumber": "104679400000",
+            "legalDesignation": "Maismehl geröstet",
+            "distributorName": "Cooperativa Migros Ticino",
+            "distributorStreetAndNumber": "CH-6592 S. Antonino",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store tightly closed."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Production process",
+                    "value": "Aus der Region"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Beutel/Sack"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "backen"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7640157720012",
+        "7610829127791",
+        "7610829127807"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1cf5b89fcfaba068d873c1639a72d733bb3bed9d/farina-bona.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494766",
+            "name": "Baking ingredients",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "baking-ingredients"
+            ]
+        },
+        {
+            "id": "7494935",
+            "name": "Flour & yeast",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "baking-ingredients",
+                "flour-yeast"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/104679400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.10",
+            "advertisedDisplayValue": "5.10",
+            "effectiveDisplayValue": "5.10",
+            "multiplier": 1,
+            "value": 5.1,
+            "effectiveValue": 5.1,
+            "advertisedValue": 5.1,
+            "unitPrice": {
+                "value": 2.04,
+                "unit": "100g"
+            }
+        },
+        "quantity": "250g",
+        "quantityPrice": "2.04/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:14:03"
+}

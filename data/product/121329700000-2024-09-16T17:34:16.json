@@ -1,0 +1,182 @@
+{
+    "uid": 100050888,
+    "migrosId": "121329700000",
+    "migrosOnlineId": "10623788",
+    "name": "Lager beer",
+    "brand": "Grimbergen",
+    "versioning": "alcohol free",
+    "title": "Grimbergen · Lager beer · alcohol free",
+    "description": "Grimbergen Lager beer alcohol free",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Grimbergen",
+                "slug": "grimbergen",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076724/brands/Grimbergen_Feldschlo%CC%88sschen_Getra%CC%88nke_AG_Logo"
+            },
+            "ingredients": "Wasser, GERSTENMALZ, WEIZENMALZ, Glukosesirup, Kohlensäure, natürliches Aroma, Hopfenextrakt",
+            "allergens": "Barley and barley products, Wheat and their derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "alcoholContent": 0.0,
+            "rating": {
+                "nbReviews": 5,
+                "nbStars": 3.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/121329700000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "116 kJ (27 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "5.9 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "3.2 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "0.3 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.01 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "121329700000",
+            "legalDesignation": "Bier",
+            "distributorName": "Feldschlösschen Getränke AG",
+            "distributorStreetAndNumber": "Theophil-Roniger-Strasse, 4310 Rheinfelden",
+            "remarks": [
+                {
+                    "code": "Percentage of alcohol by volume [%]",
+                    "value": "0"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "3080216056043"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/033a813f487da4174b4c375c4eba06f148f2df27/grimbergen-blonde-alkoholfrei.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ef5e4bb8f1ad6e47de26fe3a49c9ab37d47dfb51.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494737",
+            "name": "Wine, beer & spirits",
+            "slugs": [
+                "wine-beer-spirits"
+            ]
+        },
+        {
+            "id": "10583761",
+            "name": "Alcohol free drinks",
+            "slugs": [
+                "wine-beer-spirits",
+                "alcohol-free-drinks"
+            ]
+        },
+        {
+            "id": "10614101",
+            "name": "Beers & ciders",
+            "slugs": [
+                "wine-beer-spirits",
+                "alcohol-free-drinks",
+                "beers-ciders"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/121329700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "11.95",
+            "advertisedDisplayValue": "11.95",
+            "effectiveDisplayValue": "11.95",
+            "multiplier": 1,
+            "value": 11.95,
+            "effectiveValue": 11.95,
+            "advertisedValue": 11.95,
+            "unitPrice": {
+                "value": 0.8,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "6 x 250ml",
+        "quantityPrice": "0.80/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:34:16"
+}

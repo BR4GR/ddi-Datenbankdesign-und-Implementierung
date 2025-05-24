@@ -1,0 +1,209 @@
+{
+    "uid": 100025161,
+    "migrosId": "273704901000",
+    "migrosOnlineId": "6160072",
+    "name": "zucchini",
+    "title": "zucchini",
+    "description": "zucchini ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "ingredients": "Zucchetti.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 2,
+                    "productionRatio": 91,
+                    "transportRatio": 9,
+                    "packagingRatio": 0,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 1302,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/273704901000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "87 kJ (21 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "< 0.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0.1 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "2 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "2 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "1 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "2 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "usageInformation": {
+            "usage": "The cucumber-like zucchetti is low in energy, easily digestible and therefore just right for hot days. The young fruits are not peeled, only the stem base is cut off.",
+            "additionalInformation": "With their delicately nutty aroma, grilled Zucchinis taste great whether cut into strips or filled with minced meat."
+        },
+        "otherInformation": {
+            "articleNumber": "273704901000",
+            "legalDesignation": "Zucchetti",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Weitere Zusatzangaben",
+                    "value": "-"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Saison von",
+                    "value": "Juni"
+                },
+                {
+                    "code": "Saison bis",
+                    "value": "Oktober"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Lose"
+                },
+                {
+                    "code": "Storage at home",
+                    "value": "gekühlt aufbewahren/lagern"
+                },
+                {
+                    "code": "Washing instructions",
+                    "value": "vor Gebrauch waschen"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "2124068000005",
+        "8674068000009",
+        "7617027554466"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/4e3be55a94abf2580313dce655a49a19a6c06cde/zucchetti.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494757",
+            "name": "Vegetables",
+            "slugs": [
+                "fruits-vegetables",
+                "vegetables"
+            ]
+        },
+        {
+            "id": "7494903",
+            "name": "Courgettes, aubergines & peppers",
+            "slugs": [
+                "fruits-vegetables",
+                "vegetables",
+                "courgettes-aubergines-peppers"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/273704901000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": true,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "pictos": [
+            {
+                "type": "VARIABLE_WEIGHT",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483133/labels/poids-variable",
+                "description": "Variable Weight"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-16T22:23:26"
+}

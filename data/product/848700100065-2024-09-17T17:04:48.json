@@ -1,0 +1,199 @@
+{
+    "uid": 100093136,
+    "migrosId": "848700100065",
+    "name": "pocket umbrella",
+    "brand": "MIGROS ESSENTIALS",
+    "title": "pocket umbrella",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L70",
+                    "name": "GRS",
+                    "slug": "grs",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1707834844/labels/GRS-1"
+                }
+            ],
+            "brand": {
+                "name": "MIGROS ESSENTIALS",
+                "slug": "migros-essentials",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1708333701/brands/Migros_Essentials_-_RGB_-_DE"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 46,
+                "nbStars": 3.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/848700100065"
+        },
+        "otherInformation": {
+            "articleNumber": "848700100065",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Category/theme",
+                    "value": "Taschenschirm"
+                },
+                {
+                    "code": "Look",
+                    "value": "uni"
+                },
+                {
+                    "code": "Gender",
+                    "value": "Unisex"
+                },
+                {
+                    "code": "Material",
+                    "value": "Polyester"
+                },
+                {
+                    "code": "Diameter of umbrella",
+                    "value": "89.5"
+                },
+                {
+                    "code": "Weight of umbrellas",
+                    "value": "190 gr"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613434417370"
+    ],
+    "variants": {
+        "baseProductMigrosId": "848700100000",
+        "mainVariantMigrosId": "848700100020",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "black"
+                },
+                "migrosId": "848700100020"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "black patterned"
+                },
+                "migrosId": "848700100022"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "pink"
+                },
+                "migrosId": "848700100028"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "red"
+                },
+                "migrosId": "848700100030"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "navy"
+                },
+                "migrosId": "848700100043"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "olive green"
+                },
+                "migrosId": "848700100065"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "olive green",
+                "options": [
+                    "black",
+                    "black patterned",
+                    "pink",
+                    "red",
+                    "navy",
+                    "olive green"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "one Size",
+                "options": [
+                    "one Size"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/58a78068bc5a05628bcd953754956dc6e716ae54/pocket-umbrella.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/4cafb2157607c3fa9a9d44525cd9b7835a4d9492.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10552745",
+            "name": "Accessories",
+            "slugs": [
+                "clothing-accessories",
+                "accessories"
+            ]
+        },
+        {
+            "id": "10552791",
+            "name": "Umbrellas",
+            "slugs": [
+                "clothing-accessories",
+                "accessories",
+                "umbrellas"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/848700100065",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "9.95",
+            "advertisedDisplayValue": "9.95",
+            "effectiveDisplayValue": "9.95",
+            "multiplier": 1,
+            "value": 9.95,
+            "effectiveValue": 9.95,
+            "advertisedValue": 9.95
+        },
+        "quantity": "1 Stk.",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T17:04:48"
+}

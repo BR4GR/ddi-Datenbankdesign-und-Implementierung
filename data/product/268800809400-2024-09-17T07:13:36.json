@@ -1,0 +1,84 @@
+{
+    "uid": 100143353,
+    "migrosId": "268800809400",
+    "name": "Ananas getrocknet",
+    "title": "Ananas getrocknet",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/268800809400"
+        },
+        "otherInformation": {
+            "articleNumber": "268800809400",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613269576365"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/eda0d3803f5910f21713a8eccf78708eb80a56e9/ananas-getrocknet.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494785",
+            "name": "Dried fruit",
+            "slugs": [
+                "snacks-sweets",
+                "dried-fruit"
+            ]
+        },
+        {
+            "id": "7495031",
+            "name": "Dried fruit",
+            "slugs": [
+                "snacks-sweets",
+                "dried-fruit",
+                "dried-fruit"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/268800809400",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.50",
+            "advertisedDisplayValue": "5.50",
+            "effectiveDisplayValue": "5.50",
+            "multiplier": 1,
+            "value": 5.5,
+            "effectiveValue": 5.5,
+            "advertisedValue": 5.5,
+            "unitPrice": {
+                "value": 11,
+                "unit": "100g"
+            }
+        },
+        "quantity": "50g",
+        "quantityPrice": "11.–/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:13:36"
+}

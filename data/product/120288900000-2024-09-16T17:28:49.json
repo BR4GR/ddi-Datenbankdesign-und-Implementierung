@@ -1,0 +1,122 @@
+{
+    "uid": 100051329,
+    "migrosId": "120288900000",
+    "name": "Gazosa Mirtillo",
+    "title": "Gazosa Mirtillo",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L88",
+                    "name": "Nostrani del Ticino",
+                    "slug": "nostrani-del-ticino",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1707838713/labels/Nostrani_del_Ticino"
+                }
+            ],
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 2,
+                    "productionRatio": 40,
+                    "transportRatio": 11,
+                    "packagingRatio": 49,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 4,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/120288900000"
+        },
+        "otherInformation": {
+            "articleNumber": "120288900000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Carbonated",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Production process",
+                    "value": "Aus der Region"
+                },
+                {
+                    "code": "Type of soft drink",
+                    "value": "Limonade"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610327027913"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/04e0602811ee5b774fbbc5f6916b3d3930cc0492/gazosa-mirtillo.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494769",
+            "name": "Soft drinks",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks"
+            ]
+        },
+        {
+            "id": "7494951",
+            "name": "Soft drinks",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks",
+                "soft-drinks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/120288900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.05",
+            "advertisedDisplayValue": "1.05",
+            "effectiveDisplayValue": "1.05",
+            "multiplier": 1,
+            "value": 1.05,
+            "effectiveValue": 1.05,
+            "advertisedValue": 1.05,
+            "unitPrice": {
+                "value": 0.38,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "280ml",
+        "quantityPrice": "0.38/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:28:49"
+}

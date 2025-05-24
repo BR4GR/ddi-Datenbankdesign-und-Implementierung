@@ -1,0 +1,199 @@
+{
+    "uid": 100051775,
+    "migrosId": "210508100000",
+    "name": "Petit Chevrier Camembert",
+    "brand": "Petit Chevrier",
+    "title": "Petit Chevrier Camembert",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "Petit Chevrier",
+                "slug": "petit-chevrier"
+            },
+            "nutritionalCharacteristics": [
+                "Vegetarian"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegetarian"
+                }
+            ],
+            "ingredients": "ZIEGENMILCH, Salz, Kulturen, Lab",
+            "allergens": "Milk and its derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 22,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/210508100000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "~ 1178 kJ (~ 284 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "~ 23 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "~ 14 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "~ 0.3 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "~ 0.3 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "~ 20 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "~ 1.7 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "210508100000",
+            "legalDesignation": "Schweizer Weichkäse, vollfett aus pasteurisierter Ziegenmilch.",
+            "distributorName": "Emmi Schweiz AG",
+            "distributorStreetAndNumber": "Landenbergstrasse 1, CH-6002 Luzern",
+            "remarks": [
+                {
+                    "code": "Consumer storage instructions",
+                    "value": "max. +5°C."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegetarian"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Kunststoff-Verpackung"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610900043033"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ae605422b8032059155efea40e33bb42a4b34bdc/petit-chevrier-camembert.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494752",
+            "name": "Cheese",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese"
+            ]
+        },
+        {
+            "id": "7494873",
+            "name": "Goat & sheep cheese",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese",
+                "goat-sheep-cheese"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/210508100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.90",
+            "advertisedDisplayValue": "3.90",
+            "effectiveDisplayValue": "3.90",
+            "multiplier": 1,
+            "value": 3.9,
+            "effectiveValue": 3.9,
+            "advertisedValue": 3.9,
+            "unitPrice": {
+                "value": 3.25,
+                "unit": "100g"
+            }
+        },
+        "quantity": "120g",
+        "quantityPrice": "3.25/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:44:40"
+}

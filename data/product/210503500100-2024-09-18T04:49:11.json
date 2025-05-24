@@ -1,0 +1,193 @@
+{
+    "uid": 100133435,
+    "migrosId": "210503500100",
+    "name": "Baer Hohle Gasse",
+    "brand": "Baer",
+    "title": "Baer Hohle Gasse",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "brand": {
+                "name": "Baer",
+                "slug": "baer",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1688047341/brands/Baer_-_RGB_-_DE"
+            },
+            "ingredients": "Schweizer Rahmweichkäse, aus pasteurisierter Milch aus der Region",
+            "allergens": "Milk and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 13,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/210503500100"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "1 Portion (30 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1251 kJ (303 kcal)",
+                            "376 kJ (91 kcal)",
+                            "5 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "26 g",
+                            "7.8 g",
+                            "11 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "16 g",
+                            "4.8 g",
+                            "24 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            "< 0.5 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            "1 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "17 g",
+                            "5.1 g",
+                            "10 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "1.4 g",
+                            "0.42 g",
+                            "7 %"
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    }
+                ]
+            },
+            "portionSentence": "1 package = 150 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "210503500100",
+            "legalDesignation": "Schweizer Rahmweichkäse, aus pasteurisierter Milch aus der Region",
+            "identificationMark": "CH 2426",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store refrigerated at max. +5 °C."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610028003346"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/384e0ccdcc4b6c97062f86b5c362c4c147dccaa1/baer-hohle-gasse.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494752",
+            "name": "Cheese",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese"
+            ]
+        },
+        {
+            "id": "7494872",
+            "name": "Soft cheeses & blue cheeses",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese",
+                "soft-cheeses-blue-cheeses"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/210503500100",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.55",
+            "advertisedDisplayValue": "5.55",
+            "effectiveDisplayValue": "5.55",
+            "multiplier": 1,
+            "value": 5.55,
+            "effectiveValue": 5.55,
+            "advertisedValue": 5.55,
+            "unitPrice": {
+                "value": 2.22,
+                "unit": "100g"
+            }
+        },
+        "quantity": "250g",
+        "quantityPrice": "2.22/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-18T04:49:11"
+}

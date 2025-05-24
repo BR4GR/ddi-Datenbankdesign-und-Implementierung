@@ -1,0 +1,111 @@
+{
+    "uid": 100053150,
+    "migrosId": "511626800000",
+    "name": "BRUNO BANANI MADE FOR MAN",
+    "brand": "Bruno Banani",
+    "title": "BRUNO BANANI MADE FOR MAN",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Bruno Banani",
+                "slug": "bruno-banani"
+            },
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/511626800000"
+        },
+        "otherInformation": {
+            "articleNumber": "511626800000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Eau de Toilette"
+                },
+                {
+                    "code": "Customer group",
+                    "value": "Männer"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "3616301640783",
+        "3616301544968",
+        "730870139516",
+        "737052274669",
+        "8005610326870"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/c3f7478f9cb512b75a7cca10c0a37ae1356f4acd/bruno-banani-made-for-man.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/52f86a81d73b710fc1e3929a91e1843f107665bb.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494826",
+            "name": "Body care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care"
+            ]
+        },
+        {
+            "id": "7495243",
+            "name": "Perfumes",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care",
+                "perfumes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/511626800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "26.80",
+            "advertisedDisplayValue": "26.80",
+            "effectiveDisplayValue": "26.80",
+            "multiplier": 1,
+            "value": 26.8,
+            "effectiveValue": 26.8,
+            "advertisedValue": 26.8,
+            "unitPrice": {
+                "value": 53.6,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "50ml",
+        "quantityPrice": "53.60/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T10:27:09"
+}

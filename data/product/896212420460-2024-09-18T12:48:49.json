@@ -1,0 +1,214 @@
+{
+    "uid": 100169070,
+    "migrosId": "896212420460",
+    "name": "Bio baby shirt",
+    "brand": "Smile",
+    "title": "Bio baby shirt",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L60",
+                    "name": "GOTS",
+                    "slug": "gots",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483187/labels/GOTS_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "Smile",
+                "slug": "smile",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252488/brands/smile"
+            },
+            "nutritionalCharacteristics": [
+                "Organic"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                }
+            ],
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/896212420460"
+        },
+        "otherInformation": {
+            "articleNumber": "896212420460",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Organic cotton",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Zielgruppe",
+                    "value": "Kinder"
+                },
+                {
+                    "code": "Material",
+                    "value": "Baumwolle"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "100 %"
+                },
+                {
+                    "code": "Age",
+                    "value": "2-4 Jahre"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871661019"
+    ],
+    "variants": {
+        "baseProductMigrosId": "896212400000",
+        "mainVariantMigrosId": "896212420130",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "2-6 // 62/68",
+                    "color": "red"
+                },
+                "migrosId": "896212420130"
+            },
+            {
+                "declinationOptions": {
+                    "size": "2-6 // 62/68",
+                    "color": "green"
+                },
+                "migrosId": "896212420160"
+            },
+            {
+                "declinationOptions": {
+                    "size": "6-12 // 74/80",
+                    "color": "red"
+                },
+                "migrosId": "896212420230"
+            },
+            {
+                "declinationOptions": {
+                    "size": "6-12 // 74/80",
+                    "color": "green"
+                },
+                "migrosId": "896212420260"
+            },
+            {
+                "declinationOptions": {
+                    "size": "12-24 // 86/92",
+                    "color": "red"
+                },
+                "migrosId": "896212420330"
+            },
+            {
+                "declinationOptions": {
+                    "size": "12-24 // 86/92",
+                    "color": "green"
+                },
+                "migrosId": "896212420360"
+            },
+            {
+                "declinationOptions": {
+                    "size": "24-48 // 98/104",
+                    "color": "red"
+                },
+                "migrosId": "896212420430"
+            },
+            {
+                "declinationOptions": {
+                    "size": "24-48 // 98/104",
+                    "color": "green"
+                },
+                "migrosId": "896212420460"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "green",
+                "options": [
+                    "red",
+                    "green"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "24-48 // 98/104",
+                "options": [
+                    "2-6 // 62/68",
+                    "6-12 // 74/80",
+                    "12-24 // 86/92",
+                    "24-48 // 98/104"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/12eac1613edf2b05978b8166ab533061ab81f77f/bio-baby-shirt.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "11117240",
+            "name": "Baby clothes",
+            "slugs": [
+                "baby-kids",
+                "baby-clothes"
+            ]
+        },
+        {
+            "id": "11117275",
+            "name": "Baby clothes",
+            "slugs": [
+                "baby-kids",
+                "baby-clothes",
+                "baby-clothes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/896212420460",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "9.95",
+            "advertisedDisplayValue": "9.95",
+            "effectiveDisplayValue": "9.95",
+            "multiplier": 1,
+            "value": 9.95,
+            "effectiveValue": 9.95,
+            "advertisedValue": 9.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-18T12:48:49"
+}

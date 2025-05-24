@@ -1,0 +1,176 @@
+{
+    "uid": 100085976,
+    "migrosId": "830224299917",
+    "name": "Lady's Knee Socks",
+    "brand": "M-Budget",
+    "title": "Lady's Knee Socks",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L07",
+                    "name": "ECO",
+                    "slug": "eco",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483145/labels/Eco-Textilien_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "M-Budget",
+                "slug": "m-budget",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252456/brands/m-budget"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 17,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/830224299917"
+        },
+        "otherInformation": {
+            "articleNumber": "830224299917",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Article type",
+                    "value": "Kniestrümpfe"
+                },
+                {
+                    "code": "Multipack",
+                    "value": "6er Pack"
+                },
+                {
+                    "code": "Look",
+                    "value": "transparent"
+                },
+                {
+                    "code": "Material",
+                    "value": "Polyamid"
+                },
+                {
+                    "code": "Denier",
+                    "value": "20 DEN"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "100 %"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613433694079"
+    ],
+    "variants": {
+        "baseProductMigrosId": "830224200000",
+        "mainVariantMigrosId": "830224299917",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "oversize",
+                    "color": "porcelaine"
+                },
+                "migrosId": "830224299917"
+            },
+            {
+                "declinationOptions": {
+                    "size": "oversize",
+                    "color": "black"
+                },
+                "migrosId": "830224299920"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "oversize",
+                "options": [
+                    "oversize"
+                ]
+            },
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "porcelaine",
+                "options": [
+                    "porcelaine",
+                    "black"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/237e635c4e21085c465e12a2001b77b36cbf5f21/ladys-knee-socks.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/bec75ef1b877d120e9b40d94d6f50f2a72742b72.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/fc09b3a7cca48ad402fb92e55b5e96b278e910b4.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10553347",
+            "name": "Women",
+            "slugs": [
+                "clothing-accessories",
+                "women"
+            ]
+        },
+        {
+            "id": "10553383",
+            "name": "Socks & tights",
+            "slugs": [
+                "clothing-accessories",
+                "women",
+                "socks-tights"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/830224299917",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.95",
+            "advertisedDisplayValue": "2.95",
+            "effectiveDisplayValue": "2.95",
+            "multiplier": 1,
+            "value": 2.95,
+            "effectiveValue": 2.95,
+            "advertisedValue": 2.95,
+            "unitPrice": {
+                "value": 0.49,
+                "unit": "PAA"
+            }
+        },
+        "quantity": "6 Paar",
+        "quantityPrice": "0.49/PAA",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T09:46:56"
+}

@@ -1,0 +1,102 @@
+{
+    "uid": 100136719,
+    "migrosId": "205053300000",
+    "name": "Joghurt aus Ziegenmilch Nature",
+    "title": "Joghurt aus Ziegenmilch Nature",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/205053300000"
+        },
+        "otherInformation": {
+            "articleNumber": "205053300000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Packaging type",
+                    "value": "Aludeckel, Kunststoff-Verpackung mit Kartonbanderole"
+                },
+                {
+                    "code": "Flavoring",
+                    "value": "Nature"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613404181683"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/6a9f52a3f2f898a6933fe65df815c62f078b3198/joghurt-aus-ziegenmilch-nature.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494753",
+            "name": "Yogurts & desserts",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "yogurts-desserts"
+            ]
+        },
+        {
+            "id": "7494879",
+            "name": "Yogurts",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "yogurts-desserts",
+                "yogurts"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/205053300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.50",
+            "advertisedDisplayValue": "1.50",
+            "effectiveDisplayValue": "1.50",
+            "multiplier": 1,
+            "value": 1.5,
+            "effectiveValue": 1.5,
+            "advertisedValue": 1.5,
+            "unitPrice": {
+                "value": 1,
+                "unit": "100g"
+            }
+        },
+        "quantity": "150g",
+        "quantityPrice": "1.–/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T15:19:36"
+}

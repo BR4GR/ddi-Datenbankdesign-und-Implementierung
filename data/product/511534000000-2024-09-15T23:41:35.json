@@ -1,0 +1,107 @@
+{
+    "uid": 100058770,
+    "migrosId": "511534000000",
+    "name": "4711KOELN WASSER JASMINE",
+    "brand": "4711 Echt Köln.Wasse",
+    "title": "4711KOELN WASSER JASMINE",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "4711 Echt Köln.Wasse",
+                "slug": "4711-echt-kolnwasse"
+            },
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/511534000000"
+        },
+        "otherInformation": {
+            "articleNumber": "511534000000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Eau de Cologne"
+                },
+                {
+                    "code": "Customer group",
+                    "value": "Frauen"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4011700757039"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/2ea6cd1c40e3af9c77a0c84a2efad79e371dc4ea/4711koeln-wasser-jasmine.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/78b9f08a526782dbb1e6aca66e0683c188cc8ab3.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494826",
+            "name": "Body care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care"
+            ]
+        },
+        {
+            "id": "7495243",
+            "name": "Perfumes",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care",
+                "perfumes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/511534000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "24.95",
+            "advertisedDisplayValue": "24.95",
+            "effectiveDisplayValue": "24.95",
+            "multiplier": 1,
+            "value": 24.95,
+            "effectiveValue": 24.95,
+            "advertisedValue": 24.95,
+            "unitPrice": {
+                "value": 24.95,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "100ml",
+        "quantityPrice": "24.95/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-15T23:41:35"
+}

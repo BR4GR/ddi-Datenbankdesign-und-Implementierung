@@ -2,7 +2,6 @@ import json
 import logging
 import os
 import sys
-from contextlib import contextmanager
 
 import psycopg2
 from psycopg2.extensions import connection, cursor

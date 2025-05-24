@@ -1,0 +1,196 @@
+{
+    "uid": 100088575,
+    "migrosId": "848600700089",
+    "name": "SHOPPING BAG",
+    "brand": "Central Square",
+    "title": "SHOPPING BAG",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Central Square",
+                "slug": "central-square",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076642/brands/CentralSquare_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 23,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/848600700089"
+        },
+        "otherInformation": {
+            "articleNumber": "848600700089",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Height",
+                    "value": "38.5 cm"
+                },
+                {
+                    "code": "Depth",
+                    "value": "16 cm"
+                },
+                {
+                    "code": "Width",
+                    "value": "34 cm"
+                },
+                {
+                    "code": "Category/theme",
+                    "value": "Einkaufstaschen"
+                },
+                {
+                    "code": "Main material",
+                    "value": "Recyling PET"
+                },
+                {
+                    "code": "Look",
+                    "value": "blickdicht, gemustert, matt"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "faltbar"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613432432054"
+    ],
+    "variants": {
+        "baseProductMigrosId": "848600700000",
+        "mainVariantMigrosId": "848600700006",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "lilac"
+                },
+                "migrosId": "848600700006"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "white"
+                },
+                "migrosId": "848600700010"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "black"
+                },
+                "migrosId": "848600700020"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "black striped"
+                },
+                "migrosId": "848600700021"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "black patterned"
+                },
+                "migrosId": "848600700022"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "lavender"
+                },
+                "migrosId": "848600700089"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "lavender",
+                "options": [
+                    "lilac",
+                    "white",
+                    "black",
+                    "black striped",
+                    "black patterned",
+                    "lavender"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "one Size",
+                "options": [
+                    "one Size"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/b49c680852ed4d9d9b07674ffa7798553d90add5/shopping-bag.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10555163",
+            "name": "Shopping",
+            "slugs": [
+                "clothing-accessories",
+                "shopping"
+            ]
+        },
+        {
+            "id": "10555170",
+            "name": "Shopping bags",
+            "slugs": [
+                "clothing-accessories",
+                "shopping",
+                "shopping-bags"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/848600700089",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.95",
+            "advertisedDisplayValue": "2.95",
+            "effectiveDisplayValue": "2.95",
+            "multiplier": 1,
+            "value": 2.95,
+            "effectiveValue": 2.95,
+            "advertisedValue": 2.95,
+            "unitPrice": {
+                "value": 2.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "2.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T17:06:46"
+}

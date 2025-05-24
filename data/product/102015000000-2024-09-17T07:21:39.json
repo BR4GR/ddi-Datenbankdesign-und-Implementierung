@@ -1,0 +1,208 @@
+{
+    "uid": 100005151,
+    "migrosId": "102015000000",
+    "migrosOnlineId": "51580",
+    "name": "rock candy",
+    "brand": "M-Classic",
+    "title": "M-Classic · rock candy",
+    "description": "M-Classic rock candy ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Classic",
+                "slug": "m-classic",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252457/brands/m-classic"
+            },
+            "ingredients": "pas de liste d'ingrédients.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 3,
+                    "productionRatio": 71,
+                    "transportRatio": 3,
+                    "packagingRatio": 26,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 43,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/102015000000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1700 kJ (400 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "100 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "100 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "usageInformation": {
+            "usage": "Due to its special and mild taste it is ideal for sweetening hot drinks"
+        },
+        "otherInformation": {
+            "articleNumber": "102015000000",
+            "legalDesignation": "Kandiszucker braun",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store in a dry place at room temperature."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Type/quality of sugar",
+                    "value": "Kandis"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Karton"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610200010223"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d8f641bc262e4312b3fbcc7de972964f508c5284/m-classic-kandiszucker.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494766",
+            "name": "Baking ingredients",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "baking-ingredients"
+            ]
+        },
+        {
+            "id": "7494936",
+            "name": "Sugar & sweeteners",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "baking-ingredients",
+                "sugar-sweeteners"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/102015000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.50",
+            "advertisedDisplayValue": "2.50",
+            "effectiveDisplayValue": "2.50",
+            "multiplier": 1,
+            "value": 2.5,
+            "effectiveValue": 2.5,
+            "advertisedValue": 2.5,
+            "unitPrice": {
+                "value": 0.5,
+                "unit": "100g"
+            }
+        },
+        "quantity": "500g",
+        "quantityPrice": "0.50/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:21:39"
+}

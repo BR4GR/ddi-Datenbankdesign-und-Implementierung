@@ -1,0 +1,194 @@
+{
+    "uid": 100155701,
+    "migrosId": "832729755520",
+    "name": "Ladies Tights",
+    "brand": "MIGROS ESSENTIALS",
+    "title": "Ladies Tights",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L59",
+                    "name": "OEKO-TEX® MADE IN GREEN",
+                    "slug": "oeko-tex-made-in-green"
+                }
+            ],
+            "brand": {
+                "name": "MIGROS ESSENTIALS",
+                "slug": "migros-essentials",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1708333701/brands/Migros_Essentials_-_RGB_-_DE"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/832729755520"
+        },
+        "otherInformation": {
+            "articleNumber": "832729755520",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Article type",
+                    "value": "Strumpfhose"
+                },
+                {
+                    "code": "Line",
+                    "value": "Fashion"
+                },
+                {
+                    "code": "Material",
+                    "value": "Polyamid"
+                },
+                {
+                    "code": "Denier",
+                    "value": "20 DEN"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "68 %"
+                },
+                {
+                    "code": "Material 2",
+                    "value": "Polypropylen"
+                },
+                {
+                    "code": "Proportion of material 2",
+                    "value": "26 %"
+                },
+                {
+                    "code": "Material 3",
+                    "value": "Elasthan"
+                },
+                {
+                    "code": "Share of material 3",
+                    "value": "6 %"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871577051"
+    ],
+    "variants": {
+        "baseProductMigrosId": "832729700000",
+        "mainVariantMigrosId": "832729711120",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "black",
+                    "size": "S"
+                },
+                "migrosId": "832729711120"
+            },
+            {
+                "declinationOptions": {
+                    "color": "black",
+                    "size": "M"
+                },
+                "migrosId": "832729722220"
+            },
+            {
+                "declinationOptions": {
+                    "color": "black",
+                    "size": "L"
+                },
+                "migrosId": "832729733320"
+            },
+            {
+                "declinationOptions": {
+                    "color": "black",
+                    "size": "XL"
+                },
+                "migrosId": "832729744420"
+            },
+            {
+                "declinationOptions": {
+                    "color": "black",
+                    "size": "XXL"
+                },
+                "migrosId": "832729755520"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "XXL",
+                "options": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "XXL"
+                ]
+            },
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "black",
+                "options": [
+                    "black"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/600f645fd25966c3d85168ec4ef5380d46def58c/ladies-tights.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10553347",
+            "name": "Women",
+            "slugs": [
+                "clothing-accessories",
+                "women"
+            ]
+        },
+        {
+            "id": "10553383",
+            "name": "Socks & tights",
+            "slugs": [
+                "clothing-accessories",
+                "women",
+                "socks-tights"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/832729755520",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "12.95",
+            "advertisedDisplayValue": "12.95",
+            "effectiveDisplayValue": "12.95",
+            "multiplier": 1,
+            "value": 12.95,
+            "effectiveValue": 12.95,
+            "advertisedValue": 12.95
+        },
+        "quantity": "1 Stück",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-20T19:40:30"
+}

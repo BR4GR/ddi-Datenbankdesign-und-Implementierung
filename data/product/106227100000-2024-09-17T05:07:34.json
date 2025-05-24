@@ -1,0 +1,183 @@
+{
+    "uid": 100050194,
+    "migrosId": "106227100000",
+    "name": "Fleur des alpes Bio Thymian",
+    "brand": "Sel des Alpes",
+    "title": "Fleur des alpes Bio Thymian",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L73",
+                    "name": "Bio Knospe",
+                    "slug": "bio-knospe",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1687156946/labels/Bio_Knospe"
+                }
+            ],
+            "brand": {
+                "name": "Sel des Alpes",
+                "slug": "sel-des-alpes"
+            },
+            "nutritionalCharacteristics": [
+                "Organic",
+                "Vegan"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                },
+                {
+                    "name": "Vegan"
+                }
+            ],
+            "ingredients": "Salz 95.45 %, Thymian (aus biologischer Landwirtschaft) 4.55 %",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 6,
+                    "productionRatio": 81,
+                    "transportRatio": 5,
+                    "packagingRatio": 14,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/106227100000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "95.45 g",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "106227100000",
+            "legalDesignation": "Gewürzzubereitung",
+            "distributorName": "Schweizer Salinen AG",
+            "distributorStreetAndNumber": "Rheinstrasse 524133 Pratteln",
+            "bioCertification": "bio.inspecta",
+            "remarks": [
+                {
+                    "code": "Percentage of alcohol by volume [%]",
+                    "value": "0"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegan, Vegetarian"
+                },
+                {
+                    "code": "Production process",
+                    "value": "Aus dem Schweizer Berggebiet"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Glas"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610039004134",
+        "7610104022582"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/e646702e18c0b41677de463eabad6612aafd0f8e/fleur-des-alpes-bio-thymian.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494776",
+            "name": "Spices & sauces",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces"
+            ]
+        },
+        {
+            "id": "7494983",
+            "name": "Salt & pepper",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces",
+                "salt-pepper"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/106227100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "10.95",
+            "advertisedDisplayValue": "10.95",
+            "effectiveDisplayValue": "10.95",
+            "multiplier": 1,
+            "value": 10.95,
+            "effectiveValue": 10.95,
+            "advertisedValue": 10.95,
+            "unitPrice": {
+                "value": 8.42,
+                "unit": "100g"
+            }
+        },
+        "quantity": "130g",
+        "quantityPrice": "8.42/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:07:34"
+}

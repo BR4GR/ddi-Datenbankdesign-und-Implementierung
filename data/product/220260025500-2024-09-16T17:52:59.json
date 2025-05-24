@@ -1,0 +1,91 @@
+{
+    "uid": 100146269,
+    "migrosId": "220260025500",
+    "name": "Entrecôte SBA",
+    "brand": "Swiss Black Angus",
+    "title": "Entrecôte SBA",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Swiss Black Angus",
+                "slug": "swiss-black-angus"
+            },
+            "mcheck": {
+                "animalWelfare": {
+                    "rating": 5,
+                    "image": "https://image.migros.ch/original/5717f598b081409c70bd598219d9bb2cc5d14bb1.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/220260025500"
+        },
+        "otherInformation": {
+            "articleNumber": "220260025500",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "2164269000008",
+        "103091",
+        "7613404108130"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f40e7cbd8abc0115de95f3176b20791e3a5c8e13/entrecote-sba.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494747",
+            "name": "Meat & poultry",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry"
+            ]
+        },
+        {
+            "id": "7494841",
+            "name": "Beef",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry",
+                "beef"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/220260025500",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-16T17:52:59"
+}

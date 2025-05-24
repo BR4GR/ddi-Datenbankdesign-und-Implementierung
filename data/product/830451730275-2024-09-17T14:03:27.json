@@ -1,0 +1,178 @@
+{
+    "uid": 100086314,
+    "migrosId": "830451730275",
+    "name": "Lady's slippers DIM",
+    "brand": "Dim",
+    "title": "Lady's slippers DIM",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Dim",
+                "slug": "dim"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/830451730275"
+        },
+        "otherInformation": {
+            "articleNumber": "830451730275",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Article type",
+                    "value": "Slippers"
+                },
+                {
+                    "code": "Material",
+                    "value": "Baumwolle"
+                },
+                {
+                    "code": "Denier",
+                    "value": "86 DEN"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "65 %"
+                },
+                {
+                    "code": "Material 2",
+                    "value": "Polyamid"
+                },
+                {
+                    "code": "Proportion of material 2",
+                    "value": "35 %"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "3610862233644"
+    ],
+    "variants": {
+        "baseProductMigrosId": "830451700000",
+        "mainVariantMigrosId": "830451730220",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "35-38",
+                    "color": "black"
+                },
+                "migrosId": "830451730220"
+            },
+            {
+                "declinationOptions": {
+                    "size": "35-38",
+                    "color": "light beige"
+                },
+                "migrosId": "830451730275"
+            },
+            {
+                "declinationOptions": {
+                    "size": "39-42",
+                    "color": "black"
+                },
+                "migrosId": "830451730320"
+            },
+            {
+                "declinationOptions": {
+                    "size": "39-42",
+                    "color": "light beige"
+                },
+                "migrosId": "830451730375"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "light beige",
+                "options": [
+                    "black",
+                    "light beige"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "35-38",
+                "options": [
+                    "35-38",
+                    "39-42"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/917f2e70b577b22a84707ab691579b5192764e7d/ladys-slippers-dim.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/4104cc9dce1b39a2825d1efd9cc274ef33dd027b.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a2177783745b58ddb40d48ebee9c304248529e0b.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10553347",
+            "name": "Women",
+            "slugs": [
+                "clothing-accessories",
+                "women"
+            ]
+        },
+        {
+            "id": "10553383",
+            "name": "Socks & tights",
+            "slugs": [
+                "clothing-accessories",
+                "women",
+                "socks-tights"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/830451730275",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "11.90",
+            "advertisedDisplayValue": "11.90",
+            "effectiveDisplayValue": "11.90",
+            "multiplier": 1,
+            "value": 11.9,
+            "effectiveValue": 11.9,
+            "advertisedValue": 11.9,
+            "unitPrice": {
+                "value": 11.9,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Paar",
+        "quantityPrice": "11.90/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T14:03:27"
+}

@@ -1,0 +1,94 @@
+{
+    "uid": 100145176,
+    "migrosId": "151476000000",
+    "name": "Lindenblütenhonig",
+    "brand": "VIS",
+    "title": "Lindenblütenhonig",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "VIS",
+                "slug": "vis",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077217/brands/Vis_VIS_s.r.l._Logo"
+            },
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/151476000000"
+        },
+        "otherInformation": {
+            "articleNumber": "151476000000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "8001395000332"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/cfc2f9752e462022a33041fc445b6d6bc35ad649/lindenbluetenhonig.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494768",
+            "name": "Jam, spreads & honey",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "jam-spreads-honey"
+            ]
+        },
+        {
+            "id": "7494947",
+            "name": "Honeys & molasses",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "jam-spreads-honey",
+                "honeys-molasses"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/151476000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.90",
+            "advertisedDisplayValue": "7.90",
+            "effectiveDisplayValue": "7.90",
+            "multiplier": 1,
+            "value": 7.9,
+            "effectiveValue": 7.9,
+            "advertisedValue": 7.9,
+            "unitPrice": {
+                "value": 1.58,
+                "unit": "100g"
+            }
+        },
+        "quantity": "500g",
+        "quantityPrice": "1.58/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:05:35"
+}

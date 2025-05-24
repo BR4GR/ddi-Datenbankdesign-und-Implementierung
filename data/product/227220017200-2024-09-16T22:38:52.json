@@ -1,0 +1,88 @@
+{
+    "uid": 100143637,
+    "migrosId": "227220017200",
+    "name": "Qualivo Kalbsburger",
+    "title": "Qualivo Kalbsburger",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/227220017200"
+        },
+        "otherInformation": {
+            "articleNumber": "227220017200",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7623186241376"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3fcd737231e2c291d06c12d104260bc6b702fc72/qualivo-kalbsburger.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494747",
+            "name": "Meat & poultry",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry"
+            ]
+        },
+        {
+            "id": "7494842",
+            "name": "Minced meat & burger",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry",
+                "minced-meat-burger"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/227220017200",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.90",
+            "advertisedDisplayValue": "7.90",
+            "effectiveDisplayValue": "7.90",
+            "multiplier": 1,
+            "value": 7.9,
+            "effectiveValue": 7.9,
+            "advertisedValue": 7.9,
+            "unitPrice": {
+                "value": 0.79,
+                "unit": "100g"
+            }
+        },
+        "quantity": "200g",
+        "quantityPrice": "0.79/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T22:38:52"
+}

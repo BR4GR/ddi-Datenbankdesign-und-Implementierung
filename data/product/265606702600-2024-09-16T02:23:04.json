@@ -1,0 +1,114 @@
+{
+    "uid": 100062615,
+    "migrosId": "265606702600",
+    "name": "Heidelbeeren",
+    "brand": "Migros Fresca",
+    "title": "Heidelbeeren",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Fresca",
+                "slug": "migros-fresca",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076970/brands/Migros_Fresca_Logo"
+            },
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 3.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/265606702600"
+        },
+        "otherInformation": {
+            "articleNumber": "265606702600",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Saison von",
+                    "value": "Juni"
+                },
+                {
+                    "code": "Saison bis",
+                    "value": "September"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Schale"
+                },
+                {
+                    "code": "Storage at home",
+                    "value": "gekühlt aufbewahren/lagern"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613404642856",
+        "7617003185394"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/560e2d531fc8a71d0a4e81c0fab168259eb186b2/heidelbeeren.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d000d707efcc47fe88718ad2f9b3f8382eb79bc3.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1599b80c60c07879d77721dde39540e99de562bd.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/dcdceb4ff0da0b6221ffd123f76a27ae648d6ec6.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494756",
+            "name": "Fruits",
+            "slugs": [
+                "fruits-vegetables",
+                "fruits"
+            ]
+        },
+        {
+            "id": "7494895",
+            "name": "Red fruits & berries",
+            "slugs": [
+                "fruits-vegetables",
+                "fruits",
+                "red-fruits-berries"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/265606702600",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-16T02:23:04"
+}

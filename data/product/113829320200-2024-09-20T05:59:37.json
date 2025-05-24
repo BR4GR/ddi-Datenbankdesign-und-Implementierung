@@ -1,0 +1,97 @@
+{
+    "uid": 100164769,
+    "migrosId": "113829320200",
+    "name": "Giant diplomat",
+    "brand": "In-store bakery",
+    "title": "Giant diplomat",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "In-store bakery",
+                "slug": "in-store-bakery"
+            },
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/113829320200"
+        },
+        "otherInformation": {
+            "articleNumber": "113829320200",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613269880936"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/2f31a24d145ed9bb5c752f9d81707591c84d5096/giant-diplomat.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/9e1b553de5a124e450ec634ea354bf4f7317349e.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494765",
+            "name": "Pastries",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "pastries"
+            ]
+        },
+        {
+            "id": "7494934",
+            "name": "Cakes",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "pastries",
+                "cakes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/113829320200",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.30",
+            "advertisedDisplayValue": "5.30",
+            "effectiveDisplayValue": "5.30",
+            "multiplier": 1,
+            "value": 5.3,
+            "effectiveValue": 5.3,
+            "advertisedValue": 5.3,
+            "unitPrice": {
+                "value": 2.41,
+                "unit": "100g"
+            }
+        },
+        "quantity": "220g",
+        "quantityPrice": "2.41/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-20T05:59:37"
+}

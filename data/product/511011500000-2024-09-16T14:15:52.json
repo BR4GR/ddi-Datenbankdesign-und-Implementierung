@@ -1,0 +1,133 @@
+{
+    "uid": 100011899,
+    "migrosId": "511011500000",
+    "migrosOnlineId": "6625263",
+    "name": "Roll-on deodorant",
+    "brand": "I am",
+    "brandLine": "Pure&Soft",
+    "versioning": "48h, 0% alcohol",
+    "title": "I am Pure&Soft · Roll-on deodorant · 48h, 0% alcohol",
+    "description": "I am Roll-on deodorant 48h, 0% alcohol Mild care, 0% alcohol, without aluminum salts",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "I am",
+                "slug": "i-am",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076768/brands/Iam_Logo"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 45,
+                    "productionRatio": 97,
+                    "transportRatio": 1,
+                    "packagingRatio": 2,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 20,
+                "nbStars": 3.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/511011500000",
+            "cosmeticInformation": {
+                "ingredients": "Aqua, Isopropyl Myristate, Glycerin, Glyceryl Stearate Citrate, Cetearyl Alcohol, Myristyl Myristate, Phenoxyethanol, Ethylhexylglycerin, Octenidine HCl, Tocopherol, Hydroxyethylcellulose, Propylene Glycol, Polyglyceryl-3 Caprylate, Parfum, Linalool, Lactic Acid, Sodium Hydroxide"
+            }
+        },
+        "otherInformation": {
+            "articleNumber": "511011500000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Warnhinweise / Pflichthinweise",
+                    "value": "Vollständig trocknen lassen."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Roll-ons"
+                },
+                {
+                    "code": "Features",
+                    "value": "Ohne Aluminiumsalze"
+                },
+                {
+                    "code": "Customer group",
+                    "value": "Unisex"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312309674"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/e1271d8b7433fb365eda5148d4f6af34eb66ec39/i-am-deo-puresoft-ro.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494826",
+            "name": "Body care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care"
+            ]
+        },
+        {
+            "id": "7495238",
+            "name": "Deodorants",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care",
+                "deodorants"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/511011500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.25",
+            "advertisedDisplayValue": "1.25",
+            "effectiveDisplayValue": "1.25",
+            "multiplier": 1,
+            "value": 1.25,
+            "effectiveValue": 1.25,
+            "advertisedValue": 1.25,
+            "unitPrice": {
+                "value": 2.5,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "50ml",
+        "quantityPrice": "2.50/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:15:52"
+}

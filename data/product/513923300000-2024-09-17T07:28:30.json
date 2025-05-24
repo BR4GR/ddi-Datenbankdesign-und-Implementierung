@@ -1,0 +1,116 @@
+{
+    "uid": 100101828,
+    "migrosId": "513923300000",
+    "name": "I am Professional Rougepinsel",
+    "brand": "I am",
+    "title": "I am Professional Rougepinsel",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L55",
+                    "name": "Vegan Flower",
+                    "slug": "vegan-flower",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483262/labels/Vegan_flower"
+                }
+            ],
+            "brand": {
+                "name": "I am",
+                "slug": "i-am",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076768/brands/Iam_Logo"
+            },
+            "nutritionalCharacteristics": [
+                "Vegan"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegan"
+                }
+            ],
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/513923300000"
+        },
+        "otherInformation": {
+            "articleNumber": "513923300000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegan"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312374184"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/177fe4aebede8ebf9ca0146ae39a8c7038fc5c68/i-am-professional-rougepinsel.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494828",
+            "name": "Facial care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "facial-care"
+            ]
+        },
+        {
+            "id": "7495247",
+            "name": "Make-up",
+            "slugs": [
+                "drugstore-cosmetics",
+                "facial-care",
+                "make-up"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/513923300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "10.95",
+            "advertisedDisplayValue": "10.95",
+            "effectiveDisplayValue": "10.95",
+            "multiplier": 1,
+            "value": 10.95,
+            "effectiveValue": 10.95,
+            "advertisedValue": 10.95,
+            "unitPrice": {
+                "value": 10.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "10.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:28:30"
+}

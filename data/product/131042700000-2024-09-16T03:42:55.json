@@ -1,0 +1,84 @@
+{
+    "uid": 100121499,
+    "migrosId": "131042700000",
+    "name": "HIT Herbstsalat",
+    "title": "HIT Herbstsalat",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/131042700000"
+        },
+        "otherInformation": {
+            "articleNumber": "131042700000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613404401019"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/c7a9c1d739a08b86fa7d6181cabaaf1789fb7cd8/hit-herbstsalat.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494759",
+            "name": "Salad",
+            "slugs": [
+                "fruits-vegetables",
+                "salad"
+            ]
+        },
+        {
+            "id": "7494914",
+            "name": "Packaged salads",
+            "slugs": [
+                "fruits-vegetables",
+                "salad",
+                "packaged-salads"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/131042700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.50",
+            "advertisedDisplayValue": "2.50",
+            "effectiveDisplayValue": "2.50",
+            "multiplier": 1,
+            "value": 2.5,
+            "effectiveValue": 2.5,
+            "advertisedValue": 2.5,
+            "unitPrice": {
+                "value": 1.25,
+                "unit": "100g"
+            }
+        },
+        "quantity": "200g",
+        "quantityPrice": "1.25/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T03:42:55"
+}

@@ -1,0 +1,90 @@
+{
+    "uid": 100166682,
+    "migrosId": "110577600000",
+    "name": "Vicenzi Millefoglie Framboise",
+    "brand": "Matilde Vicenzi",
+    "title": "Vicenzi Millefoglie Framboise",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Matilde Vicenzi",
+                "slug": "matilde-vicenzi",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076963/brands/Matilde_Massimo_Cerutti_SA_Logo"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/110577600000"
+        },
+        "otherInformation": {
+            "articleNumber": "110577600000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "8000350008222"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a42a9b37e21d9a0b6066a447b6eccc0b229702b5/vicenzi-millefoglie-framboise.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494784",
+            "name": "Cake, madeleines & panettone",
+            "slugs": [
+                "snacks-sweets",
+                "cake-madeleines-panettone"
+            ]
+        },
+        {
+            "id": "7495028",
+            "name": "Madeleines & small cakes",
+            "slugs": [
+                "snacks-sweets",
+                "cake-madeleines-panettone",
+                "madeleines-small-cakes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/110577600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.60",
+            "advertisedDisplayValue": "2.60",
+            "effectiveDisplayValue": "2.60",
+            "multiplier": 1,
+            "value": 2.6,
+            "effectiveValue": 2.6,
+            "advertisedValue": 2.6,
+            "unitPrice": {
+                "value": 2.89,
+                "unit": "100g"
+            }
+        },
+        "quantity": "90g",
+        "quantityPrice": "2.89/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-15T21:29:24"
+}

@@ -1,0 +1,89 @@
+{
+    "uid": 100143361,
+    "migrosId": "227500408000",
+    "name": "Gratin dauphinois",
+    "title": "Gratin dauphinois",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "rating": {
+                "nbReviews": 8,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/227500408000"
+        },
+        "otherInformation": {
+            "articleNumber": "227500408000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7617027811002",
+        "189330"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/cd5d2a4722df01c5031900684f7b531362121c42/gratin-dauphinois.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494754",
+            "name": "Fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food"
+            ]
+        },
+        {
+            "id": "7494887",
+            "name": "Ready-made meals",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food",
+                "ready-made-meals"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/227500408000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.50",
+            "advertisedDisplayValue": "5.50",
+            "effectiveDisplayValue": "5.50",
+            "multiplier": 1,
+            "value": 5.5,
+            "effectiveValue": 5.5,
+            "advertisedValue": 5.5,
+            "unitPrice": {
+                "value": 1.9,
+                "unit": "100g"
+            }
+        },
+        "quantity": "290g",
+        "quantityPrice": "1.90/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T23:29:12"
+}

@@ -1,0 +1,96 @@
+{
+    "uid": 100145067,
+    "migrosId": "113780700000",
+    "name": "Biscome",
+    "title": "Biscome",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/113780700000"
+        },
+        "otherInformation": {
+            "articleNumber": "113780700000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613404863091"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a5b04441715a98990d7da4fac0c4d6112c1b92a8/biscome.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494784",
+            "name": "Cake, madeleines & panettone",
+            "slugs": [
+                "snacks-sweets",
+                "cake-madeleines-panettone"
+            ]
+        },
+        {
+            "id": "7495027",
+            "name": "Cakes & dry cakes",
+            "slugs": [
+                "snacks-sweets",
+                "cake-madeleines-panettone",
+                "cakes-dry-cakes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/113780700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.95",
+            "advertisedDisplayValue": "3.95",
+            "effectiveDisplayValue": "3.95",
+            "multiplier": 1,
+            "value": 3.95,
+            "effectiveValue": 3.95,
+            "advertisedValue": 3.95,
+            "unitPrice": {
+                "value": 5.64,
+                "unit": "100g"
+            }
+        },
+        "quantity": "70g",
+        "quantityPrice": "5.64/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:02:40"
+}

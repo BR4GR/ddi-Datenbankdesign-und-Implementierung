@@ -1,0 +1,209 @@
+{
+    "uid": 100016280,
+    "migrosId": "204586800000",
+    "migrosOnlineId": "94554",
+    "name": "Yogurt drink",
+    "brand": "Emmi",
+    "brandLine": "Yogi",
+    "versioning": "Raspberry",
+    "title": "Emmi Yogi · Yogurt drink · Raspberry",
+    "description": "Emmi Yogurt drink Raspberry",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "Emmi",
+                "slug": "emmi"
+            },
+            "nutritionalCharacteristics": [
+                "Vegetarian"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegetarian"
+                }
+            ],
+            "ingredients": "Sauermilch teilentrahmt aus pasteurisierter Schweizer MILCH, Zucker, Himbeerpüree aus Konzentrat 5%, Verdickungsmittel (Pektin), modifizierte Stärke, Aromen, Randensaftkonzentrat.",
+            "allergens": "lactose, Milk and its derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 8,
+                    "productionRatio": 88,
+                    "transportRatio": 0,
+                    "packagingRatio": 12,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 103,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/204586800000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 ml"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "~ 387 kJ (~ 92 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "~ 1.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "~ 0.9 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "~ 16 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "~ 16 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "~ 2.8 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "~ 0.1 g",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "204586800000",
+            "legalDesignation": "Sauermilch teilentrahmt Himbeer, mit 1.8% Fett im Milchanteil",
+            "distributorName": "Emmi Schweiz AG",
+            "distributorStreetAndNumber": "Landenbergstrasse 1, CH-6002 Luzern",
+            "remarks": [
+                {
+                    "code": "Aufbewahrungshinweise für den Konsumenten",
+                    "value": "Bei höchstens 6°C aufbewahren."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegetarian"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610900128877",
+        "7617027913836"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ea8c28e6303d51544d0736dbf698b49f1ff43e2b/emmi-yogi-drink-himbeere.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494753",
+            "name": "Yogurts & desserts",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "yogurts-desserts"
+            ]
+        },
+        {
+            "id": "7494880",
+            "name": "Yogurt drinks",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "yogurts-desserts",
+                "yogurt-drinks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/204586800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "pictos": [
+            {
+                "type": "REGION",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679482984/labels/suisse",
+                "description": "Switzerland"
+            },
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483166/labels/fresh",
+                "description": "fresh"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-15T21:32:26"
+}

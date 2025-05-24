@@ -1,0 +1,191 @@
+{
+    "uid": 100113144,
+    "migrosId": "153225900000",
+    "migrosOnlineId": "12059190",
+    "name": "Tomato sauce",
+    "brand": "Da Emilio",
+    "versioning": "ciliegino con basilico",
+    "title": "Da Emilio · Tomato sauce · ciliegino con basilico",
+    "description": "Da Emilio Tomato sauce ciliegino con basilico",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Da Emilio",
+                "slug": "da-emilio",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1703170125/brands/da_emilio"
+            },
+            "ingredients": "Cherrytomaten 82%, Basilikum 4%, Karotten, Zwiebeln, Olivenöl nativ extra, <strong>Sellerie</strong>, Meersalz, Zucker.",
+            "allergens": "Celery and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/153225900000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "1 Portion (110 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "414 kJ (100 kcal)",
+                            "456 kJ (110 kcal)",
+                            "6 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "6.8 g",
+                            "7.5 g",
+                            "11 %"
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "1 g",
+                            "1.1 g",
+                            "6 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "7.5 g",
+                            "8.3 g",
+                            "3 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "7.3 g",
+                            "8 g",
+                            "9 %"
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "1.4 g",
+                            "1.5 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "1.4 g",
+                            "1.5 g",
+                            "3 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.55 g",
+                            "0.61 g",
+                            "10 %"
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    }
+                ]
+            },
+            "portionSentence": "1 Bottle = 3 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "153225900000",
+            "legalDesignation": "Sauce aus Cherrytomaten mit Basilikum",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Can be stored without refrigeration. Once opened, keep refrigerated and consume quickly."
+                },
+                {
+                    "code": "Production information",
+                    "value": "pasteurized"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312377819"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/fe9b20992a44e110c33a6f8844b4021948cfa323/salsa-ciliegino.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494776",
+            "name": "Spices & sauces",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces"
+            ]
+        },
+        {
+            "id": "12671420",
+            "name": "Pasta sauces & pesto",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces",
+                "pasta-sauces-pesto"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/153225900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.20",
+            "advertisedDisplayValue": "3.20",
+            "effectiveDisplayValue": "3.20",
+            "multiplier": 1,
+            "value": 3.2,
+            "effectiveValue": 3.2,
+            "advertisedValue": 3.2,
+            "unitPrice": {
+                "value": 0.97,
+                "unit": "100g"
+            }
+        },
+        "quantity": "330g",
+        "quantityPrice": "0.97/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:26:50"
+}

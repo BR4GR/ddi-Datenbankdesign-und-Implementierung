@@ -1,0 +1,197 @@
+{
+    "uid": 100143947,
+    "migrosId": "111417100000",
+    "name": "Demeter Bio Roggenbrot",
+    "title": "Demeter Bio Roggenbrot",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L56",
+                    "name": "Demeter",
+                    "slug": "demeter",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483191/labels/Demeter_-_RGB_-_DE"
+                }
+            ],
+            "nutritionalCharacteristics": [
+                "Organic"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                }
+            ],
+            "ingredients": "wholemeal <strong>rye</strong> flour° 53%, water, <strong>rye </strong>wholemeal sourdough° 4%, sea salt.\n° From foreign biodynamic production (Demeter)",
+            "allergenIndication": "May contain: eggs, soy, milk, nuts, sesame.",
+            "allergens": "Cereals containing gluten and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 8,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/111417100000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "1 Scheibe (50 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "896 kJ (212 kcal)",
+                            "458 kJ (108 kcal)",
+                            "5 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "1.1 g",
+                            "0.6 g",
+                            "1 %"
+                        ]
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0.2 g",
+                            "0.1 g",
+                            "1 %"
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "41 g",
+                            "21 g",
+                            "8 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "1.6 g",
+                            "0.8 g",
+                            "1 %"
+                        ]
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "7.9 g",
+                            "3.9 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "5.6 g",
+                            "2.8 g",
+                            "6 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "1.4 g",
+                            "0.72 g",
+                            "12 %"
+                        ]
+                    }
+                ]
+            },
+            "portionSentence": "1 Package = 10 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "111417100000",
+            "legalDesignation": "Roggenvollkornbrot",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "bioCertification": "Organic certification: CH-BIO-006"
+        }
+    },
+    "gtins": [
+        "7640174232680"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/44ff7ebec9d5b382d25726d4c76405927e71e90d/demeter-bio-roggenbrot.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/50e4e521c3369c7df14e75f3662a0945b338a32c.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494763",
+            "name": "Fresh bread",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "fresh-bread"
+            ]
+        },
+        {
+            "id": "7494924",
+            "name": "Fresh bread",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "fresh-bread",
+                "fresh-bread"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/111417100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.70",
+            "advertisedDisplayValue": "5.70",
+            "effectiveDisplayValue": "5.70",
+            "multiplier": 1,
+            "value": 5.7,
+            "effectiveValue": 5.7,
+            "advertisedValue": 5.7,
+            "unitPrice": {
+                "value": 1.14,
+                "unit": "100g"
+            }
+        },
+        "quantity": "500g",
+        "quantityPrice": "1.14/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:45:27"
+}

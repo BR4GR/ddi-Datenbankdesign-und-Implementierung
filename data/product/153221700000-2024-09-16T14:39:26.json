@@ -1,0 +1,199 @@
+{
+    "uid": 100040253,
+    "migrosId": "153221700000",
+    "migrosOnlineId": "222777",
+    "name": "Tomato sauce",
+    "brand": "Agnesi",
+    "versioning": "Basilico",
+    "title": "Agnesi · Tomato sauce · Basilico",
+    "description": "Agnesi Tomato sauce Basilico 100% natural",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Agnesi",
+                "slug": "agnesi",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1638170825/brands/Agnesi_Colussi_S.p.A._Logo"
+            },
+            "ingredients": "tomato pulp (60%), tomato paste (18%), tomato purée (9%), onions (5%), extra virgin olive oil,  basil (2%), sugar, salt.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 115,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/153221700000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "~ 292 kJ (~ 70 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "~ 2.6 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "~ 0.4 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "~ 9.1 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "~ 7.2 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "~ 0.9 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "~ 2 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "~ 1.5 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "153221700000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Type of sauce/dip",
+                    "value": "Tomatensauce"
+                },
+                {
+                    "code": "Intended use of sauce",
+                    "value": "Teigwaren"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Glas"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "zum kochen geeignet"
+                },
+                {
+                    "code": "Sauce variety - for cooking",
+                    "value": "Basilico"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "80525264"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d1f1989a2dc02815f4cf9b5c005f59f741788e0a/agnesi-sugo-al-basilico.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494776",
+            "name": "Spices & sauces",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces"
+            ]
+        },
+        {
+            "id": "12671420",
+            "name": "Pasta sauces & pesto",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces",
+                "pasta-sauces-pesto"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/153221700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.95",
+            "advertisedDisplayValue": "2.95",
+            "effectiveDisplayValue": "2.95",
+            "multiplier": 1,
+            "value": 2.95,
+            "effectiveValue": 2.95,
+            "advertisedValue": 2.95,
+            "unitPrice": {
+                "value": 0.74,
+                "unit": "100g"
+            }
+        },
+        "quantity": "400g",
+        "quantityPrice": "0.74/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:39:26"
+}

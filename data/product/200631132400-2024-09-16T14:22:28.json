@@ -1,0 +1,201 @@
+{
+    "uid": 100145596,
+    "migrosId": "200631132400",
+    "name": "Buffaletta Salatkäse",
+    "title": "Buffaletta Salatkäse",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "ingredients": "Büffel<strong>milch</strong>, jodiertes Kochsalz.",
+            "allergens": "Milk and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/200631132400"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "1 Portion (60 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1421 kJ (343 kcal)",
+                            "853 kJ (206 kcal)",
+                            "10 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "30 g",
+                            "18 g",
+                            "26 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "18 g",
+                            "11 g",
+                            "55 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            "< 0.5 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            "< 0.5 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "18 g",
+                            "11 g",
+                            "22 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "2.3 g",
+                            "1.4 g",
+                            "23 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    }
+                ]
+            },
+            "portionSentence": "1 Package = 3 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "200631132400",
+            "legalDesignation": "Schweizer Rahmfrischkäse, aus pasteurisierter Büffelmilch",
+            "identificationMark": "CH 70736823",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store refrigerated at max. +5 °C."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Type of cheese",
+                    "value": "Cream cheese"
+                },
+                {
+                    "code": "Fat content",
+                    "value": "full fat"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "packaged"
+                },
+                {
+                    "code": "Production process",
+                    "value": "From the Region"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613404177761"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/b8c0964538b69d1d9c11c9c721ae4ce06258b190/buffaletta-salatkaese.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494752",
+            "name": "Cheese",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese"
+            ]
+        },
+        {
+            "id": "7494875",
+            "name": "Mozzarella, feta & cottage cheeses",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese",
+                "mozzarella-feta-cottage-cheeses"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/200631132400",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.20",
+            "advertisedDisplayValue": "7.20",
+            "effectiveDisplayValue": "7.20",
+            "multiplier": 1,
+            "value": 7.2,
+            "effectiveValue": 7.2,
+            "advertisedValue": 7.2,
+            "unitPrice": {
+                "value": 4,
+                "unit": "100g"
+            }
+        },
+        "quantity": "180g",
+        "quantityPrice": "4.–/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:22:28"
+}

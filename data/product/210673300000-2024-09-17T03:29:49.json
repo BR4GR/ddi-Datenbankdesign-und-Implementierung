@@ -1,0 +1,120 @@
+{
+    "uid": 100051812,
+    "migrosId": "210673300000",
+    "name": "Glarner Alpkäse Fondue",
+    "title": "Glarner Alpkäse Fondue",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "ingredients": "Schweizer Halbhartkäse, vollfett, mit Rohmilch hergestellt aus dem Alpgebiet",
+            "allergens": "Milk and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 50,
+                    "productionRatio": 97,
+                    "transportRatio": 1,
+                    "packagingRatio": 0,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                },
+                "animalWelfare": {
+                    "rating": 3,
+                    "image": "https://image.migros.ch/original/02f56762a6d67ea0470f50e5e8cc4d96d84791f0.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 1.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/210673300000"
+        },
+        "nutrientsInformation": {
+            "portionSentence": "1 Package ≈ 27 servings"
+        },
+        "otherInformation": {
+            "articleNumber": "210673300000",
+            "legalDesignation": "Schweizer Halbhartkäse, vollfett, mit Rohmilch hergestellt aus dem Alpgebiet",
+            "identificationMark": "CH 96752138",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "bioCertification": "Alp-Zertifizierung: SCESp 0107",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store refrigerated at max. +5 °C."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613404097731"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/e10c0f29f4c3d14535f2eb030765bcc160745ae0/glarner-alpkaese-fondue.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494752",
+            "name": "Cheese",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese"
+            ]
+        },
+        {
+            "id": "7494874",
+            "name": "Raclettes, fondues & grilling cheeses",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese",
+                "raclettes-fondues-grilling-chees"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/210673300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "18.–",
+            "advertisedDisplayValue": "18.–",
+            "effectiveDisplayValue": "18.–",
+            "multiplier": 1,
+            "value": 18,
+            "effectiveValue": 18,
+            "advertisedValue": 18,
+            "unitPrice": {
+                "value": 3,
+                "unit": "100g"
+            }
+        },
+        "quantity": "600g",
+        "quantityPrice": "3.–/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T03:29:49"
+}

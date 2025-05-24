@@ -1,0 +1,151 @@
+{
+    "uid": 100030238,
+    "migrosId": "271501202200",
+    "migrosOnlineId": "6732834",
+    "name": "Cucumber",
+    "brand": "Fresca",
+    "versioning": "Snack",
+    "title": "Fresca · Cucumber · Snack",
+    "description": "Fresca Cucumber Snack",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Fresca",
+                "slug": "fresca",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252430/brands/fresca-S10"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 1,
+                    "productionRatio": 37,
+                    "transportRatio": 40,
+                    "packagingRatio": 23,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 396,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/271501202200"
+        },
+        "usageInformation": {
+            "additionalInformation": "The cucumber snack is ideal as a snack and, because of its practical size, can be taken anywhere."
+        },
+        "otherInformation": {
+            "articleNumber": "271501202200",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Saison von",
+                    "value": "Mai"
+                },
+                {
+                    "code": "Saison bis",
+                    "value": "Oktober"
+                },
+                {
+                    "code": "Variety",
+                    "value": "Snack Gurken"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Schale"
+                },
+                {
+                    "code": "Storage at home",
+                    "value": "gekühlt aufbewahren/lagern"
+                },
+                {
+                    "code": "Washing instructions",
+                    "value": "vor Gebrauch waschen"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7617027717212",
+        "7671721170278"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/4e78fe23ce5f1a3f62be1f491ee78bc7c1657118/snack-gurken.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/99b0ce6aa400ed1b3dfc1dd5257c5750b0eacd02.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494757",
+            "name": "Vegetables",
+            "slugs": [
+                "fruits-vegetables",
+                "vegetables"
+            ]
+        },
+        {
+            "id": "7494902",
+            "name": "Cucumbers & avocados",
+            "slugs": [
+                "fruits-vegetables",
+                "vegetables",
+                "cucumbers-avocados"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/271501202200",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.80",
+            "advertisedDisplayValue": "2.80",
+            "effectiveDisplayValue": "2.80",
+            "multiplier": 1,
+            "value": 2.8,
+            "effectiveValue": 2.8,
+            "advertisedValue": 2.8,
+            "unitPrice": {
+                "value": 1.12,
+                "unit": "100g"
+            }
+        },
+        "quantity": "250g",
+        "quantityPrice": "1.12/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "REGION",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679482984/labels/suisse",
+                "description": "Switzerland"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T04:03:27"
+}

@@ -1,0 +1,199 @@
+{
+    "uid": 100010500,
+    "migrosId": "153222600000",
+    "migrosOnlineId": "68871",
+    "name": "Tomato sauce with basil",
+    "brand": "Longobardi",
+    "title": "Longobardi · Tomato sauce with basil",
+    "description": "Longobardi Tomato sauce with basil ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Longobardi",
+                "slug": "longobardi",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076902/brands/Longobardi_Aniello_Longobardi_s.r.l._Logo"
+            },
+            "ingredients": "Italienische Tomaten, Basilikum, Kochsalz",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 69,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/153222600000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "~ 140 kJ (~ 33 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "< 0.5 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "~ 0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "~ 7 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "~ 7 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "~ 1.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "~ 1.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "~ 0.8 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "usageInformation": {
+            "usage": "Refrigerate after opening and consume quickly.."
+        },
+        "otherInformation": {
+            "articleNumber": "153222600000",
+            "legalDesignation": "Tomate mit Basilikum",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Type of sauce/dip",
+                    "value": "Tomatensauce"
+                },
+                {
+                    "code": "Intended use of sauce",
+                    "value": "Teigwaren"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Bottle"
+                },
+                {
+                    "code": "Sauce variety - for cooking",
+                    "value": "Basilico"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "8002510200002",
+        "0000022111289"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/e5f05c87b1bc838a9f785eba1b47790e9fce0cbb/longobardi-tomatensauce-mit-basilikum.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494777",
+            "name": "Canned food & convenience food",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "canned-food-convenience-food"
+            ]
+        },
+        {
+            "id": "7494988",
+            "name": "Tinned tomatoes",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "canned-food-convenience-food",
+                "tinned-tomatoes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/153222600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.95",
+            "advertisedDisplayValue": "2.95",
+            "effectiveDisplayValue": "2.95",
+            "multiplier": 1,
+            "value": 2.95,
+            "effectiveValue": 2.95,
+            "advertisedValue": 2.95,
+            "unitPrice": {
+                "value": 0.42,
+                "unit": "100g"
+            }
+        },
+        "quantity": "700g",
+        "quantityPrice": "0.42/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:41:10"
+}

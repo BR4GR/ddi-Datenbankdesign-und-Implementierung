@@ -1,0 +1,94 @@
+{
+    "uid": 100170601,
+    "migrosId": "121305100000",
+    "migrosOnlineId": "12800791",
+    "name": "White beer",
+    "brand": "Lowlander",
+    "brandLine": "Pumpkin Weizen",
+    "versioning": "alcohol free",
+    "title": "Lowlander Pumpkin Weizen · White beer · alcohol free",
+    "description": "Lowlander White beer alcohol free",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Lowlander",
+                "slug": "lowlander"
+            },
+            "alcoholContent": 0.3,
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/121305100000"
+        },
+        "otherInformation": {
+            "articleNumber": "121305100000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "8720618787484"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f23ae61951ec079f6b468eab99f60baaeb7c4d46/lowlander-pumpkin-weizen-alkoholfrei.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494737",
+            "name": "Wine, beer & spirits",
+            "slugs": [
+                "wine-beer-spirits"
+            ]
+        },
+        {
+            "id": "10583761",
+            "name": "Alcohol free drinks",
+            "slugs": [
+                "wine-beer-spirits",
+                "alcohol-free-drinks"
+            ]
+        },
+        {
+            "id": "10614101",
+            "name": "Beers & ciders",
+            "slugs": [
+                "wine-beer-spirits",
+                "alcohol-free-drinks",
+                "beers-ciders"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/121305100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.80",
+            "advertisedDisplayValue": "2.80",
+            "effectiveDisplayValue": "2.80",
+            "multiplier": 1,
+            "value": 2.8,
+            "effectiveValue": 2.8,
+            "advertisedValue": 2.8,
+            "unitPrice": {
+                "value": 0.85,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "330ml",
+        "quantityPrice": "0.85/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:37:40"
+}

@@ -1,0 +1,192 @@
+{
+    "uid": 100146260,
+    "migrosId": "232100502500",
+    "name": "Appenzeller Pantli",
+    "brand": "Spécialité Suisse",
+    "title": "Appenzeller Pantli",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "Spécialité Suisse",
+                "slug": "specialite-suisse",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076887/brands/Laenderspezialitaeten_Schweiz_Logo"
+            },
+            "ingredients": "Rindfleisch, Speck und Schweinefleisch (Schweiz), Nitritpökelsalz (Kochsalz, Konservierungsstoff: Natriumnitrit), Gewürze, Glucose, Antioxidationsmittel: Natriumascorbat.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "animalWelfare": {
+                    "rating": 3,
+                    "image": "https://image.migros.ch/original/02f56762a6d67ea0470f50e5e8cc4d96d84791f0.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/232100502500"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "1 Portion (30 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "2181 kJ (527 kcal)",
+                            "651 kJ (157 kcal)",
+                            "8 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "47 g",
+                            "14 g",
+                            "20 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "18 g",
+                            "5.4 g",
+                            "27 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "1 g",
+                            "< 0.5 g",
+                            "< 5 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            "< 5 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "25 g",
+                            "7.5 g",
+                            "15 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "4.5 g",
+                            "1.4 g",
+                            "23 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    }
+                ]
+            },
+            "portionSentence": "1 package = 2 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "232100502500",
+            "legalDesignation": "Fleischerzeugnis, geräuchert, zum Rohessen",
+            "identificationMark": "CH 228",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Can be stored without refrigeration."
+                },
+                {
+                    "code": "Production information",
+                    "value": "Packaged in a protective atmosphere."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613269458944"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/56e5f3336e7367012e4f773f8bed15c823cfbf69/appenzeller-pantli.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/514b7682d3883c556feca753b912c9cec55f3d6d.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494748",
+            "name": "Cold cuts",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts"
+            ]
+        },
+        {
+            "id": "7494854",
+            "name": "Salami & dried sausages",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts",
+                "salami-dried-sausages"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/232100502500",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-16T17:01:58"
+}

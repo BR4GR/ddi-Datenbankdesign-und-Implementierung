@@ -1,0 +1,203 @@
+{
+    "uid": 100150309,
+    "migrosId": "844459802840",
+    "name": "Kids' sneaker",
+    "brand": "Kids",
+    "title": "Kids' sneaker",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Kids",
+                "slug": "kids",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076840/brands/KIDS_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/844459802840"
+        },
+        "otherInformation": {
+            "articleNumber": "844459802840",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Category/theme",
+                    "value": "Freizeitschuhe"
+                },
+                {
+                    "code": "Upper material",
+                    "value": "Textil"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "Klettverschluss"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871512922"
+    ],
+    "variants": {
+        "baseProductMigrosId": "844459800000",
+        "mainVariantMigrosId": "844459802840",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "028",
+                    "color": "blue"
+                },
+                "migrosId": "844459802840"
+            },
+            {
+                "declinationOptions": {
+                    "size": "029",
+                    "color": "blue"
+                },
+                "migrosId": "844459802940"
+            },
+            {
+                "declinationOptions": {
+                    "size": "030",
+                    "color": "blue"
+                },
+                "migrosId": "844459803040"
+            },
+            {
+                "declinationOptions": {
+                    "size": "031",
+                    "color": "blue"
+                },
+                "migrosId": "844459803140"
+            },
+            {
+                "declinationOptions": {
+                    "size": "032",
+                    "color": "blue"
+                },
+                "migrosId": "844459803240"
+            },
+            {
+                "declinationOptions": {
+                    "size": "033",
+                    "color": "blue"
+                },
+                "migrosId": "844459803340"
+            },
+            {
+                "declinationOptions": {
+                    "size": "034",
+                    "color": "blue"
+                },
+                "migrosId": "844459803440"
+            },
+            {
+                "declinationOptions": {
+                    "size": "035",
+                    "color": "blue"
+                },
+                "migrosId": "844459803540"
+            },
+            {
+                "declinationOptions": {
+                    "size": "036",
+                    "color": "blue"
+                },
+                "migrosId": "844459803640"
+            },
+            {
+                "declinationOptions": {
+                    "size": "037",
+                    "color": "blue"
+                },
+                "migrosId": "844459803740"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "blue",
+                "options": [
+                    "blue"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "028",
+                "options": [
+                    "028",
+                    "029",
+                    "030",
+                    "031",
+                    "032",
+                    "033",
+                    "034",
+                    "035",
+                    "036",
+                    "037"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1bf10b1677210dc2880e5f8658a140ab2250253d/kids-sneaker.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "7494824",
+            "name": "Baby & kids shoes",
+            "slugs": [
+                "baby-kids",
+                "baby-kids-shoes"
+            ]
+        },
+        {
+            "id": "7495230",
+            "name": "Casual shoes",
+            "slugs": [
+                "baby-kids",
+                "baby-kids-shoes",
+                "casual-shoes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/844459802840",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "29.95",
+            "advertisedDisplayValue": "29.95",
+            "effectiveDisplayValue": "29.95",
+            "multiplier": 1,
+            "value": 29.95,
+            "effectiveValue": 29.95,
+            "advertisedValue": 29.95
+        },
+        "quantity": "1 Paar",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T00:44:21"
+}

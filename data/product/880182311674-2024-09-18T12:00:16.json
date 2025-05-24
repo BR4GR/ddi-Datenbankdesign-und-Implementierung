@@ -1,0 +1,194 @@
+{
+    "uid": 100117969,
+    "migrosId": "880182311674",
+    "name": "Kids sweatshirt",
+    "brand": "Kids",
+    "title": "Kids sweatshirt",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L07",
+                    "name": "ECO",
+                    "slug": "eco",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483145/labels/Eco-Textilien_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "Kids",
+                "slug": "kids",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076840/brands/KIDS_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/880182311674"
+        },
+        "otherInformation": {
+            "articleNumber": "880182311674",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Zielgruppe",
+                    "value": "Kinder"
+                },
+                {
+                    "code": "Article type",
+                    "value": "Sweatshirt"
+                },
+                {
+                    "code": "Altersgruppe",
+                    "value": "Kinder"
+                },
+                {
+                    "code": "Look",
+                    "value": "Rip-Bund, Rundhals"
+                },
+                {
+                    "code": "Material",
+                    "value": "Baumwolle"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "100 %"
+                },
+                {
+                    "code": "Age",
+                    "value": "5-6 Jahre"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613434814216"
+    ],
+    "variants": {
+        "baseProductMigrosId": "880182300000",
+        "mainVariantMigrosId": "880182311074",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "beige",
+                    "size": "4 - 5 // 110"
+                },
+                "migrosId": "880182311074"
+            },
+            {
+                "declinationOptions": {
+                    "color": "beige",
+                    "size": "5 - 6 // 116"
+                },
+                "migrosId": "880182311674"
+            },
+            {
+                "declinationOptions": {
+                    "color": "beige",
+                    "size": "6 - 7 // 122"
+                },
+                "migrosId": "880182312274"
+            },
+            {
+                "declinationOptions": {
+                    "color": "beige",
+                    "size": "7 - 8 // 128"
+                },
+                "migrosId": "880182312874"
+            },
+            {
+                "declinationOptions": {
+                    "color": "beige",
+                    "size": "8 - 9 // 134"
+                },
+                "migrosId": "880182313474"
+            },
+            {
+                "declinationOptions": {
+                    "color": "beige",
+                    "size": "9 - 10 // 140"
+                },
+                "migrosId": "880182314074"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "beige",
+                "options": [
+                    "beige"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "5 - 6 // 116",
+                "options": [
+                    "4 - 5 // 110",
+                    "5 - 6 // 116",
+                    "6 - 7 // 122",
+                    "7 - 8 // 128",
+                    "8 - 9 // 134",
+                    "9 - 10 // 140"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/b44e5191e631ff15b9b503121f6b3ba7ad24c502/kids-sweatshirt.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "11117258",
+            "name": "Children's clothing",
+            "slugs": [
+                "baby-kids",
+                "childrens-clothing"
+            ]
+        },
+        {
+            "id": "11124117",
+            "name": "Children's clothes",
+            "slugs": [
+                "baby-kids",
+                "childrens-clothing",
+                "childrens-clothes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/880182311674",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "24.95",
+            "advertisedDisplayValue": "24.95",
+            "effectiveDisplayValue": "24.95",
+            "multiplier": 1,
+            "value": 24.95,
+            "effectiveValue": 24.95,
+            "advertisedValue": 24.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-18T12:00:16"
+}

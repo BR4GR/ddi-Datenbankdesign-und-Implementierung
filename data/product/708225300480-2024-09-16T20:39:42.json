@@ -1,0 +1,142 @@
+{
+    "uid": 100079875,
+    "migrosId": "708225300480",
+    "name": "Druckknoepfe",
+    "title": "Druckknoepfe",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/708225300480"
+        },
+        "otherInformation": {
+            "articleNumber": "708225300480",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Area of application",
+                    "value": "Flicken"
+                },
+                {
+                    "code": "Number",
+                    "value": "8 Pcs."
+                },
+                {
+                    "code": "Dimensions/size",
+                    "value": "11mm"
+                },
+                {
+                    "code": "Material",
+                    "value": "Stahl vernickelt"
+                },
+                {
+                    "code": "Color",
+                    "value": "grau"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610002066411"
+    ],
+    "variants": {
+        "baseProductMigrosId": "708225300000",
+        "mainVariantMigrosId": "708225300480",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "grey",
+                    "size": "assortierte Grössen"
+                },
+                "migrosId": "708225300480"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "grey",
+                "options": [
+                    "grey"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "assortierte Grössen",
+                "options": [
+                    "assortierte Grössen"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/7be2f32a79048bf0618f07f2352c1e1c0e2684b6/druckknoepfe.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494812",
+            "name": "DIY, home decoration and haberdashery",
+            "slugs": [
+                "household-and-living",
+                "diy-home-decoration-and-haberdas"
+            ]
+        },
+        {
+            "id": "7495164",
+            "name": "Haberdashery",
+            "slugs": [
+                "household-and-living",
+                "diy-home-decoration-and-haberdas",
+                "haberdashery"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/708225300480",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.70",
+            "advertisedDisplayValue": "4.70",
+            "effectiveDisplayValue": "4.70",
+            "multiplier": 1,
+            "value": 4.7,
+            "effectiveValue": 4.7,
+            "advertisedValue": 4.7,
+            "unitPrice": {
+                "value": 0.59,
+                "unit": "piece"
+            }
+        },
+        "quantity": "8 Stk.",
+        "quantityPrice": "0.59/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T20:39:42"
+}

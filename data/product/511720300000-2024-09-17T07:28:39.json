@@ -1,0 +1,111 @@
+{
+    "uid": 100002196,
+    "migrosId": "511720300000",
+    "migrosOnlineId": "14023",
+    "name": "Rasoirs",
+    "brand": "Bic",
+    "brandLine": "Sensitive 1",
+    "title": "Bic Sensitive 1 · Rasoirs",
+    "description": "Bic Rasoirs ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Bic",
+                "slug": "bic",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076639/brands/Bic_Socie%CC%81te%CC%81_BIC_Suisse_SA_Logo"
+            },
+            "rating": {
+                "nbReviews": 17,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/511720300000"
+        },
+        "otherInformation": {
+            "articleNumber": "511720300000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Einwegrasierer"
+                },
+                {
+                    "code": "Suitable for",
+                    "value": "Sensible Haut"
+                },
+                {
+                    "code": "Blades",
+                    "value": "1 Klinge"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "3086125705119"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/6b40d2308a4c9cc78434fdec160dd8c2218c7843/bic-1-sensitive-einwegras.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494826",
+            "name": "Body care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care"
+            ]
+        },
+        {
+            "id": "7495240",
+            "name": "Hair removal & shaving",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care",
+                "hair-removal-shaving"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/511720300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.50",
+            "advertisedDisplayValue": "2.50",
+            "effectiveDisplayValue": "2.50",
+            "multiplier": 1,
+            "value": 2.5,
+            "effectiveValue": 2.5,
+            "advertisedValue": 2.5,
+            "unitPrice": {
+                "value": 0.25,
+                "unit": "piece"
+            }
+        },
+        "quantity": "10 Stk.",
+        "quantityPrice": "0.25/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:28:39"
+}

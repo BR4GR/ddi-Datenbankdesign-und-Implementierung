@@ -1,0 +1,89 @@
+{
+    "uid": 100121520,
+    "migrosId": "113143105200",
+    "name": "Amaretto",
+    "brand": "Freshly prepared",
+    "title": "Amaretto",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Freshly prepared",
+                "slug": "freshly-prepared"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/113143105200"
+        },
+        "otherInformation": {
+            "articleNumber": "113143105200",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613404064825"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/04f94b38372bda0f96f0b67f3f9369d55f5098a0/amaretto.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494781",
+            "name": "Biscuits",
+            "slugs": [
+                "snacks-sweets",
+                "biscuits"
+            ]
+        },
+        {
+            "id": "7495011",
+            "name": "Biscuits & sponge fingers",
+            "slugs": [
+                "snacks-sweets",
+                "biscuits",
+                "biscuits-sponge-fingers"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/113143105200",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.50",
+            "advertisedDisplayValue": "1.50",
+            "effectiveDisplayValue": "1.50",
+            "multiplier": 1,
+            "value": 1.5,
+            "effectiveValue": 1.5,
+            "advertisedValue": 1.5,
+            "unitPrice": {
+                "value": 1.76,
+                "unit": "100g"
+            }
+        },
+        "quantity": "85g",
+        "quantityPrice": "1.76/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:29:35"
+}

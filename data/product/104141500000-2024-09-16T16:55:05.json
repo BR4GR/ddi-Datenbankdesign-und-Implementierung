@@ -1,0 +1,203 @@
+{
+    "uid": 100159167,
+    "migrosId": "104141500000",
+    "migrosOnlineId": "12246950",
+    "name": "spaghetti",
+    "brand": "M-Classic",
+    "versioning": "al bronzo",
+    "title": "M-Classic · spaghetti · al bronzo",
+    "description": "M-Classic spaghetti al bronzo",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Classic",
+                "slug": "m-classic",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252457/brands/m-classic"
+            },
+            "ingredients": "durum <strong>wheat</strong> semolina.",
+            "allergenIndication": "May contain: eggs.",
+            "allergens": "Cereals containing gluten and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 4,
+                    "productionRatio": 74,
+                    "transportRatio": 7,
+                    "packagingRatio": 19,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 60,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/104141500000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "1 Portion (80 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1497 kJ (353 kcal)",
+                            "1208 kJ (285 kcal)",
+                            "14 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "1.5 g",
+                            "1.2 g",
+                            "2 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0.4 g",
+                            "0.3 g",
+                            "2 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "70 g",
+                            "56 g",
+                            "22 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "0.6 g",
+                            "< 0.5 g",
+                            "1 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "3.8 g",
+                            "3.1 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "13 g",
+                            "11 g",
+                            "22 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            "0 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "portionSentence": "1 Package ≈ 6 servings",
+            "isAnalyticalConstituents": false
+        },
+        "usageInformation": {
+            "usage": "cooking time: 9-11 min."
+        },
+        "otherInformation": {
+            "articleNumber": "104141500000",
+            "legalDesignation": "Teigwaren aus Hartweizengriess",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store in a dry place."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312418512"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/9bf4ba66445bae2018630a5670cf7cca8911c651/m-classic-spaghetti.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494775",
+            "name": "Pasta, rice, semolina & grain",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "pasta-rice-semolina-grain"
+            ]
+        },
+        {
+            "id": "7494976",
+            "name": "Pasta",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "pasta-rice-semolina-grain",
+                "pasta"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/104141500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.25",
+            "advertisedDisplayValue": "1.25",
+            "effectiveDisplayValue": "1.25",
+            "multiplier": 1,
+            "value": 1.25,
+            "effectiveValue": 1.25,
+            "advertisedValue": 1.25,
+            "unitPrice": {
+                "value": 0.25,
+                "unit": "100g"
+            }
+        },
+        "quantity": "500g",
+        "quantityPrice": "0.25/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T16:55:05"
+}

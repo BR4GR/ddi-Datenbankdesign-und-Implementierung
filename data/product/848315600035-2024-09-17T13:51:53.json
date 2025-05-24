@@ -1,0 +1,167 @@
+{
+    "uid": 100094982,
+    "migrosId": "848315600035",
+    "name": "Beauty Bag",
+    "brand": "Miomojo",
+    "title": "Beauty Bag",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Miomojo",
+                "slug": "miomojo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/848315600035"
+        },
+        "otherInformation": {
+            "articleNumber": "848315600035",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Height",
+                    "value": "12.6 cm"
+                },
+                {
+                    "code": "Depth",
+                    "value": "8 cm"
+                },
+                {
+                    "code": "Length",
+                    "value": "21 cm"
+                },
+                {
+                    "code": "Weight",
+                    "value": "0.1 kg"
+                },
+                {
+                    "code": "Volume",
+                    "value": "2.1 l"
+                },
+                {
+                    "code": "Category/theme",
+                    "value": "Taschen"
+                },
+                {
+                    "code": "Main material",
+                    "value": "Recycling Polyester"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "interne Trennfächer/Organizer"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613434839523"
+    ],
+    "variants": {
+        "baseProductMigrosId": "848315600000",
+        "mainVariantMigrosId": "848315600020",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "black"
+                },
+                "migrosId": "848315600020"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "aubergine"
+                },
+                "migrosId": "848315600035"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "aubergine",
+                "options": [
+                    "black",
+                    "aubergine"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "one Size",
+                "options": [
+                    "one Size"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/baad19c3ff62df67f5333b4fd791903ec51f1684/beauty-bag.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/00dfe65b2661018d5c4f2fea74c32d0318b53e42.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10555197",
+            "name": "Travel",
+            "slugs": [
+                "clothing-accessories",
+                "travel"
+            ]
+        },
+        {
+            "id": "10555228",
+            "name": "Backpacks & bags",
+            "slugs": [
+                "clothing-accessories",
+                "travel",
+                "backpacks-bags"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/848315600035",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "29.95",
+            "advertisedDisplayValue": "29.95",
+            "effectiveDisplayValue": "29.95",
+            "multiplier": 1,
+            "value": 29.95,
+            "effectiveValue": 29.95,
+            "advertisedValue": 29.95,
+            "unitPrice": {
+                "value": 29.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "29.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T13:51:53"
+}

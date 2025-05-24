@@ -1,0 +1,194 @@
+{
+    "uid": 100145376,
+    "migrosId": "158546800000",
+    "name": "Batchelor's Mushy Peas",
+    "brand": "Batchelors",
+    "title": "Batchelor's Mushy Peas",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Batchelors",
+                "slug": "batchelors"
+            },
+            "nutritionalCharacteristics": [
+                "Vegan"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegan"
+                }
+            ],
+            "ingredients": "peas 95%, water, sugar, colouring matters: riboflavin, brilliant blue FCF.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 3.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/158546800000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "~ 369 kJ (~ 87 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "0.4 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0.2 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "13.1 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "1.4 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "3.9 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "5.9 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.5 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "158546800000",
+            "legalDesignation": "Mushy peas",
+            "distributorName": "Haecky Import AG",
+            "distributorStreetAndNumber": "Duggingerstr. 15, CH-4153 Reinach",
+            "remarks": [
+                {
+                    "code": "Consumer storage instructions",
+                    "value": "Keep dry and cool (not in the refrigerator) (8 to 15 °C). Keep refrigerated after opening, consume within a few days."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegetarian, Vegan"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "5000232901422"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/c516ef766b778b90c6fd96dddf716aebb42e9c7a/batchelors-mushy-peas.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494777",
+            "name": "Canned food & convenience food",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "canned-food-convenience-food"
+            ]
+        },
+        {
+            "id": "7494987",
+            "name": "Tinned vegetables",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "canned-food-convenience-food",
+                "tinned-vegetables"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/158546800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.95",
+            "advertisedDisplayValue": "3.95",
+            "effectiveDisplayValue": "3.95",
+            "multiplier": 1,
+            "value": 3.95,
+            "effectiveValue": 3.95,
+            "advertisedValue": 3.95,
+            "unitPrice": {
+                "value": 1.32,
+                "unit": "100g"
+            }
+        },
+        "quantity": "300g",
+        "quantityPrice": "1.32/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:13:36"
+}

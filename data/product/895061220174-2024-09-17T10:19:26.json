@@ -1,0 +1,195 @@
+{
+    "uid": 100169374,
+    "migrosId": "895061220174",
+    "name": "Baby Pullover",
+    "brand": "Smile",
+    "title": "Baby Pullover",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Smile",
+                "slug": "smile",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252488/brands/smile"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/895061220174"
+        },
+        "otherInformation": {
+            "articleNumber": "895061220174",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Zielgruppe",
+                    "value": "Kinder"
+                },
+                {
+                    "code": "Material",
+                    "value": "Baumwolle"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "92 %"
+                },
+                {
+                    "code": "Age",
+                    "value": "2-6 Monate"
+                },
+                {
+                    "code": "Material 2",
+                    "value": "Wolle"
+                },
+                {
+                    "code": "Proportion of material 2",
+                    "value": "8 %"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871668070"
+    ],
+    "variants": {
+        "baseProductMigrosId": "895061200000",
+        "mainVariantMigrosId": "895061220164",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "khaki",
+                    "size": "2-6 // 62/68"
+                },
+                "migrosId": "895061220164"
+            },
+            {
+                "declinationOptions": {
+                    "color": "beige",
+                    "size": "2-6 // 62/68"
+                },
+                "migrosId": "895061220174"
+            },
+            {
+                "declinationOptions": {
+                    "color": "khaki",
+                    "size": "6-12 // 74/80"
+                },
+                "migrosId": "895061220264"
+            },
+            {
+                "declinationOptions": {
+                    "color": "beige",
+                    "size": "6-12 // 74/80"
+                },
+                "migrosId": "895061220274"
+            },
+            {
+                "declinationOptions": {
+                    "color": "khaki",
+                    "size": "12-24 // 86/92"
+                },
+                "migrosId": "895061220364"
+            },
+            {
+                "declinationOptions": {
+                    "color": "beige",
+                    "size": "12-24 // 86/92"
+                },
+                "migrosId": "895061220374"
+            },
+            {
+                "declinationOptions": {
+                    "color": "khaki",
+                    "size": "24-48 // 98/104"
+                },
+                "migrosId": "895061220464"
+            },
+            {
+                "declinationOptions": {
+                    "color": "beige",
+                    "size": "24-48 // 98/104"
+                },
+                "migrosId": "895061220474"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "beige",
+                "options": [
+                    "khaki",
+                    "beige"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "2-6 // 62/68",
+                "options": [
+                    "2-6 // 62/68",
+                    "6-12 // 74/80",
+                    "12-24 // 86/92",
+                    "24-48 // 98/104"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/33832d718b6ece04a5f2fba2625c2c67b83119fd/baby-pullover.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "11117240",
+            "name": "Baby clothes",
+            "slugs": [
+                "baby-kids",
+                "baby-clothes"
+            ]
+        },
+        {
+            "id": "11117275",
+            "name": "Baby clothes",
+            "slugs": [
+                "baby-kids",
+                "baby-clothes",
+                "baby-clothes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/895061220174",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "19.95",
+            "advertisedDisplayValue": "19.95",
+            "effectiveDisplayValue": "19.95",
+            "multiplier": 1,
+            "value": 19.95,
+            "effectiveValue": 19.95,
+            "advertisedValue": 19.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T10:19:26"
+}

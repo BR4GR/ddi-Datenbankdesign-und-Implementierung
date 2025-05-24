@@ -1,0 +1,123 @@
+{
+    "uid": 100176325,
+    "migrosId": "130936000000",
+    "name": "Migros Bio Plant-Based Nuggets",
+    "brand": "Migros Bio",
+    "title": "Migros Bio Plant-Based Nuggets",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L57",
+                    "name": "V-Label vegan",
+                    "slug": "v-label-vegan",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483003/labels/V-Label_Vegan_Color"
+                }
+            ],
+            "brand": {
+                "name": "Migros Bio",
+                "slug": "migros-bio",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1678265962/brands/MIGROS_BIO_screen_pantone1_rgb"
+            },
+            "nutritionalCharacteristics": [
+                "Organic",
+                "Vegan"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                },
+                {
+                    "name": "Vegan"
+                }
+            ],
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/130936000000"
+        },
+        "otherInformation": {
+            "articleNumber": "130936000000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegan"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7623186552571"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d497cbe93075d5ab74b0a95460ff595eb149deb2/migros-bio-plant-based-nuggets.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494750",
+            "name": "Plant-based alternatives",
+            "slugs": [
+                "meat-fish",
+                "plant-based-alternatives"
+            ]
+        },
+        {
+            "id": "7494864",
+            "name": "Alternatives to burgers, cutlets & falafel",
+            "slugs": [
+                "meat-fish",
+                "plant-based-alternatives",
+                "alternatives-to-burgers-cutlets"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/130936000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "9.50",
+            "advertisedDisplayValue": "9.50",
+            "effectiveDisplayValue": "9.50",
+            "multiplier": 1,
+            "value": 9.5,
+            "effectiveValue": 9.5,
+            "advertisedValue": 9.5,
+            "unitPrice": {
+                "value": 2.64,
+                "unit": "100g"
+            }
+        },
+        "quantity": "2 x 180g",
+        "quantityPrice": "2.64/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-10-08T14:17:52"
+}

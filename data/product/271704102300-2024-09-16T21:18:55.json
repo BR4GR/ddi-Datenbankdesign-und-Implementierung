@@ -1,0 +1,87 @@
+{
+    "uid": 100005575,
+    "migrosId": "271704102300",
+    "migrosOnlineId": "5559290",
+    "name": "peppers",
+    "brand": "Fresca",
+    "versioning": "Cornetto",
+    "title": "Fresca · peppers · Cornetto",
+    "description": "Fresca peppers Cornetto",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Fresca",
+                "slug": "fresca",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252430/brands/fresca-S10"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/271704102300"
+        },
+        "otherInformation": {
+            "articleNumber": "271704102300",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613269434535"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/0d843a82080ac92f2d714cc886d1705cc439b5d1/peperoni-cornetto.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/91c7001c863505015ed46f38fa038f389e3e5a05.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494757",
+            "name": "Vegetables",
+            "slugs": [
+                "fruits-vegetables",
+                "vegetables"
+            ]
+        },
+        {
+            "id": "7494903",
+            "name": "Courgettes, aubergines & peppers",
+            "slugs": [
+                "fruits-vegetables",
+                "vegetables",
+                "courgettes-aubergines-peppers"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/271704102300",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-16T21:18:55"
+}

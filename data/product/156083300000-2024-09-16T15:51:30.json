@@ -1,0 +1,101 @@
+{
+    "uid": 100051152,
+    "migrosId": "156083300000",
+    "name": "Melanzane Olio Oliva",
+    "title": "Melanzane Olio Oliva",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 3,
+                    "productionRatio": 63,
+                    "transportRatio": 10,
+                    "packagingRatio": 27,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/156083300000"
+        },
+        "otherInformation": {
+            "articleNumber": "156083300000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "8018872001140",
+        "8018872002376"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3fd2d365d7e8460f71ee344fc89e0188bdaf957f/melanzane-olio-oliva.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494780",
+            "name": "Snacks & crisps",
+            "slugs": [
+                "snacks-sweets",
+                "snacks-crisps"
+            ]
+        },
+        {
+            "id": "7495004",
+            "name": "Olives & antipasti",
+            "slugs": [
+                "snacks-sweets",
+                "snacks-crisps",
+                "olives-antipasti"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/156083300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.30",
+            "advertisedDisplayValue": "5.30",
+            "effectiveDisplayValue": "5.30",
+            "multiplier": 1,
+            "value": 5.3,
+            "effectiveValue": 5.3,
+            "advertisedValue": 5.3,
+            "unitPrice": {
+                "value": 2.65,
+                "unit": "100g"
+            }
+        },
+        "quantity": "200g",
+        "quantityPrice": "2.65/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T15:51:30"
+}

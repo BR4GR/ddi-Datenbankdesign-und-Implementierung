@@ -1,0 +1,209 @@
+{
+    "uid": 100033944,
+    "migrosId": "101940800000",
+    "migrosOnlineId": "6243366",
+    "name": "Corn Chips",
+    "brand": "M-Classic",
+    "versioning": "salted",
+    "title": "M-Classic · Corn Chips · salted",
+    "description": "M-Classic Corn Chips salted",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Classic",
+                "slug": "m-classic",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252457/brands/m-classic"
+            },
+            "ingredients": "Mais 77%, Sonnenblumenöl, Meersalz 0.9%.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/101940800000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "1 Portion (30 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "2015 kJ (481 kcal)",
+                            "607 kJ (145 kcal)",
+                            "7 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "22 g",
+                            "6.7 g",
+                            "10 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "2.1 g",
+                            "0.6 g",
+                            "3 %"
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "60 g",
+                            "18 g",
+                            "7 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "0.6 g",
+                            "< 0.5 g",
+                            "< 5 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "6 g",
+                            "1.8 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "7.8 g",
+                            "2.3 g",
+                            "5 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.9 g",
+                            "0.27 g",
+                            "5 %"
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    }
+                ]
+            },
+            "portionSentence": "1 multipack = 20 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "101940800000",
+            "legalDesignation": "Mais-Snack mit Meersalz",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store in a cool, dry place and protected from light."
+                },
+                {
+                    "code": "Production information",
+                    "value": "Packaged in a protective atmosphere."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Appearance",
+                    "value": "Strips"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Beutel/Sack"
+                },
+                {
+                    "code": "Salted/spiced",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                },
+                {
+                    "code": "Type of snack",
+                    "value": "Maischips"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312261866",
+        "7613312012956"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/237ded4f162940e3a3adde43f70c30e9534d690e/se-m-clas-corn-strips-duo.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494780",
+            "name": "Snacks & crisps",
+            "slugs": [
+                "snacks-sweets",
+                "snacks-crisps"
+            ]
+        },
+        {
+            "id": "7495005",
+            "name": "Crisps",
+            "slugs": [
+                "snacks-sweets",
+                "snacks-crisps",
+                "crisps"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/101940800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.30",
+            "advertisedDisplayValue": "3.30",
+            "effectiveDisplayValue": "3.30",
+            "multiplier": 1,
+            "value": 3.3,
+            "effectiveValue": 3.3,
+            "advertisedValue": 3.3,
+            "unitPrice": {
+                "value": 0.55,
+                "unit": "100g"
+            }
+        },
+        "quantity": "2 x 300g",
+        "quantityPrice": "0.55/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:28:04"
+}

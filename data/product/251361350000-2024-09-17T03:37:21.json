@@ -1,0 +1,88 @@
+{
+    "uid": 100143719,
+    "migrosId": "251361350000",
+    "name": "SALMA fumé",
+    "title": "SALMA fumé",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/251361350000"
+        },
+        "otherInformation": {
+            "articleNumber": "251361350000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7071322969842"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/63c6a0b2aababb10a9991c309535f9aba9089d76/salma-fume.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494749",
+            "name": "Fish",
+            "slugs": [
+                "meat-fish",
+                "fish"
+            ]
+        },
+        {
+            "id": "7494860",
+            "name": "Salmon & smoked fish",
+            "slugs": [
+                "meat-fish",
+                "fish",
+                "salmon-smoked-fish"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/251361350000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "15.50",
+            "advertisedDisplayValue": "15.50",
+            "effectiveDisplayValue": "15.50",
+            "multiplier": 1,
+            "value": 15.5,
+            "effectiveValue": 15.5,
+            "advertisedValue": 15.5,
+            "unitPrice": {
+                "value": 10.33,
+                "unit": "100g"
+            }
+        },
+        "quantity": "150g",
+        "quantityPrice": "10.33/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T03:37:21"
+}

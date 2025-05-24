@@ -1,0 +1,80 @@
+{
+    "uid": 100143161,
+    "migrosId": "232305105000",
+    "name": "Ferrarini Salami Strolghino",
+    "brand": "Ferrarini",
+    "title": "Ferrarini Salami Strolghino",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Ferrarini",
+                "slug": "ferrarini"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/232305105000"
+        },
+        "otherInformation": {
+            "articleNumber": "232305105000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "2148920000002",
+        "232708",
+        "7617027551854"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/5c7f8772c25e446c604759676087e51cdd2981f3/ferrarini-salami-strolghino.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494748",
+            "name": "Cold cuts",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts"
+            ]
+        },
+        {
+            "id": "7494854",
+            "name": "Salami & dried sausages",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts",
+                "salami-dried-sausages"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/232305105000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-16T23:32:53"
+}

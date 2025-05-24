@@ -1,0 +1,133 @@
+{
+    "uid": 100079798,
+    "migrosId": "706240700010",
+    "migrosOnlineId": "10779127",
+    "name": "Toilet brush",
+    "brand": "Miobrill",
+    "title": "Miobrill · Toilet brush",
+    "description": "Miobrill Toilet brush ",
+    "productRange": "VARIANT",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Miobrill",
+                "slug": "miobrill",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1661928614/brands/Miobrill"
+            },
+            "rating": {
+                "nbReviews": 49,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/706240700010"
+        },
+        "otherInformation": {
+            "articleNumber": "706240700010",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Number",
+                    "value": "1 Pcs."
+                },
+                {
+                    "code": "Material",
+                    "value": "Polypropylen"
+                },
+                {
+                    "code": "Color",
+                    "value": "weiss"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7617020279168",
+        "7613294761798"
+    ],
+    "variants": {
+        "baseProductMigrosId": "706240700000",
+        "mainVariantMigrosId": "706240700010",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "WEISS"
+                },
+                "migrosId": "706240700010"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "WEISS",
+                "options": [
+                    "WEISS"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/b5560d7dc7b7ec2512f7e0824dcaf24a28891636/wc-ersatzbuerste.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494740",
+            "name": "Laundry & cleaning",
+            "slugs": [
+                "laundry-cleaning"
+            ]
+        },
+        {
+            "id": "7494810",
+            "name": "Cleaning utensils",
+            "slugs": [
+                "laundry-cleaning",
+                "cleaning-utensils"
+            ]
+        },
+        {
+            "id": "7495158",
+            "name": "Gloves, sponges & brushes",
+            "slugs": [
+                "laundry-cleaning",
+                "cleaning-utensils",
+                "gloves-sponges-brushes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/706240700010",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.95",
+            "advertisedDisplayValue": "2.95",
+            "effectiveDisplayValue": "2.95",
+            "multiplier": 1,
+            "value": 2.95,
+            "effectiveValue": 2.95,
+            "advertisedValue": 2.95,
+            "unitPrice": {
+                "value": 2.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "2.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T09:03:52"
+}

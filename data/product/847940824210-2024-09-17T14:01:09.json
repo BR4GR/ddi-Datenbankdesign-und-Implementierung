@@ -1,0 +1,151 @@
+{
+    "uid": 100088194,
+    "migrosId": "847940824210",
+    "name": "Fresh insole",
+    "brand": "Central Square",
+    "title": "Fresh insole",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Central Square",
+                "slug": "central-square",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076642/brands/CentralSquare_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 30,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/847940824210"
+        },
+        "otherInformation": {
+            "articleNumber": "847940824210",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Function/property",
+                    "value": "erfrischend, feuchtigkeitsabsorbierend, hygienisch"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613432505598"
+    ],
+    "variants": {
+        "baseProductMigrosId": "847940800000",
+        "mainVariantMigrosId": "847940823610",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "white",
+                    "size": "36/37"
+                },
+                "migrosId": "847940823610"
+            },
+            {
+                "declinationOptions": {
+                    "color": "white",
+                    "size": "38/39"
+                },
+                "migrosId": "847940823810"
+            },
+            {
+                "declinationOptions": {
+                    "color": "white",
+                    "size": "40/41"
+                },
+                "migrosId": "847940824010"
+            },
+            {
+                "declinationOptions": {
+                    "color": "white",
+                    "size": "42/43"
+                },
+                "migrosId": "847940824210"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "white",
+                "options": [
+                    "white"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "42/43",
+                "options": [
+                    "36/37",
+                    "38/39",
+                    "40/41",
+                    "42/43"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/46159df7506601f207bd38531bd2cf64b4228834/fresh-insole.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10553494",
+            "name": "Shoes",
+            "slugs": [
+                "clothing-accessories",
+                "shoes"
+            ]
+        },
+        {
+            "id": "10553514",
+            "name": "Insoles",
+            "slugs": [
+                "clothing-accessories",
+                "shoes",
+                "insoles"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/847940824210",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "5.95",
+            "advertisedDisplayValue": "5.95",
+            "effectiveDisplayValue": "5.95",
+            "multiplier": 1,
+            "value": 5.95,
+            "effectiveValue": 5.95,
+            "advertisedValue": 5.95
+        },
+        "quantity": "6 Paar",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T14:01:09"
+}

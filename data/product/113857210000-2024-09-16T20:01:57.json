@@ -1,0 +1,151 @@
+{
+    "uid": 100160291,
+    "migrosId": "113857210000",
+    "name": "Rexo-Patisserie",
+    "brand": "Frisch & Handgemacht",
+    "title": "Rexo-Patisserie",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Frisch & Handgemacht",
+                "slug": "frisch-handgemacht",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652249913/brands/frisch-handgemacht"
+            },
+            "ingredients": "Früchte 53,3%, Wasser, Zucker, EIER (aus Bodenhaltung), WEIZENmehl, modifizierte Kartoffelstärke, MagerMILCHpulver, WEIZENprotein, Palmfett, Glukosesirup, Aroma, Malzmehl (aus GERSTE), Stabilisator: E401, Farbstoff: E101, Farbstoff: E160b, Geliermittel: Pektin, Säuerungsmittel: Zitronensäure, Säureregulator: E341\n",
+            "allergenIndication": "Kann Soja, Baumnüsse, Sesam, Erdnüsse, Pistazien, Paranüsse, Macadamianüsse, Pecanüsse, Cashewkerne, Haselnüsse, Mandeln enthalten.\n",
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 2.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/113857210000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "442 kJ (106 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "1.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "20 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "2.1 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "113857210000",
+            "legalDesignation": "Früchtedessert",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7617027656627"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/16f92241cda9f71730e716fa8c41bcaca67b9558/rexo-patisserie.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/7c5eb629a79117c128ad305643d339a6a0aaa376.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494765",
+            "name": "Pastries",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "pastries"
+            ]
+        },
+        {
+            "id": "7494932",
+            "name": "Fresh pastries",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "pastries",
+                "fresh-pastries"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/113857210000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.40",
+            "advertisedDisplayValue": "6.40",
+            "effectiveDisplayValue": "6.40",
+            "multiplier": 1,
+            "value": 6.4,
+            "effectiveValue": 6.4,
+            "advertisedValue": 6.4,
+            "unitPrice": {
+                "value": 2.13,
+                "unit": "100g"
+            }
+        },
+        "quantity": "300g",
+        "quantityPrice": "2.13/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T20:01:57"
+}

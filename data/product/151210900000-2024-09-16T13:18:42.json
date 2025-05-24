@@ -1,0 +1,172 @@
+{
+    "uid": 100052708,
+    "migrosId": "151210900000",
+    "name": "Marronicrème",
+    "brand": "VIS",
+    "title": "Marronicrème",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "VIS",
+                "slug": "vis",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077217/brands/Vis_VIS_s.r.l._Logo"
+            },
+            "ingredients": "Kastanien, Zucker, Gellermittel: Pektin, natürliches Vanillearoma",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 14,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/151210900000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "~ 1073 kJ (~ 253 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "~ 0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "~ 0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "~ 60 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "~ 50 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "~ 1.2 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "~ 0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "151210900000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Aufbewahrungshinweise für den Konsumenten",
+                    "value": "Nach dem Öffnen in Kühlschrank aufbewahren und innerhalb einiger Tage verbrauchen"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "8001395001315"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3174dc13bf6a294d36fcaa08b8e1422f77b23450/marronicreme.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494768",
+            "name": "Jam, spreads & honey",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "jam-spreads-honey"
+            ]
+        },
+        {
+            "id": "7494946",
+            "name": "Spreads",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "jam-spreads-honey",
+                "spreads"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/151210900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.20",
+            "advertisedDisplayValue": "4.20",
+            "effectiveDisplayValue": "4.20",
+            "multiplier": 1,
+            "value": 4.2,
+            "effectiveValue": 4.2,
+            "advertisedValue": 4.2,
+            "unitPrice": {
+                "value": 1.24,
+                "unit": "100g"
+            }
+        },
+        "quantity": "340g",
+        "quantityPrice": "1.24/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T13:18:42"
+}

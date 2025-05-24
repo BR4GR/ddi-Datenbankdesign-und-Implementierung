@@ -1,0 +1,101 @@
+{
+    "uid": 100147444,
+    "migrosId": "111474700208",
+    "name": "Grittibänz",
+    "brand": "In-store bakery",
+    "title": "Grittibänz",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "In-store bakery",
+                "slug": "in-store-bakery"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 9,
+                    "productionRatio": 86,
+                    "transportRatio": 4,
+                    "packagingRatio": 10,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/111474700208"
+        },
+        "otherInformation": {
+            "articleNumber": "111474700208",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7610200432308"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a36968a73a6eeed40d74541e6dbbb8eef378d0c1/grittibaenz.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494763",
+            "name": "Fresh bread",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "fresh-bread"
+            ]
+        },
+        {
+            "id": "7494925",
+            "name": "Pastries",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "fresh-bread",
+                "pastries"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/111474700208",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.65",
+            "advertisedDisplayValue": "2.65",
+            "effectiveDisplayValue": "2.65",
+            "multiplier": 1,
+            "value": 2.65,
+            "effectiveValue": 2.65,
+            "advertisedValue": 2.65,
+            "unitPrice": {
+                "value": 2.65,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100g",
+        "quantityPrice": "2.65/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:24:35"
+}

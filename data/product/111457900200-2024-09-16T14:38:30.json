@@ -1,0 +1,183 @@
+{
+    "uid": 100050382,
+    "migrosId": "111457900200",
+    "name": "Krustenkranz IP-SUISSE",
+    "brand": "In-store bakery",
+    "title": "Krustenkranz IP-SUISSE",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L03",
+                    "name": "IP-SUISSE",
+                    "slug": "ip-suisse",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483396/labels/IP-Suisse_-_RGB_-_DE"
+                },
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "brand": {
+                "name": "In-store bakery",
+                "slug": "in-store-bakery"
+            },
+            "ingredients": "WEIZENmehl (CH)°^, Wasser, Hefe, Kochsalz jodiert, WEIZENkleber, GERSTENmalzmehl, WEIZENstärke, GERSTE, Dextrose (Mais), WEIZENmehl (CH)°, Zucker (CH), Acerolafruchtpulver\n\n° in IP-SUISSE Qualität\n^ Aus der Region",
+            "allergenIndication": "Kann Eier, Milch, Baumnüsse, Sesam, Haselnüsse, Mandeln enthalten.\n",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 5,
+                    "productionRatio": 80,
+                    "transportRatio": 1,
+                    "packagingRatio": 19,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 522,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/111457900200"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1116 g (266 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "0.9 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "55 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "4.6 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "1.7 g",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "111457900200",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Type of product",
+                    "value": "﻿Large bread fresh"
+                },
+                {
+                    "code": "Production process",
+                    "value": "Aus der Region, aus hellem Mehl, gebacken, Von Hand gefertigt"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Brotbeutel"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613404176559"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/4287b82a2d72fac9daa66f45f36f63926ea7ece6/krustenkranz-ip-suisse.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/00cdb09dc7a455635cc13440176872886188bad5.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494763",
+            "name": "Fresh bread",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "fresh-bread"
+            ]
+        },
+        {
+            "id": "7494924",
+            "name": "Fresh bread",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "fresh-bread",
+                "fresh-bread"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/111457900200",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-16T14:38:30"
+}

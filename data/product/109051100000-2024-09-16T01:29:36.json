@@ -1,0 +1,105 @@
+{
+    "uid": 100000683,
+    "migrosId": "109051100000",
+    "migrosOnlineId": "6298954",
+    "name": "pâté",
+    "brand": "Cesar",
+    "versioning": "2x beef and liver, 2x chicken and turkey, 2x veal and poultry, 2x chicken and beef",
+    "title": "Cesar · pâté · 2x beef and liver, 2x chicken and turkey, 2x veal and poultry, 2x chicken and beef",
+    "description": "Cesar pâté 2x beef and liver, 2x chicken and turkey, 2x veal and poultry, 2x chicken and beef",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Cesar",
+                "slug": "cesar",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1656506247/brands/Cesar_Mars_Schweiz_AG_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 20,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/109051100000"
+        },
+        "otherInformation": {
+            "articleNumber": "109051100000",
+            "legalDesignation": "Aliment humide complet pour chiens adultes.",
+            "distributorName": "Mars Schweiz AG",
+            "distributorStreetAndNumber": "Baarermattstrasse 6, CH-6340 Baar",
+            "remarks": [
+                {
+                    "code": "Aufbewahrungshinweise für den Konsumenten",
+                    "value": "Verbleibendes Futter kann im Kühlschrank bis zu 2 Tage aufbewahrt werden."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4008429085307"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/affa58ac55752a95e378afa41f23dceb1a9d334e/cesar-klassiker-terrine.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494739",
+            "name": "Pets",
+            "slugs": [
+                "pets"
+            ]
+        },
+        {
+            "id": "7494804",
+            "name": "Dogs",
+            "slugs": [
+                "pets",
+                "dogs"
+            ]
+        },
+        {
+            "id": "7495127",
+            "name": "Wet foods",
+            "slugs": [
+                "pets",
+                "dogs",
+                "wet-foods"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/109051100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "10.45",
+            "advertisedDisplayValue": "10.45",
+            "effectiveDisplayValue": "10.45",
+            "multiplier": 1,
+            "value": 10.45,
+            "effectiveValue": 10.45,
+            "advertisedValue": 10.45,
+            "unitPrice": {
+                "value": 0.87,
+                "unit": "100g"
+            }
+        },
+        "quantity": "8 x 150g",
+        "quantityPrice": "0.87/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T01:29:36"
+}

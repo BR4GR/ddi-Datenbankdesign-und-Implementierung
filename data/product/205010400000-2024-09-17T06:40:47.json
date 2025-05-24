@@ -1,0 +1,88 @@
+{
+    "uid": 100092208,
+    "migrosId": "205010400000",
+    "name": "Joghurt Gruyère Creme",
+    "title": "Joghurt Gruyère Creme",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/205010400000"
+        },
+        "otherInformation": {
+            "articleNumber": "205010400000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7610411007388"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/58dfae9c718ad21db9a55be46910619308850be4/joghurt-gruyere-creme.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/932e1eea664f5c4571d5a9a27591d99c12abeda8.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494753",
+            "name": "Yogurts & desserts",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "yogurts-desserts"
+            ]
+        },
+        {
+            "id": "7494879",
+            "name": "Yogurts",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "yogurts-desserts",
+                "yogurts"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/205010400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.45",
+            "advertisedDisplayValue": "4.45",
+            "effectiveDisplayValue": "4.45",
+            "multiplier": 1,
+            "value": 4.45,
+            "effectiveValue": 4.45,
+            "advertisedValue": 4.45,
+            "unitPrice": {
+                "value": 0.89,
+                "unit": "100g"
+            }
+        },
+        "quantity": "4 x 125g",
+        "quantityPrice": "0.89/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:40:47"
+}

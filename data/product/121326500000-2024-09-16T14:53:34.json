@@ -1,0 +1,198 @@
+{
+    "uid": 100051692,
+    "migrosId": "121326500000",
+    "name": "Schützengarten Ginger Beer",
+    "brand": "Schützengarten",
+    "title": "Schützengarten Ginger Beer",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Schützengarten",
+                "slug": "schutzengarten",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077144/brands/SchA%CC%8Atzengarten_Brauerei_Schu%CC%88tzengarten_AG_Logo"
+            },
+            "ingredients": "brewing water, BARLEY MALT, apple juice concentrate, ginger (from organic cultivation), hops, lemon juice, lemongrass extract, turmeric, chilli",
+            "allergens": "Barley and barley products",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 1,
+                    "productionRatio": 40,
+                    "transportRatio": 11,
+                    "packagingRatio": 49,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 29,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/121326500000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "128 kJ (30 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "< 0.5 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "< 0.1 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "6.3 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "5.3 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "< 0.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "< 0.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "< 0.01 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "121326500000",
+            "legalDesignation": "Non-alcoholic beer",
+            "distributorName": "Brauerei Schützengarten AG",
+            "distributorStreetAndNumber": "47 St. Jakob-Strasse, 9004 St. Gallen",
+            "remarks": [
+                {
+                    "code": "Consumer storage instructions",
+                    "value": "Store in a cool and dark place"
+                },
+                {
+                    "code": "Percentage of alcohol by volume [%]",
+                    "value": "0.5"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613700000602"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/81e510eecfa7569ec64fe43d6265c10b2130c4c0/schuetzengarten-ginger-beer.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494737",
+            "name": "Wine, beer & spirits",
+            "slugs": [
+                "wine-beer-spirits"
+            ]
+        },
+        {
+            "id": "10583761",
+            "name": "Alcohol free drinks",
+            "slugs": [
+                "wine-beer-spirits",
+                "alcohol-free-drinks"
+            ]
+        },
+        {
+            "id": "10614101",
+            "name": "Beers & ciders",
+            "slugs": [
+                "wine-beer-spirits",
+                "alcohol-free-drinks",
+                "beers-ciders"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/121326500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.50",
+            "advertisedDisplayValue": "2.50",
+            "effectiveDisplayValue": "2.50",
+            "multiplier": 1,
+            "value": 2.5,
+            "effectiveValue": 2.5,
+            "advertisedValue": 2.5,
+            "unitPrice": {
+                "value": 0.76,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "330ml",
+        "quantityPrice": "0.76/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:53:34"
+}

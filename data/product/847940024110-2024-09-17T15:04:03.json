@@ -1,0 +1,163 @@
+{
+    "uid": 100088165,
+    "migrosId": "847940024110",
+    "name": "Fersenhalter",
+    "brand": "Central Square",
+    "title": "Fersenhalter",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Central Square",
+                "slug": "central-square",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076642/brands/CentralSquare_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 4,
+                "nbStars": 3.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/847940024110"
+        },
+        "otherInformation": {
+            "articleNumber": "847940024110",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Gel- und Lederaccessoires"
+                },
+                {
+                    "code": "Category/theme",
+                    "value": "Zubehör"
+                },
+                {
+                    "code": "Main material",
+                    "value": "Leder"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "Extra Komfort, feuchtigkeitsabsorbierend"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613432487016"
+    ],
+    "variants": {
+        "baseProductMigrosId": "847940000000",
+        "mainVariantMigrosId": "847940023510",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "white",
+                    "size": "35/36"
+                },
+                "migrosId": "847940023510"
+            },
+            {
+                "declinationOptions": {
+                    "color": "white",
+                    "size": "37/38"
+                },
+                "migrosId": "847940023710"
+            },
+            {
+                "declinationOptions": {
+                    "color": "white",
+                    "size": "39/40"
+                },
+                "migrosId": "847940023910"
+            },
+            {
+                "declinationOptions": {
+                    "color": "white",
+                    "size": "41/42"
+                },
+                "migrosId": "847940024110"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "white",
+                "options": [
+                    "white"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "41/42",
+                "options": [
+                    "35/36",
+                    "37/38",
+                    "39/40",
+                    "41/42"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/b35afb7e15a77d61a8b8e90670e04c946610c0f4/fersenhalter.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10553494",
+            "name": "Shoes",
+            "slugs": [
+                "clothing-accessories",
+                "shoes"
+            ]
+        },
+        {
+            "id": "10553514",
+            "name": "Insoles",
+            "slugs": [
+                "clothing-accessories",
+                "shoes",
+                "insoles"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/847940024110",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "3.95",
+            "advertisedDisplayValue": "3.95",
+            "effectiveDisplayValue": "3.95",
+            "multiplier": 1,
+            "value": 3.95,
+            "effectiveValue": 3.95,
+            "advertisedValue": 3.95
+        },
+        "quantity": "1 Paar",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T15:04:03"
+}

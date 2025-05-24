@@ -1,0 +1,97 @@
+{
+    "uid": 100146419,
+    "migrosId": "114012520200",
+    "name": "Cremeberliner 2 Stück",
+    "brand": "In-store bakery",
+    "title": "Cremeberliner 2 Stück",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "In-store bakery",
+                "slug": "in-store-bakery"
+            },
+            "rating": {
+                "nbReviews": 16,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/114012520200"
+        },
+        "otherInformation": {
+            "articleNumber": "114012520200",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613269904670"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/2352cb50e56a9e20e446460b5965d78e66ed6bef/cremeberliner-2-stueck.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/251617b46b3964e1c24376f794259b86de835fb3.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494765",
+            "name": "Pastries",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "pastries"
+            ]
+        },
+        {
+            "id": "7494932",
+            "name": "Fresh pastries",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "pastries",
+                "fresh-pastries"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/114012520200",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.70",
+            "advertisedDisplayValue": "3.70",
+            "effectiveDisplayValue": "3.70",
+            "multiplier": 1,
+            "value": 3.7,
+            "effectiveValue": 3.7,
+            "advertisedValue": 3.7,
+            "unitPrice": {
+                "value": 2.06,
+                "unit": "100g"
+            }
+        },
+        "quantity": "180g",
+        "quantityPrice": "2.06/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T20:19:41"
+}

@@ -1,0 +1,181 @@
+{
+    "uid": 100144786,
+    "migrosId": "210199080700",
+    "name": "Meringues gross",
+    "title": "Meringues gross",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "ingredients": "Zucker, <strong>Hühnerei</strong>eiweiss (aus Eiern aus Freilandhaltung).",
+            "allergens": "Eggs and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/210199080700"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1700 kJ (400 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "92 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "92 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "7 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.25 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "210199080700",
+            "legalDesignation": "Meringues Schalen",
+            "distributorName": "Emmentaler Backwaren Feudiger AG",
+            "distributorStreetAndNumber": "CH-3507 Biglen",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store at room temperature."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613269642664",
+        "7611592009017"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ab5d47f398dfd2a2d9fb7e60416c908fc63c3413/meringues-gross.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494781",
+            "name": "Biscuits",
+            "slugs": [
+                "snacks-sweets",
+                "biscuits"
+            ]
+        },
+        {
+            "id": "7495017",
+            "name": "Meringues & bricelet wafers",
+            "slugs": [
+                "snacks-sweets",
+                "biscuits",
+                "meringues-bricelet-wafers"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/210199080700",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.30",
+            "advertisedDisplayValue": "7.30",
+            "effectiveDisplayValue": "7.30",
+            "multiplier": 1,
+            "value": 7.3,
+            "effectiveValue": 7.3,
+            "advertisedValue": 7.3,
+            "unitPrice": {
+                "value": 5.62,
+                "unit": "100g"
+            }
+        },
+        "quantity": "130g",
+        "quantityPrice": "5.62/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T15:53:15"
+}

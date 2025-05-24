@@ -1,0 +1,110 @@
+{
+    "uid": 100139529,
+    "migrosId": "513352500000",
+    "migrosOnlineId": "11775737",
+    "name": "Hand butter",
+    "brand": "I am",
+    "versioning": "Honey",
+    "title": "I am · Hand butter · Honey",
+    "description": "I am Hand butter Honey",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "I am",
+                "slug": "i-am",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076768/brands/Iam_Logo"
+            },
+            "rating": {
+                "nbReviews": 16,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/513352500000",
+            "cosmeticInformation": {
+                "ingredients": "Aqua, Butyrospermum Parkii Butter, Cetearyl Alcohol, Glycerin, Caprylic/Capric Triglyceride, Ethylhexyl Stearate, Glyceryl Stearate Citrate, Myristyl Myristate, C12-15 Alkyl Benzoate, Panthenol, Mel, Cera Alba, Tocopheryl Acetate, Xanthan Gum, Parfum, Sodium Cetearyl Sulfate, Sodium Benzoate, Citric Acid, CI 77492"
+            }
+        },
+        "otherInformation": {
+            "articleNumber": "513352500000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Handcreme"
+                },
+                {
+                    "code": "Requirements/uses",
+                    "value": "Pflege"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7630041426656"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/dc48f4b9356e2ff8a9bf2fbf230dd5b7fcd12651/i-am-handbutter-honey.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494827",
+            "name": "Hand & foot care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hand-foot-care"
+            ]
+        },
+        {
+            "id": "7495245",
+            "name": "Hand care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hand-foot-care",
+                "hand-care"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/513352500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.50",
+            "advertisedDisplayValue": "4.50",
+            "effectiveDisplayValue": "4.50",
+            "multiplier": 1,
+            "value": 4.5,
+            "effectiveValue": 4.5,
+            "advertisedValue": 4.5,
+            "unitPrice": {
+                "value": 3,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "150ml",
+        "quantityPrice": "3.–/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T22:14:01"
+}

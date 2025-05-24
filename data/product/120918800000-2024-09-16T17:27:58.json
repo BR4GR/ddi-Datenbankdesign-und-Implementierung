@@ -1,0 +1,90 @@
+{
+    "uid": 100144642,
+    "migrosId": "120918800000",
+    "name": "Pepita Grapefruit",
+    "brand": "Pepita",
+    "title": "Pepita Grapefruit",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Pepita",
+                "slug": "pepita",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077074/brands/Pepita_Mineralquelle_Eptingen_AG_Logo"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/120918800000"
+        },
+        "otherInformation": {
+            "articleNumber": "120918800000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7614400010847"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a834afc2a11adaffb871c6b231064de49b4143fe/pepita-grapefruit.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494769",
+            "name": "Soft drinks",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks"
+            ]
+        },
+        {
+            "id": "7494951",
+            "name": "Soft drinks",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks",
+                "soft-drinks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/120918800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.95",
+            "advertisedDisplayValue": "1.95",
+            "effectiveDisplayValue": "1.95",
+            "multiplier": 1,
+            "value": 1.95,
+            "effectiveValue": 1.95,
+            "advertisedValue": 1.95,
+            "unitPrice": {
+                "value": 0.13,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "1.5l",
+        "quantityPrice": "0.13/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:27:58"
+}

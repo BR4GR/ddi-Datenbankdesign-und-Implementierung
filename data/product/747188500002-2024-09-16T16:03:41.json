@@ -1,0 +1,134 @@
+{
+    "uid": 100122650,
+    "migrosId": "747188500002",
+    "name": "Milette silicone baby",
+    "brand": "Milette",
+    "title": "Milette silicone baby",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Milette",
+                "slug": "milette",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076999/brands/Milette_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 4,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/747188500002"
+        },
+        "otherInformation": {
+            "articleNumber": "747188500002",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613434933177"
+    ],
+    "variants": {
+        "baseProductMigrosId": "747188500000",
+        "mainVariantMigrosId": "747188500001",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "000",
+                    "color": "pastell"
+                },
+                "migrosId": "747188500001"
+            },
+            {
+                "declinationOptions": {
+                    "size": "000",
+                    "color": "tradition"
+                },
+                "migrosId": "747188500002"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "tradition",
+                "options": [
+                    "pastell",
+                    "tradition"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "000",
+                "options": [
+                    "000"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/cd601712122d812c9e4fde37305097ae4f3d55fd/milette-silicone-baby.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "7494823",
+            "name": "Baby equipment",
+            "slugs": [
+                "baby-kids",
+                "baby-equipment"
+            ]
+        },
+        {
+            "id": "7495222",
+            "name": "Table accessories",
+            "slugs": [
+                "baby-kids",
+                "baby-equipment",
+                "table-accessories"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/747188500002",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "10.95",
+            "advertisedDisplayValue": "10.95",
+            "effectiveDisplayValue": "10.95",
+            "multiplier": 1,
+            "value": 10.95,
+            "effectiveValue": 10.95,
+            "advertisedValue": 10.95,
+            "unitPrice": {
+                "value": 10.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "10.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T16:03:41"
+}

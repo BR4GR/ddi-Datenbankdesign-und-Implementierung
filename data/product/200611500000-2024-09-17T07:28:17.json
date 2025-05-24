@@ -1,0 +1,97 @@
+{
+    "uid": 100145547,
+    "migrosId": "200611500000",
+    "name": "Petit Chevrier Trio",
+    "brand": "Petit Chevrier",
+    "title": "Petit Chevrier Trio",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "Petit Chevrier",
+                "slug": "petit-chevrier"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/200611500000"
+        },
+        "otherInformation": {
+            "articleNumber": "200611500000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7610900094769"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/186ba83cc29aec9152f2154974d92644a8dad3d2/petit-chevrier-trio.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494752",
+            "name": "Cheese",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese"
+            ]
+        },
+        {
+            "id": "7494873",
+            "name": "Goat & sheep cheese",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese",
+                "goat-sheep-cheese"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/200611500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.–",
+            "advertisedDisplayValue": "6.–",
+            "effectiveDisplayValue": "6.–",
+            "multiplier": 1,
+            "value": 6,
+            "effectiveValue": 6,
+            "advertisedValue": 6,
+            "unitPrice": {
+                "value": 2.5,
+                "unit": "100g"
+            }
+        },
+        "quantity": "240g",
+        "quantityPrice": "2.50/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:28:17"
+}

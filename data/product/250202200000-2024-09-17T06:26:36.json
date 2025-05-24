@@ -1,0 +1,94 @@
+{
+    "uid": 100064911,
+    "migrosId": "250202200000",
+    "name": "Lachsforellenfilet mariniert",
+    "title": "Lachsforellenfilet mariniert",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/250202200000"
+        },
+        "otherInformation": {
+            "articleNumber": "250202200000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "2161834000005",
+        "254168",
+        "7613269893974"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3b0edfaccbfa064778f65db23b012b04b2b4123a/lachsforellenfilet-mariniert.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494749",
+            "name": "Fish",
+            "slugs": [
+                "meat-fish",
+                "fish"
+            ]
+        },
+        {
+            "id": "7494858",
+            "name": "Fresh fish & shellfish",
+            "slugs": [
+                "meat-fish",
+                "fish",
+                "fresh-fish-shellfish"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/250202200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.50",
+            "advertisedDisplayValue": "4.50",
+            "effectiveDisplayValue": "4.50",
+            "multiplier": 1,
+            "value": 4.5,
+            "effectiveValue": 4.5,
+            "advertisedValue": 4.5,
+            "unitPrice": {
+                "value": 4.5,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "4.50/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:26:36"
+}

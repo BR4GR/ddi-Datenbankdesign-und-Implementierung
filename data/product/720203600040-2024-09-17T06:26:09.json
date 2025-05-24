@@ -1,0 +1,133 @@
+{
+    "uid": 100079922,
+    "migrosId": "720203600040",
+    "name": "CdA Kugelschreiber",
+    "brand": "Caran d' Ache",
+    "title": "CdA Kugelschreiber",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Caran d' Ache",
+                "slug": "caran-d-ache",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252404/brands/caran-d-ache"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 11,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/720203600040"
+        },
+        "otherInformation": {
+            "articleNumber": "720203600040",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Number",
+                    "value": "10 Pcs."
+                },
+                {
+                    "code": "Color",
+                    "value": "grau"
+                },
+                {
+                    "code": "Font color",
+                    "value": "blau"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610186001673",
+        "7610186006593",
+        "7610186621604"
+    ],
+    "variants": {
+        "baseProductMigrosId": "720203600000",
+        "mainVariantMigrosId": "720203600040",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "BLAU"
+                },
+                "migrosId": "720203600040"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "BLAU",
+                "options": [
+                    "BLAU"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/5ee92c543e923bc2155eb84e1781591c22a69af2/cda-kugelschreiber.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494813",
+            "name": "Office & stationery",
+            "slugs": [
+                "household-and-living",
+                "office-stationery"
+            ]
+        },
+        {
+            "id": "7495170",
+            "name": "Writing & taking notes",
+            "slugs": [
+                "household-and-living",
+                "office-stationery",
+                "writing-taking-notes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/720203600040",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "19.95",
+            "advertisedDisplayValue": "19.95",
+            "effectiveDisplayValue": "19.95",
+            "multiplier": 1,
+            "value": 19.95,
+            "effectiveValue": 19.95,
+            "advertisedValue": 19.95,
+            "unitPrice": {
+                "value": 2,
+                "unit": "piece"
+            }
+        },
+        "quantity": "10 Stk.",
+        "quantityPrice": "2.–/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:26:09"
+}

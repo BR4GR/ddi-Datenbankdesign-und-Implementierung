@@ -1,0 +1,203 @@
+{
+    "uid": 100005937,
+    "migrosId": "204080100000",
+    "migrosOnlineId": "3463623",
+    "name": "Goat's milk",
+    "brand": "Le Petit Chevrier",
+    "title": "Le Petit Chevrier · Goat's milk",
+    "description": "Le Petit Chevrier Goat's milk  Highly pasteurized, homogenized",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "Le Petit Chevrier",
+                "slug": "le-petit-chevrier"
+            },
+            "nutritionalCharacteristics": [
+                "Vegetarian"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegetarian"
+                }
+            ],
+            "ingredients": "Schweizer ZIEGENMILCH.",
+            "allergens": "lactose, Milk and its derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 14,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/204080100000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "~ 256 kJ (~ 61 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "~ 3.5 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "~ 2.3 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "~ 4.2 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "~ 4.2 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "~ 3.3 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "~ 0.13 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "204080100000",
+            "legalDesignation": "Schweizer Ziegenmilch mit natürlichem Fettgehalt von mindestens 3% Fett.",
+            "distributorName": "Emmi Schweiz AG",
+            "distributorStreetAndNumber": "Landenbergstrasse 1, CH-6002 Luzern",
+            "remarks": [
+                {
+                    "code": "Preservation technique code",
+                    "value": "High temperature treated milk - Legally also pasteurisation, MHD for longer (2 to 3 weeks), ESL-milk (Extended Shelf Life)"
+                },
+                {
+                    "code": "Is homogenised",
+                    "value": "yes"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegetarian"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7611613002409",
+        "7617027576932"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f57b4480c431f69fe226888e7b14fa61ebe6cd3c/ziegenmilch-past.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494751",
+            "name": "Milk, butter & eggs",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "milk-butter-eggs"
+            ]
+        },
+        {
+            "id": "7494867",
+            "name": "Milk & dairy drinks",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "milk-butter-eggs",
+                "milk-dairy-drinks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/204080100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "pictos": [
+            {
+                "type": "REGION",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679482984/labels/suisse",
+                "description": "Switzerland"
+            },
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483166/labels/fresh",
+                "description": "fresh"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-16T17:32:58"
+}

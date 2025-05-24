@@ -1,0 +1,93 @@
+{
+    "uid": 100175994,
+    "migrosId": "105351400000",
+    "migrosOnlineId": "12946733",
+    "name": "Nut mixture",
+    "brand": "Sun Snack",
+    "versioning": "Salted",
+    "title": "Sun Snack · Nut mixture · Salted",
+    "description": "Sun Snack Nut mixture Salted",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Sun Snack",
+                "slug": "sun-snack"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/105351400000"
+        },
+        "otherInformation": {
+            "articleNumber": "105351400000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613269001317",
+        "7610442293804"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/2bcf6a06e31811fe1c47a1df88800c1f04989fdc/sun-snack-apero-mix.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494780",
+            "name": "Snacks & crisps",
+            "slugs": [
+                "snacks-sweets",
+                "snacks-crisps"
+            ]
+        },
+        {
+            "id": "7495007",
+            "name": "Peanuts & salted nuts",
+            "slugs": [
+                "snacks-sweets",
+                "snacks-crisps",
+                "peanuts-salted-nuts"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/105351400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.90",
+            "advertisedDisplayValue": "5.90",
+            "effectiveDisplayValue": "5.90",
+            "multiplier": 1,
+            "value": 5.9,
+            "effectiveValue": 5.9,
+            "advertisedValue": 5.9,
+            "unitPrice": {
+                "value": 4.72,
+                "unit": "100g"
+            }
+        },
+        "quantity": "125g",
+        "quantityPrice": "4.72/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-10-05T18:21:11"
+}

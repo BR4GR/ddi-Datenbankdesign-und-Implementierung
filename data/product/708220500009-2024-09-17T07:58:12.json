@@ -1,0 +1,142 @@
+{
+    "uid": 100079839,
+    "migrosId": "708220500009",
+    "name": "Maschinennadeln",
+    "title": "Maschinennadeln",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/708220500009"
+        },
+        "otherInformation": {
+            "articleNumber": "708220500009",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Area of application",
+                    "value": "nähen"
+                },
+                {
+                    "code": "Number",
+                    "value": "5 Pcs."
+                },
+                {
+                    "code": "Dimensions/size",
+                    "value": "N°70,  N°80,  N°90"
+                },
+                {
+                    "code": "Material",
+                    "value": "Stahl vernickelt"
+                },
+                {
+                    "code": "Color",
+                    "value": "grau"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610002066947"
+    ],
+    "variants": {
+        "baseProductMigrosId": "708220500000",
+        "mainVariantMigrosId": "708220500009",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "ohne",
+                    "color": "chrom"
+                },
+                "migrosId": "708220500009"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "chrom",
+                "options": [
+                    "chrom"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "ohne",
+                "options": [
+                    "ohne"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/e71ba19fb1ac532f748fb12ba75333313d72460a/maschinennadeln.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494812",
+            "name": "DIY, home decoration and haberdashery",
+            "slugs": [
+                "household-and-living",
+                "diy-home-decoration-and-haberdas"
+            ]
+        },
+        {
+            "id": "7495164",
+            "name": "Haberdashery",
+            "slugs": [
+                "household-and-living",
+                "diy-home-decoration-and-haberdas",
+                "haberdashery"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/708220500009",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.95",
+            "advertisedDisplayValue": "2.95",
+            "effectiveDisplayValue": "2.95",
+            "multiplier": 1,
+            "value": 2.95,
+            "effectiveValue": 2.95,
+            "advertisedValue": 2.95,
+            "unitPrice": {
+                "value": 0.59,
+                "unit": "piece"
+            }
+        },
+        "quantity": "5 Stk.",
+        "quantityPrice": "0.59/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:58:12"
+}

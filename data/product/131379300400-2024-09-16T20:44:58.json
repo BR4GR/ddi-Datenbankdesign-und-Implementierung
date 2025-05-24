@@ -1,0 +1,106 @@
+{
+    "uid": 100165053,
+    "migrosId": "131379300400",
+    "name": "Migros Daily Cheesecake",
+    "brand": "Migros Daily",
+    "title": "Migros Daily Cheesecake",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Daily",
+                "slug": "migros-daily",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076969/brands/Migros_Daily_Logo"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 10,
+                    "productionRatio": 87,
+                    "transportRatio": 3,
+                    "packagingRatio": 10,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 2.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/131379300400"
+        },
+        "otherInformation": {
+            "articleNumber": "131379300400",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7623186209949"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/874689455bfd09e33b9e6c932d4465f0f6cc2f39/migros-daily-cheesecake.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494765",
+            "name": "Pastries",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "pastries"
+            ]
+        },
+        {
+            "id": "7494932",
+            "name": "Fresh pastries",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "pastries",
+                "fresh-pastries"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/131379300400",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.–",
+            "advertisedDisplayValue": "4.–",
+            "effectiveDisplayValue": "4.–",
+            "multiplier": 1,
+            "value": 4,
+            "effectiveValue": 4,
+            "advertisedValue": 4,
+            "unitPrice": {
+                "value": 2.5,
+                "unit": "100g"
+            }
+        },
+        "quantity": "160g",
+        "quantityPrice": "2.50/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T20:44:58"
+}

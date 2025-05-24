@@ -1,0 +1,124 @@
+{
+    "uid": 100121599,
+    "migrosId": "204208600100",
+    "name": "Vorzugsbutter",
+    "title": "Vorzugsbutter",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                },
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 1,
+                    "co2CarKmEquivalent": 60,
+                    "productionRatio": 98,
+                    "transportRatio": 0,
+                    "packagingRatio": 2,
+                    "image": "https://image.migros.ch/original/3e5cee492451bdf61aaed46537f4e5c8eb9a9b98.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3e5cee492451bdf61aaed46537f4e5c8eb9a9b98.svg",
+                    "co2KgRange": "≥10 kg CO₂eq / kg"
+                }
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/204208600100"
+        },
+        "otherInformation": {
+            "articleNumber": "204208600100",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Production process",
+                    "value": "Aus der Region"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Folienverpackung"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7617027736527"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/8b0276cb3ee55773f3d06e13652097e803d2c152/vorzugsbutter.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494751",
+            "name": "Milk, butter & eggs",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "milk-butter-eggs"
+            ]
+        },
+        {
+            "id": "7494869",
+            "name": "Butter & margarine",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "milk-butter-eggs",
+                "butter-margarine"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/204208600100",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.75",
+            "advertisedDisplayValue": "2.75",
+            "effectiveDisplayValue": "2.75",
+            "multiplier": 1,
+            "value": 2.75,
+            "effectiveValue": 2.75,
+            "advertisedValue": 2.75,
+            "unitPrice": {
+                "value": 1.83,
+                "unit": "100g"
+            }
+        },
+        "quantity": "150g",
+        "quantityPrice": "1.83/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:34:50"
+}

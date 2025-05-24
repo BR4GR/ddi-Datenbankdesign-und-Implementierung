@@ -1,0 +1,202 @@
+{
+    "uid": 100003574,
+    "migrosId": "212305742000",
+    "migrosOnlineId": "4487383",
+    "name": "Comté",
+    "brand": "Fresh Pack",
+    "title": "Fresh Pack · Comté",
+    "description": "Fresh Pack Comté ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Fresh Pack",
+                "slug": "fresh-pack"
+            },
+            "ingredients": "Französischer Hartkäse, vollfett, mit Roh<strong>milch</strong> hergestellt",
+            "allergens": "Milk and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 10,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/212305742000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "1 Portion (40 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1754 kJ (423 kcal)",
+                            "705 kJ (170 kcal)",
+                            "9 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "35 g",
+                            "14 g",
+                            "20 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "23 g",
+                            "9.2 g",
+                            "46 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            "0 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            "0 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "27 g",
+                            "11 g",
+                            "22 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.9 g",
+                            "0.36 g",
+                            "6 %"
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    }
+                ]
+            },
+            "portionSentence": "1 package = 5 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "212305742000",
+            "legalDesignation": "Französischer Hartkäse, vollfett, mit Rohmilch hergestellt",
+            "identificationMark": "FR 39 434 001 CE",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Warning and other mandatory information",
+                    "value": "Naturally lactose-free."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613404105849"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/29820a60979a9139b34045fcbc36ed920134cfdc/comte-10-monate.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/6570f7c22f92b1266f561ef69c5b56520c80c794.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494752",
+            "name": "Cheese",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese"
+            ]
+        },
+        {
+            "id": "7494871",
+            "name": "Hard & semi-hard cheeses",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese",
+                "hard-semi-hard-cheeses"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/212305742000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.15",
+            "advertisedDisplayValue": "3.15",
+            "effectiveDisplayValue": "3.15",
+            "multiplier": 1,
+            "value": 3.15,
+            "effectiveValue": 3.15,
+            "advertisedValue": 3.15,
+            "unitPrice": {
+                "value": 3.15,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "3.15/100g",
+        "isVariableWeight": true,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483166/labels/fresh",
+                "description": "fresh"
+            },
+            {
+                "type": "VARIABLE_WEIGHT",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483133/labels/poids-variable",
+                "description": "Variable Weight"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T13:23:06"
+}

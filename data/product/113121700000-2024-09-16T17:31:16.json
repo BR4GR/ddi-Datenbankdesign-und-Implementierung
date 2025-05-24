@@ -1,0 +1,84 @@
+{
+    "uid": 100145727,
+    "migrosId": "113121700000",
+    "name": "Konfekt-Nüssli",
+    "title": "Konfekt-Nüssli",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/113121700000"
+        },
+        "otherInformation": {
+            "articleNumber": "113121700000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7616700092752"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1ddc18463a324055dd1d8b66134d3abbf0b81c37/konfekt-nuessli.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494781",
+            "name": "Biscuits",
+            "slugs": [
+                "snacks-sweets",
+                "biscuits"
+            ]
+        },
+        {
+            "id": "7495014",
+            "name": "Filled cookies",
+            "slugs": [
+                "snacks-sweets",
+                "biscuits",
+                "filled-cookies"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/113121700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "8.15",
+            "advertisedDisplayValue": "8.15",
+            "effectiveDisplayValue": "8.15",
+            "multiplier": 1,
+            "value": 8.15,
+            "effectiveValue": 8.15,
+            "advertisedValue": 8.15,
+            "unitPrice": {
+                "value": 1.13,
+                "unit": "100g"
+            }
+        },
+        "quantity": "720g",
+        "quantityPrice": "1.13/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:31:16"
+}

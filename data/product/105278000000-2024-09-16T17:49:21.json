@@ -1,0 +1,130 @@
+{
+    "uid": 100049819,
+    "migrosId": "105278000000",
+    "name": "Aus der Region Apfelringe",
+    "title": "Aus der Region Apfelringe",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 1,
+                    "productionRatio": 43,
+                    "transportRatio": 6,
+                    "packagingRatio": 51,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 18,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/105278000000"
+        },
+        "otherInformation": {
+            "articleNumber": "105278000000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Production process",
+                    "value": "Aus der Region"
+                },
+                {
+                    "code": "Storage at home",
+                    "value": "store in a dry place"
+                },
+                {
+                    "code": "Availability",
+                    "value": "available all year round"
+                },
+                {
+                    "code": "Pitted",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Sweetened",
+                    "value": "No"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7640106091576"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/6259b0f8ab9def8d0157c134889a5bc4044bb9a0/aus-der-region-apfelringe.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494785",
+            "name": "Dried fruit",
+            "slugs": [
+                "snacks-sweets",
+                "dried-fruit"
+            ]
+        },
+        {
+            "id": "7495031",
+            "name": "Dried fruit",
+            "slugs": [
+                "snacks-sweets",
+                "dried-fruit",
+                "dried-fruit"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/105278000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.60",
+            "advertisedDisplayValue": "4.60",
+            "effectiveDisplayValue": "4.60",
+            "multiplier": 1,
+            "value": 4.6,
+            "effectiveValue": 4.6,
+            "advertisedValue": 4.6,
+            "unitPrice": {
+                "value": 4.6,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100g",
+        "quantityPrice": "4.60/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:49:21"
+}

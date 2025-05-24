@@ -1,0 +1,154 @@
+{
+    "uid": 100172613,
+    "migrosId": "896800351480",
+    "name": "Baby gloves",
+    "brand": "Smile",
+    "title": "Baby gloves",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Smile",
+                "slug": "smile",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252488/brands/smile"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/896800351480"
+        },
+        "otherInformation": {
+            "articleNumber": "896800351480",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7628871720617"
+    ],
+    "variants": {
+        "baseProductMigrosId": "896800300000",
+        "mainVariantMigrosId": "896800351338",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "6-12",
+                    "color": "rose"
+                },
+                "migrosId": "896800351338"
+            },
+            {
+                "declinationOptions": {
+                    "size": "6-12",
+                    "color": "navy"
+                },
+                "migrosId": "896800351343"
+            },
+            {
+                "declinationOptions": {
+                    "size": "6-12",
+                    "color": "grey"
+                },
+                "migrosId": "896800351380"
+            },
+            {
+                "declinationOptions": {
+                    "size": "12-24",
+                    "color": "rose"
+                },
+                "migrosId": "896800351438"
+            },
+            {
+                "declinationOptions": {
+                    "size": "12-24",
+                    "color": "navy"
+                },
+                "migrosId": "896800351443"
+            },
+            {
+                "declinationOptions": {
+                    "size": "12-24",
+                    "color": "grey"
+                },
+                "migrosId": "896800351480"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "grey",
+                "options": [
+                    "rose",
+                    "navy",
+                    "grey"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "12-24",
+                "options": [
+                    "6-12",
+                    "12-24"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/11bbdc9b5531e1608ba37b8d7e59f4c75388de1b/baby-gloves.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "11117240",
+            "name": "Baby clothes",
+            "slugs": [
+                "baby-kids",
+                "baby-clothes"
+            ]
+        },
+        {
+            "id": "11117266",
+            "name": "Baby accessories",
+            "slugs": [
+                "baby-kids",
+                "baby-clothes",
+                "baby-accessories"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/896800351480",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "12.95",
+            "advertisedDisplayValue": "12.95",
+            "effectiveDisplayValue": "12.95",
+            "multiplier": 1,
+            "value": 12.95,
+            "effectiveValue": 12.95,
+            "advertisedValue": 12.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T10:32:05"
+}

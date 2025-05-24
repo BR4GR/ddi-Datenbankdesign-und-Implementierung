@@ -1,0 +1,116 @@
+{
+    "uid": 100132473,
+    "migrosId": "709014000001",
+    "name": "KAMBUKKA Bora",
+    "brand": "KAMBUKKA",
+    "title": "KAMBUKKA Bora",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "KAMBUKKA",
+                "slug": "kambukka"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 3.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/709014000001"
+        },
+        "otherInformation": {
+            "articleNumber": "709014000001",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "5407005142233"
+    ],
+    "variants": {
+        "baseProductMigrosId": "709014000000",
+        "mainVariantMigrosId": "709014000001",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "NEON MINT"
+                },
+                "migrosId": "709014000001"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "NEON MINT",
+                "options": [
+                    "NEON MINT"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ab4363f7b6aea3aebdc0ab318515a1fac2f947e5/kambukka-bora.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494814",
+            "name": "Kitchen & dining",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining"
+            ]
+        },
+        {
+            "id": "7495178",
+            "name": "Table",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining",
+                "table"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/709014000001",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "29.95",
+            "advertisedDisplayValue": "29.95",
+            "effectiveDisplayValue": "29.95",
+            "multiplier": 1,
+            "value": 29.95,
+            "effectiveValue": 29.95,
+            "advertisedValue": 29.95,
+            "unitPrice": {
+                "value": 29.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "29.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-18T09:13:37"
+}

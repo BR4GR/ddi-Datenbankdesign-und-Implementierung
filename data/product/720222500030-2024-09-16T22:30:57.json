@@ -1,0 +1,135 @@
+{
+    "uid": 100079929,
+    "migrosId": "720222500030",
+    "name": "Kugelschreiber rot",
+    "brand": "Caran d' Ache",
+    "title": "Kugelschreiber rot",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Caran d' Ache",
+                "slug": "caran-d-ache",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252404/brands/caran-d-ache"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 28,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/720222500030"
+        },
+        "otherInformation": {
+            "articleNumber": "720222500030",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Number",
+                    "value": "2 Pcs."
+                },
+                {
+                    "code": "Font color",
+                    "value": "rot"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610186032912",
+        "7613194086656"
+    ],
+    "variants": {
+        "baseProductMigrosId": "720222500000",
+        "mainVariantMigrosId": "720222500020",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "SCHWARZ"
+                },
+                "migrosId": "720222500020"
+            },
+            {
+                "declinationOptions": {
+                    "color": "ROT"
+                },
+                "migrosId": "720222500030"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "ROT",
+                "options": [
+                    "SCHWARZ",
+                    "ROT"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/625f903bb8326cca4a6ab300f024323e07072841/kugelschreiber-rot.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494813",
+            "name": "Office & stationery",
+            "slugs": [
+                "household-and-living",
+                "office-stationery"
+            ]
+        },
+        {
+            "id": "7495170",
+            "name": "Writing & taking notes",
+            "slugs": [
+                "household-and-living",
+                "office-stationery",
+                "writing-taking-notes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/720222500030",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.95",
+            "advertisedDisplayValue": "3.95",
+            "effectiveDisplayValue": "3.95",
+            "multiplier": 1,
+            "value": 3.95,
+            "effectiveValue": 3.95,
+            "advertisedValue": 3.95,
+            "unitPrice": {
+                "value": 1.98,
+                "unit": "piece"
+            }
+        },
+        "quantity": "2 Stk.",
+        "quantityPrice": "1.98/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T22:30:57"
+}

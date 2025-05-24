@@ -1,0 +1,199 @@
+{
+    "uid": 100049468,
+    "migrosId": "101091800000",
+    "name": "Trolli Dinorex",
+    "brand": "Trolli",
+    "title": "Trolli Dinorex",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L57",
+                    "name": "V-Label vegan",
+                    "slug": "v-label-vegan",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483003/labels/V-Label_Vegan_Color"
+                }
+            ],
+            "brand": {
+                "name": "Trolli",
+                "slug": "trolli"
+            },
+            "nutritionalCharacteristics": [
+                "Vegan"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegan"
+                }
+            ],
+            "ingredients": "Zucker; Invertzuckersirup; Glukosesirup; Maisstärke; Säuerungsmittel: Äpfelsäure, Citronensäure, Milchsäure; Säureregulatoren: Calciumcitrate, Natriummalat; Aromen; färbende Lebensmittel (Schwarze Johannisbeere, schwarze Karotte, roter Rettich, rote Traube, Kirsche, Saflor, Curcuma); Farbstoff: Kurkumin, Brillantblau FCF.",
+            "allergens": "Does not contain any allergenic ingredients that require labelling",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 74,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/101091800000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "~ 1472 kJ (~ 346 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "~ 0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "~ 0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "~ 84 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "~ 69 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "~ 0.2 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "~ 0.2 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "101091800000",
+            "legalDesignation": "Gummibonbon",
+            "distributorName": "Trolli GmbH",
+            "distributorStreetAndNumber": "Oststr. 94, 90763 Fürth",
+            "remarks": [
+                {
+                    "code": "Aufbewahrungshinweise für den Konsumenten",
+                    "value": "Vor Wärme und Feuchtigkeit schützen"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegan"
+                },
+                {
+                    "code": "CO2 Compensated",
+                    "value": "No"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4000512364764"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/db398aecafa870572665c4729500dc803222856b/trolli-dinorex.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494782",
+            "name": "Chocolate & sweets",
+            "slugs": [
+                "snacks-sweets",
+                "chocolate-sweets"
+            ]
+        },
+        {
+            "id": "7495023",
+            "name": "Bonbons",
+            "slugs": [
+                "snacks-sweets",
+                "chocolate-sweets",
+                "bonbons"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/101091800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.30",
+            "advertisedDisplayValue": "2.30",
+            "effectiveDisplayValue": "2.30",
+            "multiplier": 1,
+            "value": 2.3,
+            "effectiveValue": 2.3,
+            "advertisedValue": 2.3,
+            "unitPrice": {
+                "value": 1.15,
+                "unit": "100g"
+            }
+        },
+        "quantity": "200g",
+        "quantityPrice": "1.15/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T15:41:22"
+}

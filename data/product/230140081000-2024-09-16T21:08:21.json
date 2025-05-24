@@ -1,0 +1,138 @@
+{
+    "uid": 100008017,
+    "migrosId": "230140081000",
+    "migrosOnlineId": "62238",
+    "name": "Luganighe",
+    "brand": "Rapelli",
+    "versioning": "Ticino specialities",
+    "title": "Rapelli · Luganighe · Ticino specialities",
+    "description": "Rapelli Luganighe Ticino specialities",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "Rapelli",
+                "slug": "rapelli",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1642402946/brands/Rapelli_Rapelli_SA_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 44,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/230140081000"
+        },
+        "usageInformation": {
+            "usage": "Cured meat preparation, ideal for grilling"
+        },
+        "otherInformation": {
+            "articleNumber": "230140081000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Additional characteristics",
+                    "value": "raw"
+                },
+                {
+                    "code": "Production process",
+                    "value": "Gekocht, IP-SUISSE-Qualität, Schweizer Fleisch"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Kunststoff-Verpackung"
+                },
+                {
+                    "code": "Form",
+                    "value": "Portion"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610352050658",
+        "7617027145589"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/344de65b62ee42de0861d3d1506c831e9385fc6c/rapelli-tessiner-luganighe.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/938edf394fcf637b95ca7c42219ce7df8bc7a939.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494748",
+            "name": "Cold cuts",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts"
+            ]
+        },
+        {
+            "id": "7494855",
+            "name": "Sausages & cervelats",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts",
+                "sausages-cervelats"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/230140081000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": true,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "pictos": [
+            {
+                "type": "REGION",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679482984/labels/suisse",
+                "description": "Switzerland"
+            },
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483166/labels/fresh",
+                "description": "fresh"
+            },
+            {
+                "type": "VARIABLE_WEIGHT",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483133/labels/poids-variable",
+                "description": "Variable Weight"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-16T21:08:21"
+}

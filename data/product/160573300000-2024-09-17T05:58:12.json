@@ -1,0 +1,121 @@
+{
+    "uid": 100005237,
+    "migrosId": "160573300000",
+    "migrosOnlineId": "6343648",
+    "name": "Iced bars",
+    "brand": "Mars",
+    "title": "Mars · Iced bars",
+    "description": "Mars Iced bars ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Mars",
+                "slug": "mars",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076963/brands/Mars_Mars_Schweiz_AG_Logo"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/160573300000"
+        },
+        "otherInformation": {
+            "articleNumber": "160573300000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "5000159541473",
+        "7610005026566"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/bbd669f7e4ec56a00d21fff053fbaf795a0ac473/mars-ice-cream.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494738",
+            "name": "Frozen food",
+            "slugs": [
+                "frozen-food"
+            ]
+        },
+        {
+            "id": "7494801",
+            "name": "Ice cream & desserts",
+            "slugs": [
+                "frozen-food",
+                "ice-cream-desserts"
+            ]
+        },
+        {
+            "id": "7495114",
+            "name": "Other ice creams",
+            "slugs": [
+                "frozen-food",
+                "ice-cream-desserts",
+                "other-ice-creams"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/160573300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "11.90",
+            "advertisedDisplayValue": "11.90",
+            "effectiveDisplayValue": "11.90",
+            "multiplier": 1,
+            "value": 11.9,
+            "effectiveValue": 11.9,
+            "advertisedValue": 11.9
+        },
+        "promotionPrice": {
+            "displayUnitPrice": true,
+            "formattedPrice": "8.55",
+            "advertisedDisplayValue": "8.55",
+            "effectiveDisplayValue": "8.55",
+            "multiplier": 1,
+            "value": 8.55,
+            "effectiveValue": 8.55,
+            "advertisedValue": 8.55,
+            "unitPrice": {
+                "value": 2.88,
+                "unit": "100ml"
+            }
+        },
+        "priceInsteadOfLabel": "was",
+        "quantity": "12 x 49.5ml",
+        "quantityPrice": "2.88/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483530/labels/frozen",
+                "description": "frozen"
+            }
+        ],
+        "badges": [
+            {
+                "type": "PERCENTAGE_PROMOTION",
+                "description": "28%"
+            }
+        ],
+        "promotionDateRange": {
+            "startDate": "2024-09-17",
+            "endDate": "2024-09-23"
+        },
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:58:12"
+}

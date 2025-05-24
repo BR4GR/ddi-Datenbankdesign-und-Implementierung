@@ -1,0 +1,110 @@
+{
+    "uid": 100062955,
+    "migrosId": "130761200000",
+    "name": "Bio Mono Raw Coconut Water",
+    "brand": "Mono",
+    "title": "Bio Mono Raw Coconut Water",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Mono",
+                "slug": "mono"
+            },
+            "nutritionalCharacteristics": [
+                "Organic"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                }
+            ],
+            "ingredients": "Organic coconut water",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 17,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/130761200000"
+        },
+        "otherInformation": {
+            "articleNumber": "130761200000",
+            "legalDesignation": "Coconut water",
+            "distributorName": "Manufaktur Gassmann GmbH",
+            "distributorStreetAndNumber": "Grubenstrasse 19 8045 Zürich",
+            "remarks": [
+                {
+                    "code": "Aufbewahrungshinweise für den Konsumenten",
+                    "value": "Bei max. 5 °C lagern"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7629999052697"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/aeddb1e4613c18625e4c838031205a5b855b81d4/bio-mono-raw-coconut-water.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/e70228d917970bbecd8c086ad928e1715376812e.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494770",
+            "name": "Water",
+            "slugs": [
+                "drinks-coffee-tea",
+                "water"
+            ]
+        },
+        {
+            "id": "7494957",
+            "name": "Flavoured water",
+            "slugs": [
+                "drinks-coffee-tea",
+                "water",
+                "flavoured-water"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/130761200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-16T17:33:59"
+}

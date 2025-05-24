@@ -1,0 +1,213 @@
+{
+    "uid": 100086052,
+    "migrosId": "830425100470",
+    "name": "Dim Lady's tights",
+    "brand": "Dim",
+    "title": "Dim Lady's tights",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Dim",
+                "slug": "dim"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 9,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/830425100470"
+        },
+        "otherInformation": {
+            "articleNumber": "830425100470",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Article type",
+                    "value": "Strumpfhose"
+                },
+                {
+                    "code": "Look",
+                    "value": "glänzend"
+                },
+                {
+                    "code": "Material",
+                    "value": "Polyamid"
+                },
+                {
+                    "code": "Denier",
+                    "value": "15 DEN"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "80 %"
+                },
+                {
+                    "code": "Material 2",
+                    "value": "Elasthan"
+                },
+                {
+                    "code": "Proportion of material 2",
+                    "value": "20 %"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "3040529163142",
+        "7613247680961"
+    ],
+    "variants": {
+        "baseProductMigrosId": "830425100000",
+        "mainVariantMigrosId": "830425100120",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "Gr. 1",
+                    "color": "black"
+                },
+                "migrosId": "830425100120"
+            },
+            {
+                "declinationOptions": {
+                    "size": "Gr. 1",
+                    "color": "brown"
+                },
+                "migrosId": "830425100170"
+            },
+            {
+                "declinationOptions": {
+                    "size": "Gr. 2",
+                    "color": "black"
+                },
+                "migrosId": "830425100220"
+            },
+            {
+                "declinationOptions": {
+                    "size": "Gr. 2",
+                    "color": "brown"
+                },
+                "migrosId": "830425100270"
+            },
+            {
+                "declinationOptions": {
+                    "size": "Gr. 3",
+                    "color": "black"
+                },
+                "migrosId": "830425100320"
+            },
+            {
+                "declinationOptions": {
+                    "size": "Gr. 3",
+                    "color": "brown"
+                },
+                "migrosId": "830425100370"
+            },
+            {
+                "declinationOptions": {
+                    "size": "Gr. 4",
+                    "color": "black"
+                },
+                "migrosId": "830425100420"
+            },
+            {
+                "declinationOptions": {
+                    "size": "Gr. 4",
+                    "color": "brown"
+                },
+                "migrosId": "830425100470"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "brown",
+                "options": [
+                    "black",
+                    "brown"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "Gr. 4",
+                "options": [
+                    "Gr. 1",
+                    "Gr. 2",
+                    "Gr. 3",
+                    "Gr. 4"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d2eec5d87dd19ecd7a85c994f181b0d453b3b04a/dim-ladys-tights.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/9e863a01f84325a583e5e70b175e64788dca469e.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10553347",
+            "name": "Women",
+            "slugs": [
+                "clothing-accessories",
+                "women"
+            ]
+        },
+        {
+            "id": "10553383",
+            "name": "Socks & tights",
+            "slugs": [
+                "clothing-accessories",
+                "women",
+                "socks-tights"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/830425100470",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "15.90",
+            "advertisedDisplayValue": "15.90",
+            "effectiveDisplayValue": "15.90",
+            "multiplier": 1,
+            "value": 15.9,
+            "effectiveValue": 15.9,
+            "advertisedValue": 15.9,
+            "unitPrice": {
+                "value": 15.9,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Paar",
+        "quantityPrice": "15.90/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T14:20:46"
+}

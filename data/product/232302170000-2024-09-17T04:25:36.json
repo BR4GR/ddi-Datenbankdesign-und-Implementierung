@@ -1,0 +1,98 @@
+{
+    "uid": 100065894,
+    "migrosId": "232302170000",
+    "name": "Citterio Involtini Salami und Käse",
+    "brand": "Citterio",
+    "title": "Citterio Involtini Salami und Käse",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Citterio",
+                "slug": "citterio",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1642402911/brands/Citterio_Giuseppe_Citterio_S.A._Logo"
+            },
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 2.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/232302170000"
+        },
+        "otherInformation": {
+            "articleNumber": "232302170000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "8008410431119"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1999002ba25a442a2b8b73e2b2d4ff8c2858be60/citterio-involtini-salami-und-kaese.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/2d51c925171f993b8dcd0d9afb70cc3cd435a5cf.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494752",
+            "name": "Cheese",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese"
+            ]
+        },
+        {
+            "id": "7494878",
+            "name": "Snacks, appetisers & cheese for kids",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese",
+                "snacks-appetisers-cheese-for-kid"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/232302170000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.70",
+            "advertisedDisplayValue": "3.70",
+            "effectiveDisplayValue": "3.70",
+            "multiplier": 1,
+            "value": 3.7,
+            "effectiveValue": 3.7,
+            "advertisedValue": 3.7,
+            "unitPrice": {
+                "value": 6.17,
+                "unit": "100g"
+            }
+        },
+        "quantity": "60g",
+        "quantityPrice": "6.17/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:25:36"
+}

@@ -1,0 +1,92 @@
+{
+    "uid": 100097739,
+    "migrosId": "205013000000",
+    "name": "Joghurt Milch Gruyer Mokka",
+    "title": "Joghurt Milch Gruyer Mokka",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/205013000000"
+        },
+        "otherInformation": {
+            "articleNumber": "205013000000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7610411001386"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a9dc0316906b88b3d936106854f6ee121ef1f90b/joghurt-milch-gruyer-mokka.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494753",
+            "name": "Yogurts & desserts",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "yogurts-desserts"
+            ]
+        },
+        {
+            "id": "7494879",
+            "name": "Yogurts",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "yogurts-desserts",
+                "yogurts"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/205013000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.70",
+            "advertisedDisplayValue": "6.70",
+            "effectiveDisplayValue": "6.70",
+            "multiplier": 1,
+            "value": 6.7,
+            "effectiveValue": 6.7,
+            "advertisedValue": 6.7,
+            "unitPrice": {
+                "value": 0.62,
+                "unit": "100g"
+            }
+        },
+        "quantity": "12 x 90g",
+        "quantityPrice": "0.62/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:59:39"
+}

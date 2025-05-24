@@ -1,0 +1,108 @@
+{
+    "uid": 100067264,
+    "migrosId": "270400509400",
+    "name": "Chicorée",
+    "brand": "Migros Fresca",
+    "title": "Chicorée",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Fresca",
+                "slug": "migros-fresca",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076970/brands/Migros_Fresca_Logo"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/270400509400"
+        },
+        "otherInformation": {
+            "articleNumber": "270400509400",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Saison bis",
+                    "value": "Mai"
+                },
+                {
+                    "code": "Saison von",
+                    "value": "September"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Beutel"
+                },
+                {
+                    "code": "Storage at home",
+                    "value": "gekühlt aufbewahren/lagern"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610632953174"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a9e4ec453165f7c7abbc5e8d642254bc8e774ce9/chicoree.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494759",
+            "name": "Salad",
+            "slugs": [
+                "fruits-vegetables",
+                "salad"
+            ]
+        },
+        {
+            "id": "7494913",
+            "name": "Chicory",
+            "slugs": [
+                "fruits-vegetables",
+                "salad",
+                "chicory"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/270400509400",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.70",
+            "advertisedDisplayValue": "2.70",
+            "effectiveDisplayValue": "2.70",
+            "multiplier": 1,
+            "value": 2.7,
+            "effectiveValue": 2.7,
+            "advertisedValue": 2.7,
+            "unitPrice": {
+                "value": 0.27,
+                "unit": "100g"
+            }
+        },
+        "quantity": "1kg",
+        "quantityPrice": "0.27/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T02:37:23"
+}

@@ -1,0 +1,159 @@
+{
+    "uid": 100122707,
+    "migrosId": "747189300002",
+    "name": "Milette Soothers",
+    "brand": "Milette",
+    "title": "Milette Soothers",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Milette",
+                "slug": "milette",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076999/brands/Milette_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/747189300002"
+        },
+        "otherInformation": {
+            "articleNumber": "747189300002",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613434950884"
+    ],
+    "variants": {
+        "baseProductMigrosId": "747189300000",
+        "mainVariantMigrosId": "747189300001",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "pastell",
+                    "size": "000"
+                },
+                "migrosId": "747189300001"
+            },
+            {
+                "declinationOptions": {
+                    "color": "tradition",
+                    "size": "000"
+                },
+                "migrosId": "747189300002"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "tradition",
+                "options": [
+                    "pastell",
+                    "tradition"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "000",
+                "options": [
+                    "000"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f8d2c653ea56bf5bb100d250adbaf8c42cced802/milette-soothers.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "7494818",
+            "name": "Baby bottles & dummies",
+            "slugs": [
+                "baby-kids",
+                "baby-bottles-dummies"
+            ]
+        },
+        {
+            "id": "7495195",
+            "name": "Dummies",
+            "slugs": [
+                "baby-kids",
+                "baby-bottles-dummies",
+                "dummies"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/747189300002",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "6.95",
+            "advertisedDisplayValue": "6.95",
+            "effectiveDisplayValue": "6.95",
+            "multiplier": 1,
+            "value": 6.95,
+            "effectiveValue": 6.95,
+            "advertisedValue": 6.95
+        },
+        "promotionPrice": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.90",
+            "advertisedDisplayValue": "4.90",
+            "effectiveDisplayValue": "4.90",
+            "multiplier": 1,
+            "value": 4.9,
+            "effectiveValue": 4.9,
+            "advertisedValue": 4.9,
+            "unitPrice": {
+                "value": 1.63,
+                "unit": "piece"
+            }
+        },
+        "priceInsteadOfLabel": "was",
+        "quantity": "3 Stk.",
+        "quantityPrice": "1.63/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "badges": [
+            {
+                "type": "PERCENTAGE_PROMOTION",
+                "description": "30%"
+            },
+            {
+                "type": "MINIMUM_PIECES",
+                "description": "2 or more"
+            }
+        ],
+        "promotionDateRange": {
+            "startDate": "2024-09-10",
+            "endDate": "2024-09-23"
+        },
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T10:40:52"
+}

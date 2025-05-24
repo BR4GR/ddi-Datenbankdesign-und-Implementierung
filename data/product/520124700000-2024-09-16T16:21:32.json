@@ -1,0 +1,126 @@
+{
+    "uid": 100005712,
+    "migrosId": "520124700000",
+    "migrosOnlineId": "6870568",
+    "name": "Cotton buds",
+    "brand": "M-Budget",
+    "title": "M-Budget · Cotton buds",
+    "description": "M-Budget Cotton buds ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L09",
+                    "name": "FSC®",
+                    "slug": "fsc",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483057/labels/FSC_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "M-Budget",
+                "slug": "m-budget",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252456/brands/m-budget"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 3,
+                    "co2CarKmEquivalent": 22,
+                    "productionRatio": 93,
+                    "transportRatio": 2,
+                    "packagingRatio": 4,
+                    "image": "https://image.migros.ch/original/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "co2KgRange": "2 - 4.7 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 180,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/520124700000"
+        },
+        "otherInformation": {
+            "articleNumber": "520124700000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Wattestäbchen"
+                },
+                {
+                    "code": "Features",
+                    "value": "FSC zertifizierter Frischzellstoff"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312310120"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/99a8e06ecc3f9d7fe3bb3b3440ffde88a16d0f12/mbudget-cotton-sticks-300.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494828",
+            "name": "Facial care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "facial-care"
+            ]
+        },
+        {
+            "id": "7495249",
+            "name": "Cleansers & make-up removers",
+            "slugs": [
+                "drugstore-cosmetics",
+                "facial-care",
+                "cleansers-make-up-removers"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/520124700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "0.90",
+            "advertisedDisplayValue": "0.90",
+            "effectiveDisplayValue": "0.90",
+            "multiplier": 1,
+            "value": 0.9,
+            "effectiveValue": 0.9,
+            "advertisedValue": 0.9,
+            "unitPrice": {
+                "value": 0,
+                "unit": "piece"
+            }
+        },
+        "quantity": "300 Stk.",
+        "quantityPrice": "0.–/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T16:21:32"
+}

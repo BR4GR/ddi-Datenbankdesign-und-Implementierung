@@ -1,0 +1,197 @@
+{
+    "uid": 100125843,
+    "migrosId": "101003100000",
+    "migrosOnlineId": "10566159",
+    "name": "Marshmallow",
+    "brand": "M-Budget",
+    "title": "M-Budget · Marshmallow",
+    "description": "M-Budget Marshmallow ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Budget",
+                "slug": "m-budget",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252456/brands/m-budget"
+            },
+            "ingredients": "Glucose-Fructosesirup, Zucker, Wasser, Glucose, Maisstärke, Speisegelatine, Aroma, Farbstoff: Kurkumin, Randensaft färbend.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 8,
+                    "productionRatio": 89,
+                    "transportRatio": 0,
+                    "packagingRatio": 11,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 35,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/101003100000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "7 Stück (24 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1430 kJ (336 kcal)",
+                            "340 kJ (80 kcal)",
+                            "4 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            "0 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            "0 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "80 g",
+                            "19 g",
+                            "7 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "68 g",
+                            "16 g",
+                            "18 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "4.1 g",
+                            "1 g",
+                            "2 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "< 0.01 g",
+                            "< 0.01 g",
+                            "< 5 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "portionSentence": "1 package ≈ 13 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "101003100000",
+            "legalDesignation": "Schaumzuckerware",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store tightly closed. Store in a dry place. Keep away from heat."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312378168"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/acb299365a274eef918b2d65ffa474f5120e40d1/m-bud-marshmallows-300g.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494782",
+            "name": "Chocolate & sweets",
+            "slugs": [
+                "snacks-sweets",
+                "chocolate-sweets"
+            ]
+        },
+        {
+            "id": "7495023",
+            "name": "Bonbons",
+            "slugs": [
+                "snacks-sweets",
+                "chocolate-sweets",
+                "bonbons"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/101003100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.–",
+            "advertisedDisplayValue": "2.–",
+            "effectiveDisplayValue": "2.–",
+            "multiplier": 1,
+            "value": 2,
+            "effectiveValue": 2,
+            "advertisedValue": 2,
+            "unitPrice": {
+                "value": 0.67,
+                "unit": "100g"
+            }
+        },
+        "quantity": "300g",
+        "quantityPrice": "0.67/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T20:14:42"
+}

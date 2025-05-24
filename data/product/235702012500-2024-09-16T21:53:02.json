@@ -1,0 +1,85 @@
+{
+    "uid": 100121429,
+    "migrosId": "235702012500",
+    "name": "Hackfleisch im Teig",
+    "title": "Hackfleisch im Teig",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/235702012500"
+        },
+        "otherInformation": {
+            "articleNumber": "235702012500",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "2159639000009",
+        "7613269666028"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1a1a3535790a478d7c71e0dc98995422ff5ba9c3/hackfleisch-im-teig.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494747",
+            "name": "Meat & poultry",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry"
+            ]
+        },
+        {
+            "id": "7494842",
+            "name": "Minced meat & burger",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry",
+                "minced-meat-burger"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/235702012500",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.90",
+            "advertisedDisplayValue": "3.90",
+            "effectiveDisplayValue": "3.90",
+            "multiplier": 1,
+            "value": 3.9,
+            "effectiveValue": 3.9,
+            "advertisedValue": 3.9,
+            "unitPrice": {
+                "value": 0.39,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "0.39/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T21:53:02"
+}

@@ -1,0 +1,82 @@
+{
+    "uid": 100144838,
+    "migrosId": "130584700000",
+    "name": "Roberto Cannelloni mit Rind",
+    "brand": "Roberto",
+    "title": "Roberto Cannelloni mit Rind",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Roberto",
+                "slug": "roberto"
+            },
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 2.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/130584700000"
+        },
+        "otherInformation": {
+            "articleNumber": "130584700000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7610695001409"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/cd754fe38a0723994dea37c69d0d713a21b32e76/roberto-cannelloni-mit-rind.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494754",
+            "name": "Fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food"
+            ]
+        },
+        {
+            "id": "7494886",
+            "name": "Fresh pasta & lasagnes",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food",
+                "fresh-pasta-lasagnes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/130584700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-17T06:32:54"
+}

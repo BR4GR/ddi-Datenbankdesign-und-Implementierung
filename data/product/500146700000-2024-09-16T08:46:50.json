@@ -1,0 +1,135 @@
+{
+    "uid": 100127287,
+    "migrosId": "500146700000",
+    "name": "Color detergent XXL economy pack",
+    "brand": "Total",
+    "title": "Color detergent XXL economy pack",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Total",
+                "slug": "total",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1716291026/brands/Total_188"
+            },
+            "rating": {
+                "nbReviews": 19,
+                "nbStars": 4.5
+            }
+        },
+        "usageInformation": {
+            "signalWord": "Achtung",
+            "chemicalPictosV2": [
+                {
+                    "cdn": "rokka",
+                    "pictoId": "GHS07",
+                    "pictoPath": "https://image.migros.ch/original/09b3c0810d45b7f83a5ad48c5bc38d4d0227615b/Dickes%20Ausrufezeichen.jpg",
+                    "pictoPathStack": "https://image.migros.ch/{stack}/09b3c0810d45b7f83a5ad48c5bc38d4d0227615b/Dickes%20Ausrufezeichen.jpg"
+                }
+            ],
+            "chemicalWarnings": [
+                "Verursacht schwere Augenreizung."
+            ],
+            "chemicalSafetyInstructions": [
+                "Darf nicht in die Hände von Kindern gelangen.",
+                "Schutzhandschuhe / Schutzkleidung / Augenschutz / Gesichtsschutz tragen.",
+                "Bei anhaltender Augenreizung: Ärztlichen Rat einholen/ärztliche Hilfe hinzuziehen.",
+                "Ist ärztlicher Rat erforderlich, Verpackung oder Kennzeichnungsetikett bereithalten.",
+                "BEI KONTAKT MIT DEN AUGEN: Einige Minuten lang behutsam mit Wasser ausspülen. Eventuell vorhandene Kontaktlinsen nach Möglichkeit entfernen. Weiter spülen."
+            ]
+        },
+        "otherInformation": {
+            "articleNumber": "500146700000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7630028635705"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3c60c77648ef882ee606ca658854f2843f0ae190/color-detergent-xxl-economy-pack.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494740",
+            "name": "Laundry & cleaning",
+            "slugs": [
+                "laundry-cleaning"
+            ]
+        },
+        {
+            "id": "7494806",
+            "name": "Laundry & textile care",
+            "slugs": [
+                "laundry-cleaning",
+                "laundry-textile-care"
+            ]
+        },
+        {
+            "id": "7495135",
+            "name": "Laundry detergent",
+            "slugs": [
+                "laundry-cleaning",
+                "laundry-textile-care",
+                "laundry-detergent"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/500146700000",
+    "isMgbCompatible": false,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "46.85",
+            "advertisedDisplayValue": "46.85",
+            "effectiveDisplayValue": "46.85",
+            "multiplier": 1,
+            "value": 46.85,
+            "effectiveValue": 46.85,
+            "advertisedValue": 46.85
+        },
+        "promotionPrice": {
+            "displayUnitPrice": true,
+            "formattedPrice": "23.45",
+            "advertisedDisplayValue": "23.45",
+            "effectiveDisplayValue": "23.45",
+            "multiplier": 1,
+            "value": 23.45,
+            "effectiveValue": 23.45,
+            "advertisedValue": 23.45,
+            "unitPrice": {
+                "value": 0.37,
+                "unit": "100g"
+            }
+        },
+        "priceInsteadOfLabel": "was",
+        "quantity": "6.36kg",
+        "quantityPrice": "0.37/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "badges": [
+            {
+                "type": "PERCENTAGE_PROMOTION",
+                "description": "49%"
+            }
+        ],
+        "promotionDateRange": {
+            "startDate": "2024-09-03",
+            "endDate": "2024-09-16"
+        },
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T08:46:50"
+}

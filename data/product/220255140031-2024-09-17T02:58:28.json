@@ -1,0 +1,159 @@
+{
+    "uid": 100055853,
+    "migrosId": "220255140031",
+    "name": "Rinds Clubsteak knochengereift",
+    "title": "Rinds Clubsteak knochengereift",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                },
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                },
+                {
+                    "id": "L66",
+                    "name": "Weide-Beef",
+                    "slug": "weide-beef",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483388/labels/Bio_Weide-Beef_-_RGB_-_DE"
+                }
+            ],
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 1,
+                    "co2CarKmEquivalent": 198,
+                    "productionRatio": 99,
+                    "transportRatio": 0,
+                    "packagingRatio": 0,
+                    "image": "https://image.migros.ch/original/3e5cee492451bdf61aaed46537f4e5c8eb9a9b98.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3e5cee492451bdf61aaed46537f4e5c8eb9a9b98.svg",
+                    "co2KgRange": "≥10 kg CO₂eq / kg"
+                },
+                "animalWelfare": {
+                    "rating": 4,
+                    "image": "https://image.migros.ch/original/58bd3042b45c82e79d3a18e05d0b73cc1abda5fb.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/220255140031"
+        },
+        "otherInformation": {
+            "articleNumber": "220255140031",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Additional characteristics",
+                    "value": "natural"
+                },
+                {
+                    "code": "Part",
+                    "value": "Loin"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Kunststoff-Verpackung"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "grillieren, zum gekochtessen"
+                },
+                {
+                    "code": "Meat form processed",
+                    "value": "Steak"
+                },
+                {
+                    "code": "Hygiene notes",
+                    "value": "Rohes Fleisch nicht in Kontakt mit anderen Lebensmitteln bringen. Geschirr und Hände gründlich reinigen. Fleisch immer gut durchgekocht/gebraten servieren."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "2158457000000",
+        "7613269556404"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/6b2105bef5c7d4a8cccdb1f348b253b1e2e79df3/rinds-clubsteak-knochengereift.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/09feeaa863ef22fca13869fcd7849175ac127f75.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494747",
+            "name": "Meat & poultry",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry"
+            ]
+        },
+        {
+            "id": "7494841",
+            "name": "Beef",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry",
+                "beef"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/220255140031",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.60",
+            "advertisedDisplayValue": "7.60",
+            "effectiveDisplayValue": "7.60",
+            "multiplier": 1,
+            "value": 7.6,
+            "effectiveValue": 7.6,
+            "advertisedValue": 7.6,
+            "unitPrice": {
+                "value": 7.6,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "7.60/100g",
+        "isVariableWeight": true,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "VARIABLE_WEIGHT",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483133/labels/poids-variable",
+                "description": "Variable Weight"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T02:58:28"
+}

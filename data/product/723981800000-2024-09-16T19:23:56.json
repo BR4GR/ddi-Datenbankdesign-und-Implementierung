@@ -1,0 +1,110 @@
+{
+    "uid": 100055566,
+    "migrosId": "723981800000",
+    "migrosOnlineId": "11289877",
+    "name": "Birthday candles",
+    "brand": "Migros",
+    "brandLine": "Ambiance",
+    "title": "Migros Ambiance · Birthday candles",
+    "description": "Migros Birthday candles ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros",
+                "slug": "migros"
+            },
+            "rating": {
+                "nbReviews": 14,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/723981800000"
+        },
+        "otherInformation": {
+            "articleNumber": "723981800000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Content quantity",
+                    "value": "10 Pcs."
+                },
+                {
+                    "code": "Material",
+                    "value": "Wachs"
+                },
+                {
+                    "code": "Color",
+                    "value": "bunt"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613434034287"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/03e302610b0f83cf56090b6634b569f3512f2e28/birthday-candles-1-10.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494813",
+            "name": "Office & stationery",
+            "slugs": [
+                "household-and-living",
+                "office-stationery"
+            ]
+        },
+        {
+            "id": "7495173",
+            "name": "Party & decoration",
+            "slugs": [
+                "household-and-living",
+                "office-stationery",
+                "party-decoration"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/723981800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.95",
+            "advertisedDisplayValue": "2.95",
+            "effectiveDisplayValue": "2.95",
+            "multiplier": 1,
+            "value": 2.95,
+            "effectiveValue": 2.95,
+            "advertisedValue": 2.95,
+            "unitPrice": {
+                "value": 0.3,
+                "unit": "piece"
+            }
+        },
+        "quantity": "10 Stk.",
+        "quantityPrice": "0.30/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T19:23:56"
+}

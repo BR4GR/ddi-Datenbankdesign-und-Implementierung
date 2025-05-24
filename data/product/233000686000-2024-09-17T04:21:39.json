@@ -1,0 +1,200 @@
+{
+    "uid": 100147169,
+    "migrosId": "233000686000",
+    "name": "Apéro Tockenfleisch Artisanal mini",
+    "title": "Apéro Tockenfleisch Artisanal mini",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "ingredients": "Rindfleisch ^, Nitritpökelsalz (Kochsalz, Konservierungsstoff: Natriumnitrit), Glucose, Maltodextrin, Gewürze, Säuerungsmittel: Citronensäure, Säureregulator: Natriumcitrate, Antioxidationsmittel: Natriumascorbat. \n^ aus der Region (CH)",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "animalWelfare": {
+                    "rating": 3,
+                    "image": "https://image.migros.ch/original/02f56762a6d67ea0470f50e5e8cc4d96d84791f0.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 3.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/233000686000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "1 Portion (25 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "976 kJ (231 kcal)",
+                            "241 kJ (57 kcal)",
+                            "3 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "5 g",
+                            "1.3 g",
+                            "2 %"
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "2 g",
+                            "0.5 g",
+                            "3 %"
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "1.5 g",
+                            "< 0.5 g",
+                            "< 5 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "1 g",
+                            "< 0.5 g",
+                            "< 5 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "45 g",
+                            "11 g",
+                            "22 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "4.5 g",
+                            "1.1 g",
+                            "18 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    }
+                ]
+            },
+            "portionSentence": "1 package = 2 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "233000686000",
+            "legalDesignation": "Fleischerzeugnis, zum Rohessen",
+            "distributorName": "Société coopérative Migros Neuchâtel-Fribourg",
+            "distributorStreetAndNumber": "CH-2074 Marin",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Can be stored without refrigeration."
+                },
+                {
+                    "code": "Production information",
+                    "value": "Packaged in a protective atmosphere."
+                },
+                {
+                    "code": "Warning and other mandatory information",
+                    "value": "To be eaten raw."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613404330807"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/22b25811e7011633ef8f536489d238c703dc988b/apero-tockenfleisch-artisanal-mini.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494748",
+            "name": "Cold cuts",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts"
+            ]
+        },
+        {
+            "id": "7494850",
+            "name": "Raw ham & cured meats",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts",
+                "raw-ham-cured-meats"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/233000686000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.95",
+            "advertisedDisplayValue": "4.95",
+            "effectiveDisplayValue": "4.95",
+            "multiplier": 1,
+            "value": 4.95,
+            "effectiveValue": 4.95,
+            "advertisedValue": 4.95,
+            "unitPrice": {
+                "value": 9.9,
+                "unit": "100g"
+            }
+        },
+        "quantity": "50g",
+        "quantityPrice": "9.90/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:21:39"
+}

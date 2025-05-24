@@ -1,0 +1,201 @@
+{
+    "uid": 100050875,
+    "migrosId": "131030700000",
+    "name": "Frühlingsmischung",
+    "title": "Frühlingsmischung",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "ingredients": "Eichblattsalat rot ^, Nüsslisalat ^, Lollosalat rot ^, Bataviasalat rot ^, Eichblattsalat grün ^, Bataviasalat grün ^, Lollosalat grün ^, Lattich rot ^. \n^ aus der Region (CH)",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 2,
+                    "productionRatio": 48,
+                    "transportRatio": 16,
+                    "packagingRatio": 36,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 21,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/131030700000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "1/2 Packung (85 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "73 kJ (18 kcal)",
+                            "62 kJ (15 kcal)",
+                            "1 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            "< 5 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0.1 g",
+                            "< 0.1 g",
+                            "< 5 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "1.2 g",
+                            "1 g",
+                            "< 5 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "1.2 g",
+                            "1 g",
+                            "1 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "2 g",
+                            "1.7 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "1.5 g",
+                            "1.3 g",
+                            "3 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.04 g",
+                            "0.03 g",
+                            "1 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "portionSentence": "1 package = 2 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "131030700000",
+            "legalDesignation": "Mischsalat",
+            "distributorName": "Genossenschaft Migros Ostschweiz",
+            "distributorStreetAndNumber": "CH-9201 Gossau",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store refrigerated at max. +5 °C."
+                },
+                {
+                    "code": "Production information",
+                    "value": "Packaged in a protective atmosphere. washed, ready to eat"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613269169192"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/16ed984ca72672232f597ad145bfdb8d22e1e20b/fruehlingsmischung.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494759",
+            "name": "Salad",
+            "slugs": [
+                "fruits-vegetables",
+                "salad"
+            ]
+        },
+        {
+            "id": "7494914",
+            "name": "Packaged salads",
+            "slugs": [
+                "fruits-vegetables",
+                "salad",
+                "packaged-salads"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/131030700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.60",
+            "advertisedDisplayValue": "3.60",
+            "effectiveDisplayValue": "3.60",
+            "multiplier": 1,
+            "value": 3.6,
+            "effectiveValue": 3.6,
+            "advertisedValue": 3.6,
+            "unitPrice": {
+                "value": 2.4,
+                "unit": "100g"
+            }
+        },
+        "quantity": "150g",
+        "quantityPrice": "2.40/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T11:43:03"
+}

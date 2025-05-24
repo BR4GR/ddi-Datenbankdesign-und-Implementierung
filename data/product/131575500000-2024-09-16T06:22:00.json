@@ -1,0 +1,89 @@
+{
+    "uid": 100163135,
+    "migrosId": "131575500000",
+    "name": "Wasabi Paste",
+    "brand": "Sushi Mania",
+    "title": "Wasabi Paste",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Sushi Mania",
+                "slug": "sushi-mania"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/131575500000"
+        },
+        "otherInformation": {
+            "articleNumber": "131575500000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613404874998"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/452b852ea1855b75dc6c7ae1705da12b53eec778/wasabi-paste.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494749",
+            "name": "Fish",
+            "slugs": [
+                "meat-fish",
+                "fish"
+            ]
+        },
+        {
+            "id": "7494862",
+            "name": "Sushi",
+            "slugs": [
+                "meat-fish",
+                "fish",
+                "sushi"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/131575500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "0.05",
+            "advertisedDisplayValue": "0.05",
+            "effectiveDisplayValue": "0.05",
+            "multiplier": 1,
+            "value": 0.05,
+            "effectiveValue": 0.05,
+            "advertisedValue": 0.05,
+            "unitPrice": {
+                "value": 2,
+                "unit": "100g"
+            }
+        },
+        "quantity": "2.5g",
+        "quantityPrice": "2.–/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T06:22:00"
+}

@@ -1,0 +1,115 @@
+{
+    "uid": 100173493,
+    "migrosId": "100914200000",
+    "migrosOnlineId": "12867893",
+    "name": "Chocolates",
+    "brand": "Frey",
+    "brandLine": "Confiseur",
+    "title": "Frey Confiseur · Chocolates",
+    "description": "Frey Chocolates ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L71",
+                    "name": "Rainforest Alliance",
+                    "slug": "rainforest-alliance",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483537/labels/Rainforest_Alliance_-_RGB_-_DE"
+                },
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "Frey",
+                "slug": "frey",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1692178640/brands/Frey_Logo_FOLIE"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/100914200000"
+        },
+        "otherInformation": {
+            "articleNumber": "100914200000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7616500943063"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/9b26b9cbb39548f36c2eedcb331556d2d2a12c65/frey-pralines-du-confiseur.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494782",
+            "name": "Chocolate & sweets",
+            "slugs": [
+                "snacks-sweets",
+                "chocolate-sweets"
+            ]
+        },
+        {
+            "id": "7495020",
+            "name": "Pralines",
+            "slugs": [
+                "snacks-sweets",
+                "chocolate-sweets",
+                "pralines"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/100914200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "15.95",
+            "advertisedDisplayValue": "15.95",
+            "effectiveDisplayValue": "15.95",
+            "multiplier": 1,
+            "value": 15.95,
+            "effectiveValue": 15.95,
+            "advertisedValue": 15.95,
+            "unitPrice": {
+                "value": 6.04,
+                "unit": "100g"
+            }
+        },
+        "quantity": "264g",
+        "quantityPrice": "6.04/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "REGION",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679482984/labels/suisse",
+                "description": "Switzerland"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-18T06:20:44"
+}

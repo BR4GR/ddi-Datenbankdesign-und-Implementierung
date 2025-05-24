@@ -1,0 +1,180 @@
+{
+    "uid": 100094939,
+    "migrosId": "848312800020",
+    "name": "Sport Bag",
+    "brand": "MIGROS TRAVEL & CO.",
+    "title": "Sport Bag",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "MIGROS TRAVEL & CO.",
+                "slug": "migros-travel-co",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1689862767/brands/Migros_Travel_und_Co"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/848312800020"
+        },
+        "otherInformation": {
+            "articleNumber": "848312800020",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Height",
+                    "value": "28 cm"
+                },
+                {
+                    "code": "Depth",
+                    "value": "28 cm"
+                },
+                {
+                    "code": "Length",
+                    "value": "54 cm"
+                },
+                {
+                    "code": "Weight",
+                    "value": "0.8 kg"
+                },
+                {
+                    "code": "Volume",
+                    "value": "40 l"
+                },
+                {
+                    "code": "Category/theme",
+                    "value": "Taschen"
+                },
+                {
+                    "code": "Main material",
+                    "value": "Recycling Polyester"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "abnehmbarer Tragriemen, Externes Fach, interne Trennfächer/Organizer"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613434680330"
+    ],
+    "variants": {
+        "baseProductMigrosId": "848312800000",
+        "mainVariantMigrosId": "848312800020",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "black"
+                },
+                "migrosId": "848312800020"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "light blue"
+                },
+                "migrosId": "848312800041"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "black",
+                "options": [
+                    "black",
+                    "light blue"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "one Size",
+                "options": [
+                    "one Size"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/44334996a3e8690270a9b61ca3e4a7e438dfe113/sport-bag.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/74d928f093c4a9e4e8b144891677acde113e2d5d.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/0b727fccf823ad1d9671f6ca6a0c162468e4154a.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/8304417c5adb3cdc498043c702228496b61822b8.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10555197",
+            "name": "Travel",
+            "slugs": [
+                "clothing-accessories",
+                "travel"
+            ]
+        },
+        {
+            "id": "10555228",
+            "name": "Backpacks & bags",
+            "slugs": [
+                "clothing-accessories",
+                "travel",
+                "backpacks-bags"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/848312800020",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "49.95",
+            "advertisedDisplayValue": "49.95",
+            "effectiveDisplayValue": "49.95",
+            "multiplier": 1,
+            "value": 49.95,
+            "effectiveValue": 49.95,
+            "advertisedValue": 49.95,
+            "unitPrice": {
+                "value": 49.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "49.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T09:26:48"
+}

@@ -1,0 +1,94 @@
+{
+    "uid": 100068139,
+    "migrosId": "130448800000",
+    "name": "Sandwich Lachs Tatar",
+    "brand": "Anna's Best",
+    "title": "Sandwich Lachs Tatar",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Anna's Best",
+                "slug": "annas-best",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252314/brands/annas-best"
+            },
+            "rating": {
+                "nbReviews": 21,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/130448800000"
+        },
+        "otherInformation": {
+            "articleNumber": "130448800000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613404729748"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/8a5c98c769686dd6506693503e80af6de9f7e44b/sandwich-lachs-tatar.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494754",
+            "name": "Fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food"
+            ]
+        },
+        {
+            "id": "7494887",
+            "name": "Ready-made meals",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food",
+                "ready-made-meals"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/130448800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.70",
+            "advertisedDisplayValue": "5.70",
+            "effectiveDisplayValue": "5.70",
+            "multiplier": 1,
+            "value": 5.7,
+            "effectiveValue": 5.7,
+            "advertisedValue": 5.7,
+            "unitPrice": {
+                "value": 4.38,
+                "unit": "100g"
+            }
+        },
+        "quantity": "130g",
+        "quantityPrice": "4.38/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-10-09T15:21:16"
+}

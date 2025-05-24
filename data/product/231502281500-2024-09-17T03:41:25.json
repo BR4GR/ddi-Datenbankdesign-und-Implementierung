@@ -1,0 +1,153 @@
+{
+    "uid": 100041817,
+    "migrosId": "231502281500",
+    "migrosOnlineId": "225542",
+    "name": "prosciutto cotto",
+    "brand": "Specialità Italiana",
+    "versioning": "gran riserva",
+    "title": "Specialità Italiana · prosciutto cotto · gran riserva",
+    "description": "Specialità Italiana prosciutto cotto gran riserva",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Specialità Italiana",
+                "slug": "specialita-italiana"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 42,
+                    "productionRatio": 96,
+                    "transportRatio": 2,
+                    "packagingRatio": 2,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                },
+                "animalWelfare": {
+                    "rating": 3,
+                    "image": "https://image.migros.ch/original/02f56762a6d67ea0470f50e5e8cc4d96d84791f0.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "rating": {
+                "nbReviews": 12,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/231502281500"
+        },
+        "otherInformation": {
+            "articleNumber": "231502281500",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Additional characteristics",
+                    "value": "natural"
+                },
+                {
+                    "code": "Typical feature",
+                    "value": "cooked"
+                },
+                {
+                    "code": "Part",
+                    "value": "Leg"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Kunststoff-Verpackung"
+                },
+                {
+                    "code": "Form",
+                    "value": "trimmed"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7617027859462"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/4e86557c9d425b8f48bad9f71ddbc8027dfebefc/prosciutto-cotto.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494748",
+            "name": "Cold cuts",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts"
+            ]
+        },
+        {
+            "id": "7494851",
+            "name": "Cooked, rolled & smoked ham",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts",
+                "cooked-rolled-smoked-ham"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/231502281500",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "8.95",
+            "advertisedDisplayValue": "8.95",
+            "effectiveDisplayValue": "8.95",
+            "multiplier": 1,
+            "value": 8.95,
+            "effectiveValue": 8.95,
+            "advertisedValue": 8.95,
+            "unitPrice": {
+                "value": 8.95,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "8.95/100g",
+        "isVariableWeight": true,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "REGION",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483381/labels/italie",
+                "description": "Italy"
+            },
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483166/labels/fresh",
+                "description": "fresh"
+            },
+            {
+                "type": "VARIABLE_WEIGHT",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483133/labels/poids-variable",
+                "description": "Variable Weight"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T03:41:25"
+}

@@ -1,0 +1,132 @@
+{
+    "uid": 100012798,
+    "migrosId": "514400100000",
+    "migrosOnlineId": "73178",
+    "name": "Sugar-free chewing gum",
+    "brand": "Candida",
+    "brandLine": "Fresh classic",
+    "versioning": "Spearmint",
+    "title": "Candida Fresh classic · Sugar-free chewing gum · Spearmint",
+    "description": "Candida Sugar-free chewing gum Spearmint",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Candida",
+                "slug": "candida",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076642/brands/Candida__Logo"
+            },
+            "nutritionalCharacteristics": [
+                "No added sugar"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "No added sugar",
+                    "additionalInformation": "No added sugar. Contains naturally occurring sugars."
+                }
+            ],
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 1,
+                    "co2CarKmEquivalent": 57,
+                    "productionRatio": 97,
+                    "transportRatio": 1,
+                    "packagingRatio": 2,
+                    "image": "https://image.migros.ch/original/3e5cee492451bdf61aaed46537f4e5c8eb9a9b98.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3e5cee492451bdf61aaed46537f4e5c8eb9a9b98.svg",
+                    "co2KgRange": "≥10 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 33,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/514400100000"
+        },
+        "usageInformation": {
+            "additionalInformation": "Sugar-free chewing gum, with mint flavor and sweeteners"
+        },
+        "otherInformation": {
+            "articleNumber": "514400100000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Kaugummi"
+                },
+                {
+                    "code": "Gesundheits und nährwertbezogene Auslobung",
+                    "value": "No added sugar. Contains naturally occurring sugars."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7616500631304"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/84ad5659b423b050767b2f2de8ddad5f41c7c702/can-fresh-classic-kg.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494782",
+            "name": "Chocolate & sweets",
+            "slugs": [
+                "snacks-sweets",
+                "chocolate-sweets"
+            ]
+        },
+        {
+            "id": "7495022",
+            "name": "Chewing gum",
+            "slugs": [
+                "snacks-sweets",
+                "chocolate-sweets",
+                "chewing-gum"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/514400100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.20",
+            "advertisedDisplayValue": "3.20",
+            "effectiveDisplayValue": "3.20",
+            "multiplier": 1,
+            "value": 3.2,
+            "effectiveValue": 3.2,
+            "advertisedValue": 3.2,
+            "unitPrice": {
+                "value": 5.82,
+                "unit": "100g"
+            }
+        },
+        "quantity": "55g",
+        "quantityPrice": "5.82/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T22:39:27"
+}

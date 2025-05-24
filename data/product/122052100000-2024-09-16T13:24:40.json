@@ -1,0 +1,198 @@
+{
+    "uid": 100031529,
+    "migrosId": "122052100000",
+    "migrosOnlineId": "6218477",
+    "name": "Lemon juice",
+    "brand": "M-Budget",
+    "title": "M-Budget · Lemon juice",
+    "description": "M-Budget Lemon juice ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Budget",
+                "slug": "m-budget",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252456/brands/m-budget"
+            },
+            "ingredients": "Zitronensaft aus Konzentrat, Antioxidationsmittel: Kaliummetabi<strong>sulfit</strong>.",
+            "allergens": "Sulphur dioxide and sulphites",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 2,
+                    "productionRatio": 45,
+                    "transportRatio": 10,
+                    "packagingRatio": 44,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg"
+                }
+            },
+            "rating": {
+                "nbReviews": 165,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/122052100000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 ml"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "98 kJ (23 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "< 0.5 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "< 0.1 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "1.9 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "1.9 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "< 0.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "< 0.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "usageInformation": {
+            "additionalInformation": "Please shake before opening"
+        },
+        "otherInformation": {
+            "articleNumber": "122052100000",
+            "legalDesignation": "Zitronensaft aus Konzentrat",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Can be stored without refrigeration. Once opened, keep refrigerated and consume quickly. Protect from heat."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312322864"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ff4e8cd9e623d5f437b08c4407d1766e9a311b04/m-budget-zitronensaft.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494771",
+            "name": "Fruit & vegetable juices",
+            "slugs": [
+                "drinks-coffee-tea",
+                "fruit-vegetable-juices"
+            ]
+        },
+        {
+            "id": "7494963",
+            "name": "Other fruit juice",
+            "slugs": [
+                "drinks-coffee-tea",
+                "fruit-vegetable-juices",
+                "other-fruit-juice"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/122052100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "0.60",
+            "advertisedDisplayValue": "0.60",
+            "effectiveDisplayValue": "0.60",
+            "multiplier": 1,
+            "value": 0.6,
+            "effectiveValue": 0.6,
+            "advertisedValue": 0.6,
+            "unitPrice": {
+                "value": 0.3,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "200ml",
+        "quantityPrice": "0.30/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T13:24:40"
+}

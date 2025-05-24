@@ -1,0 +1,96 @@
+{
+    "uid": 100039932,
+    "migrosId": "235300184000",
+    "migrosOnlineId": "222393",
+    "name": "Roastbeef avec sauce tartare",
+    "brand": "Rapelli",
+    "title": "Rapelli · Roastbeef avec sauce tartare",
+    "description": "Rapelli Roastbeef avec sauce tartare ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "Rapelli",
+                "slug": "rapelli",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1642402946/brands/Rapelli_Rapelli_SA_Logo"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/235300184000"
+        },
+        "otherInformation": {
+            "articleNumber": "235300184000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613269146612"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/b4b5962aef8c09746c7d09036b837d422d55405b/rapelli-roastbeef-mit-tartaresauce.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494747",
+            "name": "Meat & poultry",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry"
+            ]
+        },
+        {
+            "id": "7494847",
+            "name": "Tartare, roast beef & carpaccio",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry",
+                "tartare-roast-beef-carpaccio"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/235300184000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "pictos": [
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483166/labels/fresh",
+                "description": "fresh"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-17T03:56:48"
+}

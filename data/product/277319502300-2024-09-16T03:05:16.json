@@ -1,0 +1,94 @@
+{
+    "uid": 100146389,
+    "migrosId": "277319502300",
+    "name": "Pfefferminze",
+    "brand": "Migros Fresca",
+    "title": "Pfefferminze",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Fresca",
+                "slug": "migros-fresca",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076970/brands/Migros_Fresca_Logo"
+            },
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/277319502300"
+        },
+        "otherInformation": {
+            "articleNumber": "277319502300",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613404192924"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1f7797eb5a460d6e7a9a99120e433c33a9068ceb/pfefferminze.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494760",
+            "name": "Fresh herbs & spices",
+            "slugs": [
+                "fruits-vegetables",
+                "fresh-herbs-spices"
+            ]
+        },
+        {
+            "id": "7494917",
+            "name": "Fresh herbs",
+            "slugs": [
+                "fruits-vegetables",
+                "fresh-herbs-spices",
+                "fresh-herbs"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/277319502300",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.40",
+            "advertisedDisplayValue": "3.40",
+            "effectiveDisplayValue": "3.40",
+            "multiplier": 1,
+            "value": 3.4,
+            "effectiveValue": 3.4,
+            "advertisedValue": 3.4,
+            "unitPrice": {
+                "value": 6.8,
+                "unit": "100g"
+            }
+        },
+        "quantity": "50g",
+        "quantityPrice": "6.80/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T03:05:16"
+}

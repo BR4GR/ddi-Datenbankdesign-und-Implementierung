@@ -1,0 +1,216 @@
+{
+    "uid": 100085817,
+    "migrosId": "830222200817",
+    "name": "Lady's Tights",
+    "brand": "M-Budget",
+    "title": "Lady's Tights",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L07",
+                    "name": "ECO",
+                    "slug": "eco",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483145/labels/Eco-Textilien_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "M-Budget",
+                "slug": "m-budget",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252456/brands/m-budget"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 64,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/830222200817"
+        },
+        "otherInformation": {
+            "articleNumber": "830222200817",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Article type",
+                    "value": "Strumpfhose"
+                },
+                {
+                    "code": "Multipack",
+                    "value": "3er Pack"
+                },
+                {
+                    "code": "Look",
+                    "value": "transparent"
+                },
+                {
+                    "code": "Material",
+                    "value": "Polyamid"
+                },
+                {
+                    "code": "Denier",
+                    "value": "20 DEN"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "100 %"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613433724295",
+        "7613347392696",
+        "7613433177176"
+    ],
+    "variants": {
+        "baseProductMigrosId": "830222200000",
+        "mainVariantMigrosId": "830222200802",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "sun kissed",
+                    "size": "S/M"
+                },
+                "migrosId": "830222200802"
+            },
+            {
+                "declinationOptions": {
+                    "color": "porcelaine",
+                    "size": "S/M"
+                },
+                "migrosId": "830222200817"
+            },
+            {
+                "declinationOptions": {
+                    "color": "black",
+                    "size": "S/M"
+                },
+                "migrosId": "830222200820"
+            },
+            {
+                "declinationOptions": {
+                    "color": "dusk",
+                    "size": "S/M"
+                },
+                "migrosId": "830222200821"
+            },
+            {
+                "declinationOptions": {
+                    "color": "porcelaine",
+                    "size": "M / L"
+                },
+                "migrosId": "830222201017"
+            },
+            {
+                "declinationOptions": {
+                    "color": "black",
+                    "size": "M / L"
+                },
+                "migrosId": "830222201020"
+            },
+            {
+                "declinationOptions": {
+                    "color": "dusk",
+                    "size": "M / L"
+                },
+                "migrosId": "830222201021"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "S/M",
+                "options": [
+                    "S/M",
+                    "M / L"
+                ]
+            },
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "porcelaine",
+                "options": [
+                    "sun kissed",
+                    "porcelaine",
+                    "black",
+                    "dusk"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/c2f8dde6f3595794faf97535005178cd0545cb35/ladys-tights.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/4fef559fb6385cd842af2c2f4324581a21297894.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/2dee3dcb131928d9766898937945414423e532bb.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10553347",
+            "name": "Women",
+            "slugs": [
+                "clothing-accessories",
+                "women"
+            ]
+        },
+        {
+            "id": "10553383",
+            "name": "Socks & tights",
+            "slugs": [
+                "clothing-accessories",
+                "women",
+                "socks-tights"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/830222200817",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.90",
+            "advertisedDisplayValue": "1.90",
+            "effectiveDisplayValue": "1.90",
+            "multiplier": 1,
+            "value": 1.9,
+            "effectiveValue": 1.9,
+            "advertisedValue": 1.9,
+            "unitPrice": {
+                "value": 0.63,
+                "unit": "piece"
+            }
+        },
+        "quantity": "3 Paar",
+        "quantityPrice": "0.63/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-20T14:35:16"
+}

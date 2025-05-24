@@ -1,0 +1,190 @@
+{
+    "uid": 100049196,
+    "migrosId": "700429300010",
+    "migrosOnlineId": "4979251",
+    "name": "Paper napkins",
+    "brand": "Cucina & Tavola",
+    "versioning": "White",
+    "title": "Cucina & Tavola · Paper napkins · White",
+    "description": "Cucina & Tavola Paper napkins White",
+    "productRange": "VARIANT",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L09",
+                    "name": "FSC®",
+                    "slug": "fsc",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483057/labels/FSC_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "Cucina & Tavola",
+                "slug": "cucina-tavola",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076644/brands/CucinaTavola__Logo"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 36,
+                    "productionRatio": 96,
+                    "transportRatio": 1,
+                    "packagingRatio": 3,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 29,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/700429300010"
+        },
+        "otherInformation": {
+            "articleNumber": "700429300010",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Multipack",
+                    "value": "1/8 Falz, 25er Pack"
+                },
+                {
+                    "code": "Number of layers",
+                    "value": "3-lagig"
+                },
+                {
+                    "code": "Material",
+                    "value": "Tissue"
+                },
+                {
+                    "code": "Content",
+                    "value": "25 Pcs."
+                },
+                {
+                    "code": "Width",
+                    "value": "33 cm"
+                },
+                {
+                    "code": "Color",
+                    "value": "weiss"
+                },
+                {
+                    "code": "Length",
+                    "value": "33 cm"
+                },
+                {
+                    "code": "suitable for food products",
+                    "value": "Yes"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613162076801"
+    ],
+    "variants": {
+        "baseProductMigrosId": "700429300000",
+        "mainVariantMigrosId": "700429300010",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "000",
+                    "color": "white"
+                },
+                "migrosId": "700429300010"
+            },
+            {
+                "declinationOptions": {
+                    "size": "000",
+                    "color": "mrot"
+                },
+                "migrosId": "700429300032"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "white",
+                "options": [
+                    "white",
+                    "mrot"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "000",
+                "options": [
+                    "000"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/65a8d9ebfc75861f48db5d9f0c57d8b621385fc3/napkins-18.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494814",
+            "name": "Kitchen & dining",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining"
+            ]
+        },
+        {
+            "id": "7495178",
+            "name": "Table",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining",
+                "table"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/700429300010",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.30",
+            "advertisedDisplayValue": "1.30",
+            "effectiveDisplayValue": "1.30",
+            "multiplier": 1,
+            "value": 1.3,
+            "effectiveValue": 1.3,
+            "advertisedValue": 1.3,
+            "unitPrice": {
+                "value": 0.05,
+                "unit": "piece"
+            }
+        },
+        "quantity": "25 Stk.",
+        "quantityPrice": "0.05/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T13:16:08"
+}

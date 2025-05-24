@@ -1,0 +1,119 @@
+{
+    "uid": 100150169,
+    "migrosId": "513664300000",
+    "name": "Pedic Fuss-Badesalz",
+    "brand": "Pedic",
+    "title": "Pedic Fuss-Badesalz",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Pedic",
+                "slug": "pedic",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1715075047/brands/Pedic_318"
+            },
+            "rating": {
+                "nbReviews": 9,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/513664300000"
+        },
+        "otherInformation": {
+            "articleNumber": "513664300000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613312436271"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/4c419dc2ce38c019a69a505423ac1e1a5b7a006c/pedic-fuss-badesalz.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494827",
+            "name": "Hand & foot care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hand-foot-care"
+            ]
+        },
+        {
+            "id": "7495246",
+            "name": "Foot care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hand-foot-care",
+                "foot-care"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/513664300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "4.95",
+            "advertisedDisplayValue": "4.95",
+            "effectiveDisplayValue": "4.95",
+            "multiplier": 1,
+            "value": 4.95,
+            "effectiveValue": 4.95,
+            "advertisedValue": 4.95
+        },
+        "promotionPrice": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.75",
+            "advertisedDisplayValue": "3.75",
+            "effectiveDisplayValue": "3.75",
+            "multiplier": 1,
+            "value": 3.75,
+            "effectiveValue": 3.75,
+            "advertisedValue": 3.75,
+            "unitPrice": {
+                "value": 0.83,
+                "unit": "100g"
+            }
+        },
+        "priceInsteadOfLabel": "was",
+        "quantity": "450g",
+        "quantityPrice": "0.83/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "badges": [
+            {
+                "type": "PERCENTAGE_PROMOTION",
+                "description": "25%"
+            },
+            {
+                "type": "MINIMUM_PIECES",
+                "description": "2 or more"
+            }
+        ],
+        "promotionDateRange": {
+            "startDate": "2024-09-10",
+            "endDate": "2024-09-23"
+        },
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T20:37:56"
+}

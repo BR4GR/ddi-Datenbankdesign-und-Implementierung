@@ -1,0 +1,97 @@
+{
+    "uid": 100145207,
+    "migrosId": "113314200200",
+    "name": "Erdbeertorte 21cm",
+    "brand": "In-store bakery",
+    "title": "Erdbeertorte 21cm",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "In-store bakery",
+                "slug": "in-store-bakery"
+            },
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/113314200200"
+        },
+        "otherInformation": {
+            "articleNumber": "113314200200",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613269647881"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/cbcc016d880870b138a341603a7c33d43cd6c9d9/erdbeertorte-21cm.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/c6eaf80945edd2bf0682c878a7eba81c84316949.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494765",
+            "name": "Pastries",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "pastries"
+            ]
+        },
+        {
+            "id": "7494932",
+            "name": "Fresh pastries",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "pastries",
+                "fresh-pastries"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/113314200200",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "25.–",
+            "advertisedDisplayValue": "25.–",
+            "effectiveDisplayValue": "25.–",
+            "multiplier": 1,
+            "value": 25,
+            "effectiveValue": 25,
+            "advertisedValue": 25,
+            "unitPrice": {
+                "value": 2.78,
+                "unit": "100g"
+            }
+        },
+        "quantity": "900g",
+        "quantityPrice": "2.78/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:53:53"
+}

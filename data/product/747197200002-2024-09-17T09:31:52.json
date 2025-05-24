@@ -1,0 +1,147 @@
+{
+    "uid": 100133347,
+    "migrosId": "747197200002",
+    "name": "Milette Sleepingbag",
+    "brand": "Milette",
+    "title": "Milette Sleepingbag",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L60",
+                    "name": "GOTS",
+                    "slug": "gots",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483187/labels/GOTS_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "Milette",
+                "slug": "milette",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076999/brands/Milette_Logo"
+            },
+            "nutritionalCharacteristics": [
+                "Organic"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                }
+            ],
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/747197200002"
+        },
+        "otherInformation": {
+            "articleNumber": "747197200002",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7628871081459"
+    ],
+    "variants": {
+        "baseProductMigrosId": "747197200000",
+        "mainVariantMigrosId": "747197200001",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "typ_laenge": "62-68"
+                },
+                "migrosId": "747197200001"
+            },
+            {
+                "declinationOptions": {
+                    "typ_laenge": "74-80"
+                },
+                "migrosId": "747197200002"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "typ_laenge",
+                "dimensionName": "Länge",
+                "currentValue": "74-80",
+                "options": [
+                    "62-68",
+                    "74-80"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3fb88880e4630b15ba89058fe4654597b3819222/milette-sleepingbag.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "7494823",
+            "name": "Baby equipment",
+            "slugs": [
+                "baby-kids",
+                "baby-equipment"
+            ]
+        },
+        {
+            "id": "7495224",
+            "name": "Baby furniture & accessories",
+            "slugs": [
+                "baby-kids",
+                "baby-equipment",
+                "baby-furniture-accessories"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/747197200002",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "49.95",
+            "advertisedDisplayValue": "49.95",
+            "effectiveDisplayValue": "49.95",
+            "multiplier": 1,
+            "value": 49.95,
+            "effectiveValue": 49.95,
+            "advertisedValue": 49.95,
+            "unitPrice": {
+                "value": 49.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "49.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T09:31:52"
+}

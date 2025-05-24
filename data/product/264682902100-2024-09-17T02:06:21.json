@@ -1,0 +1,200 @@
+{
+    "uid": 100025711,
+    "migrosId": "264682902100",
+    "migrosOnlineId": "5902605",
+    "name": "Ginger",
+    "brand": "Migros Bio",
+    "versioning": "Organic",
+    "title": "Migros Bio · Ginger · Organic",
+    "description": "Migros Bio Ginger Organic",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Bio",
+                "slug": "migros-bio",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1678265962/brands/MIGROS_BIO_screen_pantone1_rgb"
+            },
+            "nutritionalCharacteristics": [
+                "Organic"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                }
+            ],
+            "ingredients": "Ingwer",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/264682902100"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "352 kJ (83 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "0.8 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0.2 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "16 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "1.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "2 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "2 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "usageInformation": {
+            "usage": "Ginger is a universal spice in Asian cuisine for dishes, drinks and baked goods. Candied ginger gives fruit salads an exotic touch.",
+            "additionalInformation": "The irregularly shaped root impresses with its pungent and spicy taste. It adds a fresh note to both sweet and savoury dishes."
+        },
+        "otherInformation": {
+            "articleNumber": "264682902100",
+            "legalDesignation": "Ingwer",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Weitere Zusatzangaben",
+                    "value": "-"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613404157718"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/412d9d7ea9a53e7c96b2eaeeb6677dfb99e5554f/migros-bio-ingwer.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494756",
+            "name": "Fruits",
+            "slugs": [
+                "fruits-vegetables",
+                "fruits"
+            ]
+        },
+        {
+            "id": "7494899",
+            "name": "Exotic fruits",
+            "slugs": [
+                "fruits-vegetables",
+                "fruits",
+                "exotic-fruits"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/264682902100",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "8.90",
+            "advertisedDisplayValue": "8.90",
+            "effectiveDisplayValue": "8.90",
+            "multiplier": 1,
+            "value": 8.9,
+            "effectiveValue": 8.9,
+            "advertisedValue": 8.9,
+            "unitPrice": {
+                "value": 0.89,
+                "unit": "100g"
+            }
+        },
+        "quantity": "1 kg",
+        "quantityPrice": "0.89/100g",
+        "isVariableWeight": true,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            },
+            {
+                "type": "VARIABLE_WEIGHT",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483133/labels/poids-variable",
+                "description": "Variable Weight"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T02:06:21"
+}

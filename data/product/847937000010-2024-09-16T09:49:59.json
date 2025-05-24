@@ -1,0 +1,154 @@
+{
+    "uid": 100088142,
+    "migrosId": "847937000010",
+    "name": "TANA Grease",
+    "brand": "Tana",
+    "title": "TANA Grease",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Tana",
+                "slug": "tana",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252501/brands/tana"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 2.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/847937000010"
+        },
+        "usageInformation": {
+            "signalWord": "Gefahr",
+            "chemicalPictosV2": [
+                {
+                    "cdn": "rokka",
+                    "pictoId": "GHS02",
+                    "pictoPath": "https://image.migros.ch/original/45c0793944b0697e7b8b20b514a368ecbeea0633/Flamme.jpg",
+                    "pictoPathStack": "https://image.migros.ch/{stack}/45c0793944b0697e7b8b20b514a368ecbeea0633/Flamme.jpg"
+                }
+            ],
+            "chemicalWarnings": [
+                "Entzündbarer Feststoff."
+            ],
+            "chemicalSafetyInstructions": [
+                "Von Hitze, heissen Oberflächen, Funken, offenen Flammen sowie anderen Zündquellenarten fernhalten. Nicht rauchen.",
+                "Darf nicht in die Hände von Kindern gelangen."
+            ]
+        },
+        "otherInformation": {
+            "articleNumber": "847937000010",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Category/theme",
+                    "value": "Pflegemittel"
+                },
+                {
+                    "code": "Product type",
+                    "value": "Lederpflege"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "Glanz, Pflege, Schutz"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4053201077292",
+        "4053201047363"
+    ],
+    "variants": {
+        "baseProductMigrosId": "847937000000",
+        "mainVariantMigrosId": "847937000010",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "white",
+                    "size": "000"
+                },
+                "migrosId": "847937000010"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "white",
+                "options": [
+                    "white"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "000",
+                "options": [
+                    "000"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/9cfd270eab54e0e4da7ab2063d84e35024815255/tana-grease.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10553494",
+            "name": "Shoes",
+            "slugs": [
+                "clothing-accessories",
+                "shoes"
+            ]
+        },
+        {
+            "id": "10553519",
+            "name": "Shoe care",
+            "slugs": [
+                "clothing-accessories",
+                "shoes",
+                "shoe-care"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/847937000010",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "4.95",
+            "advertisedDisplayValue": "4.95",
+            "effectiveDisplayValue": "4.95",
+            "multiplier": 1,
+            "value": 4.95,
+            "effectiveValue": 4.95,
+            "advertisedValue": 4.95
+        },
+        "quantity": "100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T09:49:59"
+}

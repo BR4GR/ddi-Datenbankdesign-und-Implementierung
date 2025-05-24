@@ -1,0 +1,202 @@
+{
+    "uid": 100007431,
+    "migrosId": "110105600000",
+    "migrosOnlineId": "60321",
+    "name": "Mailänderli",
+    "brand": "Christmas Bakery",
+    "title": "Christmas Bakery · Mailänderli",
+    "description": "Christmas Bakery Mailänderli ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Christmas Bakery",
+                "slug": "christmas-bakery"
+            },
+            "ingredients": "<strong>wheat</strong> flour, sugar, palm oil, rapeseed oil, whole <strong>egg</strong> powder (Barn), <strong>egg</strong> yolk (Barn), natural flavourings, table salt, lemon essence, <strong>barley</strong> malt.",
+            "allergenIndication": "May contain: milk, nuts and sesame.",
+            "allergens": "Eggs and products thereof, Cereals containing gluten and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 21,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/110105600000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "2085 kJ (498 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "23 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "8.9 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "65 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "22 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "1.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "6.9 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.13 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "110105600000",
+            "legalDesignation": "Weihnachtsgebäck",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store in a dry place. Keep away from heat."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Packaging type",
+                    "value": "Beutel/Sack"
+                },
+                {
+                    "code": "Type of cookie/pastry",
+                    "value": "Buttergebäck"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                },
+                {
+                    "code": "Occasion",
+                    "value": "Weihnachten"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7617400030297"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/33517fa93823d14c10b8b106e8418736f8b9490e/mailaenderli-500g.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494781",
+            "name": "Biscuits",
+            "slugs": [
+                "snacks-sweets",
+                "biscuits"
+            ]
+        },
+        {
+            "id": "7495011",
+            "name": "Biscuits & sponge fingers",
+            "slugs": [
+                "snacks-sweets",
+                "biscuits",
+                "biscuits-sponge-fingers"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/110105600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.95",
+            "advertisedDisplayValue": "4.95",
+            "effectiveDisplayValue": "4.95",
+            "multiplier": 1,
+            "value": 4.95,
+            "effectiveValue": 4.95,
+            "advertisedValue": 4.95,
+            "unitPrice": {
+                "value": 0.99,
+                "unit": "100g"
+            }
+        },
+        "quantity": "500g",
+        "quantityPrice": "0.99/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-10-10T23:05:24"
+}

@@ -1,0 +1,114 @@
+{
+    "uid": 100089446,
+    "migrosId": "131036500000",
+    "name": "Gartensalat",
+    "title": "Gartensalat",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "rating": {
+                "nbReviews": 10,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/131036500000"
+        },
+        "otherInformation": {
+            "articleNumber": "131036500000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Production process",
+                    "value": "Aus der Region"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Abgepackt"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                },
+                {
+                    "code": "Storage at home",
+                    "value": "﻿store in a cool and dry place"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613404886823"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/9f2cf4e7e7a1b418f3738a3186df748bde6fef84/gartensalat.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494759",
+            "name": "Salad",
+            "slugs": [
+                "fruits-vegetables",
+                "salad"
+            ]
+        },
+        {
+            "id": "7494914",
+            "name": "Packaged salads",
+            "slugs": [
+                "fruits-vegetables",
+                "salad",
+                "packaged-salads"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/131036500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.80",
+            "advertisedDisplayValue": "2.80",
+            "effectiveDisplayValue": "2.80",
+            "multiplier": 1,
+            "value": 2.8,
+            "effectiveValue": 2.8,
+            "advertisedValue": 2.8,
+            "unitPrice": {
+                "value": 1.56,
+                "unit": "100g"
+            }
+        },
+        "quantity": "180g",
+        "quantityPrice": "1.56/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T03:44:28"
+}

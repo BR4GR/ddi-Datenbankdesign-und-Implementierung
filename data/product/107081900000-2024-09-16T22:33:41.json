@@ -1,0 +1,101 @@
+{
+    "uid": 100144748,
+    "migrosId": "107081900000",
+    "name": "Tisana Monte Generoso",
+    "title": "Tisana Monte Generoso",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L88",
+                    "name": "Nostrani del Ticino",
+                    "slug": "nostrani-del-ticino",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1707838713/labels/Nostrani_del_Ticino"
+                }
+            ],
+            "ingredients": "Pfefferminze ^, Krauseminze ^, Melisse ^, Orangenminze ^, Kornblumen ^, Edelweiss ^. \n^ aus dem Tessin (CH)",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/107081900000"
+        },
+        "otherInformation": {
+            "articleNumber": "107081900000",
+            "legalDesignation": "Kräutertee",
+            "distributorName": "Cooperativa Migros Ticino",
+            "distributorStreetAndNumber": "CH-6592 S. Antonino",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store in a cool, dry place and protected from light."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312411032"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/25841e4dc0aba36e43851e5792d30035431f3d26/tisana-monte-generoso.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494773",
+            "name": "Tea",
+            "slugs": [
+                "drinks-coffee-tea",
+                "tea"
+            ]
+        },
+        {
+            "id": "7494974",
+            "name": "Herbal infusions with plants",
+            "slugs": [
+                "drinks-coffee-tea",
+                "tea",
+                "herbal-infusions-with-plants"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/107081900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.10",
+            "advertisedDisplayValue": "7.10",
+            "effectiveDisplayValue": "7.10",
+            "multiplier": 1,
+            "value": 7.1,
+            "effectiveValue": 7.1,
+            "advertisedValue": 7.1,
+            "unitPrice": {
+                "value": 47.3,
+                "unit": "100g"
+            }
+        },
+        "quantity": "15g",
+        "quantityPrice": "47.30/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T22:33:41"
+}

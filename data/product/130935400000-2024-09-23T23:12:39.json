@@ -1,0 +1,132 @@
+{
+    "uid": 100175812,
+    "migrosId": "130935400000",
+    "name": "Cornatur Quorn Schnitzel Caprese",
+    "brand": "Cornatur",
+    "title": "Cornatur Quorn Schnitzel Caprese",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L58",
+                    "name": "V-Label vegetarisch",
+                    "slug": "v-label-vegetarisch",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483422/labels/V-Label_Vegetarisch_Color"
+                }
+            ],
+            "brand": {
+                "name": "Cornatur",
+                "slug": "cornatur",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076644/brands/Cornatur__Logo"
+            },
+            "nutritionalCharacteristics": [
+                "Vegetarian"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegetarian"
+                }
+            ]
+        },
+        "otherInformation": {
+            "articleNumber": "130935400000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "﻿Vegetarian"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7623186518898"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/cd0d9bebc4ab0c69f3f27a61e861f6c6168021cc.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494750",
+            "name": "Plant-based alternatives",
+            "slugs": [
+                "meat-fish",
+                "plant-based-alternatives"
+            ]
+        },
+        {
+            "id": "7494864",
+            "name": "Alternatives to burgers, cutlets & falafel",
+            "slugs": [
+                "meat-fish",
+                "plant-based-alternatives",
+                "alternatives-to-burgers-cutlets"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/130935400000",
+    "isMgbCompatible": false,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "11.90",
+            "advertisedDisplayValue": "11.90",
+            "effectiveDisplayValue": "11.90",
+            "multiplier": 1,
+            "value": 11.9,
+            "effectiveValue": 11.9,
+            "advertisedValue": 11.9
+        },
+        "promotionPrice": {
+            "displayUnitPrice": true,
+            "formattedPrice": "9.50",
+            "advertisedDisplayValue": "9.50",
+            "effectiveDisplayValue": "9.50",
+            "multiplier": 1,
+            "value": 9.5,
+            "effectiveValue": 9.5,
+            "advertisedValue": 9.5,
+            "unitPrice": {
+                "value": 1.9,
+                "unit": "100g"
+            }
+        },
+        "priceInsteadOfLabel": "was",
+        "quantity": "2 x 250g",
+        "quantityPrice": "1.90/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "badges": [
+            {
+                "type": "PERCENTAGE_PROMOTION",
+                "description": "20%"
+            }
+        ],
+        "promotionDateRange": {
+            "startDate": "2024-09-24",
+            "endDate": "2024-09-30"
+        },
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-23T23:12:39"
+}

@@ -1,0 +1,118 @@
+{
+    "uid": 100169767,
+    "migrosId": "106307100000",
+    "migrosOnlineId": "12707177",
+    "name": "Ceylon cinnamon",
+    "brand": "M-Classic",
+    "versioning": "Ground",
+    "title": "M-Classic · Ceylon cinnamon · Ground",
+    "description": "M-Classic Ceylon cinnamon Ground",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Classic",
+                "slug": "m-classic",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252457/brands/m-classic"
+            },
+            "ingredients": "Zimt.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 6,
+                    "productionRatio": 81,
+                    "transportRatio": 5,
+                    "packagingRatio": 14,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1- 1.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 4,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/106307100000"
+        },
+        "otherInformation": {
+            "articleNumber": "106307100000",
+            "legalDesignation": "Zimt, gemahlen",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store in a cool, dry place and protected from light."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312465226"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/dcb0daa58114f0a1476d8d111b7df20149086911/m-classic-zimt-gemahlen.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494776",
+            "name": "Spices & sauces",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces"
+            ]
+        },
+        {
+            "id": "7494984",
+            "name": "Spices, herbs & seasonings",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces",
+                "spices-herbs-seasonings"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/106307100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "0.50",
+            "advertisedDisplayValue": "0.50",
+            "effectiveDisplayValue": "0.50",
+            "multiplier": 1,
+            "value": 0.5,
+            "effectiveValue": 0.5,
+            "advertisedValue": 0.5,
+            "unitPrice": {
+                "value": 1.4,
+                "unit": "100g"
+            }
+        },
+        "quantity": "35g",
+        "quantityPrice": "1.40/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:54:11"
+}

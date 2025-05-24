@@ -1,0 +1,110 @@
+{
+    "uid": 100029760,
+    "migrosId": "110132500000",
+    "migrosOnlineId": "5157448",
+    "name": "Pastry with almonds",
+    "brand": "Fior di Cantuccini",
+    "title": "Fior di Cantuccini · Pastry with almonds",
+    "description": "Fior di Cantuccini Pastry with almonds ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Fior di Cantuccini",
+                "slug": "fior-di-cantuccini"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 52,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/110132500000"
+        },
+        "otherInformation": {
+            "articleNumber": "110132500000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Type of cookie/pastry",
+                    "value": "Kekse"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Beutel/Sack"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "798190099842"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/e29a2c90fd4b43419c42793e25e089281a703346/garibaldi-fior-di-cantuccini.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494781",
+            "name": "Biscuits",
+            "slugs": [
+                "snacks-sweets",
+                "biscuits"
+            ]
+        },
+        {
+            "id": "7495011",
+            "name": "Biscuits & sponge fingers",
+            "slugs": [
+                "snacks-sweets",
+                "biscuits",
+                "biscuits-sponge-fingers"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/110132500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.75",
+            "advertisedDisplayValue": "3.75",
+            "effectiveDisplayValue": "3.75",
+            "multiplier": 1,
+            "value": 3.75,
+            "effectiveValue": 3.75,
+            "advertisedValue": 3.75,
+            "unitPrice": {
+                "value": 1.25,
+                "unit": "100g"
+            }
+        },
+        "quantity": "300g",
+        "quantityPrice": "1.25/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T18:33:40"
+}

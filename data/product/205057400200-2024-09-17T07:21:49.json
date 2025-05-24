@@ -1,0 +1,185 @@
+{
+    "uid": 100132158,
+    "migrosId": "205057400200",
+    "name": "Alpjoghurt Zitrone",
+    "title": "Alpjoghurt Zitrone",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "ingredients": "<strong>Milch</strong>, Zucker, Zitronenaroma 3 %, Mager<strong>milch</strong>pulver, modifizierte Stärke.",
+            "allergens": "Milk and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 11,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/205057400200"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "1 Becher (180 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "454 kJ (108 kcal)",
+                            "814 kJ (194 kcal)",
+                            "10 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "4 g",
+                            "7.2 g",
+                            "10 %"
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "14 g",
+                            "25 g",
+                            "10 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "13 g",
+                            "24 g",
+                            "27 %"
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "4 g",
+                            "7.2 g",
+                            "14 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.1 g",
+                            "0.18 g",
+                            "3 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "portionSentence": "1 Cup = 1 serving",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "205057400200",
+            "legalDesignation": "Joghurt mit Zitronenaroma, aus pasteurisierter Milch, mit 3.5% Fett im Milchanteil",
+            "identificationMark": "CH 83099654",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "bioCertification": "ProCert AG",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store refrigerated at max. +5 °C."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Packaging type",
+                    "value": "Becher"
+                },
+                {
+                    "code": "Production process",
+                    "value": "Alkoholfrei"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613269596318"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f8382db1192c35cdebd0dc1b3c755e9a313ad00c/alpjoghurt-zitrone.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494753",
+            "name": "Yogurts & desserts",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "yogurts-desserts"
+            ]
+        },
+        {
+            "id": "7494879",
+            "name": "Yogurts",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "yogurts-desserts",
+                "yogurts"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/205057400200",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.55",
+            "advertisedDisplayValue": "1.55",
+            "effectiveDisplayValue": "1.55",
+            "multiplier": 1,
+            "value": 1.55,
+            "effectiveValue": 1.55,
+            "advertisedValue": 1.55,
+            "unitPrice": {
+                "value": 0.86,
+                "unit": "100g"
+            }
+        },
+        "quantity": "180g",
+        "quantityPrice": "0.86/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:21:49"
+}

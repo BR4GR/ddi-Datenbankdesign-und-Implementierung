@@ -1,0 +1,97 @@
+{
+    "uid": 100161142,
+    "migrosId": "120246300000",
+    "migrosOnlineId": "12344759",
+    "name": "Protein drink",
+    "brand": "Reloadz",
+    "brandLine": "Active",
+    "versioning": "Rhubarb",
+    "title": "Reloadz Active · Protein drink · Rhubarb",
+    "description": "Reloadz Protein drink Rhubarb",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Reloadz",
+                "slug": "reloadz"
+            },
+            "rating": {
+                "nbReviews": 4,
+                "nbStars": 3.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/120246300000"
+        },
+        "otherInformation": {
+            "articleNumber": "120246300000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7649988243677"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/845cbbfce5f6f2f9f44bf223229d94ac0b8f8fdc/reloadz-rhubarb.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494769",
+            "name": "Soft drinks",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks"
+            ]
+        },
+        {
+            "id": "10600180",
+            "name": "Protein & wellness drinks",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks",
+                "protein-wellness-drinks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/120246300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.40",
+            "advertisedDisplayValue": "2.40",
+            "effectiveDisplayValue": "2.40",
+            "multiplier": 1,
+            "value": 2.4,
+            "effectiveValue": 2.4,
+            "advertisedValue": 2.4,
+            "unitPrice": {
+                "value": 0.48,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "500ml",
+        "quantityPrice": "0.48/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:12:35"
+}

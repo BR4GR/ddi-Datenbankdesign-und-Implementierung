@@ -1,0 +1,172 @@
+{
+    "uid": 100080430,
+    "migrosId": "748502100100",
+    "name": "MEIN 100-WÖRTER-BUCH-TIERE_DE",
+    "brand": "VTech",
+    "title": "MEIN 100-WÖRTER-BUCH-TIERE_DE",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "VTech",
+                "slug": "vtech",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252513/brands/vtech"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/748502100100"
+        },
+        "otherInformation": {
+            "articleNumber": "748502100100",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Sprache",
+                    "value": "Deutsch"
+                },
+                {
+                    "code": "Lieferumfang",
+                    "value": "1 Lernbuch"
+                },
+                {
+                    "code": "Farbe",
+                    "value": "Mehrfarbig"
+                },
+                {
+                    "code": "Primärfarbe",
+                    "value": "Schwarz"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "3417766095442"
+    ],
+    "variants": {
+        "baseProductMigrosId": "748502100000",
+        "mainVariantMigrosId": "748502100100",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "typ_sprache": "Deutsch",
+                    "color": "00"
+                },
+                "migrosId": "748502100100"
+            },
+            {
+                "declinationOptions": {
+                    "typ_sprache": "Französisch",
+                    "color": "00"
+                },
+                "migrosId": "748502100200"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "00",
+                "options": [
+                    "00"
+                ]
+            },
+            {
+                "dimensionKey": "typ_sprache",
+                "dimensionName": "Sprache",
+                "currentValue": "Deutsch",
+                "options": [
+                    "Deutsch",
+                    "Französisch"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/52c896f8772856dea7af8cc0849accfd3c596326/mein-100-woerter-buch-tiere-de.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/deafb3296373a595a0818a481ad34c4353c8ddb1.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/db38e0a9c8543d7015be0beb9d8def6244aa9fa0.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/e9e4ed84dcb166dec116220a852ed66708d9d29d.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/84a5d02943da3d8105eda6856c91737495dab935.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/48d760032da83c84e1091f41330bd01623f7a35e.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "7494822",
+            "name": "Toys",
+            "slugs": [
+                "baby-kids",
+                "toys"
+            ]
+        },
+        {
+            "id": "7495213",
+            "name": "Board games, role-playing games & puzzles",
+            "slugs": [
+                "baby-kids",
+                "toys",
+                "board-games-role-playing-games-p"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/748502100100",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "34.95",
+            "advertisedDisplayValue": "34.95",
+            "effectiveDisplayValue": "34.95",
+            "multiplier": 1,
+            "value": 34.95,
+            "effectiveValue": 34.95,
+            "advertisedValue": 34.95,
+            "unitPrice": {
+                "value": 34.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "34.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:24:20"
+}

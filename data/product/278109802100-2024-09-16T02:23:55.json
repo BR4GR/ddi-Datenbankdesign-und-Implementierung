@@ -1,0 +1,134 @@
+{
+    "uid": 100056338,
+    "migrosId": "278109802100",
+    "name": "Suppengemüse",
+    "brand": "Migros Fresca",
+    "title": "Suppengemüse",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Fresca",
+                "slug": "migros-fresca",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076970/brands/Migros_Fresca_Logo"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 2,
+                    "productionRatio": 48,
+                    "transportRatio": 16,
+                    "packagingRatio": 36,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 332,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/278109802100"
+        },
+        "otherInformation": {
+            "articleNumber": "278109802100",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Saison von",
+                    "value": "September"
+                },
+                {
+                    "code": "Saison bis",
+                    "value": "Mai"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Schale"
+                },
+                {
+                    "code": "Storage at home",
+                    "value": "gekühlt aufbewahren/lagern"
+                },
+                {
+                    "code": "Washing instructions",
+                    "value": "vor Gebrauch waschen"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "2124560000008",
+        "359153",
+        "7617027557894"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1480cac15e5e84a7c9de4d779cf7b02f8a3998f3/suppengemuese.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a2f1cb3b5ca52f94fcf05d1d923882aa9e0d41cd.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494761",
+            "name": "Ready to use",
+            "slugs": [
+                "fruits-vegetables",
+                "ready-to-use"
+            ]
+        },
+        {
+            "id": "7494920",
+            "name": "Vegetables",
+            "slugs": [
+                "fruits-vegetables",
+                "ready-to-use",
+                "vegetables"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/278109802100",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.95",
+            "advertisedDisplayValue": "4.95",
+            "effectiveDisplayValue": "4.95",
+            "multiplier": 1,
+            "value": 4.95,
+            "effectiveValue": 4.95,
+            "advertisedValue": 4.95,
+            "unitPrice": {
+                "value": 0.5,
+                "unit": "100g"
+            }
+        },
+        "quantity": "1 kg",
+        "quantityPrice": "0.50/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T02:23:55"
+}

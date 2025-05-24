@@ -1,0 +1,132 @@
+{
+    "uid": 100032559,
+    "migrosId": "706603800000",
+    "migrosOnlineId": "3872791",
+    "name": "Household gloves",
+    "brand": "M-Budget",
+    "versioning": "Size L",
+    "title": "M-Budget · Household gloves · Size L",
+    "description": "M-Budget Household gloves Size L",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Budget",
+                "slug": "m-budget",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252456/brands/m-budget"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 34,
+                    "productionRatio": 95,
+                    "transportRatio": 2,
+                    "packagingRatio": 3,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 22,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/706603800000"
+        },
+        "otherInformation": {
+            "articleNumber": "706603800000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Number",
+                    "value": "2 Pair"
+                },
+                {
+                    "code": "Dimensions/size",
+                    "value": "L"
+                },
+                {
+                    "code": "Material",
+                    "value": "Baumwolle, Latex"
+                },
+                {
+                    "code": "Color",
+                    "value": "pink"
+                },
+                {
+                    "code": "Note",
+                    "value": "nicht beständig gegen Öle, Fette, Laugen und Verdünner"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7621361195773",
+        "7613249275899"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ebb1dbfed86ed5551d44c7e6dfe2944fd6a55df0/mbud-2-pair-l.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494740",
+            "name": "Laundry & cleaning",
+            "slugs": [
+                "laundry-cleaning"
+            ]
+        },
+        {
+            "id": "7494810",
+            "name": "Cleaning utensils",
+            "slugs": [
+                "laundry-cleaning",
+                "cleaning-utensils"
+            ]
+        },
+        {
+            "id": "7495158",
+            "name": "Gloves, sponges & brushes",
+            "slugs": [
+                "laundry-cleaning",
+                "cleaning-utensils",
+                "gloves-sponges-brushes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/706603800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.50",
+            "advertisedDisplayValue": "1.50",
+            "effectiveDisplayValue": "1.50",
+            "multiplier": 1,
+            "value": 1.5,
+            "effectiveValue": 1.5,
+            "advertisedValue": 1.5,
+            "unitPrice": {
+                "value": 0.75,
+                "unit": "piece"
+            }
+        },
+        "quantity": "2 Stk.",
+        "quantityPrice": "0.75/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:13:36"
+}

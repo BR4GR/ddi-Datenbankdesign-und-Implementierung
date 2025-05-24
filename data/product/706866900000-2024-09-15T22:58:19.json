@@ -1,0 +1,117 @@
+{
+    "uid": 100035938,
+    "migrosId": "706866900000",
+    "migrosOnlineId": "216823",
+    "name": "Taxed bin bags",
+    "brand": "Züri-Sack",
+    "versioning": "35l, Zurich",
+    "title": "Züri-Sack · Taxed bin bags · 35l, Zurich",
+    "description": "Züri-Sack Taxed bin bags 35l, Zurich",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Züri-Sack",
+                "slug": "zuri-sack"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 39,
+                    "productionRatio": 96,
+                    "transportRatio": 2,
+                    "packagingRatio": 2,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 50,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/706866900000"
+        },
+        "usageInformation": {
+            "usage": "Applies only to the city of Zurich"
+        },
+        "otherInformation": {
+            "articleNumber": "706866900000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7629999003484",
+        "7610628302689",
+        "7610628302702"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/9050791c2bad858844bec04b245679426b58800e/gebuehrensack-35l.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ca6de527230d100f7aab23fe48851cb2c56fafbd.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494740",
+            "name": "Laundry & cleaning",
+            "slugs": [
+                "laundry-cleaning"
+            ]
+        },
+        {
+            "id": "7494807",
+            "name": "Kitchen cleaning supplies",
+            "slugs": [
+                "laundry-cleaning",
+                "kitchen-cleaning-supplies"
+            ]
+        },
+        {
+            "id": "7495143",
+            "name": "Bin bags",
+            "slugs": [
+                "laundry-cleaning",
+                "kitchen-cleaning-supplies",
+                "bin-bags"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/706866900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "16.20",
+            "advertisedDisplayValue": "16.20",
+            "effectiveDisplayValue": "16.20",
+            "multiplier": 1,
+            "value": 16.2,
+            "effectiveValue": 16.2,
+            "advertisedValue": 16.2,
+            "unitPrice": {
+                "value": 1.62,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 piece",
+        "quantityPrice": "1.62/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-15T22:58:19"
+}

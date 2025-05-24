@@ -1,0 +1,120 @@
+{
+    "uid": 100145750,
+    "migrosId": "107145300000",
+    "migrosOnlineId": "11614756",
+    "name": "organic coffee beans",
+    "brand": "La Semeuse",
+    "brandLine": "Perle de café",
+    "versioning": "Ethiopa",
+    "title": "La Semeuse Perle de café · organic coffee beans · Ethiopa",
+    "description": "La Semeuse organic coffee beans Ethiopa",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "La Semeuse",
+                "slug": "la-semeuse",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076886/brands/La_Semeuse_La_Semeuse_S.A._Logo"
+            },
+            "nutritionalCharacteristics": [
+                "Organic"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                }
+            ],
+            "ingredients": "Roasted whole bean coffee",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/107145300000"
+        },
+        "usageInformation": {
+            "additionalInformation": "intensity 3/5"
+        },
+        "otherInformation": {
+            "articleNumber": "107145300000",
+            "legalDesignation": "Roasted coffee beans",
+            "distributorName": "La Semeuse SA",
+            "remarks": [
+                {
+                    "code": "Consumer storage instructions",
+                    "value": "Store in a cool, dry place, away from light. After opening, consume quickly."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610244013242"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/da8a44913008c496492e9aafe53ef0835c482e18/la-semeuse-bio-kaffeeperle-ethiopia.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494772",
+            "name": "Coffee",
+            "slugs": [
+                "drinks-coffee-tea",
+                "coffee"
+            ]
+        },
+        {
+            "id": "7494966",
+            "name": "Coffee beans",
+            "slugs": [
+                "drinks-coffee-tea",
+                "coffee",
+                "coffee-beans"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/107145300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "12.95",
+            "advertisedDisplayValue": "12.95",
+            "effectiveDisplayValue": "12.95",
+            "multiplier": 1,
+            "value": 12.95,
+            "effectiveValue": 12.95,
+            "advertisedValue": 12.95,
+            "unitPrice": {
+                "value": 5.18,
+                "unit": "100g"
+            }
+        },
+        "quantity": "250g",
+        "quantityPrice": "5.18/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:14:46"
+}

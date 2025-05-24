@@ -1,0 +1,110 @@
+{
+    "uid": 100144892,
+    "migrosId": "210490304500",
+    "name": "Raclette St Theodule",
+    "title": "Raclette St Theodule",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "allergens": "Milk and its derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "animalWelfare": {
+                    "rating": 3,
+                    "image": "https://image.migros.ch/original/02f56762a6d67ea0470f50e5e8cc4d96d84791f0.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/210490304500"
+        },
+        "otherInformation": {
+            "articleNumber": "210490304500",
+            "legalDesignation": "Schweizer Halbhartkäse, vollfett, aus pasteurisierter Milch",
+            "identificationMark": "CH4201",
+            "distributorName": "Fromagerie Moléson SA",
+            "distributorStreetAndNumber": "Route de Villarsel 30CH - 1694 Orsonnens",
+            "remarks": [
+                {
+                    "code": "Aufbewahrungshinweise für den Konsumenten",
+                    "value": "Gekühlt aufbewahren bei max. +5°C"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "2161282000008",
+        "306225",
+        "7613269843825"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/2c59ce9d92257fc7031ca2e93f1494f6301afa75/raclette-st-theodule.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494752",
+            "name": "Cheese",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese"
+            ]
+        },
+        {
+            "id": "7494874",
+            "name": "Raclettes, fondues & grilling cheeses",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese",
+                "raclettes-fondues-grilling-chees"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/210490304500",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.65",
+            "advertisedDisplayValue": "2.65",
+            "effectiveDisplayValue": "2.65",
+            "multiplier": 1,
+            "value": 2.65,
+            "effectiveValue": 2.65,
+            "advertisedValue": 2.65,
+            "unitPrice": {
+                "value": 2.65,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "2.65/100g",
+        "isVariableWeight": true,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "VARIABLE_WEIGHT",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483133/labels/poids-variable",
+                "description": "Variable Weight"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T03:21:47"
+}

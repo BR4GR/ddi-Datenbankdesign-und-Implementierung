@@ -1,0 +1,102 @@
+{
+    "uid": 100050482,
+    "migrosId": "107099000000",
+    "name": "Elephant Ma Verveine",
+    "brand": "L'Elephant",
+    "title": "Elephant Ma Verveine",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "L'Elephant",
+                "slug": "lelephant"
+            },
+            "ingredients": "Ingrédients: Ingrédient : Verveine 100%.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 9,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/107099000000"
+        },
+        "otherInformation": {
+            "articleNumber": "107099000000",
+            "legalDesignation": "Plante à infusion.",
+            "distributorName": "Unilever",
+            "remarks": [
+                {
+                    "code": "Instructions de stockage pour le consommateur",
+                    "value": "Conserver au sec et à température ambiante."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "8712566151592",
+        "8720608018383"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/0dc910fdbbb54ec5a639597a71944bbe39742bda/elephant-ma-verveine.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494773",
+            "name": "Tea",
+            "slugs": [
+                "drinks-coffee-tea",
+                "tea"
+            ]
+        },
+        {
+            "id": "7494974",
+            "name": "Herbal infusions with plants",
+            "slugs": [
+                "drinks-coffee-tea",
+                "tea",
+                "herbal-infusions-with-plants"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/107099000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.90",
+            "advertisedDisplayValue": "2.90",
+            "effectiveDisplayValue": "2.90",
+            "multiplier": 1,
+            "value": 2.9,
+            "effectiveValue": 2.9,
+            "advertisedValue": 2.9,
+            "unitPrice": {
+                "value": 8.8,
+                "unit": "100g"
+            }
+        },
+        "quantity": "33g",
+        "quantityPrice": "8.80/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T22:24:26"
+}

@@ -1,0 +1,104 @@
+{
+    "uid": 100143372,
+    "migrosId": "162050800000",
+    "name": "Ofenkroketten 1kg",
+    "brand": "Delicious",
+    "title": "Ofenkroketten 1kg",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Delicious",
+                "slug": "delicious"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/162050800000"
+        },
+        "otherInformation": {
+            "articleNumber": "162050800000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Packaging type",
+                    "value": "Beutel/Sack"
+                },
+                {
+                    "code": "Pre-processing",
+                    "value": "vorfrittiert"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "backen"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7616800817408"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/cb9d34907aa19f2eaa223fdebf36263adbe5d3f3/ofenkroketten-1kg.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494738",
+            "name": "Frozen food",
+            "slugs": [
+                "frozen-food"
+            ]
+        },
+        {
+            "id": "7494799",
+            "name": "Potatoes & chips",
+            "slugs": [
+                "frozen-food",
+                "potatoes-chips"
+            ]
+        },
+        {
+            "id": "7495105",
+            "name": "Other potato products",
+            "slugs": [
+                "frozen-food",
+                "potatoes-chips",
+                "other-potato-products"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/162050800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "6.–",
+            "advertisedDisplayValue": "6.–",
+            "effectiveDisplayValue": "6.–",
+            "multiplier": 1,
+            "value": 6,
+            "effectiveValue": 6,
+            "advertisedValue": 6
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483530/labels/frozen",
+                "description": "frozen"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T05:34:50"
+}

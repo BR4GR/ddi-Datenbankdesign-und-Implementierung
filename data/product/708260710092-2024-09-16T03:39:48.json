@@ -1,0 +1,136 @@
+{
+    "uid": 100079900,
+    "migrosId": "708260710092",
+    "name": "Zentimeter",
+    "title": "Zentimeter",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 10,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/708260710092"
+        },
+        "otherInformation": {
+            "articleNumber": "708260710092",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Number",
+                    "value": "1 Pcs."
+                },
+                {
+                    "code": "Dimensions/size",
+                    "value": "1.5m"
+                },
+                {
+                    "code": "Color",
+                    "value": "gelb, schwarz"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613249107572",
+        "4002272821013",
+        "7610002066992"
+    ],
+    "variants": {
+        "baseProductMigrosId": "708260700000",
+        "mainVariantMigrosId": "708260710092",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "100 mm/100 cm",
+                    "color": "ass.                        16"
+                },
+                "migrosId": "708260710092"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "ass.                        16",
+                "options": [
+                    "ass.                        16"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "100 mm/100 cm",
+                "options": [
+                    "100 mm/100 cm"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/379db50bcd68fdc995fcd2b9711c02c8dac6c261/zentimeter.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494812",
+            "name": "DIY, home decoration and haberdashery",
+            "slugs": [
+                "household-and-living",
+                "diy-home-decoration-and-haberdas"
+            ]
+        },
+        {
+            "id": "7495164",
+            "name": "Haberdashery",
+            "slugs": [
+                "household-and-living",
+                "diy-home-decoration-and-haberdas",
+                "haberdashery"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/708260710092",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.95",
+            "advertisedDisplayValue": "2.95",
+            "effectiveDisplayValue": "2.95",
+            "multiplier": 1,
+            "value": 2.95,
+            "effectiveValue": 2.95,
+            "advertisedValue": 2.95,
+            "unitPrice": {
+                "value": 2.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "2.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T03:39:48"
+}

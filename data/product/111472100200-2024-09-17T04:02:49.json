@@ -1,0 +1,191 @@
+{
+    "uid": 100093105,
+    "migrosId": "111472100200",
+    "name": "St. Galler Brot ruch IP-SUISSE",
+    "brand": "In-store bakery",
+    "title": "St. Galler Brot ruch IP-SUISSE",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                },
+                {
+                    "id": "L03",
+                    "name": "IP-SUISSE",
+                    "slug": "ip-suisse",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483396/labels/IP-Suisse_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "In-store bakery",
+                "slug": "in-store-bakery"
+            },
+            "ingredients": "WEIZENmehl (CH)°^, Wasser, Kochsalz jodiert, Hefe, WEIZENmehl, WEIZENkleber, GERSTENmalzmehl, Acerolasaft\n\n° in IP-SUISSE Qualität\n^ Aus der Region",
+            "allergenIndication": "Kann Eier, Milch, Baumnüsse, Sesam, Haselnüsse, Mandeln enthalten.\n",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 5,
+                    "productionRatio": 80,
+                    "transportRatio": 1,
+                    "packagingRatio": 19,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 19,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/111472100200"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1009 kJ (241 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "0.8 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "50 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "8.3 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "1.7 g",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "111472100200",
+            "legalDesignation": "Weizenbrot",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Packaging type",
+                    "value": "Brotbeutel"
+                },
+                {
+                    "code": "Type of product",
+                    "value": "﻿Large bread fresh"
+                },
+                {
+                    "code": "Production process",
+                    "value": "Aus der Region, IP-SUISSE-Qualität, Von Hand gefertigt"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610200088727"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/8b82cbf4fc345fb66f0761937f71681476a13191/st-galler-brot-ruch-ip-suisse.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494763",
+            "name": "Fresh bread",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "fresh-bread"
+            ]
+        },
+        {
+            "id": "7494924",
+            "name": "Fresh bread",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "fresh-bread",
+                "fresh-bread"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/111472100200",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.10",
+            "advertisedDisplayValue": "3.10",
+            "effectiveDisplayValue": "3.10",
+            "multiplier": 1,
+            "value": 3.1,
+            "effectiveValue": 3.1,
+            "advertisedValue": 3.1,
+            "unitPrice": {
+                "value": 0.62,
+                "unit": "100g"
+            }
+        },
+        "quantity": "500g",
+        "quantityPrice": "0.62/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:02:49"
+}

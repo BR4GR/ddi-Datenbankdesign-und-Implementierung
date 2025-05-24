@@ -1,0 +1,120 @@
+{
+    "uid": 100046980,
+    "migrosId": "204560300000",
+    "migrosOnlineId": "6791621",
+    "name": "Yogurt drink",
+    "brand": "Emmi",
+    "brandLine": "Benecol",
+    "versioning": "Strawberry",
+    "title": "Emmi Benecol · Yogurt drink · Strawberry",
+    "description": "Emmi Yogurt drink Strawberry",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "Emmi",
+                "slug": "emmi"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 20,
+                "nbStars": 4.5
+            }
+        },
+        "usageInformation": {
+            "usage": "Drinking yoghurt with plant stanol esters for cholesterol lowering"
+        },
+        "otherInformation": {
+            "articleNumber": "204560300000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Packaging type",
+                    "value": "Bottle"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                },
+                {
+                    "code": "Type of soft drink",
+                    "value": "Joghurtdrink"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610900101795",
+        "7610900262700",
+        "7613269695462",
+        "7610900101962"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/65792855d3f4dd37129b3b8ea98a43b7e028f915/benecol-erdbeer.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/76ae7c66c44eb0f0c6272b04bc8acc220721c8d3.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494753",
+            "name": "Yogurts & desserts",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "yogurts-desserts"
+            ]
+        },
+        {
+            "id": "7494880",
+            "name": "Yogurt drinks",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "yogurts-desserts",
+                "yogurt-drinks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/204560300000",
+    "isMgbCompatible": false,
+    "isConsignmentProduct": false,
+    "offer": {
+        "isVariableWeight": false,
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "REGION",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679482984/labels/suisse",
+                "description": "Switzerland"
+            },
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483166/labels/fresh",
+                "description": "fresh"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true
+    },
+    "dateAdded": "2024-09-29T05:30:53"
+}

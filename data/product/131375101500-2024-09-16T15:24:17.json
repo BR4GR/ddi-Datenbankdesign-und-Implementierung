@@ -1,0 +1,128 @@
+{
+    "uid": 100164289,
+    "migrosId": "131375101500",
+    "name": "Migros Daily Chia Crème Waldbeere",
+    "brand": "Migros Daily",
+    "title": "Migros Daily Chia Crème Waldbeere",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L57",
+                    "name": "V-Label vegan",
+                    "slug": "v-label-vegan",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483003/labels/V-Label_Vegan_Color"
+                }
+            ],
+            "brand": {
+                "name": "Migros Daily",
+                "slug": "migros-daily",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076969/brands/Migros_Daily_Logo"
+            },
+            "nutritionalCharacteristics": [
+                "Vegan"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegan"
+                }
+            ],
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 3,
+                    "co2CarKmEquivalent": 16,
+                    "productionRatio": 92,
+                    "transportRatio": 2,
+                    "packagingRatio": 6,
+                    "image": "https://image.migros.ch/original/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "co2KgRange": "2 - 4.7 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/131375101500"
+        },
+        "otherInformation": {
+            "articleNumber": "131375101500",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "vegan"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613269892731"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/00bf72933abf54516e1e5d7c0c0ae372fd2e6cf9/migros-daily-chia-creme-waldbeere.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494753",
+            "name": "Yogurts & desserts",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "yogurts-desserts"
+            ]
+        },
+        {
+            "id": "7494883",
+            "name": "Creams & desserts",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "yogurts-desserts",
+                "creams-desserts"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/131375101500",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.70",
+            "advertisedDisplayValue": "3.70",
+            "effectiveDisplayValue": "3.70",
+            "multiplier": 1,
+            "value": 3.7,
+            "effectiveValue": 3.7,
+            "advertisedValue": 3.7,
+            "unitPrice": {
+                "value": 2.47,
+                "unit": "100g"
+            }
+        },
+        "quantity": "150g",
+        "quantityPrice": "2.47/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T15:24:17"
+}

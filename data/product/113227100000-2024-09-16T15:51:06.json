@@ -1,0 +1,92 @@
+{
+    "uid": 100167432,
+    "migrosId": "113227100000",
+    "name": "Bricelets Kreuzkümmel",
+    "title": "Bricelets Kreuzkümmel",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/113227100000"
+        },
+        "otherInformation": {
+            "articleNumber": "113227100000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7623186230318"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/87b09da5c4f212b8c5aef74a21ef190342c4c80f/bricelets-kreuzkuemmel.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494780",
+            "name": "Snacks & crisps",
+            "slugs": [
+                "snacks-sweets",
+                "snacks-crisps"
+            ]
+        },
+        {
+            "id": "7495006",
+            "name": "Savoury biscuits",
+            "slugs": [
+                "snacks-sweets",
+                "snacks-crisps",
+                "savoury-biscuits"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/113227100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.90",
+            "advertisedDisplayValue": "6.90",
+            "effectiveDisplayValue": "6.90",
+            "multiplier": 1,
+            "value": 6.9,
+            "effectiveValue": 6.9,
+            "advertisedValue": 6.9,
+            "unitPrice": {
+                "value": 6.9,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100g",
+        "quantityPrice": "6.90/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T15:51:06"
+}

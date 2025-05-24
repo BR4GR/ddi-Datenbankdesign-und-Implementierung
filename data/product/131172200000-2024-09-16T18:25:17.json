@@ -1,0 +1,88 @@
+{
+    "uid": 100100401,
+    "migrosId": "131172200000",
+    "name": "Mini Blinis 12 Stück",
+    "title": "Mini Blinis 12 Stück",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/131172200000"
+        },
+        "otherInformation": {
+            "articleNumber": "131172200000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613404122716"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/18a45015a332cdfbfe07cdf9253212130e028167/mini-blinis-12-stueck.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/2c163d111c373ad6accedeeea6e62839d894cc86.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494754",
+            "name": "Fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food"
+            ]
+        },
+        {
+            "id": "7494888",
+            "name": "Antipasti & sauces",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food",
+                "antipasti-sauces"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/131172200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "8.–",
+            "advertisedDisplayValue": "8.–",
+            "effectiveDisplayValue": "8.–",
+            "multiplier": 1,
+            "value": 8,
+            "effectiveValue": 8,
+            "advertisedValue": 8,
+            "unitPrice": {
+                "value": 4.44,
+                "unit": "100g"
+            }
+        },
+        "quantity": "12 x 15g",
+        "quantityPrice": "4.44/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T18:25:17"
+}

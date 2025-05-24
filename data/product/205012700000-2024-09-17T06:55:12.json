@@ -1,0 +1,88 @@
+{
+    "uid": 100062857,
+    "migrosId": "205012700000",
+    "name": "Joghurt Milch Gruyère Sommer",
+    "title": "Joghurt Milch Gruyère Sommer",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "rating": {
+                "nbReviews": 9,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/205012700000"
+        },
+        "otherInformation": {
+            "articleNumber": "205012700000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613404227763"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3f96237d9f56866b5c58117c2754a0cf6baefbdf/joghurt-milch-gruyere-sommer.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494753",
+            "name": "Yogurts & desserts",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "yogurts-desserts"
+            ]
+        },
+        {
+            "id": "7494879",
+            "name": "Yogurts",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "yogurts-desserts",
+                "yogurts"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/205012700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.70",
+            "advertisedDisplayValue": "6.70",
+            "effectiveDisplayValue": "6.70",
+            "multiplier": 1,
+            "value": 6.7,
+            "effectiveValue": 6.7,
+            "advertisedValue": 6.7,
+            "unitPrice": {
+                "value": 0.62,
+                "unit": "100g"
+            }
+        },
+        "quantity": "12 x 90g",
+        "quantityPrice": "0.62/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:55:12"
+}

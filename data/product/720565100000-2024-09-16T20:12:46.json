@@ -1,0 +1,125 @@
+{
+    "uid": 100060903,
+    "migrosId": "720565100000",
+    "name": "Klebstoffentfern",
+    "brand": "Papeteria",
+    "title": "Klebstoffentfern",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Papeteria",
+                "slug": "papeteria",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077073/brands/Papeteria_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/720565100000"
+        },
+        "usageInformation": {
+            "signalWord": "Achtung",
+            "chemicalPictosV2": [
+                {
+                    "cdn": "rokka",
+                    "pictoId": "GHS07",
+                    "pictoPath": "https://image.migros.ch/original/09b3c0810d45b7f83a5ad48c5bc38d4d0227615b/Dickes%20Ausrufezeichen.jpg",
+                    "pictoPathStack": "https://image.migros.ch/{stack}/09b3c0810d45b7f83a5ad48c5bc38d4d0227615b/Dickes%20Ausrufezeichen.jpg"
+                }
+            ],
+            "chemicalWarnings": [
+                "Verursacht schwere Augenreizung."
+            ],
+            "chemicalSafetyInstructions": [
+                "BEI KONTAKT MIT DEN AUGEN: Einige Minuten lang behutsam mit Wasser ausspülen. Eventuell vorhandene Kontaktlinsen nach Möglichkeit entfernen. Weiter spülen.",
+                "Nach Gebrauch Hände gründlich waschen",
+                "Darf nicht in die Hände von Kindern gelangen.",
+                "Bei anhaltender Augenreizung: Ärztlichen Rat einholen/ärztliche Hilfe hinzuziehen."
+            ]
+        },
+        "otherInformation": {
+            "articleNumber": "720565100000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Number",
+                    "value": "1 Pcs."
+                },
+                {
+                    "code": "Content",
+                    "value": "10 g"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613205137094"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/5b6df32698d9e058f53772895be1ccf184cff771/klebstoffentfern.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494813",
+            "name": "Office & stationery",
+            "slugs": [
+                "household-and-living",
+                "office-stationery"
+            ]
+        },
+        {
+            "id": "7495167",
+            "name": "Office supplies",
+            "slugs": [
+                "household-and-living",
+                "office-stationery",
+                "office-supplies"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/720565100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.95",
+            "advertisedDisplayValue": "6.95",
+            "effectiveDisplayValue": "6.95",
+            "multiplier": 1,
+            "value": 6.95,
+            "effectiveValue": 6.95,
+            "advertisedValue": 6.95,
+            "unitPrice": {
+                "value": 69.5,
+                "unit": "100g"
+            }
+        },
+        "quantity": "10g",
+        "quantityPrice": "69.50/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T20:12:46"
+}

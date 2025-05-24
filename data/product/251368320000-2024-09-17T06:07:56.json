@@ -1,0 +1,88 @@
+{
+    "uid": 100144699,
+    "migrosId": "251368320000",
+    "name": "Räucherlachssalat",
+    "title": "Räucherlachssalat",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/251368320000"
+        },
+        "otherInformation": {
+            "articleNumber": "251368320000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7623186229633"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/00a910b38a67ae73241f06ab3f3193eda307ccee/raeucherlachssalat.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/980f93f6b3d8fef19328382dd8fabe477a7712f3.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494749",
+            "name": "Fish",
+            "slugs": [
+                "meat-fish",
+                "fish"
+            ]
+        },
+        {
+            "id": "7494860",
+            "name": "Salmon & smoked fish",
+            "slugs": [
+                "meat-fish",
+                "fish",
+                "salmon-smoked-fish"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/251368320000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.50",
+            "advertisedDisplayValue": "7.50",
+            "effectiveDisplayValue": "7.50",
+            "multiplier": 1,
+            "value": 7.5,
+            "effectiveValue": 7.5,
+            "advertisedValue": 7.5,
+            "unitPrice": {
+                "value": 4.41,
+                "unit": "100g"
+            }
+        },
+        "quantity": "170g",
+        "quantityPrice": "4.41/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:07:56"
+}

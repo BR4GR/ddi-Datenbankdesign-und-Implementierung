@@ -1,0 +1,189 @@
+{
+    "uid": 100111673,
+    "migrosId": "151004300000",
+    "migrosOnlineId": "10306036",
+    "name": "jam",
+    "brand": "Belle Journée",
+    "brandLine": "Extra",
+    "versioning": "raspberries",
+    "title": "Belle Journée Extra · jam · raspberries",
+    "description": "Belle Journée jam raspberries",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Belle Journée",
+                "slug": "belle-journee",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1703170124/brands/belle_journee"
+            },
+            "ingredients": "Zucker, Himbeeren, Geliermittel: Pektin, Säuerungsmittel: Citronensäure.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 4,
+                    "productionRatio": 70,
+                    "transportRatio": 5,
+                    "packagingRatio": 23,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 91,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/151004300000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "2 Teelöffel (10 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1018 kJ (240 kcal)",
+                            "102 kJ (24 kcal)",
+                            "1 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            "1 %"
+                        ]
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            "0 %"
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "57 g",
+                            "5.7 g",
+                            "2 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "57 g",
+                            "5.7 g",
+                            "6 %"
+                        ]
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "3.6 g",
+                            "< 0.5 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "0.6 g",
+                            "< 0.5 g",
+                            "1 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.02 g",
+                            "0 g",
+                            "0 %"
+                        ]
+                    }
+                ]
+            },
+            "portionSentence": "1 Jar = 50 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "151004300000",
+            "legalDesignation": "Himbeerkonfitüre Extra",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613312373729"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/06a4dc41a832f3176fc0f11625cc931f8ad6acc0/belle-journee-extra-himbeeren.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494768",
+            "name": "Jam, spreads & honey",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "jam-spreads-honey"
+            ]
+        },
+        {
+            "id": "7494945",
+            "name": "Jams",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "jam-spreads-honey",
+                "jams"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/151004300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.55",
+            "advertisedDisplayValue": "3.55",
+            "effectiveDisplayValue": "3.55",
+            "multiplier": 1,
+            "value": 3.55,
+            "effectiveValue": 3.55,
+            "advertisedValue": 3.55,
+            "unitPrice": {
+                "value": 0.71,
+                "unit": "100g"
+            }
+        },
+        "quantity": "500g",
+        "quantityPrice": "0.71/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T06:50:45"
+}

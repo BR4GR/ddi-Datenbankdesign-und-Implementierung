@@ -1,0 +1,84 @@
+{
+    "uid": 100143428,
+    "migrosId": "268810305200",
+    "name": "Cashewnüsse",
+    "title": "Cashewnüsse",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/268810305200"
+        },
+        "otherInformation": {
+            "articleNumber": "268810305200",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613269350934"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/e34cd12794f7573f1839522eeaf24579860d5f5d/cashewnuesse.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494780",
+            "name": "Snacks & crisps",
+            "slugs": [
+                "snacks-sweets",
+                "snacks-crisps"
+            ]
+        },
+        {
+            "id": "7495007",
+            "name": "Peanuts & salted nuts",
+            "slugs": [
+                "snacks-sweets",
+                "snacks-crisps",
+                "peanuts-salted-nuts"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/268810305200",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.50",
+            "advertisedDisplayValue": "4.50",
+            "effectiveDisplayValue": "4.50",
+            "multiplier": 1,
+            "value": 4.5,
+            "effectiveValue": 4.5,
+            "advertisedValue": 4.5,
+            "unitPrice": {
+                "value": 3.6,
+                "unit": "100g"
+            }
+        },
+        "quantity": "125g",
+        "quantityPrice": "3.60/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T19:18:27"
+}

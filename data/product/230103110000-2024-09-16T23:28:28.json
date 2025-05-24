@@ -1,0 +1,190 @@
+{
+    "uid": 100066056,
+    "migrosId": "230103110000",
+    "name": "Merguez roh",
+    "title": "Merguez roh",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "ingredients": "Rindfleisch* 55%, Schaffleisch* 20%, Rindsfett*, Wasser, Gewürze, Kochsalz, Sonnenblumenöl, Glucose, Säureregulator: E 262, Antioxidationsmittel: Ascorbinsäure, E 301, E 331.\n*Die effektive Herkunft ist auf der Verpackung angegeben.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 42,
+                    "productionRatio": 97,
+                    "transportRatio": 1,
+                    "packagingRatio": 2,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 14,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/230103110000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "Stück (50 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1218 kJ (294 kcal)",
+                            "609 kJ (147 kcal)",
+                            "7 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "26 g",
+                            "13 g",
+                            "19 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "10 g",
+                            "5 g",
+                            "25 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "2 g",
+                            "1 g",
+                            "< 0.5 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "2 g",
+                            "1 g",
+                            "1 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "13 g",
+                            "6.5 g",
+                            "13 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "2.1 g",
+                            "1.1 g",
+                            "18 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "230103110000",
+            "legalDesignation": "Fleischzubereitung aus Rind- und Schaffleisch, zum Gekochtessen",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store refrigerated at max. +5 °C."
+                },
+                {
+                    "code": "Warning and other mandatory information",
+                    "value": "This product must be cooked/fried thoroughly before consumption."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "2150831000002",
+        "230247"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ef75a8876b7114306360a3360db515dfc788743b/merguez-roh.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494748",
+            "name": "Cold cuts",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts"
+            ]
+        },
+        {
+            "id": "7494855",
+            "name": "Sausages & cervelats",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts",
+                "sausages-cervelats"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/230103110000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-16T23:28:28"
+}

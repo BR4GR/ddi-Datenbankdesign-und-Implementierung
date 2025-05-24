@@ -1,0 +1,117 @@
+{
+    "uid": 100121804,
+    "migrosId": "271422202400",
+    "migrosOnlineId": "10441378",
+    "name": "Tomatoes",
+    "brand": "Extra",
+    "title": "Extra · Tomatoes",
+    "description": "Extra Tomatoes ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Extra",
+                "slug": "extra",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076705/brands/extra_fruits_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 3,
+                    "productionRatio": 82,
+                    "transportRatio": 10,
+                    "packagingRatio": 8,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 36,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/271422202400"
+        },
+        "usageInformation": {
+            "usage": "Contrary to popular belief, tomatoes should not be stored in the refrigerator, the cold neutralises the smell and taste. Also avoid storing them near a heat source to prevent them from becoming soft.",
+            "additionalInformation": "This best-selling tomato is versatile and looks great both raw and cooked."
+        },
+        "otherInformation": {
+            "articleNumber": "271422202400",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7623186073229"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/e2a9550b250e3fee60da3d5f5a99dea7de0fe889/extra-rispentomaten.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/7c890ab3fed12db6e5611c2d1691127c2496a39e.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494757",
+            "name": "Vegetables",
+            "slugs": [
+                "fruits-vegetables",
+                "vegetables"
+            ]
+        },
+        {
+            "id": "7494901",
+            "name": "Tomatoes",
+            "slugs": [
+                "fruits-vegetables",
+                "vegetables",
+                "tomatoes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/271422202400",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.95",
+            "advertisedDisplayValue": "3.95",
+            "effectiveDisplayValue": "3.95",
+            "multiplier": 1,
+            "value": 3.95,
+            "effectiveValue": 3.95,
+            "advertisedValue": 3.95,
+            "unitPrice": {
+                "value": 0.79,
+                "unit": "100g"
+            }
+        },
+        "quantity": "500g",
+        "quantityPrice": "0.79/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:45:36"
+}

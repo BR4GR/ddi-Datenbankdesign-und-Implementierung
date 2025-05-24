@@ -1,0 +1,90 @@
+{
+    "uid": 100143718,
+    "migrosId": "243149410000",
+    "name": "Pouletschenkel Bourgogne",
+    "title": "Pouletschenkel Bourgogne",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/243149410000"
+        },
+        "otherInformation": {
+            "articleNumber": "243149410000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "2153709000005",
+        "212977",
+        "7613269159117"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a1e650937fe99b4a1cf35c3b131e9bd4edd1f18a/pouletschenkel-bourgogne.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/504a5e4c9b791e61ca316ba881388d86b5d707b7.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494747",
+            "name": "Meat & poultry",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry"
+            ]
+        },
+        {
+            "id": "7494845",
+            "name": "Chicken, turkey & duck",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry",
+                "chicken-turkey-duck"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/243149410000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.10",
+            "advertisedDisplayValue": "3.10",
+            "effectiveDisplayValue": "3.10",
+            "multiplier": 1,
+            "value": 3.1,
+            "effectiveValue": 3.1,
+            "advertisedValue": 3.1,
+            "unitPrice": {
+                "value": 3.1,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "3.10/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:07:35"
+}

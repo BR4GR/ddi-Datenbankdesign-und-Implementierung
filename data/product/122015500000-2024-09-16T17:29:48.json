@@ -1,0 +1,203 @@
+{
+    "uid": 100148022,
+    "migrosId": "122015500000",
+    "name": "M-Classic Orangensaft",
+    "brand": "M-Classic",
+    "title": "M-Classic Orangensaft",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Classic",
+                "slug": "m-classic",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252457/brands/m-classic"
+            },
+            "ingredients": "orange juice from concentrate⁺.\n⁺ Rainforest Alliance Certified. www.ra.org",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 1,
+                    "productionRatio": 39,
+                    "transportRatio": 11,
+                    "packagingRatio": 49,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 45,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/122015500000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 ml",
+                    "1 Glas (200 ml)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "206 kJ (48 kcal)",
+                            "394 kJ (93 kcal)",
+                            "5 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            "1 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "< 0.1 g",
+                            "0.2 g",
+                            "1 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "11 g",
+                            "21 g",
+                            "8 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "9 g",
+                            "18 g",
+                            "20 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "0.7 g",
+                            "1.4 g",
+                            "3 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "< 0.01 g",
+                            "< 0.01 g",
+                            "0.5 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "portionSentence": "1 bottle = 5 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "122015500000",
+            "legalDesignation": "100 % Orangensaft aus Orangensaftkonzentrat",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Once opened, store at a max. +5 °C and consume quickly."
+                },
+                {
+                    "code": "Production information",
+                    "value": "pasteurized"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312425930"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/90978fd4da236ee7ac465044628487870fefa80d/m-classic-orangensaft.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/6354d3d25f1f5b81d86947b69a703e962a156eae.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494771",
+            "name": "Fruit & vegetable juices",
+            "slugs": [
+                "drinks-coffee-tea",
+                "fruit-vegetable-juices"
+            ]
+        },
+        {
+            "id": "7494958",
+            "name": "Orange juice",
+            "slugs": [
+                "drinks-coffee-tea",
+                "fruit-vegetable-juices",
+                "orange-juice"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/122015500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.80",
+            "advertisedDisplayValue": "7.80",
+            "effectiveDisplayValue": "7.80",
+            "multiplier": 1,
+            "value": 7.8,
+            "effectiveValue": 7.8,
+            "advertisedValue": 7.8,
+            "unitPrice": {
+                "value": 0.2,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "4 x 1l",
+        "quantityPrice": "0.20/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:29:48"
+}

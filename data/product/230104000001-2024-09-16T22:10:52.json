@@ -1,0 +1,111 @@
+{
+    "uid": 100143485,
+    "migrosId": "230104000001",
+    "name": "Grill mi Mega Griller",
+    "brand": "Grill mi",
+    "title": "Grill mi Mega Griller",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                },
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "Grill mi",
+                "slug": "grill-mi"
+            },
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 3.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/230104000001"
+        },
+        "otherInformation": {
+            "articleNumber": "230104000001",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7623186190407"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1868906cd2ee22d3d971c928ceb5f99c8c91fb16/grill-mi-mega-griller.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/230f70610c9462e8ae281cc992d7f71cbba464a5.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494748",
+            "name": "Cold cuts",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts"
+            ]
+        },
+        {
+            "id": "7494855",
+            "name": "Sausages & cervelats",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts",
+                "sausages-cervelats"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/230104000001",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.90",
+            "advertisedDisplayValue": "7.90",
+            "effectiveDisplayValue": "7.90",
+            "multiplier": 1,
+            "value": 7.9,
+            "effectiveValue": 7.9,
+            "advertisedValue": 7.9,
+            "unitPrice": {
+                "value": 2.19,
+                "unit": "100g"
+            }
+        },
+        "quantity": "360g",
+        "quantityPrice": "2.19/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T22:10:52"
+}

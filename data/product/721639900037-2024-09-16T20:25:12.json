@@ -1,0 +1,140 @@
+{
+    "uid": 100080027,
+    "migrosId": "721639900037",
+    "name": "Ring binder A4",
+    "title": "Ring binder A4",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 4,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/721639900037"
+        },
+        "otherInformation": {
+            "articleNumber": "721639900037",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Number",
+                    "value": "1 Pcs."
+                },
+                {
+                    "code": "Dimensions/size",
+                    "value": "32 x 24.9 x 3 cm"
+                },
+                {
+                    "code": "Material",
+                    "value": "Polypropylen PP"
+                },
+                {
+                    "code": "Format",
+                    "value": "A4, 210 x 297 mm"
+                },
+                {
+                    "code": "Color",
+                    "value": "berry"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613346994310"
+    ],
+    "variants": {
+        "baseProductMigrosId": "721639900000",
+        "mainVariantMigrosId": "721639900037",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "Berry"
+                },
+                "migrosId": "721639900037"
+            },
+            {
+                "declinationOptions": {
+                    "color": "Blau"
+                },
+                "migrosId": "721639900040"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "Berry",
+                "options": [
+                    "Berry",
+                    "Blau"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ec5b2adfb7a9c91df2a8f32d32e4b5bbd971a141/ring-binder-a4.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494813",
+            "name": "Office & stationery",
+            "slugs": [
+                "household-and-living",
+                "office-stationery"
+            ]
+        },
+        {
+            "id": "7495168",
+            "name": "Organise & store",
+            "slugs": [
+                "household-and-living",
+                "office-stationery",
+                "organise-store"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/721639900037",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.50",
+            "advertisedDisplayValue": "3.50",
+            "effectiveDisplayValue": "3.50",
+            "multiplier": 1,
+            "value": 3.5,
+            "effectiveValue": 3.5,
+            "advertisedValue": 3.5,
+            "unitPrice": {
+                "value": 3.5,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "3.50/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T20:25:12"
+}

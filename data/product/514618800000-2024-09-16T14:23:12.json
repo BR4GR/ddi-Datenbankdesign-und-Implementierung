@@ -1,0 +1,125 @@
+{
+    "uid": 100005778,
+    "migrosId": "514618800000",
+    "migrosOnlineId": "55329",
+    "name": "Shampoo",
+    "brand": "M-Budget",
+    "versioning": "Normal to oily hair",
+    "title": "M-Budget · Shampoo · Normal to oily hair",
+    "description": "M-Budget Shampoo Normal to oily hair",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Budget",
+                "slug": "m-budget",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252456/brands/m-budget"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 44,
+                    "productionRatio": 97,
+                    "transportRatio": 1,
+                    "packagingRatio": 2,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 102,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/514618800000"
+        },
+        "otherInformation": {
+            "articleNumber": "514618800000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Shampoo"
+                },
+                {
+                    "code": "Requirements/uses",
+                    "value": "Anti-Fett, Feuchtigkeit"
+                },
+                {
+                    "code": "Suitable for",
+                    "value": "Fettiges Haar, Normales Haar"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312332665",
+        "4025300394815",
+        "7630028608280"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/01fe478e9a511735a92ef0799f3dc8db47920eef/m-budget-kraeuter-shampoo.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494825",
+            "name": "Hair care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hair-care"
+            ]
+        },
+        {
+            "id": "7495232",
+            "name": "Shampoos",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hair-care",
+                "shampoos"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/514618800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "0.75",
+            "advertisedDisplayValue": "0.75",
+            "effectiveDisplayValue": "0.75",
+            "multiplier": 1,
+            "value": 0.75,
+            "effectiveValue": 0.75,
+            "advertisedValue": 0.75,
+            "unitPrice": {
+                "value": 0.15,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "500ml",
+        "quantityPrice": "0.15/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:23:12"
+}

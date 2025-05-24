@@ -1,0 +1,175 @@
+{
+    "uid": 100025446,
+    "migrosId": "107126100000",
+    "migrosOnlineId": "4588973",
+    "name": "ground coffee",
+    "brand": "Migros Bio",
+    "versioning": "Espresso 4/5",
+    "title": "Migros Bio · ground coffee · Espresso 4/5",
+    "description": "Migros Bio ground coffee Espresso 4/5",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L04",
+                    "name": "FAIRTRADE MAX HAVELAAR",
+                    "slug": "fairtrade-max-havelaar",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679482976/labels/Fairtrade_Max_Havelaar_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "Migros Bio",
+                "slug": "migros-bio",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1678265962/brands/MIGROS_BIO_screen_pantone1_rgb"
+            },
+            "nutritionalCharacteristics": [
+                "Organic"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                }
+            ],
+            "ingredients": "Röstkaffee***. *** Bio- und Fairtrade-zertifizierte und von Bio- und Fairtrade-Produzenten angebaute Zutaten. Gesamtanteil 100%. www.maxhavelaar.ch",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 51,
+                    "productionRatio": 98,
+                    "transportRatio": 0,
+                    "packagingRatio": 2,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg"
+                }
+            },
+            "rating": {
+                "nbReviews": 62,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/107126100000"
+        },
+        "otherInformation": {
+            "articleNumber": "107126100000",
+            "legalDesignation": "Röstkaffee, gemahlen",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "bioCertification": "Bio-Zertifizierung: CH-BIO-006, bio.inspecta AG.",
+            "remarks": [
+                {
+                    "code": "Production information",
+                    "value": "Packaged in a protective atmosphere."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "﻿Usage note",
+                    "value": "Siebträger (Kolben), Mocca (Bialetti)"
+                },
+                {
+                    "code": "Coffee shape",
+                    "value": "gemahlen"
+                },
+                {
+                    "code": "Type of preparation",
+                    "value": "Röstkaffee"
+                },
+                {
+                    "code": "Production process",
+                    "value": "Capsule manufacturing, ﻿ground"
+                },
+                {
+                    "code": "Botanical variety",
+                    "value": "Arabica / Robusta"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Beutel/Sack"
+                },
+                {
+                    "code": "Decaffeinated",
+                    "value": "No"
+                },
+                {
+                    "code": "Säure (1-5)",
+                    "value": "1"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312212448"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a2f1939ade5b6228864f4ec8cdcf90e32fc6b121/migros-bio-fairtrade-espresso-gemahlen.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494772",
+            "name": "Coffee",
+            "slugs": [
+                "drinks-coffee-tea",
+                "coffee"
+            ]
+        },
+        {
+            "id": "7494967",
+            "name": "Ground coffee & others",
+            "slugs": [
+                "drinks-coffee-tea",
+                "coffee",
+                "ground-coffee-others"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/107126100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "9.20",
+            "advertisedDisplayValue": "9.20",
+            "effectiveDisplayValue": "9.20",
+            "multiplier": 1,
+            "value": 9.2,
+            "effectiveValue": 9.2,
+            "advertisedValue": 9.2,
+            "unitPrice": {
+                "value": 1.84,
+                "unit": "100g"
+            }
+        },
+        "quantity": "500g",
+        "quantityPrice": "1.84/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:59:03"
+}

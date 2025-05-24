@@ -1,0 +1,216 @@
+{
+    "uid": 100049780,
+    "migrosId": "104679300000",
+    "name": "Weissmehl",
+    "title": "Weissmehl",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L88",
+                    "name": "Nostrani del Ticino",
+                    "slug": "nostrani-del-ticino",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1707838713/labels/Nostrani_del_Ticino"
+                }
+            ],
+            "ingredients": "<strong>Weizen</strong>weissmehl ^. \n^ aus dem Tessin (CH)",
+            "allergens": "Cereals containing gluten and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 5,
+                    "productionRatio": 79,
+                    "transportRatio": 2,
+                    "packagingRatio": 19,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 30,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/104679300000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1515 kJ (357 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "1.2 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0.2 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "72 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "< 0.5 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "3.2 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "13 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.1 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "104679300000",
+            "legalDesignation": "Weizenweissmehl",
+            "distributorName": "Cooperativa Migros Ticino",
+            "distributorStreetAndNumber": "CH-6592 S. Antonino",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store in a dry place. Keep away from heat."
+                },
+                {
+                    "code": "Warning and other mandatory information",
+                    "value": "Use: For baking and cooking only. Flour and dough is not suitable for raw consumption. Natural water release may cause flour to lose weight."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Production process",
+                    "value": "Aus der Region"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Beutel/Sack"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "backen"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7640186710039",
+        "7606817022018",
+        "7610200244635"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/aca2f02ffee7a2b28899f8837f73b8dfdc750fd5/weissmehl.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494766",
+            "name": "Baking ingredients",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "baking-ingredients"
+            ]
+        },
+        {
+            "id": "7494935",
+            "name": "Flour & yeast",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "baking-ingredients",
+                "flour-yeast"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/104679300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.10",
+            "advertisedDisplayValue": "2.10",
+            "effectiveDisplayValue": "2.10",
+            "multiplier": 1,
+            "value": 2.1,
+            "effectiveValue": 2.1,
+            "advertisedValue": 2.1,
+            "unitPrice": {
+                "value": 0.21,
+                "unit": "100g"
+            }
+        },
+        "quantity": "1kg",
+        "quantityPrice": "0.21/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T01:56:10"
+}

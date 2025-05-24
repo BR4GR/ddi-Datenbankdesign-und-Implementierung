@@ -1,0 +1,134 @@
+{
+    "uid": 100019290,
+    "migrosId": "514144000000",
+    "migrosOnlineId": "102914",
+    "name": "Toothpaste",
+    "brand": "Candida",
+    "versioning": "Parodin",
+    "title": "Candida · Toothpaste · Parodin",
+    "description": "Candida Toothpaste Parodin",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Candida",
+                "slug": "candida",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076642/brands/Candida__Logo"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 36,
+                    "productionRatio": 96,
+                    "transportRatio": 1,
+                    "packagingRatio": 3,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 75,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/514144000000",
+            "cosmeticInformation": {
+                "ingredients": "Aqua, Dicalcium Phosphate Dihydrate, Hydrogenated Starch Hydrolysate, Hydroxyapatite, Hydrated Silica, Sodium Lauryl Sulfate, Sodium Monofluorophosphate, Aroma, Panthenol, Curcuma Xanthorrhiza Root Extract, Cellulose Gum, Trisodium Phosphate, Caprylic/Capric Triglyceride, Allantoin, Zinc Chloride, Sodium Saccharin, Bromochlorophene, Bisabolol, Sodium Hydroxide, Aluminum Lactate, Aluminum Hydroxide, Limonene, Cinnamal, CI 73360. 1490 ppm Fluorid."
+            }
+        },
+        "usageInformation": {
+            "usage": "Promotes the regeneration of irritated gums",
+            "additionalInformation": "Inhibits the new formation of bacteria and plaque. Makes the teeth particularly resistant to cavities. Lasting effect thanks to the formation of a protective film. Effect clinically confirmed."
+        },
+        "otherInformation": {
+            "articleNumber": "514144000000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Warnhinweise / Pflichthinweise",
+                    "value": "Enthält Natriummonofluorphosphat. Für Kinder unter 6 Jahren nicht geeignet. Contient du monofluorophosphate de sodium. Ne convient pas aux enfants de moins de 6 ans. Contiene sodio monofluorofosfato. Non indicato per bambini al di sotto dei 6 anni"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "RDA",
+                    "value": "RDA 25"
+                },
+                {
+                    "code": "Suitable for",
+                    "value": "Empfindliches Zahnfleisch, Kariesschutz"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "07624900118486",
+        "7624900121691",
+        "7624900109415"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/69af962cd690efb5ee1ac2bca90ce37bb7e181d6/can-parodin-75ml-zp.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494829",
+            "name": "Dental care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "dental-care"
+            ]
+        },
+        {
+            "id": "7495250",
+            "name": "Toothpaste",
+            "slugs": [
+                "drugstore-cosmetics",
+                "dental-care",
+                "toothpaste"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/514144000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.85",
+            "advertisedDisplayValue": "3.85",
+            "effectiveDisplayValue": "3.85",
+            "multiplier": 1,
+            "value": 3.85,
+            "effectiveValue": 3.85,
+            "advertisedValue": 3.85,
+            "unitPrice": {
+                "value": 5.13,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "75ml",
+        "quantityPrice": "5.13/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-15T23:49:26"
+}

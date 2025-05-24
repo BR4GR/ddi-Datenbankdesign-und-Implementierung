@@ -1,0 +1,90 @@
+{
+    "uid": 100131707,
+    "migrosId": "241001301200",
+    "name": "Coquelet gewürzt",
+    "title": "Coquelet gewürzt",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/241001301200"
+        },
+        "otherInformation": {
+            "articleNumber": "241001301200",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "2146701000005",
+        "7617023011796"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/42b14b8d7823d55d777c4fe705ddd9db34542e31/coquelet-gewuerzt.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/8a45884013cff32b543384990f68f617a027afe2.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/20d80740a2f9878cf3bfe7adf3677346d5918c48.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494747",
+            "name": "Meat & poultry",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry"
+            ]
+        },
+        {
+            "id": "7494845",
+            "name": "Chicken, turkey & duck",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry",
+                "chicken-turkey-duck"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/241001301200",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-17T05:09:22"
+}

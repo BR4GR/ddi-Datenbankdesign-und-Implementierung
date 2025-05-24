@@ -1,0 +1,186 @@
+{
+    "uid": 100068031,
+    "migrosId": "231040775500",
+    "name": "Holzofenfleischkäse",
+    "title": "Holzofenfleischkäse",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "ingredients": "Schweinefleisch (Schweiz), Speck (Schweiz), Wasser, Sulz 12% (Wasser, Schweinegelatinepulver, Caramelzuckersirup, Zucker, Glucose, Gewürzextrakte, Aroma, Konservierungsstoff: Kaliumsorbat), Kalbfleisch (Schweiz), Nitritpökelsalz (Kochsalz, Konservierungsstoff: Natriumnitrit), Gewürze, Antioxidationsmittel: Natriumascorbat, Stabilisatoren: Diphosphate und Triphosphate.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "animalWelfare": {
+                    "rating": 3,
+                    "image": "https://image.migros.ch/original/02f56762a6d67ea0470f50e5e8cc4d96d84791f0.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "rating": {
+                "nbReviews": 6,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/231040775500"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "Packung (120 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "945 kJ (228 kcal)",
+                            "1130 kJ (273 kcal)",
+                            "13 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "20 g",
+                            "24 g",
+                            "34 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "7 g",
+                            "8.4 g",
+                            "42 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "1 g",
+                            "1.2 g",
+                            "< 0.5 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "1 g",
+                            "1.2 g",
+                            "1 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "11 g",
+                            "13 g",
+                            "26 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "2 g",
+                            "2.4 g",
+                            "40 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "231040775500",
+            "legalDesignation": "Fleischerzeugnis mit Sulz, gekocht",
+            "identificationMark": "CH52295473",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store refrigerated at max. +5 °C."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "2147299000002",
+        "7617027147576"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/aa6151fe9cfd7cb763711866d0c5d4a97d25c750/holzofenfleischkaese.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3b0f43447eaf643004ad02571a5e538fec9e4d25.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494748",
+            "name": "Cold cuts",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts"
+            ]
+        },
+        {
+            "id": "7494852",
+            "name": "Deli meat & meatloaf",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts",
+                "deli-meat-meatloaf"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/231040775500",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-16T17:36:57"
+}

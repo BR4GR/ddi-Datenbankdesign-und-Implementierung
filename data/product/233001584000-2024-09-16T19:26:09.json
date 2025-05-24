@@ -1,0 +1,188 @@
+{
+    "uid": 100055499,
+    "migrosId": "233001584000",
+    "name": "Citterio Bresaola",
+    "brand": "Citterio",
+    "title": "Citterio Bresaola",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Citterio",
+                "slug": "citterio",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1642402911/brands/Citterio_Giuseppe_Citterio_S.A._Logo"
+            },
+            "ingredients": "Rindfleisch (Italien), Nitritpökelsalz (Kochsalz, Konservierungsstoff: Natriumnitrit), natürliches Aroma, Antioxidationsmittel: Kaliumnitrat.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 15,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/233001584000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "1 Portion (25 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "652 kJ (154 kcal)",
+                            "163 kJ (39 kcal)",
+                            "2 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "2 g",
+                            "0.5 g",
+                            "1 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "1 g",
+                            "0.3 g",
+                            "1 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            "0 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            "0 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "34 g",
+                            "8.5 g",
+                            "17 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "4.3 g",
+                            "1.1 g",
+                            "18 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    }
+                ]
+            },
+            "portionSentence": "1 package = 2 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "233001584000",
+            "legalDesignation": "Salami",
+            "identificationMark": "CH 52035244",
+            "distributorName": "Genossenschaft Migros Zürich",
+            "distributorStreetAndNumber": "CH-8021 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Can be stored without refrigeration. Once opened, keep refrigerated."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610311955024"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/449de80fd28c2ada4685aa42819d8fe4e4d76b14/citterio-bresaola.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/7190be403aab5af30edf5c67be222e5c1b1c3b09.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494748",
+            "name": "Cold cuts",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts"
+            ]
+        },
+        {
+            "id": "7494850",
+            "name": "Raw ham & cured meats",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts",
+                "raw-ham-cured-meats"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/233001584000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.25",
+            "advertisedDisplayValue": "4.25",
+            "effectiveDisplayValue": "4.25",
+            "multiplier": 1,
+            "value": 4.25,
+            "effectiveValue": 4.25,
+            "advertisedValue": 4.25,
+            "unitPrice": {
+                "value": 8.5,
+                "unit": "100g"
+            }
+        },
+        "quantity": "50g",
+        "quantityPrice": "8.50/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T19:26:09"
+}

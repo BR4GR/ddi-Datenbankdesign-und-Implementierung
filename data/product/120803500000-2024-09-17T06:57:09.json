@@ -1,0 +1,121 @@
+{
+    "uid": 100050498,
+    "migrosId": "120803500000",
+    "name": "Aquaciara mit CO2",
+    "title": "Aquaciara mit CO2",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L88",
+                    "name": "Nostrani del Ticino",
+                    "slug": "nostrani-del-ticino",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1707838713/labels/Nostrani_del_Ticino"
+                }
+            ],
+            "ingredients": "Mineralwasser ^, Kohlensäure. \n^ aus dem Tessin (CH)",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 2,
+                    "productionRatio": 50,
+                    "transportRatio": 11,
+                    "packagingRatio": 41,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/120803500000"
+        },
+        "otherInformation": {
+            "articleNumber": "120803500000",
+            "legalDesignation": "Natürliches Mineralwasser mit Kohlensäure versetzt",
+            "distributorName": "Cooperativa Migros Ticino",
+            "distributorStreetAndNumber": "CH-6592 S. Antonino",
+            "remarks": [
+                {
+                    "code": "Weitere Zusatzangaben",
+                    "value": "Name der Quelle und Ort des Quellaustritts: San Clemente, Monte Tamaro, Caslascio, Schweiz"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610525491523"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/4bad5ab1bdee75ded8b0dd729b7268ca7f89d8fb/aquaciara-mit-co2.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d0dabfd8c661ed7486fe0c4a6d381230d7d824e3.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494770",
+            "name": "Water",
+            "slugs": [
+                "drinks-coffee-tea",
+                "water"
+            ]
+        },
+        {
+            "id": "7494956",
+            "name": "Sparkling water",
+            "slugs": [
+                "drinks-coffee-tea",
+                "water",
+                "sparkling-water"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/120803500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.55",
+            "advertisedDisplayValue": "4.55",
+            "effectiveDisplayValue": "4.55",
+            "multiplier": 1,
+            "value": 4.55,
+            "effectiveValue": 4.55,
+            "advertisedValue": 4.55,
+            "unitPrice": {
+                "value": 0.05,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "6 x 1.5l",
+        "quantityPrice": "0.05/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:57:09"
+}

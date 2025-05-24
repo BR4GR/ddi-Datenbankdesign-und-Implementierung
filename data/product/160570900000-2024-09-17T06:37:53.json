@@ -1,0 +1,140 @@
+{
+    "uid": 100150996,
+    "migrosId": "160570900000",
+    "name": "YOU Fruit Ice Himbeere",
+    "brand": "YOU",
+    "title": "YOU Fruit Ice Himbeere",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L57",
+                    "name": "V-Label vegan",
+                    "slug": "v-label-vegan",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483003/labels/V-Label_Vegan_Color"
+                }
+            ],
+            "brand": {
+                "name": "YOU",
+                "slug": "you",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252518/brands/you"
+            },
+            "nutritionalCharacteristics": [
+                "Vegan"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegan"
+                }
+            ],
+            "rating": {
+                "nbReviews": 4,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/160570900000"
+        },
+        "otherInformation": {
+            "articleNumber": "160570900000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "vegan"
+                },
+                {
+                    "code": "Production process",
+                    "value": "﻿100% from fruit"
+                },
+                {
+                    "code": "Type of dessert",
+                    "value": "﻿Ice cream lollipop"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Folienverpackung"
+                },
+                {
+                    "code": "Type of ice cream",
+                    "value": "Fruchtzubereitung gefroren"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312272497",
+        "7613312458778"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/0430db0a3dc9204b41703051fdf35181d428e318/you-fruit-ice-himbeere.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494738",
+            "name": "Frozen food",
+            "slugs": [
+                "frozen-food"
+            ]
+        },
+        {
+            "id": "7494801",
+            "name": "Ice cream & desserts",
+            "slugs": [
+                "frozen-food",
+                "ice-cream-desserts"
+            ]
+        },
+        {
+            "id": "7495112",
+            "name": "Cones & ice lollies",
+            "slugs": [
+                "frozen-food",
+                "ice-cream-desserts",
+                "cones-ice-lollies"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/160570900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.50",
+            "advertisedDisplayValue": "1.50",
+            "effectiveDisplayValue": "1.50",
+            "multiplier": 1,
+            "value": 1.5,
+            "effectiveValue": 1.5,
+            "advertisedValue": 1.5,
+            "unitPrice": {
+                "value": 3.13,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "48ml",
+        "quantityPrice": "3.13/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483530/labels/frozen",
+                "description": "frozen"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:37:53"
+}

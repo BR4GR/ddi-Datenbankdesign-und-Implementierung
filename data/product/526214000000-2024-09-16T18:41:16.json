@@ -1,0 +1,115 @@
+{
+    "uid": 100017505,
+    "migrosId": "526214000000",
+    "migrosOnlineId": "98024",
+    "name": "Toilet paper",
+    "brand": "Tempo",
+    "brandLine": "Classic",
+    "versioning": "3 layers",
+    "title": "Tempo Classic · Toilet paper · 3 layers",
+    "description": "Tempo Toilet paper 3 layers",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Tempo",
+                "slug": "tempo",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077203/brands/Tempo_Essity_Switzerland_AG_-_Division_Ma_Logo"
+            },
+            "rating": {
+                "nbReviews": 15,
+                "nbStars": 3.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/526214000000"
+        },
+        "usageInformation": {
+            "additionalInformation": "The Tempo 3-ply toilet paper is dermatologically tested and particularly well tolerated by the skin. Thanks to the unique combination of two extra soft layers and a very strong central layer, it is both thick and soft. It thus offers incomparable well-being and perfect cleanliness."
+        },
+        "otherInformation": {
+            "articleNumber": "526214000000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Environmental information",
+                    "value": "Papier aus nachhaltiger Forstwirtschaft \"FSC\""
+                },
+                {
+                    "code": "Anzahl Lagen",
+                    "value": "3"
+                },
+                {
+                    "code": "Number of sheets/roll",
+                    "value": "150 Sheet"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7322540621297"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a14a29f0e07d5633658b9a6192e7ca1c158e16d8/classic-toilettenpapier.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494830",
+            "name": "Hygiene & protection",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hygiene-protection"
+            ]
+        },
+        {
+            "id": "7495256",
+            "name": "Toilet paper & wet wipes",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hygiene-protection",
+                "toilet-paper-wet-wipes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/526214000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "9.35",
+            "advertisedDisplayValue": "9.35",
+            "effectiveDisplayValue": "9.35",
+            "multiplier": 1,
+            "value": 9.35,
+            "effectiveValue": 9.35,
+            "advertisedValue": 9.35,
+            "unitPrice": {
+                "value": 1.04,
+                "unit": "piece"
+            }
+        },
+        "quantity": "9 Stk.",
+        "quantityPrice": "1.04/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T18:41:16"
+}

@@ -1,0 +1,140 @@
+{
+    "uid": 100079239,
+    "migrosId": "720514100012",
+    "name": "Buchstuetzen duo",
+    "brand": "Rotho",
+    "title": "Buchstuetzen duo",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "Rotho",
+                "slug": "rotho",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077113/brands/Rotho_Rotho_Kunststoff_AG_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 8,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/720514100012"
+        },
+        "otherInformation": {
+            "articleNumber": "720514100012",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Number",
+                    "value": "2 Pcs."
+                },
+                {
+                    "code": "Dimensions/size",
+                    "value": "15 x 12 x 10 cm "
+                },
+                {
+                    "code": "Material",
+                    "value": "Polypropylen PP"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610859082763",
+        "7610859023490"
+    ],
+    "variants": {
+        "baseProductMigrosId": "720514100000",
+        "mainVariantMigrosId": "720514100012",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "TRANSP."
+                },
+                "migrosId": "720514100012"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "TRANSP.",
+                "options": [
+                    "TRANSP."
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/8f8f902ad9adffdeb66db87ce94479a2d0464b1b/buchstuetzen-duo.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494813",
+            "name": "Office & stationery",
+            "slugs": [
+                "household-and-living",
+                "office-stationery"
+            ]
+        },
+        {
+            "id": "7495168",
+            "name": "Organise & store",
+            "slugs": [
+                "household-and-living",
+                "office-stationery",
+                "organise-store"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/720514100012",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.95",
+            "advertisedDisplayValue": "4.95",
+            "effectiveDisplayValue": "4.95",
+            "multiplier": 1,
+            "value": 4.95,
+            "effectiveValue": 4.95,
+            "advertisedValue": 4.95,
+            "unitPrice": {
+                "value": 4.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "4.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-18T07:33:11"
+}

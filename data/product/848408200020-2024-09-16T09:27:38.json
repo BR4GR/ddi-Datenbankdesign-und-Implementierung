@@ -1,0 +1,177 @@
+{
+    "uid": 100124211,
+    "migrosId": "848408200020",
+    "name": "Backpack",
+    "brand": "Miomojo",
+    "title": "Backpack",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Miomojo",
+                "slug": "miomojo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/848408200020"
+        },
+        "otherInformation": {
+            "articleNumber": "848408200020",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Category/theme",
+                    "value": "Zubehör"
+                },
+                {
+                    "code": "Width",
+                    "value": "14.5 cm"
+                },
+                {
+                    "code": "Main material",
+                    "value": "R-PET"
+                },
+                {
+                    "code": "Volume",
+                    "value": "16.7 l"
+                },
+                {
+                    "code": "Length",
+                    "value": "33 cm"
+                },
+                {
+                    "code": "Height",
+                    "value": "35 cm"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "Reise-Assistence"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871170931"
+    ],
+    "variants": {
+        "baseProductMigrosId": "848408200000",
+        "mainVariantMigrosId": "848408200020",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "black"
+                },
+                "migrosId": "848408200020"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "pink"
+                },
+                "migrosId": "848408200028"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "water blue"
+                },
+                "migrosId": "848408200046"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "black",
+                "options": [
+                    "black",
+                    "pink",
+                    "water blue"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "one Size",
+                "options": [
+                    "one Size"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/7f0bee8c6e8274d6b417f2d2986a11a9cc6da894/backpack.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f6401e093a39e64beff0b305eb9604933f221199.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/0a1b2c401dbc9410095f8cbf382d7a291e3e6be5.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/93c9565e1886c9f9d0a85019f8fa6705c7cb8d35.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10555197",
+            "name": "Travel",
+            "slugs": [
+                "clothing-accessories",
+                "travel"
+            ]
+        },
+        {
+            "id": "10555235",
+            "name": "Travel accessories",
+            "slugs": [
+                "clothing-accessories",
+                "travel",
+                "travel-accessories"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/848408200020",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "24.95",
+            "advertisedDisplayValue": "24.95",
+            "effectiveDisplayValue": "24.95",
+            "multiplier": 1,
+            "value": 24.95,
+            "effectiveValue": 24.95,
+            "advertisedValue": 24.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T09:27:38"
+}

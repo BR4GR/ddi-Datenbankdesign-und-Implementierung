@@ -1,0 +1,118 @@
+{
+    "uid": 100050910,
+    "migrosId": "131126900000",
+    "name": "Sauerkraut gekocht",
+    "title": "Sauerkraut gekocht",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 2,
+                    "productionRatio": 48,
+                    "transportRatio": 16,
+                    "packagingRatio": 36,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 13,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/131126900000"
+        },
+        "otherInformation": {
+            "articleNumber": "131126900000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Production process",
+                    "value": "Gekocht"
+                },
+                {
+                    "code": "Variety",
+                    "value": "Sauerkraut"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Kunststoff-Verpackung"
+                },
+                {
+                    "code": "Resealable",
+                    "value": "No"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613269756750"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/2c92216d5833469a54070f4ca259cbfdef702f9a/sauerkraut-gekocht.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494757",
+            "name": "Vegetables",
+            "slugs": [
+                "fruits-vegetables",
+                "vegetables"
+            ]
+        },
+        {
+            "id": "7494905",
+            "name": "Cauliflower, broccoli & cabbage",
+            "slugs": [
+                "fruits-vegetables",
+                "vegetables",
+                "cauliflower-broccoli-cabbage"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/131126900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.20",
+            "advertisedDisplayValue": "3.20",
+            "effectiveDisplayValue": "3.20",
+            "multiplier": 1,
+            "value": 3.2,
+            "effectiveValue": 3.2,
+            "advertisedValue": 3.2,
+            "unitPrice": {
+                "value": 0.64,
+                "unit": "100g"
+            }
+        },
+        "quantity": "500g",
+        "quantityPrice": "0.64/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T15:17:07"
+}

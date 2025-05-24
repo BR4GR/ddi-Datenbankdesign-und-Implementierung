@@ -1,0 +1,212 @@
+{
+    "uid": 100111425,
+    "migrosId": "104228100000",
+    "name": "Aus der Region Hasen Haferflocken",
+    "brand": "Gantrisch Goldkorn",
+    "title": "Aus der Region Hasen Haferflocken",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "brand": {
+                "name": "Gantrisch Goldkorn",
+                "slug": "gantrisch-goldkorn",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1713267174/brands/Gantrisch_Goldkorn_CMYK_JQ4"
+            },
+            "nutritionalCharacteristics": [
+                "Vegetarian"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegetarian"
+                }
+            ],
+            "ingredients": "<strong>Hafer</strong> ^. \n^ aus der Region (CH)",
+            "allergens": "Cereals containing gluten and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 9,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/104228100000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1600 kJ (381 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "7.5 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "1 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "59 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "1 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "11 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "14 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.1 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "104228100000",
+            "legalDesignation": "Haferflocken",
+            "distributorName": "Dittligmühle GmbH",
+            "distributorStreetAndNumber": "3636 Längenbühl, Schweiz",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store in a dry place. Store tightly closed."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "﻿Vegetarian"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Paper bag"
+                },
+                {
+                    "code": "Resealable",
+                    "value": "No"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7640150671946"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/0558853010c30b71fd2da10b328b135e36a960dc/aus-der-region-hasen-haferflocken.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494767",
+            "name": "Cereals & muesli",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "cereals-muesli"
+            ]
+        },
+        {
+            "id": "7494942",
+            "name": "Cereals",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "cereals-muesli",
+                "cereals"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/104228100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.80",
+            "advertisedDisplayValue": "3.80",
+            "effectiveDisplayValue": "3.80",
+            "multiplier": 1,
+            "value": 3.8,
+            "effectiveValue": 3.8,
+            "advertisedValue": 3.8,
+            "unitPrice": {
+                "value": 0.95,
+                "unit": "100g"
+            }
+        },
+        "quantity": "400g",
+        "quantityPrice": "0.95/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T03:12:05"
+}

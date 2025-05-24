@@ -1,0 +1,198 @@
+{
+    "uid": 100125345,
+    "migrosId": "121334800000",
+    "migrosOnlineId": "10556531",
+    "name": "Flavoured beer",
+    "brand": "NON",
+    "brandLine": "Panaché",
+    "versioning": "alcohol free",
+    "title": "NON Panaché · Flavoured beer · alcohol free",
+    "description": "NON Flavoured beer alcohol free",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "NON",
+                "slug": "non"
+            },
+            "ingredients": "Bier alkoholfrei 55% (Wasser, <strong>Gersten</strong>malz, Hopfen), Wasser, Apfelsaftkonzentrat, Zitronensaftkonzentrat, Orangensaftkonzentrat.",
+            "allergens": "Cereals containing gluten and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 36,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/121334800000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 ml",
+                    "1 Flasche (330 ml)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "131 kJ (31 kcal)",
+                            "437 kJ (103 kcal)",
+                            "5 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            "< 5 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "< 0.1 g",
+                            "< 0.1 g",
+                            "< 5 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "7.5 g",
+                            "25 g",
+                            "10 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "5.8 g",
+                            "19 g",
+                            "21 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "< 0.5 g",
+                            "0.7 g",
+                            "1 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "< 0.01 g",
+                            "< 0.01 g",
+                            "< 5 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "portionSentence": "1 Multipack = 6 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "121334800000",
+            "legalDesignation": "Alkoholfreies Biermischgetränk mit Zitrusfruchtgeschmack",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store in a cool, dry place and protected from light."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312408568"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/7640da7eee7cb06d9b3c2b752f2dd5bc6beab763/non-panache-alkoholfrei.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/2c3dc53e3b61e59b0704ff279eb06c7e1085890f.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494737",
+            "name": "Wine, beer & spirits",
+            "slugs": [
+                "wine-beer-spirits"
+            ]
+        },
+        {
+            "id": "10583761",
+            "name": "Alcohol free drinks",
+            "slugs": [
+                "wine-beer-spirits",
+                "alcohol-free-drinks"
+            ]
+        },
+        {
+            "id": "10614101",
+            "name": "Beers & ciders",
+            "slugs": [
+                "wine-beer-spirits",
+                "alcohol-free-drinks",
+                "beers-ciders"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/121334800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.95",
+            "advertisedDisplayValue": "7.95",
+            "effectiveDisplayValue": "7.95",
+            "multiplier": 1,
+            "value": 7.95,
+            "effectiveValue": 7.95,
+            "advertisedValue": 7.95,
+            "unitPrice": {
+                "value": 0.4,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "6 x 330ml",
+        "quantityPrice": "0.40/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "REGION",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679482984/labels/suisse",
+                "description": "Switzerland"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:02:37"
+}

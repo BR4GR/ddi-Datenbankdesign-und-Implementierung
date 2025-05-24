@@ -1,0 +1,101 @@
+{
+    "uid": 100090999,
+    "migrosId": "130986900000",
+    "name": "Cornatur Quorn Bratwurst",
+    "brand": "Cornatur",
+    "title": "Cornatur Quorn Bratwurst",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L58",
+                    "name": "V-Label vegetarisch",
+                    "slug": "v-label-vegetarisch",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483422/labels/V-Label_Vegetarisch_Color"
+                }
+            ],
+            "brand": {
+                "name": "Cornatur",
+                "slug": "cornatur",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076644/brands/Cornatur__Logo"
+            },
+            "nutritionalCharacteristics": [
+                "Vegetarian"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegetarian"
+                }
+            ],
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/130986900000"
+        },
+        "otherInformation": {
+            "articleNumber": "130986900000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "﻿Vegetarian"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613404213537"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/20652a0c5a9c6c2a1161d2cb3d54e83c6fd3acae/cornatur-quorn-bratwurst.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494750",
+            "name": "Plant-based alternatives",
+            "slugs": [
+                "meat-fish",
+                "plant-based-alternatives"
+            ]
+        },
+        {
+            "id": "7494866",
+            "name": "Alternatives to deli meat",
+            "slugs": [
+                "meat-fish",
+                "plant-based-alternatives",
+                "alternatives-to-deli-meat"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/130986900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-16T06:28:33"
+}

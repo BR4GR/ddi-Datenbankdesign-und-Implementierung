@@ -1,0 +1,107 @@
+{
+    "uid": 100111030,
+    "migrosId": "513399000000",
+    "migrosOnlineId": "11235038",
+    "name": "Anti-imperfection serum",
+    "brand": "Garnier",
+    "versioning": "with coal",
+    "title": "Garnier · Anti-imperfection serum · with coal",
+    "description": "Garnier Anti-imperfection serum with coal",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Garnier",
+                "slug": "garnier",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252433/brands/garnier"
+            },
+            "rating": {
+                "nbReviews": 4,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/513399000000"
+        },
+        "otherInformation": {
+            "articleNumber": "513399000000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Serum"
+                },
+                {
+                    "code": "Suitable for",
+                    "value": "Unreine Haut"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "3600542497916"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/f9fd22eb375aaab9cce6f0ad043cee98bf17d487/garnier-charcoal-serum.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494828",
+            "name": "Facial care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "facial-care"
+            ]
+        },
+        {
+            "id": "7495248",
+            "name": "Treatments, creams & masks",
+            "slugs": [
+                "drugstore-cosmetics",
+                "facial-care",
+                "treatments-creams-masks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/513399000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "17.50",
+            "advertisedDisplayValue": "17.50",
+            "effectiveDisplayValue": "17.50",
+            "multiplier": 1,
+            "value": 17.5,
+            "effectiveValue": 17.5,
+            "advertisedValue": 17.5,
+            "unitPrice": {
+                "value": 58.3,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "30ml",
+        "quantityPrice": "58.30/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T13:57:42"
+}

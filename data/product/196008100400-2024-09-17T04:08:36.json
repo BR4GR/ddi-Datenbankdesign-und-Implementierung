@@ -1,0 +1,137 @@
+{
+    "uid": 100143366,
+    "migrosId": "196008100400",
+    "name": "Walliser Eier Freiland 63g+",
+    "title": "Walliser Eier Freiland 63g+",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                },
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                },
+                {
+                    "id": "L03",
+                    "name": "IP-SUISSE",
+                    "slug": "ip-suisse",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483396/labels/IP-Suisse_-_RGB_-_DE"
+                }
+            ],
+            "mcheck": {
+                "animalWelfare": {
+                    "rating": 4,
+                    "image": "https://image.migros.ch/original/58bd3042b45c82e79d3a18e05d0b73cc1abda5fb.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "rating": {
+                "nbReviews": 15,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/196008100400"
+        },
+        "otherInformation": {
+            "articleNumber": "196008100400",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Packaging type",
+                    "value": "Cardboard box"
+                },
+                {
+                    "code": "Production method",
+                    "value": "Free-range"
+                },
+                {
+                    "code": "Quality of eggs",
+                    "value": "raw"
+                },
+                {
+                    "code": "Weight class of eggs",
+                    "value": "63g+"
+                },
+                {
+                    "code": "Number of removable individual units",
+                    "value": "4 Pcs."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613404431764"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/206dd69a7661643a77729a698059bf673c05f810/walliser-eier-freiland-63g.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494751",
+            "name": "Milk, butter & eggs",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "milk-butter-eggs"
+            ]
+        },
+        {
+            "id": "7494870",
+            "name": "Eggs",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "milk-butter-eggs",
+                "eggs"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/196008100400",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.95",
+            "advertisedDisplayValue": "2.95",
+            "effectiveDisplayValue": "2.95",
+            "multiplier": 1,
+            "value": 2.95,
+            "effectiveValue": 2.95,
+            "advertisedValue": 2.95,
+            "unitPrice": {
+                "value": 0.74,
+                "unit": "piece"
+            }
+        },
+        "quantity": "4 Stück",
+        "quantityPrice": "0.74/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:08:36"
+}

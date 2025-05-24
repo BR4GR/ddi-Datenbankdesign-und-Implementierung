@@ -1,0 +1,197 @@
+{
+    "uid": 100171420,
+    "migrosId": "897200320138",
+    "name": "Baby jacket",
+    "brand": "Smile",
+    "title": "Baby jacket",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L70",
+                    "name": "GRS",
+                    "slug": "grs",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1707834844/labels/GRS-1"
+                }
+            ],
+            "brand": {
+                "name": "Smile",
+                "slug": "smile",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252488/brands/smile"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/897200320138"
+        },
+        "otherInformation": {
+            "articleNumber": "897200320138",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Zielgruppe",
+                    "value": "Kinder"
+                },
+                {
+                    "code": "Look",
+                    "value": "Kapuze, uni, Reissverschluss"
+                },
+                {
+                    "code": "Material",
+                    "value": "Polyamid"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "100 %"
+                },
+                {
+                    "code": "Age",
+                    "value": "2-6 Monate"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "Reflector"
+                },
+                {
+                    "code": "GRS label certified by",
+                    "value": "IDFL"
+                },
+                {
+                    "code": "GRS label license number",
+                    "value": "TE-99970100"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871663235"
+    ],
+    "variants": {
+        "baseProductMigrosId": "897200300000",
+        "mainVariantMigrosId": "897200320138",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "2-6 // 62/68",
+                    "color": "rose"
+                },
+                "migrosId": "897200320138"
+            },
+            {
+                "declinationOptions": {
+                    "size": "2-6 // 62/68",
+                    "color": "navy"
+                },
+                "migrosId": "897200320143"
+            },
+            {
+                "declinationOptions": {
+                    "size": "6-12 // 74/80",
+                    "color": "rose"
+                },
+                "migrosId": "897200320238"
+            },
+            {
+                "declinationOptions": {
+                    "size": "12-24 // 86/92",
+                    "color": "rose"
+                },
+                "migrosId": "897200320338"
+            },
+            {
+                "declinationOptions": {
+                    "size": "12-24 // 86/92",
+                    "color": "navy"
+                },
+                "migrosId": "897200320343"
+            },
+            {
+                "declinationOptions": {
+                    "size": "24-48 // 98/104",
+                    "color": "rose"
+                },
+                "migrosId": "897200320438"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "rose",
+                "options": [
+                    "rose",
+                    "navy"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "2-6 // 62/68",
+                "options": [
+                    "2-6 // 62/68",
+                    "6-12 // 74/80",
+                    "12-24 // 86/92",
+                    "24-48 // 98/104"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/e076ac4bb1b061b6944ff62f5291999065787c05/baby-jacket.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "11117240",
+            "name": "Baby clothes",
+            "slugs": [
+                "baby-kids",
+                "baby-clothes"
+            ]
+        },
+        {
+            "id": "11117323",
+            "name": "Outdoor baby clothes",
+            "slugs": [
+                "baby-kids",
+                "baby-clothes",
+                "outdoor-baby-clothes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/897200320138",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "29.95",
+            "advertisedDisplayValue": "29.95",
+            "effectiveDisplayValue": "29.95",
+            "multiplier": 1,
+            "value": 29.95,
+            "effectiveValue": 29.95,
+            "advertisedValue": 29.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T10:30:17"
+}

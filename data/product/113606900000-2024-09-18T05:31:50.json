@@ -1,0 +1,186 @@
+{
+    "uid": 100150340,
+    "migrosId": "113606900000",
+    "name": "Dreikönigskuchen",
+    "title": "Dreikönigskuchen",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "ingredients": "<strong>Weizen</strong>weissmehl ^, <strong>Butter</strong> ^, <strong>Mandeln</strong> gemahlen 11%, <strong>Eier</strong> ^ (aus Bodenhaltung), Zucker, Wasser, Kochsalz, Konservierungsstoff: Kaliumsorbat. \n^ aus der Region (CH)",
+            "allergens": "Eggs and products thereof, Almonds and products thereof, Milk and products thereof, Cereals containing gluten and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 4,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/113606900000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "1 Portion (60 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1962 kJ (472 kcal)",
+                            "1155 kJ (278 kcal)",
+                            "14 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "34 g",
+                            "20 g",
+                            "29 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "17 g",
+                            "10 g",
+                            "50 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "34 g",
+                            "20 g",
+                            "8 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "10 g",
+                            "6 g",
+                            "7 %"
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "1.5 g",
+                            "0.9 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "6.7 g",
+                            "4 g",
+                            "8 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.7 g",
+                            "0.42 g",
+                            "7 %"
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    }
+                ]
+            },
+            "portionSentence": "1 package ≈ 4 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "113606900000",
+            "legalDesignation": "Süsses Blätterteiggebäck mit Mandeln",
+            "distributorName": "Société coopérative Migros Vaud",
+            "distributorStreetAndNumber": "CH-1024 Ecublens",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store in a dry place. Keep away from heat."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7623186272806"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/af8ccac701d8a0b17b785571c1f85c3f97aebf8c/dreikoenigskuchen.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494763",
+            "name": "Fresh bread",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "fresh-bread"
+            ]
+        },
+        {
+            "id": "7494924",
+            "name": "Fresh bread",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "fresh-bread",
+                "fresh-bread"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/113606900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "15.90",
+            "advertisedDisplayValue": "15.90",
+            "effectiveDisplayValue": "15.90",
+            "multiplier": 1,
+            "value": 15.9,
+            "effectiveValue": 15.9,
+            "advertisedValue": 15.9,
+            "unitPrice": {
+                "value": 6,
+                "unit": "100g"
+            }
+        },
+        "quantity": "265g",
+        "quantityPrice": "6.–/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-18T05:31:50"
+}

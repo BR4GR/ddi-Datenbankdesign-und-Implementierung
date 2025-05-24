@@ -1,0 +1,106 @@
+{
+    "uid": 100146965,
+    "migrosId": "131520500000",
+    "name": "Sashimi Salat",
+    "title": "Sashimi Salat",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/131520500000"
+        },
+        "otherInformation": {
+            "articleNumber": "131520500000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Meal",
+                    "value": "Hauptmahlzeit"
+                },
+                {
+                    "code": "with sauce",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Schale"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                },
+                {
+                    "code": "Suitable for freezing",
+                    "value": "No"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613404756539"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/0626caa69929db73143675ed23d4e9b1a3397d9e/sashimi-salat.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494754",
+            "name": "Fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food"
+            ]
+        },
+        {
+            "id": "12497362",
+            "name": "Ready-made salads",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food",
+                "ready-made-salads"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/131520500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "12.95",
+            "advertisedDisplayValue": "12.95",
+            "effectiveDisplayValue": "12.95",
+            "multiplier": 1,
+            "value": 12.95,
+            "effectiveValue": 12.95,
+            "advertisedValue": 12.95,
+            "unitPrice": {
+                "value": 8.63,
+                "unit": "100g"
+            }
+        },
+        "quantity": "150g",
+        "quantityPrice": "8.63/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T15:21:03"
+}

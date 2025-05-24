@@ -1,0 +1,180 @@
+{
+    "uid": 100017132,
+    "migrosId": "120850400000",
+    "migrosOnlineId": "97054",
+    "name": "Eau minérale naturelle",
+    "brand": "M-Budget",
+    "versioning": "non gazéifiée",
+    "title": "M-Budget · Eau minérale naturelle · non gazéifiée",
+    "description": "M-Budget Eau minérale naturelle non gazéifiée",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Budget",
+                "slug": "m-budget",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252456/brands/m-budget"
+            },
+            "ingredients": "natural mineral water.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 2,
+                    "productionRatio": 50,
+                    "transportRatio": 10,
+                    "packagingRatio": 41,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 311,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/120850400000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "1 l"
+                ],
+                "rows": [
+                    {
+                        "label": "Sodium",
+                        "values": [
+                            "4 mg",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Calcium",
+                        "values": [
+                            "100 mg",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Magnesium",
+                        "values": [
+                            "20 mg",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Bicarbonate (or hydrogen carbonate)",
+                        "values": [
+                            "80 mg",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "nitrate",
+                        "values": [
+                            "1 mg",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "sulfate",
+                        "values": [
+                            "280 mg",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "120850400000",
+            "legalDesignation": "Natürliches Mineralwasser ohne Kohlensäure.",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Other additional information",
+                    "value": "suitable for a low in sodium diet"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610200337467"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f9b293ed32d684ac72e9803d190c1dc82e4cf067/m-budget-mineral-ohne-co2.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3ddba0339be46d76e0cff81130c9a963890974c3.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494770",
+            "name": "Water",
+            "slugs": [
+                "drinks-coffee-tea",
+                "water"
+            ]
+        },
+        {
+            "id": "7494955",
+            "name": "Still water",
+            "slugs": [
+                "drinks-coffee-tea",
+                "water",
+                "still-water"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/120850400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.80",
+            "advertisedDisplayValue": "1.80",
+            "effectiveDisplayValue": "1.80",
+            "multiplier": 1,
+            "value": 1.8,
+            "effectiveValue": 1.8,
+            "advertisedValue": 1.8,
+            "unitPrice": {
+                "value": 0.02,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "6 x 1.5l",
+        "quantityPrice": "0.02/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:22:03"
+}

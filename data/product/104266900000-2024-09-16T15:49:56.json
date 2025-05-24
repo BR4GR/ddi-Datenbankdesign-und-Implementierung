@@ -1,0 +1,207 @@
+{
+    "uid": 100162021,
+    "migrosId": "104266900000",
+    "migrosOnlineId": "12360955",
+    "name": "Protein bar",
+    "brand": "nakd.",
+    "versioning": "peanut butter",
+    "title": "nakd. · Protein bar · peanut butter",
+    "description": "nakd. Protein bar peanut butter",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "nakd.",
+                "slug": "nakd"
+            },
+            "nutritionalCharacteristics": [
+                "Vegan",
+                "Gluten-free"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegan"
+                },
+                {
+                    "name": "Gluten-free"
+                }
+            ],
+            "ingredients": "Ingredients: Dates (39%), PEANUTS (30%), PEANUT butter (10%), PEANUT flour (10%), chicory fibre (10%), sea salt, natural flavouring. May contain traces of SOYA, other NUTS and the odd shell or pit piece",
+            "allergenIndication": "May contain: Soya, Nuts",
+            "allergens": "Peanuts and their derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 137,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/104266900000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "~ 1851 kJ (~ 443 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "~ 21.9 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "~ 3.9 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "~ 39.3 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "~ 26.8 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "~ 9.6 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "~ 17.4 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "< 0.38 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "104266900000",
+            "legalDesignation": "Dates & peanut bar with natural flavouring",
+            "distributorName": "Lotus Bakeries International und Schweiz AG",
+            "distributorStreetAndNumber": "Neuhofstrasse 24, CH-6340 Baar",
+            "remarks": [
+                {
+                    "code": "Consumer storage instructions",
+                    "value": "Store in a cool and dry place"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Allergens",
+                    "value": "Gluten free"
+                },
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegan"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "5060088700082"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d68cef96490155fb4a213c05e10a7b354c4d15fe/nakd-protein-peanut-butter.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494831",
+            "name": "Drugstore",
+            "slugs": [
+                "drugstore-cosmetics",
+                "drugstore"
+            ]
+        },
+        {
+            "id": "7495260",
+            "name": "Sports nutrition & proteins",
+            "slugs": [
+                "drugstore-cosmetics",
+                "drugstore",
+                "sports-nutrition-proteins"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/104266900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.50",
+            "advertisedDisplayValue": "2.50",
+            "effectiveDisplayValue": "2.50",
+            "multiplier": 1,
+            "value": 2.5,
+            "effectiveValue": 2.5,
+            "advertisedValue": 2.5,
+            "unitPrice": {
+                "value": 5.56,
+                "unit": "100g"
+            }
+        },
+        "quantity": "45g",
+        "quantityPrice": "5.56/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T15:49:56"
+}

@@ -1,0 +1,147 @@
+{
+    "uid": 100047941,
+    "migrosId": "107061000000",
+    "migrosOnlineId": "4963429",
+    "name": "Tea",
+    "brand": "Klostergarten",
+    "versioning": "Orange blossom",
+    "title": "Klostergarten · Tea · Orange blossom",
+    "description": "Klostergarten Tea Orange blossom",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Klostergarten",
+                "slug": "klostergarten",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076840/brands/Klostergarten_Logo"
+            },
+            "ingredients": "pas de liste d'ingrédients.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 3,
+                    "co2CarKmEquivalent": 21,
+                    "productionRatio": 94,
+                    "transportRatio": 1,
+                    "packagingRatio": 4,
+                    "image": "https://image.migros.ch/original/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg"
+                }
+            },
+            "rating": {
+                "nbReviews": 75,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/107061000000"
+        },
+        "usageInformation": {
+            "usage": "Pour boiling water over 1 sachet per cup, cover and allow to infuse for 5-6 minutes.",
+            "preparationInstructions": "Pro Tasse 1 Teebeutel mit kochendem Wasser übergiessen und 6 Minuten ziehen lassen."
+        },
+        "otherInformation": {
+            "articleNumber": "107061000000",
+            "legalDesignation": "Orangenblütentee",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store in a cool, dry place."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Floral",
+                    "value": "Orange blossom"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Schachtel"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "heisses Wasser hinzugeben"
+                },
+                {
+                    "code": "Tea preparation",
+                    "value": "Beutel"
+                },
+                {
+                    "code": "Tea type",
+                    "value": "Früchtetee"
+                },
+                {
+                    "code": "Number of pads/capsules/bags",
+                    "value": "20 Pcs."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312133019"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/994ae44ca7ab333313d05fa8c9be225016965902/klostergarten-orangenbluetentee.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494773",
+            "name": "Tea",
+            "slugs": [
+                "drinks-coffee-tea",
+                "tea"
+            ]
+        },
+        {
+            "id": "7494974",
+            "name": "Herbal infusions with plants",
+            "slugs": [
+                "drinks-coffee-tea",
+                "tea",
+                "herbal-infusions-with-plants"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/107061000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.70",
+            "advertisedDisplayValue": "2.70",
+            "effectiveDisplayValue": "2.70",
+            "multiplier": 1,
+            "value": 2.7,
+            "effectiveValue": 2.7,
+            "advertisedValue": 2.7,
+            "unitPrice": {
+                "value": 11.3,
+                "unit": "100g"
+            }
+        },
+        "quantity": "24g",
+        "quantityPrice": "11.30/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T01:12:38"
+}

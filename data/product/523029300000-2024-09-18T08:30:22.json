@@ -1,0 +1,118 @@
+{
+    "uid": 100167667,
+    "migrosId": "523029300000",
+    "name": "Jonzac Reactive crème riche",
+    "brand": "Jonzac",
+    "title": "Jonzac Reactive crème riche",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Jonzac",
+                "slug": "jonzac"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/523029300000"
+        },
+        "otherInformation": {
+            "articleNumber": "523029300000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "3517360014730"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/29e0995729b6dff99417df0f89083a213ec18b26/jonzac-reactive-creme-riche.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/a74ccbfd77df478cdb48342b5d59e8f53f2ecd90.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494826",
+            "name": "Body care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care"
+            ]
+        },
+        {
+            "id": "7495242",
+            "name": "Treatments & creams",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care",
+                "treatments-creams"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/523029300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "15.95",
+            "advertisedDisplayValue": "15.95",
+            "effectiveDisplayValue": "15.95",
+            "multiplier": 1,
+            "value": 15.95,
+            "effectiveValue": 15.95,
+            "advertisedValue": 15.95
+        },
+        "promotionPrice": {
+            "displayUnitPrice": true,
+            "formattedPrice": "11.20",
+            "advertisedDisplayValue": "11.20",
+            "effectiveDisplayValue": "11.20",
+            "multiplier": 1,
+            "value": 11.2,
+            "effectiveValue": 11.2,
+            "advertisedValue": 11.2,
+            "unitPrice": {
+                "value": 22.4,
+                "unit": "100ml"
+            }
+        },
+        "priceInsteadOfLabel": "was",
+        "quantity": "50ml",
+        "quantityPrice": "22.40/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "badges": [
+            {
+                "type": "PERCENTAGE_PROMOTION",
+                "description": "30%"
+            },
+            {
+                "type": "MINIMUM_PIECES",
+                "description": "2 or more"
+            }
+        ],
+        "promotionDateRange": {
+            "startDate": "2024-09-17",
+            "endDate": "2024-09-30"
+        },
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-18T08:30:22"
+}

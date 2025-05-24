@@ -1,0 +1,111 @@
+{
+    "uid": 100004637,
+    "migrosId": "511983900000",
+    "migrosOnlineId": "5029112",
+    "name": "Hand cream",
+    "brand": "Kneipp",
+    "versioning": "Evening primrose & urea",
+    "title": "Kneipp · Hand cream · Evening primrose & urea",
+    "description": "Kneipp Hand cream Evening primrose & urea ++5% Urea",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Kneipp",
+                "slug": "kneipp",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076841/brands/Kneipp_Kneipp_Schweiz_GmbH_Logo"
+            },
+            "rating": {
+                "nbReviews": 15,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/511983900000"
+        },
+        "usageInformation": {
+            "additionalInformation": "The evening primrose is known for its intensive skin protecting properties. The natural gamma-linolenic acid content of the evening primrose and the provitamin B5 calm and care for very dry, scaly and irritated skin. Kneipp Evening Primrose Hand Balm beautifies the skin and gives problem skin natural, long-lasting suppleness. Without perfume oil."
+        },
+        "otherInformation": {
+            "articleNumber": "511983900000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Requirements/uses",
+                    "value": "Feuchtigkeit"
+                },
+                {
+                    "code": "Application",
+                    "value": "Handpflege"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4008233125923",
+        "4008233034508"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/cf0264c66e319f586f5fbbc8b7a82c75e9661e3a/kneipp-sos-handcreme-nachtkerze.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494827",
+            "name": "Hand & foot care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hand-foot-care"
+            ]
+        },
+        {
+            "id": "7495245",
+            "name": "Hand care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hand-foot-care",
+                "hand-care"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/511983900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.50",
+            "advertisedDisplayValue": "5.50",
+            "effectiveDisplayValue": "5.50",
+            "multiplier": 1,
+            "value": 5.5,
+            "effectiveValue": 5.5,
+            "advertisedValue": 5.5,
+            "unitPrice": {
+                "value": 7.3,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "75ml",
+        "quantityPrice": "7.30/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T21:38:00"
+}

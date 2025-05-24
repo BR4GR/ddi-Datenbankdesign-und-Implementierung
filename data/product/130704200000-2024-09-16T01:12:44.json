@@ -1,0 +1,195 @@
+{
+    "uid": 100167783,
+    "migrosId": "130704200000",
+    "migrosOnlineId": "12603775",
+    "name": "Pineapple juice",
+    "brand": "Anna's Best",
+    "title": "Anna's Best · Pineapple juice",
+    "description": "Anna's Best Pineapple juice ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Anna's Best",
+                "slug": "annas-best",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252314/brands/annas-best"
+            },
+            "ingredients": "pineapple juice.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/130704200000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 ml",
+                    "1 Glas (200 ml)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "227 kJ (54 kcal)",
+                            "453 kJ (107 kcal)",
+                            "5 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            "0.5 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            "0 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "12 g",
+                            "24 g",
+                            "9 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "12 g",
+                            "24 g",
+                            "27 %"
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "1.4 g",
+                            "2.7 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "< 0.5 g",
+                            "0.9 g",
+                            "2 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "< 0.01 g",
+                            "< 0.01 g",
+                            "0.5 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "portionSentence": "1 package = 5 servings",
+            "isAnalyticalConstituents": false
+        },
+        "usageInformation": {
+            "usage": "Shake before opening"
+        },
+        "otherInformation": {
+            "articleNumber": "130704200000",
+            "legalDesignation": "Ananassaft, pasteurisiert",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Once opened, use within 3 days. Store refrigerated at max. +5 °C."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7623186360343"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/8823cf6a0cd91cfbd876524979fa30b02f78a155/annas-best-ananassaft-costa-rica.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494771",
+            "name": "Fruit & vegetable juices",
+            "slugs": [
+                "drinks-coffee-tea",
+                "fruit-vegetable-juices"
+            ]
+        },
+        {
+            "id": "7494961",
+            "name": "Other fresh juice",
+            "slugs": [
+                "drinks-coffee-tea",
+                "fruit-vegetable-juices",
+                "other-fresh-juice"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/130704200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.40",
+            "advertisedDisplayValue": "4.40",
+            "effectiveDisplayValue": "4.40",
+            "multiplier": 1,
+            "value": 4.4,
+            "effectiveValue": 4.4,
+            "advertisedValue": 4.4,
+            "unitPrice": {
+                "value": 0.44,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "1L",
+        "quantityPrice": "0.44/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483166/labels/fresh",
+                "description": "fresh"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T01:12:44"
+}

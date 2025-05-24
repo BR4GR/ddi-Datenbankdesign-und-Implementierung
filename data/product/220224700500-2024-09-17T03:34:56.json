@@ -1,0 +1,92 @@
+{
+    "uid": 100164448,
+    "migrosId": "220224700500",
+    "name": "M-Classic Rindsstroganoff",
+    "brand": "M-Classic",
+    "title": "M-Classic Rindsstroganoff",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Classic",
+                "slug": "m-classic",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252457/brands/m-classic"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/220224700500"
+        },
+        "otherInformation": {
+            "articleNumber": "220224700500",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "2163005000005",
+        "180580",
+        "7613269969402"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ddbe56b4f03eef18174478ce8ab44963dd0a6624/m-classic-rindsstroganoff.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494747",
+            "name": "Meat & poultry",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry"
+            ]
+        },
+        {
+            "id": "7494841",
+            "name": "Beef",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry",
+                "beef"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/220224700500",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.15",
+            "advertisedDisplayValue": "5.15",
+            "effectiveDisplayValue": "5.15",
+            "multiplier": 1,
+            "value": 5.15,
+            "effectiveValue": 5.15,
+            "advertisedValue": 5.15,
+            "unitPrice": {
+                "value": 5.15,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "5.15/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T03:34:56"
+}

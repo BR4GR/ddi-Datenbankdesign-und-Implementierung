@@ -1,0 +1,103 @@
+{
+    "uid": 100017970,
+    "migrosId": "107098200000",
+    "migrosOnlineId": "6653407",
+    "name": "infusion",
+    "brand": "L'éléphant",
+    "versioning": "red fruits",
+    "title": "L'éléphant · infusion · red fruits",
+    "description": "L'éléphant infusion red fruits",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "L'éléphant",
+                "slug": "lelephant"
+            },
+            "ingredients": "Ingrédients: hibiscus¹, églantier¹, pomme¹, arôme naturel, menthe douce¹ 6%, feuille de stevia, fraise 1%, framboise 1%, groseille 1%. ¹Certifié Rainforest Alliance",
+            "rating": {
+                "nbReviews": 17,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/107098200000"
+        },
+        "otherInformation": {
+            "articleNumber": "107098200000",
+            "legalDesignation": "Préparation aromatisée pour infusion.",
+            "distributorName": "Ekaterra Switzerland AG",
+            "remarks": [
+                {
+                    "code": "Instructions de stockage pour le consommateur",
+                    "value": "À conserver au sec et à température ambiante."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "8711200319015"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/51388b8cebff6bb14c1512e10416af562af00b70/elephant-fruits-rouges.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494773",
+            "name": "Tea",
+            "slugs": [
+                "drinks-coffee-tea",
+                "tea"
+            ]
+        },
+        {
+            "id": "7494971",
+            "name": "Fruit tea",
+            "slugs": [
+                "drinks-coffee-tea",
+                "tea",
+                "fruit-tea"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/107098200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.40",
+            "advertisedDisplayValue": "3.40",
+            "effectiveDisplayValue": "3.40",
+            "multiplier": 1,
+            "value": 3.4,
+            "effectiveValue": 3.4,
+            "advertisedValue": 3.4,
+            "unitPrice": {
+                "value": 9.4,
+                "unit": "100g"
+            }
+        },
+        "quantity": "36g",
+        "quantityPrice": "9.40/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:36:16"
+}

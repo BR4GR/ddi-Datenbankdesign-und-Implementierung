@@ -1,0 +1,206 @@
+{
+    "uid": 100174837,
+    "migrosId": "889010730343",
+    "name": "Kids dress",
+    "brand": "Kids",
+    "title": "Kids dress",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L07",
+                    "name": "ECO",
+                    "slug": "eco",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483145/labels/Eco-Textilien_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "Kids",
+                "slug": "kids",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076840/brands/KIDS_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/889010730343"
+        },
+        "otherInformation": {
+            "articleNumber": "889010730343",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Zielgruppe",
+                    "value": "Kinder"
+                },
+                {
+                    "code": "Look",
+                    "value": "Kapuze"
+                },
+                {
+                    "code": "Material",
+                    "value": "Baumwolle"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "100 %"
+                },
+                {
+                    "code": "Age",
+                    "value": "2-4 Jahre"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871903430"
+    ],
+    "variants": {
+        "baseProductMigrosId": "889010700000",
+        "mainVariantMigrosId": "889010730043",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "navy",
+                    "size": "2-4 // 98/104"
+                },
+                "migrosId": "889010730043"
+            },
+            {
+                "declinationOptions": {
+                    "color": "light rose",
+                    "size": "4-6 // 110/116"
+                },
+                "migrosId": "889010730139"
+            },
+            {
+                "declinationOptions": {
+                    "color": "navy",
+                    "size": "4-6 // 110/116"
+                },
+                "migrosId": "889010730143"
+            },
+            {
+                "declinationOptions": {
+                    "color": "light rose",
+                    "size": "6-8 // 122/128"
+                },
+                "migrosId": "889010730239"
+            },
+            {
+                "declinationOptions": {
+                    "color": "light rose",
+                    "size": "8-10 // 134/140"
+                },
+                "migrosId": "889010730339"
+            },
+            {
+                "declinationOptions": {
+                    "color": "navy",
+                    "size": "8-10 // 134/140"
+                },
+                "migrosId": "889010730343"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "navy",
+                "options": [
+                    "navy",
+                    "light rose"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "8-10 // 134/140",
+                "options": [
+                    "2-4 // 98/104",
+                    "4-6 // 110/116",
+                    "6-8 // 122/128",
+                    "8-10 // 134/140"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/77480852140f1ae776b3087a5eb0c026fdeb9216/kids-dress.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "11117258",
+            "name": "Children's clothing",
+            "slugs": [
+                "baby-kids",
+                "childrens-clothing"
+            ]
+        },
+        {
+            "id": "11124117",
+            "name": "Children's clothes",
+            "slugs": [
+                "baby-kids",
+                "childrens-clothing",
+                "childrens-clothes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/889010730343",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "24.95",
+            "advertisedDisplayValue": "24.95",
+            "effectiveDisplayValue": "24.95",
+            "multiplier": 1,
+            "value": 24.95,
+            "effectiveValue": 24.95,
+            "advertisedValue": 24.95
+        },
+        "promotionPrice": {
+            "displayUnitPrice": false,
+            "formattedPrice": "17.50",
+            "advertisedDisplayValue": "17.50",
+            "effectiveDisplayValue": "17.50",
+            "multiplier": 1,
+            "value": 17.5,
+            "effectiveValue": 17.5,
+            "advertisedValue": 17.5
+        },
+        "priceInsteadOfLabel": "was",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "badges": [
+            {
+                "type": "PERCENTAGE_PROMOTION",
+                "description": "30%"
+            }
+        ],
+        "promotionDateRange": {
+            "startDate": "2024-09-19",
+            "endDate": "2024-09-22"
+        },
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-20T11:00:13"
+}

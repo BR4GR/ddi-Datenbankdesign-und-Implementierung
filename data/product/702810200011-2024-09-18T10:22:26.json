@@ -1,0 +1,131 @@
+{
+    "uid": 100132353,
+    "migrosId": "702810200011",
+    "name": "Wäscheleine weiss",
+    "brand": "MIGROS HOME",
+    "title": "Wäscheleine weiss",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "MIGROS HOME",
+                "slug": "migros-home",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1715075047/brands/MIGROS_Home_GR7"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/702810200011"
+        },
+        "otherInformation": {
+            "articleNumber": "702810200011",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Number",
+                    "value": "1 Pcs."
+                },
+                {
+                    "code": "Dimensions/size",
+                    "value": "30 m x 3 mm"
+                },
+                {
+                    "code": "Material",
+                    "value": "Polyethylen PE"
+                },
+                {
+                    "code": "Color",
+                    "value": "weiss"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613347055454"
+    ],
+    "variants": {
+        "baseProductMigrosId": "702810200000",
+        "mainVariantMigrosId": "702810200011",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "WEISS"
+                },
+                "migrosId": "702810200011"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "WEISS",
+                "options": [
+                    "WEISS"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/87ebe1460a399981a8f6c521fcf145e908a9c50a/waescheleine-weiss.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494740",
+            "name": "Laundry & cleaning",
+            "slugs": [
+                "laundry-cleaning"
+            ]
+        },
+        {
+            "id": "7494810",
+            "name": "Cleaning utensils",
+            "slugs": [
+                "laundry-cleaning",
+                "cleaning-utensils"
+            ]
+        },
+        {
+            "id": "7495162",
+            "name": "Laundry accessories",
+            "slugs": [
+                "laundry-cleaning",
+                "cleaning-utensils",
+                "laundry-accessories"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/702810200011",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.–",
+            "advertisedDisplayValue": "3.–",
+            "effectiveDisplayValue": "3.–",
+            "multiplier": 1,
+            "value": 3,
+            "effectiveValue": 3,
+            "advertisedValue": 3,
+            "unitPrice": {
+                "value": 3,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "3.–/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-18T10:22:26"
+}

@@ -1,0 +1,107 @@
+{
+    "uid": 100001307,
+    "migrosId": "514160400000",
+    "migrosOnlineId": "9953",
+    "name": "Toothpaste",
+    "brand": "Meridol",
+    "versioning": "Protects your gums",
+    "title": "Meridol · Toothpaste · Protects your gums",
+    "description": "Meridol Toothpaste Protects your gums",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Meridol",
+                "slug": "meridol",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252459/brands/meridol"
+            },
+            "rating": {
+                "nbReviews": 57,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/514160400000"
+        },
+        "usageInformation": {
+            "additionalInformation": "Meridol toothpaste contains a unique, worldwide patented combination of active ingredients with long-lasting effect. Permanently inhibits plaque (dental plaque) and promotes the regeneration of irritated gums with noticeable success. Prevents gum problems effectively. The dual fluoride system offers optimal cavity protection. Clinically tested. Meridol both regenerates and protects the gums. And keeps your teeth healthy."
+        },
+        "otherInformation": {
+            "articleNumber": "514160400000",
+            "legalDesignation": "TOOTHPASTE",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Suitable for",
+                    "value": "Empfindliches Zahnfleisch, Kariesschutz"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610108052813"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/b457d73c2606ab6d84f43db3ca47f4b8c3d6f99d/meridol-zahnpasta.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494829",
+            "name": "Dental care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "dental-care"
+            ]
+        },
+        {
+            "id": "7495250",
+            "name": "Toothpaste",
+            "slugs": [
+                "drugstore-cosmetics",
+                "dental-care",
+                "toothpaste"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/514160400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.15",
+            "advertisedDisplayValue": "5.15",
+            "effectiveDisplayValue": "5.15",
+            "multiplier": 1,
+            "value": 5.15,
+            "effectiveValue": 5.15,
+            "advertisedValue": 5.15,
+            "unitPrice": {
+                "value": 6.87,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "75ml",
+        "quantityPrice": "6.87/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-15T23:59:07"
+}

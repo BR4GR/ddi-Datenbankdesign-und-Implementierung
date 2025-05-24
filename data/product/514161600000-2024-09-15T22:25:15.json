@@ -1,0 +1,108 @@
+{
+    "uid": 100021900,
+    "migrosId": "514161600000",
+    "migrosOnlineId": "3523336",
+    "name": "Toothpaste",
+    "brand": "Meridol",
+    "versioning": "Parodon Expert",
+    "title": "Meridol · Toothpaste · Parodon Expert",
+    "description": "Meridol Toothpaste Parodon Expert",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Meridol",
+                "slug": "meridol",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252459/brands/meridol"
+            },
+            "rating": {
+                "nbReviews": 18,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/514161600000"
+        },
+        "usageInformation": {
+            "usage": "Not for children under 7 years of age.",
+            "additionalInformation": "Meridol PARODONT EXPERT contains a double active formula with action enhancer, which was developed especially for gums with a tendency to bleeding and periodontitis. Its clinically proven formula contains a higher* concentration of antibacterial ingredients. It thus has an indirect anti-inflammatory effect and thus supports the natural healing process of the gums. This strengthens resistance against gum problems and even against periodontitis."
+        },
+        "otherInformation": {
+            "articleNumber": "514161600000",
+            "legalDesignation": "TOOTHPASTE",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Suitable for",
+                    "value": "Empfindliches Zahnfleisch, Kariesschutz"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "8718951115446"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/3eba34ed1cc27be5c660f9d687496d61d924036b/meridol-zahnpasta-parodont-expert.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494829",
+            "name": "Dental care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "dental-care"
+            ]
+        },
+        {
+            "id": "7495250",
+            "name": "Toothpaste",
+            "slugs": [
+                "drugstore-cosmetics",
+                "dental-care",
+                "toothpaste"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/514161600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.20",
+            "advertisedDisplayValue": "7.20",
+            "effectiveDisplayValue": "7.20",
+            "multiplier": 1,
+            "value": 7.2,
+            "effectiveValue": 7.2,
+            "advertisedValue": 7.2,
+            "unitPrice": {
+                "value": 9.6,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "75ml",
+        "quantityPrice": "9.60/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-15T22:25:15"
+}

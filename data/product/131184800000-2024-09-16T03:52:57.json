@@ -1,0 +1,104 @@
+{
+    "uid": 100109355,
+    "migrosId": "131184800000",
+    "name": "Apéro-Gemüse Dip",
+    "title": "Apéro-Gemüse Dip",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "ingredients": "Karotten, Rettich, Peperoni rot, Peperoni gelb, Blattsalat, Zucchetti, Cherrytomaten.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 5,
+                "nbStars": 3.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/131184800000"
+        },
+        "nutrientsInformation": {
+            "portionSentence": "1 pack ≈ 4 servings"
+        },
+        "otherInformation": {
+            "articleNumber": "131184800000",
+            "legalDesignation": "Gemüsemischung",
+            "distributorName": "Genossenschaft Migros Zürich",
+            "distributorStreetAndNumber": "CH-8021 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store refrigerated at max. +5 °C."
+                },
+                {
+                    "code": "Production information",
+                    "value": "prepared, washed"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613269971313"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a4b4b9a775d142c33dd163e13795172187b424a9/apero-gemuese-dip.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494761",
+            "name": "Ready to use",
+            "slugs": [
+                "fruits-vegetables",
+                "ready-to-use"
+            ]
+        },
+        {
+            "id": "7494920",
+            "name": "Vegetables",
+            "slugs": [
+                "fruits-vegetables",
+                "ready-to-use",
+                "vegetables"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/131184800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "9.90",
+            "advertisedDisplayValue": "9.90",
+            "effectiveDisplayValue": "9.90",
+            "multiplier": 1,
+            "value": 9.9,
+            "effectiveValue": 9.9,
+            "advertisedValue": 9.9,
+            "unitPrice": {
+                "value": 1.98,
+                "unit": "100g"
+            }
+        },
+        "quantity": "500g",
+        "quantityPrice": "1.98/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T03:52:57"
+}

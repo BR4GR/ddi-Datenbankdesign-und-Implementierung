@@ -1,0 +1,137 @@
+{
+    "uid": 100132728,
+    "migrosId": "747192900050",
+    "migrosOnlineId": "10784194",
+    "name": "Hooded linen",
+    "brand": "Milette",
+    "brandLine": "Baby Care",
+    "versioning": "80 x 80 cm",
+    "title": "Milette Baby Care · Hooded linen · 80 x 80 cm",
+    "description": "Milette Hooded linen 80 x 80 cm",
+    "productRange": "VARIANT",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Milette",
+                "slug": "milette",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076999/brands/Milette_Logo"
+            },
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/747192900050"
+        },
+        "otherInformation": {
+            "articleNumber": "747192900050",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7628871007114"
+    ],
+    "variants": {
+        "baseProductMigrosId": "747192900000",
+        "mainVariantMigrosId": "747192900050",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "hblau",
+                    "size": "000"
+                },
+                "migrosId": "747192900041"
+            },
+            {
+                "declinationOptions": {
+                    "color": "yellow",
+                    "size": "000"
+                },
+                "migrosId": "747192900050"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "yellow",
+                "options": [
+                    "hblau",
+                    "yellow"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "000",
+                "options": [
+                    "000"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/e9ba8929234f464158ad43a9420f0b4d2ca5fd8c/milette-bath-towel.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "7494823",
+            "name": "Baby equipment",
+            "slugs": [
+                "baby-kids",
+                "baby-equipment"
+            ]
+        },
+        {
+            "id": "7495221",
+            "name": "Childcare accessories",
+            "slugs": [
+                "baby-kids",
+                "baby-equipment",
+                "childcare-accessories"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/747192900050",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "14.95",
+            "advertisedDisplayValue": "14.95",
+            "effectiveDisplayValue": "14.95",
+            "multiplier": 1,
+            "value": 14.95,
+            "effectiveValue": 14.95,
+            "advertisedValue": 14.95,
+            "unitPrice": {
+                "value": 14.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "14.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:56:40"
+}

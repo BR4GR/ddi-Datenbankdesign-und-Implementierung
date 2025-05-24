@@ -1,0 +1,114 @@
+{
+    "uid": 100049334,
+    "migrosId": "130924700000",
+    "migrosOnlineId": "6815721",
+    "name": "Vegetarian Balls",
+    "brand": "Garden Gourmet",
+    "versioning": "Vegetarian",
+    "title": "Garden Gourmet · Vegetarian Balls · Vegetarian",
+    "description": "Garden Gourmet Vegetarian Balls Vegetarian 100% Veggie",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L58",
+                    "name": "V-Label vegetarisch",
+                    "slug": "v-label-vegetarisch",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483422/labels/V-Label_Vegetarisch_Color"
+                }
+            ],
+            "brand": {
+                "name": "Garden Gourmet",
+                "slug": "garden-gourmet",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076709/brands/Garden_Gourmet_Nestle%CC%81_Suisse_S.A.___Pet_Care_Logo"
+            },
+            "nutritionalCharacteristics": [
+                "Vegetarian"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegetarian"
+                }
+            ],
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/130924700000"
+        },
+        "usageInformation": {
+            "additionalInformation": "Perfect with pasta!"
+        },
+        "otherInformation": {
+            "articleNumber": "130924700000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "﻿Vegetarian"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613404727201"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/45c2d9baabcc24e01bc43e84616df7b6c99cf7e8/garden-gourmet-vegetarian-balls.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494750",
+            "name": "Plant-based alternatives",
+            "slugs": [
+                "meat-fish",
+                "plant-based-alternatives"
+            ]
+        },
+        {
+            "id": "7494864",
+            "name": "Alternatives to burgers, cutlets & falafel",
+            "slugs": [
+                "meat-fish",
+                "plant-based-alternatives",
+                "alternatives-to-burgers-cutlets"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/130924700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "pictos": [
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483166/labels/fresh",
+                "description": "fresh"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-10-06T01:05:27"
+}

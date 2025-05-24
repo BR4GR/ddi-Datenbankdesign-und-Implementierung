@@ -1,0 +1,81 @@
+{
+    "uid": 100146083,
+    "migrosId": "274609302100",
+    "name": "Rüben gelb",
+    "brand": "Migros Fresca",
+    "title": "Rüben gelb",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Fresca",
+                "slug": "migros-fresca",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076970/brands/Migros_Fresca_Logo"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/274609302100"
+        },
+        "otherInformation": {
+            "articleNumber": "274609302100",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "2125750000006",
+        "357791",
+        "7617027556378"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/7e317dae7bb55a30c83b5fb966ff8dcba13f0368/rueben-gelb.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494757",
+            "name": "Vegetables",
+            "slugs": [
+                "fruits-vegetables",
+                "vegetables"
+            ]
+        },
+        {
+            "id": "7494907",
+            "name": "Other vegetables",
+            "slugs": [
+                "fruits-vegetables",
+                "vegetables",
+                "other-vegetables"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/274609302100",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-16T21:04:39"
+}

@@ -1,0 +1,183 @@
+{
+    "uid": 100093128,
+    "migrosId": "848709000080",
+    "name": "pocket umbrella",
+    "brand": "MIGROS ESSENTIALS",
+    "title": "pocket umbrella",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L70",
+                    "name": "GRS",
+                    "slug": "grs",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1707834844/labels/GRS-1"
+                }
+            ],
+            "brand": {
+                "name": "MIGROS ESSENTIALS",
+                "slug": "migros-essentials",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1708333701/brands/Migros_Essentials_-_RGB_-_DE"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 24,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/848709000080"
+        },
+        "otherInformation": {
+            "articleNumber": "848709000080",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Category/theme",
+                    "value": "Taschenschirm"
+                },
+                {
+                    "code": "Look",
+                    "value": "uni"
+                },
+                {
+                    "code": "Gender",
+                    "value": "Unisex"
+                },
+                {
+                    "code": "Material",
+                    "value": "Recycletes Polyester"
+                },
+                {
+                    "code": "Diameter of umbrella",
+                    "value": "96"
+                },
+                {
+                    "code": "Weight of umbrellas",
+                    "value": "315 gr."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613434590400"
+    ],
+    "variants": {
+        "baseProductMigrosId": "848709000000",
+        "mainVariantMigrosId": "848709000020",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "black",
+                    "size": "one Size"
+                },
+                "migrosId": "848709000020"
+            },
+            {
+                "declinationOptions": {
+                    "color": "red",
+                    "size": "one Size"
+                },
+                "migrosId": "848709000030"
+            },
+            {
+                "declinationOptions": {
+                    "color": "navy",
+                    "size": "one Size"
+                },
+                "migrosId": "848709000043"
+            },
+            {
+                "declinationOptions": {
+                    "color": "grey",
+                    "size": "one Size"
+                },
+                "migrosId": "848709000080"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "grey",
+                "options": [
+                    "black",
+                    "red",
+                    "navy",
+                    "grey"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "one Size",
+                "options": [
+                    "one Size"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/cd1454e9da095aad2b89fedc26395b3f77456916/pocket-umbrella.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ca366401c348f8f18c314e822dc1263ab2e7f626.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10552745",
+            "name": "Accessories",
+            "slugs": [
+                "clothing-accessories",
+                "accessories"
+            ]
+        },
+        {
+            "id": "10552791",
+            "name": "Umbrellas",
+            "slugs": [
+                "clothing-accessories",
+                "accessories",
+                "umbrellas"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/848709000080",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "19.95",
+            "advertisedDisplayValue": "19.95",
+            "effectiveDisplayValue": "19.95",
+            "multiplier": 1,
+            "value": 19.95,
+            "effectiveValue": 19.95,
+            "advertisedValue": 19.95
+        },
+        "quantity": "1 Stk.",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T17:03:59"
+}

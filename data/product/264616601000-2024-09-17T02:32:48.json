@@ -1,0 +1,104 @@
+{
+    "uid": 100124376,
+    "migrosId": "264616601000",
+    "name": "Fairtrade Litschis",
+    "brand": "Migros Fresca",
+    "title": "Fairtrade Litschis",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L04",
+                    "name": "FAIRTRADE MAX HAVELAAR",
+                    "slug": "fairtrade-max-havelaar",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679482976/labels/Fairtrade_Max_Havelaar_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "Migros Fresca",
+                "slug": "migros-fresca",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076970/brands/Migros_Fresca_Logo"
+            },
+            "rating": {
+                "nbReviews": 65,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/264616601000"
+        },
+        "otherInformation": {
+            "articleNumber": "264616601000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "2168665000006",
+        "353335",
+        "7613404906392"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d1191114d8a7e5f8cf5a58afc60e232a6bd83ba2/fairtrade-litschis.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494756",
+            "name": "Fruits",
+            "slugs": [
+                "fruits-vegetables",
+                "fruits"
+            ]
+        },
+        {
+            "id": "7494899",
+            "name": "Exotic fruits",
+            "slugs": [
+                "fruits-vegetables",
+                "fruits",
+                "exotic-fruits"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/264616601000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "9.50",
+            "advertisedDisplayValue": "9.50",
+            "effectiveDisplayValue": "9.50",
+            "multiplier": 1,
+            "value": 9.5,
+            "effectiveValue": 9.5,
+            "advertisedValue": 9.5,
+            "unitPrice": {
+                "value": 0.95,
+                "unit": "100g"
+            }
+        },
+        "quantity": "1 kg",
+        "quantityPrice": "0.95/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T02:32:48"
+}

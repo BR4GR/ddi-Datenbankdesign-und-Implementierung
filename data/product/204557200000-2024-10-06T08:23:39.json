@@ -1,0 +1,102 @@
+{
+    "uid": 100031442,
+    "migrosId": "204557200000",
+    "migrosOnlineId": "6479641",
+    "name": "Milk drink",
+    "brand": "Lattesso",
+    "versioning": "Fit",
+    "title": "Lattesso · Milk drink · Fit",
+    "description": "Lattesso Milk drink Fit",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "Lattesso",
+                "slug": "lattesso"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 18,
+                "nbStars": 5.0
+            }
+        },
+        "usageInformation": {
+            "additionalInformation": "Lactose-free"
+        },
+        "otherInformation": {
+            "articleNumber": "204557200000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7640145772030"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/144ac26540a3565ed24b98c9be4c951f4562a0b4/lattesso-fit.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/067674226768e8bab850451959b69c79500c7ae1.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494751",
+            "name": "Milk, butter & eggs",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "milk-butter-eggs"
+            ]
+        },
+        {
+            "id": "7494867",
+            "name": "Milk & dairy drinks",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "milk-butter-eggs",
+                "milk-dairy-drinks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/204557200000",
+    "isMgbCompatible": false,
+    "isConsignmentProduct": false,
+    "offer": {
+        "isVariableWeight": false,
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "REGION",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679482984/labels/suisse",
+                "description": "Switzerland"
+            },
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483166/labels/fresh",
+                "description": "fresh"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true
+    },
+    "dateAdded": "2024-10-06T08:23:39"
+}

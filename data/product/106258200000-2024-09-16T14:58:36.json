@@ -1,0 +1,127 @@
+{
+    "uid": 100050330,
+    "migrosId": "106258200000",
+    "migrosOnlineId": "12445510",
+    "name": "Piment d'Espelette AOP",
+    "brand": "Sélection",
+    "title": "Sélection · Piment d'Espelette AOP",
+    "description": "Sélection Piment d'Espelette AOP ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Sélection",
+                "slug": "selection",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652251541/brands/selection"
+            },
+            "ingredients": "Espelette pepper.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 6,
+                    "productionRatio": 81,
+                    "transportRatio": 13,
+                    "packagingRatio": 4,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 18,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/106258200000"
+        },
+        "otherInformation": {
+            "articleNumber": "106258200000",
+            "legalDesignation": "Cayennepfeffer, granuliert",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store in a dry place and keep away from light."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Packaging type",
+                    "value": "Glas"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312349595"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/fe2f54f91aeb40724913edd1f742dea5d0541d6f/selection-piment-despelette.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/cada493774adcb7a0dc8d4e04f18f1ad1830b774.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494776",
+            "name": "Spices & sauces",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces"
+            ]
+        },
+        {
+            "id": "7494984",
+            "name": "Spices, herbs & seasonings",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces",
+                "spices-herbs-seasonings"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/106258200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "11.80",
+            "advertisedDisplayValue": "11.80",
+            "effectiveDisplayValue": "11.80",
+            "multiplier": 1,
+            "value": 11.8,
+            "effectiveValue": 11.8,
+            "advertisedValue": 11.8,
+            "unitPrice": {
+                "value": 23.6,
+                "unit": "100g"
+            }
+        },
+        "quantity": "50g",
+        "quantityPrice": "23.60/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:58:36"
+}

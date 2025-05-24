@@ -1,0 +1,129 @@
+{
+    "uid": 100058576,
+    "migrosId": "703044100000",
+    "name": "Glass bottle",
+    "brand": "Cucina & Tavola",
+    "title": "Glass bottle",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Cucina & Tavola",
+                "slug": "cucina-tavola",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076644/brands/CucinaTavola__Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 8,
+                "nbStars": 3.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/703044100000"
+        },
+        "otherInformation": {
+            "articleNumber": "703044100000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Color",
+                    "value": "transparent"
+                },
+                {
+                    "code": "Height",
+                    "value": "20.5 cm"
+                },
+                {
+                    "code": "Volume",
+                    "value": "480 ml"
+                },
+                {
+                    "code": "Diameter",
+                    "value": "7"
+                },
+                {
+                    "code": "Microwave-safe",
+                    "value": "No"
+                },
+                {
+                    "code": "Dishwasher-safe",
+                    "value": "Yes"
+                },
+                {
+                    "code": "suitable for food products",
+                    "value": "Yes"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613347404740"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/73266009a8bb5233935e121a01a918d817ac83d2/glass-bottle.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d47782238473ee2235bf06891b23f3e48dfb6f1d.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494814",
+            "name": "Kitchen & dining",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining"
+            ]
+        },
+        {
+            "id": "7495178",
+            "name": "Table",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining",
+                "table"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/703044100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "9.95",
+            "advertisedDisplayValue": "9.95",
+            "effectiveDisplayValue": "9.95",
+            "multiplier": 1,
+            "value": 9.95,
+            "effectiveValue": 9.95,
+            "advertisedValue": 9.95,
+            "unitPrice": {
+                "value": 9.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "9.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:41:30"
+}

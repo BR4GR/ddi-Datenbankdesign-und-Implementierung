@@ -1,0 +1,171 @@
+{
+    "uid": 100161159,
+    "migrosId": "114043210000",
+    "name": "Berliner",
+    "brand": "Frisch & Handgemacht",
+    "title": "Berliner",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Frisch & Handgemacht",
+                "slug": "frisch-handgemacht",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652249913/brands/frisch-handgemacht"
+            },
+            "ingredients": "WEIZENmehl (CH), Zucker, EIER (aus Bodenhaltung), Dextrose, Emulgator: E471, Hefe, Sonnenblumenöl, Glukosesirup, Kokosfett, MILCHzucker, Modifizierte Wachsmaisstärke: E1412, Farbstoff: E170, MagerMILCHpulver, Himbeerkonzentrat, Dextrose (WEIZEN), EIWEISSpulver (aus Bodenhaltung), Kochsalz, Johannisbeermarkkonzentrat, Johannisbeersaftkonzentrat, Emulgator: E470b, WEIZENkleber, WEIZENstärke, SOJAmehl, Backtriebmittel: E500, WEIZENmehl, Emulgator: SOJAlecithin, Kartoffelflocken, Geliermittel: Pektin, Säuerungsmittel: Zitronensäure, Aroma, Holundersaftkonzentrat, Gelier- und Verdickungsmittel: Guarkernmehl, Salfett, Rapsöl, Vanille-Aroma natürlich, Süsskartoffelkonzentrat, Apfelkonzentrat, Rettich-Konzentrat, Olivenöl, Geliermittel: E407\n",
+            "allergenIndication": "Kann Lupinen, Haselnüsse, Mandeln, Baumnüsse, Sesam enthalten.\n",
+            "rating": {
+                "nbReviews": 4,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/114043210000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1739 kJ (415 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "8.9 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "3.8 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "73 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "25 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "10 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.9 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "114043210000",
+            "legalDesignation": "Berliner",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613404123461"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/9cfbd3af55f5fb3ba71fe41adf013dc66b768659/berliner.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f7ac29a47c7f40045446bd8a652175cddc7f305f.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494765",
+            "name": "Pastries",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "pastries"
+            ]
+        },
+        {
+            "id": "7494932",
+            "name": "Fresh pastries",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "pastries",
+                "fresh-pastries"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/114043210000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.–",
+            "advertisedDisplayValue": "6.–",
+            "effectiveDisplayValue": "6.–",
+            "multiplier": 1,
+            "value": 6,
+            "effectiveValue": 6,
+            "advertisedValue": 6,
+            "unitPrice": {
+                "value": 2.5,
+                "unit": "100g"
+            }
+        },
+        "quantity": "240g",
+        "quantityPrice": "2.50/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T20:02:18"
+}

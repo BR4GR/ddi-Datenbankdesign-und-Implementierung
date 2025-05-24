@@ -1,0 +1,90 @@
+{
+    "uid": 100143866,
+    "migrosId": "131370001200",
+    "name": "Migros Daily Gemischter Obstsalat",
+    "brand": "Migros Daily",
+    "title": "Migros Daily Gemischter Obstsalat",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Daily",
+                "slug": "migros-daily",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076969/brands/Migros_Daily_Logo"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/131370001200"
+        },
+        "otherInformation": {
+            "articleNumber": "131370001200",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613404068151"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d1837c3901afa93296a8daa58a03f549ccfb0ee7/migros-daily-gemischter-obstsalat.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494761",
+            "name": "Ready to use",
+            "slugs": [
+                "fruits-vegetables",
+                "ready-to-use"
+            ]
+        },
+        {
+            "id": "7494919",
+            "name": "Fruits",
+            "slugs": [
+                "fruits-vegetables",
+                "ready-to-use",
+                "fruits"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/131370001200",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.80",
+            "advertisedDisplayValue": "5.80",
+            "effectiveDisplayValue": "5.80",
+            "multiplier": 1,
+            "value": 5.8,
+            "effectiveValue": 5.8,
+            "advertisedValue": 5.8,
+            "unitPrice": {
+                "value": 2.64,
+                "unit": "100g"
+            }
+        },
+        "quantity": "220g",
+        "quantityPrice": "2.64/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T02:24:51"
+}

@@ -1,0 +1,89 @@
+{
+    "uid": 100144456,
+    "migrosId": "113738900000",
+    "name": "Gâteau St. Martin",
+    "title": "Gâteau St. Martin",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/113738900000"
+        },
+        "otherInformation": {
+            "articleNumber": "113738900000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613404069646",
+        "404174"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/b8cfeffc2eb30ea637fd2e061925e1235c72d064/gateau-st-martin.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/73f63513625daea5304d71bd50854fea6b4c23df.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494765",
+            "name": "Pastries",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "pastries"
+            ]
+        },
+        {
+            "id": "7494934",
+            "name": "Cakes",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "pastries",
+                "cakes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/113738900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "9.–",
+            "advertisedDisplayValue": "9.–",
+            "effectiveDisplayValue": "9.–",
+            "multiplier": 1,
+            "value": 9,
+            "effectiveValue": 9,
+            "advertisedValue": 9,
+            "unitPrice": {
+                "value": 1.8,
+                "unit": "100g"
+            }
+        },
+        "quantity": "500g",
+        "quantityPrice": "1.80/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T19:30:51"
+}

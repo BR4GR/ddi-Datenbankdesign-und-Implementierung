@@ -1,0 +1,94 @@
+{
+    "uid": 100143652,
+    "migrosId": "130475100000",
+    "name": "Rapelli Canapé Hummus",
+    "brand": "Rapelli",
+    "title": "Rapelli Canapé Hummus",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Rapelli",
+                "slug": "rapelli",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1642402946/brands/Rapelli_Rapelli_SA_Logo"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/130475100000"
+        },
+        "otherInformation": {
+            "articleNumber": "130475100000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7610352300937"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/5720689fd5980d65a30a79f68ff6af1f316d0962/rapelli-canape-hummus.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/23cdf430dc33b9fe84e2fa9ec349b43f66b86b7a.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494754",
+            "name": "Fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food"
+            ]
+        },
+        {
+            "id": "7494887",
+            "name": "Ready-made meals",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food",
+                "ready-made-meals"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/130475100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.90",
+            "advertisedDisplayValue": "6.90",
+            "effectiveDisplayValue": "6.90",
+            "multiplier": 1,
+            "value": 6.9,
+            "effectiveValue": 6.9,
+            "advertisedValue": 6.9,
+            "unitPrice": {
+                "value": 5.31,
+                "unit": "100g"
+            }
+        },
+        "quantity": "130g",
+        "quantityPrice": "5.31/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T02:19:53"
+}

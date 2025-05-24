@@ -1,0 +1,121 @@
+{
+    "uid": 100144913,
+    "migrosId": "233110181010",
+    "name": "Malbuner Bauernspeck IP-SUISSE",
+    "brand": "Malbuner",
+    "title": "Malbuner Bauernspeck IP-SUISSE",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L03",
+                    "name": "IP-SUISSE",
+                    "slug": "ip-suisse",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483396/labels/IP-Suisse_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "Malbuner",
+                "slug": "malbuner",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076950/brands/Malbuner_Herbert_Ospelt_Anstalt_Logo"
+            },
+            "mcheck": {
+                "animalWelfare": {
+                    "rating": 4,
+                    "image": "https://image.migros.ch/original/58bd3042b45c82e79d3a18e05d0b73cc1abda5fb.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "rating": {
+                "nbReviews": 9,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/233110181010"
+        },
+        "otherInformation": {
+            "articleNumber": "233110181010",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "2157990000003",
+        "7613292357993"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/fb2ceb6a23582aa2a93cfc2bfa8485077fc60f7f/malbuner-bauernspeck-ip-suisse.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/47e5fd1db67990270e416b92413c355be3a5dd90.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494748",
+            "name": "Cold cuts",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts"
+            ]
+        },
+        {
+            "id": "7494853",
+            "name": "Bacon & diced bacon",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts",
+                "bacon-diced-bacon"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/233110181010",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.05",
+            "advertisedDisplayValue": "6.05",
+            "effectiveDisplayValue": "6.05",
+            "multiplier": 1,
+            "value": 6.05,
+            "effectiveValue": 6.05,
+            "advertisedValue": 6.05,
+            "unitPrice": {
+                "value": 6.05,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "6.05/100g",
+        "isVariableWeight": true,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "VARIABLE_WEIGHT",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483133/labels/poids-variable",
+                "description": "Variable Weight"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:57:28"
+}

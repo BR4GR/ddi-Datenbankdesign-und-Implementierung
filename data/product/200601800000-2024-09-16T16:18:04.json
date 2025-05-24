@@ -1,0 +1,186 @@
+{
+    "uid": 100145815,
+    "migrosId": "200601800000",
+    "name": "Schweizer Burrata",
+    "title": "Schweizer Burrata",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "ingredients": "<strong>Milch</strong>, <strong>Rahm</strong> 28 %, Kochsalz.",
+            "allergens": "Milk and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "animalWelfare": {
+                    "rating": 3,
+                    "image": "https://image.migros.ch/original/02f56762a6d67ea0470f50e5e8cc4d96d84791f0.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "rating": {
+                "nbReviews": 5,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/200601800000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "1 Portion (125 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "919 kJ (222 kcal)",
+                            "1148 kJ (278 kcal)",
+                            "14 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "20 g",
+                            "25 g",
+                            "36 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "12 g",
+                            "15 g",
+                            "75 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "1.6 g",
+                            "2 g",
+                            "1 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "1.6 g",
+                            "2 g",
+                            "2 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "8.9 g",
+                            "11 g",
+                            "22 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.25 g",
+                            "0.31 g",
+                            "5 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "portionSentence": "1 Package = 1 serving",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "200601800000",
+            "legalDesignation": "Schweizer Frischkäse, vollfett, aus pasteurisierter Milch, mit Rahmfüllung",
+            "identificationMark": "CH 70736823",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store refrigerated at max. +5 °C."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613404239131"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/41f339dc8684e6e939fd82684a561e9a759f7e33/schweizer-burrata.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494752",
+            "name": "Cheese",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese"
+            ]
+        },
+        {
+            "id": "7494875",
+            "name": "Mozzarella, feta & cottage cheeses",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese",
+                "mozzarella-feta-cottage-cheeses"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/200601800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.90",
+            "advertisedDisplayValue": "6.90",
+            "effectiveDisplayValue": "6.90",
+            "multiplier": 1,
+            "value": 6.9,
+            "effectiveValue": 6.9,
+            "advertisedValue": 6.9,
+            "unitPrice": {
+                "value": 5.52,
+                "unit": "100g"
+            }
+        },
+        "quantity": "125g",
+        "quantityPrice": "5.52/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T16:18:04"
+}

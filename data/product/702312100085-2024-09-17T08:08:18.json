@@ -1,0 +1,145 @@
+{
+    "uid": 100079587,
+    "migrosId": "702312100085",
+    "name": "AL BIALETTI 9 TASSEN SILBER MOKA EXP.",
+    "brand": "Bialetti",
+    "title": "AL BIALETTI 9 TASSEN SILBER MOKA EXP.",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Bialetti",
+                "slug": "bialetti",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252399/brands/bialetti"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 16,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/702312100085"
+        },
+        "otherInformation": {
+            "articleNumber": "702312100085",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Material",
+                    "value": "Aluminium"
+                },
+                {
+                    "code": "Color",
+                    "value": "silbrig"
+                },
+                {
+                    "code": "Dishwasher-safe",
+                    "value": "No"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613294300379",
+        "8006363030380"
+    ],
+    "variants": {
+        "baseProductMigrosId": "702312100000",
+        "mainVariantMigrosId": "702312100085",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "Silber",
+                    "size": "000"
+                },
+                "migrosId": "702312100085"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "Silber",
+                "options": [
+                    "Silber"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "000",
+                "options": [
+                    "000"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/72d95d16fce209cf2b15122f7af47d5562a62944/al-bialetti-9-tassen-silber-moka-exp.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/bc5bd640cc57f1b72c70b097949e7e4eb81dd03d.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494814",
+            "name": "Kitchen & dining",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining"
+            ]
+        },
+        {
+            "id": "7495178",
+            "name": "Table",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining",
+                "table"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/702312100085",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "39.95",
+            "advertisedDisplayValue": "39.95",
+            "effectiveDisplayValue": "39.95",
+            "multiplier": 1,
+            "value": 39.95,
+            "effectiveValue": 39.95,
+            "advertisedValue": 39.95,
+            "unitPrice": {
+                "value": 39.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "39.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T08:08:18"
+}

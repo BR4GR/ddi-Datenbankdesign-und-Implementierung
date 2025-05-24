@@ -1,0 +1,123 @@
+{
+    "uid": 100125602,
+    "migrosId": "747269800000",
+    "migrosOnlineId": "10559730",
+    "name": "Teat",
+    "brand": "Milette",
+    "brandLine": "Baby Care",
+    "versioning": "From birth",
+    "title": "Milette Baby Care · Teat · From birth",
+    "description": "Milette Teat From birth",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Milette",
+                "slug": "milette",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076999/brands/Milette_Logo"
+            },
+            "rating": {
+                "nbReviews": 4,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/747269800000"
+        },
+        "otherInformation": {
+            "articleNumber": "747269800000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613434933382"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f53cad181e81b96630be31ee3656b35060a3b92f/milette-teats.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "7494818",
+            "name": "Baby bottles & dummies",
+            "slugs": [
+                "baby-kids",
+                "baby-bottles-dummies"
+            ]
+        },
+        {
+            "id": "7495194",
+            "name": "Baby bottles & spare teats",
+            "slugs": [
+                "baby-kids",
+                "baby-bottles-dummies",
+                "baby-bottles-spare-teats"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/747269800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "2.50",
+            "advertisedDisplayValue": "2.50",
+            "effectiveDisplayValue": "2.50",
+            "multiplier": 1,
+            "value": 2.5,
+            "effectiveValue": 2.5,
+            "advertisedValue": 2.5
+        },
+        "promotionPrice": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.75",
+            "advertisedDisplayValue": "1.75",
+            "effectiveDisplayValue": "1.75",
+            "multiplier": 1,
+            "value": 1.75,
+            "effectiveValue": 1.75,
+            "advertisedValue": 1.75,
+            "unitPrice": {
+                "value": 0.88,
+                "unit": "piece"
+            }
+        },
+        "priceInsteadOfLabel": "was",
+        "quantity": "2 Stk.",
+        "quantityPrice": "0.88/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "badges": [
+            {
+                "type": "PERCENTAGE_PROMOTION",
+                "description": "30%"
+            },
+            {
+                "type": "MINIMUM_PIECES",
+                "description": "2 or more"
+            }
+        ],
+        "promotionDateRange": {
+            "startDate": "2024-09-10",
+            "endDate": "2024-09-23"
+        },
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:41:19"
+}

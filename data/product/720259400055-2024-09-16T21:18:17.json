@@ -1,0 +1,150 @@
+{
+    "uid": 100079938,
+    "migrosId": "720259400055",
+    "name": "Paintmarker goldig",
+    "brand": "Edding",
+    "title": "Paintmarker goldig",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Edding",
+                "slug": "edding",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252419/brands/edding"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 19,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/720259400055"
+        },
+        "otherInformation": {
+            "articleNumber": "720259400055",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Anwendungsbereich",
+                    "value": "Glas,  Metall,  Plastik,  Papier"
+                },
+                {
+                    "code": "Number",
+                    "value": "1 Pcs."
+                },
+                {
+                    "code": "Font color",
+                    "value": "goldig"
+                },
+                {
+                    "code": "Font width",
+                    "value": "0.8 mm"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4004764060665",
+        "7613064319181"
+    ],
+    "variants": {
+        "baseProductMigrosId": "720259400000",
+        "mainVariantMigrosId": "720259400010",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "weiss"
+                },
+                "migrosId": "720259400010"
+            },
+            {
+                "declinationOptions": {
+                    "color": "GOLD"
+                },
+                "migrosId": "720259400055"
+            },
+            {
+                "declinationOptions": {
+                    "color": "SILBER"
+                },
+                "migrosId": "720259400085"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "GOLD",
+                "options": [
+                    "weiss",
+                    "GOLD",
+                    "SILBER"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/271f10fa40b31863ab4d2b5a57731a35aae8a311/paintmarker-goldig.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494813",
+            "name": "Office & stationery",
+            "slugs": [
+                "household-and-living",
+                "office-stationery"
+            ]
+        },
+        {
+            "id": "7495170",
+            "name": "Writing & taking notes",
+            "slugs": [
+                "household-and-living",
+                "office-stationery",
+                "writing-taking-notes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/720259400055",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.95",
+            "advertisedDisplayValue": "5.95",
+            "effectiveDisplayValue": "5.95",
+            "multiplier": 1,
+            "value": 5.95,
+            "effectiveValue": 5.95,
+            "advertisedValue": 5.95,
+            "unitPrice": {
+                "value": 5.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "5.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T21:18:17"
+}

@@ -1,0 +1,114 @@
+{
+    "uid": 100041413,
+    "migrosId": "106605600000",
+    "migrosOnlineId": "224949",
+    "name": "French mayonnaise",
+    "brand": "Thomy",
+    "title": "Thomy · French mayonnaise",
+    "description": "Thomy French mayonnaise  The real one. For the love of the better.",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Thomy",
+                "slug": "thomy",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1662454623/brands/THOMY_logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 14,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/106605600000"
+        },
+        "usageInformation": {
+            "additionalInformation": "The real one; perfected according to the original THOMY recipe, to refine all your favorite dishes such as asparagus, fish, seafood, Gschwellti, potato salad and eggs, ideal for the preparation of salad and cocktail sauces"
+        },
+        "otherInformation": {
+            "articleNumber": "106605600000",
+            "distributorName": "Nestlé Suisse S.A.",
+            "distributorStreetAndNumber": "CP 2222, 1800 Vevey",
+            "mainSpecificities": [
+                {
+                    "code": "Type of sauce/dip",
+                    "value": "Mayonnaise"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Tube"
+                },
+                {
+                    "code": "Type of mayonnaise",
+                    "value": "A la Francaise"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610100034411"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3db90d49fe4f3e5e509f3b8f6115eb8c12953a86/thomy-mayonnaise-a-la-francaise.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494776",
+            "name": "Spices & sauces",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces"
+            ]
+        },
+        {
+            "id": "7494980",
+            "name": "Cold sauces",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces",
+                "cold-sauces"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/106605600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.45",
+            "advertisedDisplayValue": "4.45",
+            "effectiveDisplayValue": "4.45",
+            "multiplier": 1,
+            "value": 4.45,
+            "effectiveValue": 4.45,
+            "advertisedValue": 4.45,
+            "unitPrice": {
+                "value": 0.84,
+                "unit": "100g"
+            }
+        },
+        "quantity": "2 x 265g",
+        "quantityPrice": "0.84/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-10-03T18:20:03"
+}

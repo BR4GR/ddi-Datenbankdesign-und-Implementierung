@@ -1,0 +1,191 @@
+{
+    "uid": 100149098,
+    "migrosId": "104268100000",
+    "migrosOnlineId": "11683410",
+    "name": "Crunchy whole wheat",
+    "brand": "Kellogg's",
+    "brandLine": "Toppas",
+    "title": "Kellogg's Toppas · Crunchy whole wheat",
+    "description": "Kellogg's Crunchy whole wheat ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Kellogg's",
+                "slug": "kelloggs",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252446/brands/kelloggs"
+            },
+            "ingredients": "INGREDIENTS: WHOLEWHEAT (84%), sugar, humectant (sorbitol), beef gelatin.",
+            "allergens": "Cereal grains containing gluten and its derivatives, Wheat and their derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 7,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/104268100000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1540 kJ (364 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "2 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0.6 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "72 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "17 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "9 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "10 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.03 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "104268100000",
+            "legalDesignation": "SHREDDED WHOLEWHEAT WITH SUGAR TOPPING.",
+            "distributorName": "KELLOGG (Schweiz) GmbH",
+            "distributorStreetAndNumber": "KELLOGG (Schweiz) GmbH, Industriestrasse 15a, 6300 Zug",
+            "remarks": [
+                {
+                    "code": "Consumer storage instructions",
+                    "value": "Store in a cool, dry place."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Packaging type",
+                    "value": "Cardboard"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "5059319030821"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f0ca93f5c9d4580f62cc682e8fdda725702b6433/kelloggs-toppas.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494767",
+            "name": "Cereals & muesli",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "cereals-muesli"
+            ]
+        },
+        {
+            "id": "7494942",
+            "name": "Cereals",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "cereals-muesli",
+                "cereals"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/104268100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.70",
+            "advertisedDisplayValue": "5.70",
+            "effectiveDisplayValue": "5.70",
+            "multiplier": 1,
+            "value": 5.7,
+            "effectiveValue": 5.7,
+            "advertisedValue": 5.7,
+            "unitPrice": {
+                "value": 1.14,
+                "unit": "100g"
+            }
+        },
+        "quantity": "500g",
+        "quantityPrice": "1.14/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:32:08"
+}

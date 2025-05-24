@@ -1,0 +1,90 @@
+{
+    "uid": 100111443,
+    "migrosId": "153223800000",
+    "name": "Agnesi Pesto mit Aubergine",
+    "brand": "Agnesi",
+    "title": "Agnesi Pesto mit Aubergine",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Agnesi",
+                "slug": "agnesi",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1638170825/brands/Agnesi_Colussi_S.p.A._Logo"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/153223800000"
+        },
+        "otherInformation": {
+            "articleNumber": "153223800000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "8001200051467"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/78474de09982d48c7276e3a967b70e2fdc6e8ba9/agnesi-pesto-mit-aubergine.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494776",
+            "name": "Spices & sauces",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces"
+            ]
+        },
+        {
+            "id": "12671420",
+            "name": "Pasta sauces & pesto",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces",
+                "pasta-sauces-pesto"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/153223800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.55",
+            "advertisedDisplayValue": "5.55",
+            "effectiveDisplayValue": "5.55",
+            "multiplier": 1,
+            "value": 5.55,
+            "effectiveValue": 5.55,
+            "advertisedValue": 5.55,
+            "unitPrice": {
+                "value": 1.5,
+                "unit": "100g"
+            }
+        },
+        "quantity": "2 x 185g",
+        "quantityPrice": "1.50/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T15:25:52"
+}

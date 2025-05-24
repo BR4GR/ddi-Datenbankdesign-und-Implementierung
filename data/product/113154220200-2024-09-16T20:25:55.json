@@ -1,0 +1,101 @@
+{
+    "uid": 100143665,
+    "migrosId": "113154220200",
+    "name": "Haselnussmocke 2 Stück",
+    "brand": "In-store bakery",
+    "title": "Haselnussmocke 2 Stück",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "In-store bakery",
+                "slug": "in-store-bakery"
+            },
+            "rating": {
+                "nbReviews": 6,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/113154220200"
+        },
+        "otherInformation": {
+            "articleNumber": "113154220200",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7623186259289"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d59ca64aadefb813410996afd504afb98fff24ae/haselnussmocke-2-stueck.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/04f1eabd9c41d21b037628c113e60af5c5f83f2c.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/0da6b6fd631879a308467ad3bd902dc52b48096b.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494765",
+            "name": "Pastries",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "pastries"
+            ]
+        },
+        {
+            "id": "7494932",
+            "name": "Fresh pastries",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "pastries",
+                "fresh-pastries"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/113154220200",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.60",
+            "advertisedDisplayValue": "4.60",
+            "effectiveDisplayValue": "4.60",
+            "multiplier": 1,
+            "value": 4.6,
+            "effectiveValue": 4.6,
+            "advertisedValue": 4.6,
+            "unitPrice": {
+                "value": 2.3,
+                "unit": "100g"
+            }
+        },
+        "quantity": "200g",
+        "quantityPrice": "2.30/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T20:25:55"
+}

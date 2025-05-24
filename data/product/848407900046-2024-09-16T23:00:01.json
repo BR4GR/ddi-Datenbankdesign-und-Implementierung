@@ -1,0 +1,153 @@
+{
+    "uid": 100124208,
+    "migrosId": "848407900046",
+    "name": "Travel Set",
+    "brand": "Miomojo",
+    "title": "Travel Set",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Miomojo",
+                "slug": "miomojo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/848407900046"
+        },
+        "otherInformation": {
+            "articleNumber": "848407900046",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Category/theme",
+                    "value": "Zubehör"
+                },
+                {
+                    "code": "Main material",
+                    "value": "R-PET"
+                },
+                {
+                    "code": "Length",
+                    "value": "29 cm"
+                },
+                {
+                    "code": "Height",
+                    "value": "21 cm"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "Gepäck Organisieren"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871170788"
+    ],
+    "variants": {
+        "baseProductMigrosId": "848407900000",
+        "mainVariantMigrosId": "848407900020",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "black"
+                },
+                "migrosId": "848407900020"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "water blue"
+                },
+                "migrosId": "848407900046"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "water blue",
+                "options": [
+                    "black",
+                    "water blue"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "one Size",
+                "options": [
+                    "one Size"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/e930f71de1f6ec53930c6ca11aca9a83a9815bfc/travel-set.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/84d9246d8de52d269661a18a93ad5872339dc694.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/2a3373036d43d065d22237ed6c6c2799edd296a9.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10555197",
+            "name": "Travel",
+            "slugs": [
+                "clothing-accessories",
+                "travel"
+            ]
+        },
+        {
+            "id": "10555235",
+            "name": "Travel accessories",
+            "slugs": [
+                "clothing-accessories",
+                "travel",
+                "travel-accessories"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/848407900046",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "24.95",
+            "advertisedDisplayValue": "24.95",
+            "effectiveDisplayValue": "24.95",
+            "multiplier": 1,
+            "value": 24.95,
+            "effectiveValue": 24.95,
+            "advertisedValue": 24.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T23:00:01"
+}

@@ -1,0 +1,118 @@
+{
+    "uid": 100036259,
+    "migrosId": "511200100000",
+    "migrosOnlineId": "217300",
+    "name": "Eau de Cologne",
+    "brand": "Classic",
+    "title": "Classic · Eau de Cologne",
+    "description": "Classic Eau de Cologne ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Classic",
+                "slug": "classic"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 44,
+                    "productionRatio": 96,
+                    "transportRatio": 1,
+                    "packagingRatio": 2,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 20,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/511200100000"
+        },
+        "otherInformation": {
+            "articleNumber": "511200100000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Eau de Cologne"
+                },
+                {
+                    "code": "Customer group",
+                    "value": "Frauen"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "76169311",
+        "76249730"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/e14ceced0b84e581316eaac9a9124f2ec006f373/classic-edc.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494826",
+            "name": "Body care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care"
+            ]
+        },
+        {
+            "id": "7495243",
+            "name": "Perfumes",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care",
+                "perfumes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/511200100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.80",
+            "advertisedDisplayValue": "5.80",
+            "effectiveDisplayValue": "5.80",
+            "multiplier": 1,
+            "value": 5.8,
+            "effectiveValue": 5.8,
+            "advertisedValue": 5.8,
+            "unitPrice": {
+                "value": 1.66,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "350ml",
+        "quantityPrice": "1.66/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-15T23:27:43"
+}

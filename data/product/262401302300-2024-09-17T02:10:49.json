@@ -1,0 +1,83 @@
+{
+    "uid": 100130737,
+    "migrosId": "262401302300",
+    "name": "Pflaumen gemischt",
+    "brand": "Migros Fresca",
+    "title": "Pflaumen gemischt",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Fresca",
+                "slug": "migros-fresca",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076970/brands/Migros_Fresca_Logo"
+            },
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 1.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/262401302300"
+        },
+        "otherInformation": {
+            "articleNumber": "262401302300",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613269373735"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/127ed0fb9683175a6c5a762470382385c374276e/pflaumen-gemischt.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494756",
+            "name": "Fruits",
+            "slugs": [
+                "fruits-vegetables",
+                "fruits"
+            ]
+        },
+        {
+            "id": "7494898",
+            "name": "Stone fruits",
+            "slugs": [
+                "fruits-vegetables",
+                "fruits",
+                "stone-fruits"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/262401302300",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-17T02:10:49"
+}

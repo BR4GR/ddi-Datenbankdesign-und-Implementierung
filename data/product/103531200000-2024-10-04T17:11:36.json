@@ -1,0 +1,172 @@
+{
+    "uid": 100049613,
+    "migrosId": "103531200000",
+    "name": "Migros Bio Weissweinessig Estragon",
+    "brand": "Migros Bio",
+    "title": "Migros Bio Weissweinessig Estragon",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L57",
+                    "name": "V-Label vegan",
+                    "slug": "v-label-vegan",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483003/labels/V-Label_Vegan_Color"
+                }
+            ],
+            "brand": {
+                "name": "Migros Bio",
+                "slug": "migros-bio",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1678265962/brands/MIGROS_BIO_screen_pantone1_rgb"
+            },
+            "nutritionalCharacteristics": [
+                "Organic",
+                "Vegan"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                },
+                {
+                    "name": "Vegan"
+                }
+            ],
+            "ingredients": "Weissweinessig *, natürliches Estragonaroma. \n* aus biologischer Landwirtschaft",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 3,
+                    "productionRatio": 66,
+                    "transportRatio": 9,
+                    "packagingRatio": 25,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 20,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/103531200000"
+        },
+        "nutrientsInformation": {
+            "portionSentence": "1 bottle = 38 servings"
+        },
+        "otherInformation": {
+            "articleNumber": "103531200000",
+            "legalDesignation": "Bio Weissweinessig mit natürlichem Estragonaroma",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "CH-8031 Zürich",
+            "bioCertification": "Bio-Zertifizierung: AT-BIO-901",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Can be stored without refrigeration."
+                },
+                {
+                    "code": "Production information",
+                    "value": "pasteurized"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegan"
+                },
+                {
+                    "code": "Production process",
+                    "value": "Bio-Produktion"
+                },
+                {
+                    "code": "Acid content",
+                    "value": "4 %"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Bottle"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "zum marinieren geeignet"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312126950"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/db192b8fd79b7946798e74994c3be46cadb6eaaf/migros-bio-weissweinessig-estragon.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494776",
+            "name": "Spices & sauces",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces"
+            ]
+        },
+        {
+            "id": "7494982",
+            "name": "Oil & vinegar",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces",
+                "oil-vinegar"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/103531200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.95",
+            "advertisedDisplayValue": "2.95",
+            "effectiveDisplayValue": "2.95",
+            "multiplier": 1,
+            "value": 2.95,
+            "effectiveValue": 2.95,
+            "advertisedValue": 2.95,
+            "unitPrice": {
+                "value": 0.52,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "570ml",
+        "quantityPrice": "0.52/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-10-04T17:11:36"
+}

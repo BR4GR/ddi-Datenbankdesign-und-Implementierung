@@ -1,0 +1,187 @@
+{
+    "uid": 100145786,
+    "migrosId": "200627000000",
+    "name": "Büffelmozzarella",
+    "title": "Büffelmozzarella",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "ingredients": "Büffel<strong>milch</strong>, Kochsalz. \nKäse hergestellt mit mikrobiellem Lab.",
+            "allergens": "Milk and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/200627000000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "2 Mozzarella (60 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1364 kJ (329 kcal)",
+                            "804 kJ (194 kcal)",
+                            "10 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "29 g",
+                            "17 g",
+                            "24 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "19 g",
+                            "11 g",
+                            "55 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "1.1 g",
+                            "0.7 g",
+                            "< 5 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "1.1 g",
+                            "0.7 g",
+                            "1 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "16 g",
+                            "9.6 g",
+                            "19 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.5 g",
+                            "0.3 g",
+                            "5 %"
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "200627000000",
+            "legalDesignation": "Schweizer Rahm-Frischkäse, aus pasteurisierter Büffelmilch",
+            "identificationMark": "CH 70736823",
+            "distributorName": "Genossenschaft Migros Zürich",
+            "distributorStreetAndNumber": "CH-8021 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store refrigerated at max. +5 °C."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613269863755",
+        "7640160641816"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/83850592d6909ea898f73f8d5d8bac51ba357b6b/bueffelmozzarella.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494752",
+            "name": "Cheese",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese"
+            ]
+        },
+        {
+            "id": "7494875",
+            "name": "Mozzarella, feta & cottage cheeses",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese",
+                "mozzarella-feta-cottage-cheeses"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/200627000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.30",
+            "advertisedDisplayValue": "7.30",
+            "effectiveDisplayValue": "7.30",
+            "multiplier": 1,
+            "value": 7.3,
+            "effectiveValue": 7.3,
+            "advertisedValue": 7.3,
+            "unitPrice": {
+                "value": 4.87,
+                "unit": "100g"
+            }
+        },
+        "quantity": "150g",
+        "quantityPrice": "4.87/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T02:19:22"
+}

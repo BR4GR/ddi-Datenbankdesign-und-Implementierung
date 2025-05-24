@@ -1,0 +1,124 @@
+{
+    "uid": 100094807,
+    "migrosId": "747266600002",
+    "name": "Milette changing mat dark grey",
+    "brand": "Milette",
+    "title": "Milette changing mat dark grey",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Milette",
+                "slug": "milette",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076999/brands/Milette_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/747266600002"
+        },
+        "otherInformation": {
+            "articleNumber": "747266600002",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613434013268"
+    ],
+    "variants": {
+        "baseProductMigrosId": "747266600000",
+        "mainVariantMigrosId": "747266600001",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "Design 1"
+                },
+                "migrosId": "747266600001"
+            },
+            {
+                "declinationOptions": {
+                    "color": "Design 2"
+                },
+                "migrosId": "747266600002"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "Design 2",
+                "options": [
+                    "Design 1",
+                    "Design 2"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/44cdab62841a02cf0b997da1ffb7228ca340d08d/milette-changing-mat-dark-grey.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "7494823",
+            "name": "Baby equipment",
+            "slugs": [
+                "baby-kids",
+                "baby-equipment"
+            ]
+        },
+        {
+            "id": "7495224",
+            "name": "Baby furniture & accessories",
+            "slugs": [
+                "baby-kids",
+                "baby-equipment",
+                "baby-furniture-accessories"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/747266600002",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "19.95",
+            "advertisedDisplayValue": "19.95",
+            "effectiveDisplayValue": "19.95",
+            "multiplier": 1,
+            "value": 19.95,
+            "effectiveValue": 19.95,
+            "advertisedValue": 19.95,
+            "unitPrice": {
+                "value": 19.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "19.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T09:32:10"
+}

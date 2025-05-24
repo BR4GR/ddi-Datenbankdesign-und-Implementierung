@@ -1,0 +1,191 @@
+{
+    "uid": 100111679,
+    "migrosId": "151005000000",
+    "migrosOnlineId": "10306231",
+    "name": "jam",
+    "brand": "Belle Journée",
+    "brandLine": "Extra",
+    "versioning": "Apricots",
+    "title": "Belle Journée Extra · jam · Apricots",
+    "description": "Belle Journée jam Apricots Refill bag",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Belle Journée",
+                "slug": "belle-journee",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1703170124/brands/belle_journee"
+            },
+            "ingredients": "sugar, apricots, gelling agent: pectin, acid: citric acid.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 34,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/151005000000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "2 Teelöffel (10 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "994 kJ (234 kcal)",
+                            "99 kJ (23 kcal)",
+                            "1 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            "0.5 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "< 0.1 g",
+                            "< 0.1 g",
+                            "0.5 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "57 g",
+                            "5.7 g",
+                            "2 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "57 g",
+                            "5.7 g",
+                            "6 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "1.5 g",
+                            "< 0.5 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            "0.5 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.07 g",
+                            "< 0.01 g",
+                            "0.5 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "portionSentence": "1 pack = 45 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "151005000000",
+            "legalDesignation": "Aprikosenkonfitüre Extra",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Once opened, keep refrigerated."
+                },
+                {
+                    "code": "Warning and other mandatory information",
+                    "value": "May contain stones despite careful cleaning"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312375150"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/2ee2edd3bd008101fcc44f7726974a312858873e/belle-journee-extra-aprikosen.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494768",
+            "name": "Jam, spreads & honey",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "jam-spreads-honey"
+            ]
+        },
+        {
+            "id": "7494945",
+            "name": "Jams",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "jam-spreads-honey",
+                "jams"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/151005000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.–",
+            "advertisedDisplayValue": "3.–",
+            "effectiveDisplayValue": "3.–",
+            "multiplier": 1,
+            "value": 3,
+            "effectiveValue": 3,
+            "advertisedValue": 3,
+            "unitPrice": {
+                "value": 0.67,
+                "unit": "100g"
+            }
+        },
+        "quantity": "450g",
+        "quantityPrice": "0.67/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:21:15"
+}

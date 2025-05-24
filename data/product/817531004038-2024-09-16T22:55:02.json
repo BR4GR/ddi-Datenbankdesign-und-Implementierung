@@ -1,0 +1,164 @@
+{
+    "uid": 100083512,
+    "migrosId": "817531004038",
+    "name": "Ladies Slip",
+    "brand": "Dim",
+    "title": "Ladies Slip",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Dim",
+                "slug": "dim"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/817531004038"
+        },
+        "otherInformation": {
+            "articleNumber": "817531004038",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "3610861831032"
+    ],
+    "variants": {
+        "baseProductMigrosId": "817531000000",
+        "mainVariantMigrosId": "817531003638",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "036",
+                    "color": "rose 1"
+                },
+                "migrosId": "817531003638"
+            },
+            {
+                "declinationOptions": {
+                    "size": "038",
+                    "color": "rose 1"
+                },
+                "migrosId": "817531003838"
+            },
+            {
+                "declinationOptions": {
+                    "size": "040",
+                    "color": "rose 1"
+                },
+                "migrosId": "817531004038"
+            },
+            {
+                "declinationOptions": {
+                    "size": "042",
+                    "color": "rose 1"
+                },
+                "migrosId": "817531004238"
+            },
+            {
+                "declinationOptions": {
+                    "size": "044",
+                    "color": "rose 1"
+                },
+                "migrosId": "817531004438"
+            },
+            {
+                "declinationOptions": {
+                    "size": "046",
+                    "color": "rose 1"
+                },
+                "migrosId": "817531004638"
+            },
+            {
+                "declinationOptions": {
+                    "size": "048",
+                    "color": "rose 1"
+                },
+                "migrosId": "817531004838"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "rose 1",
+                "options": [
+                    "rose 1"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "040",
+                "options": [
+                    "036",
+                    "038",
+                    "040",
+                    "042",
+                    "044",
+                    "046",
+                    "048"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1283d6f03ca343c4809517a20d81d1d6af60d8f9/ladies-slip.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10553347",
+            "name": "Women",
+            "slugs": [
+                "clothing-accessories",
+                "women"
+            ]
+        },
+        {
+            "id": "10553439",
+            "name": "Underwear",
+            "slugs": [
+                "clothing-accessories",
+                "women",
+                "underwear"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/817531004038",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "24.95",
+            "advertisedDisplayValue": "24.95",
+            "effectiveDisplayValue": "24.95",
+            "multiplier": 1,
+            "value": 24.95,
+            "effectiveValue": 24.95,
+            "advertisedValue": 24.95
+        },
+        "quantity": "1 Stk.",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T22:55:02"
+}

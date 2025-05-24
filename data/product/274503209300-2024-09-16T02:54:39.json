@@ -1,0 +1,109 @@
+{
+    "uid": 100171022,
+    "migrosId": "274503209300",
+    "name": "Migros Bio Snack Karotten",
+    "brand": "Migros Bio",
+    "title": "Migros Bio Snack Karotten",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Bio",
+                "slug": "migros-bio",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1678265962/brands/MIGROS_BIO_screen_pantone1_rgb"
+            },
+            "nutritionalCharacteristics": [
+                "Organic"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                }
+            ],
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/274503209300"
+        },
+        "otherInformation": {
+            "articleNumber": "274503209300",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7623186482380"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/461244d4e82d9784403d80b59d3dbe0b3a1337e5/migros-bio-snack-karotten.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1876a3d0e6e1a9d30ea3a54dfa2206a3b1ae1383.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494758",
+            "name": "Root vegetables",
+            "slugs": [
+                "fruits-vegetables",
+                "root-vegetables"
+            ]
+        },
+        {
+            "id": "7494909",
+            "name": "Carrots & peas",
+            "slugs": [
+                "fruits-vegetables",
+                "root-vegetables",
+                "carrots-peas"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/274503209300",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.95",
+            "advertisedDisplayValue": "1.95",
+            "effectiveDisplayValue": "1.95",
+            "multiplier": 1,
+            "value": 1.95,
+            "effectiveValue": 1.95,
+            "advertisedValue": 1.95,
+            "unitPrice": {
+                "value": 0.98,
+                "unit": "100g"
+            }
+        },
+        "quantity": "200g",
+        "quantityPrice": "0.98/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T02:54:39"
+}

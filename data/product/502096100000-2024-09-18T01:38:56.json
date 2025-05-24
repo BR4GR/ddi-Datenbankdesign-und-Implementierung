@@ -1,0 +1,93 @@
+{
+    "uid": 100132294,
+    "migrosId": "502096100000",
+    "name": "Sgrassatore Candeg.",
+    "brand": "Chante Clair",
+    "title": "Sgrassatore Candeg.",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Chante Clair",
+                "slug": "chante-clair"
+            },
+            "rating": {
+                "nbReviews": 9,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/502096100000"
+        },
+        "otherInformation": {
+            "articleNumber": "502096100000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "8015194518912"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ac363bca01edcf7313853497bd95c0de3af160f3/sgrassatore-candeg.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494740",
+            "name": "Laundry & cleaning",
+            "slugs": [
+                "laundry-cleaning"
+            ]
+        },
+        {
+            "id": "7494807",
+            "name": "Kitchen cleaning supplies",
+            "slugs": [
+                "laundry-cleaning",
+                "kitchen-cleaning-supplies"
+            ]
+        },
+        {
+            "id": "7495141",
+            "name": "Washing-up liquids",
+            "slugs": [
+                "laundry-cleaning",
+                "kitchen-cleaning-supplies",
+                "washing-up-liquids"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/502096100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.30",
+            "advertisedDisplayValue": "4.30",
+            "effectiveDisplayValue": "4.30",
+            "multiplier": 1,
+            "value": 4.3,
+            "effectiveValue": 4.3,
+            "advertisedValue": 4.3,
+            "unitPrice": {
+                "value": 0.69,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "625ml",
+        "quantityPrice": "0.69/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-18T01:38:56"
+}

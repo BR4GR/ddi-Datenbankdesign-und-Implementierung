@@ -1,0 +1,117 @@
+{
+    "uid": 100063348,
+    "migrosId": "271416602500",
+    "migrosOnlineId": "10093103",
+    "name": "tomatoes",
+    "brand": "Fresca",
+    "versioning": "mixed coloured",
+    "title": "Fresca · tomatoes · mixed coloured",
+    "description": "Fresca tomatoes mixed coloured",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Fresca",
+                "slug": "fresca",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252430/brands/fresca-S10"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 3,
+                    "productionRatio": 82,
+                    "transportRatio": 10,
+                    "packagingRatio": 8,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 42,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/271416602500"
+        },
+        "usageInformation": {
+            "usage": "Contrary to widespread custom, tomatoes should not be kept in the refrigerator, the cold neutralizes the smell and taste. Also avoid storing them near a heat source so that they do not become soft."
+        },
+        "otherInformation": {
+            "articleNumber": "271416602500",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613404822975"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/8eac802846e97a6f0ca44d07d648aacf7a6d4ff2/tomaten-mix-farbig.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f687b2ec0d5f57242d8e7d3d448f75af3657c3bc.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494757",
+            "name": "Vegetables",
+            "slugs": [
+                "fruits-vegetables",
+                "vegetables"
+            ]
+        },
+        {
+            "id": "7494901",
+            "name": "Tomatoes",
+            "slugs": [
+                "fruits-vegetables",
+                "vegetables",
+                "tomatoes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/271416602500",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.95",
+            "advertisedDisplayValue": "4.95",
+            "effectiveDisplayValue": "4.95",
+            "multiplier": 1,
+            "value": 4.95,
+            "effectiveValue": 4.95,
+            "advertisedValue": 4.95,
+            "unitPrice": {
+                "value": 0.66,
+                "unit": "100g"
+            }
+        },
+        "quantity": "750g",
+        "quantityPrice": "0.66/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T11:32:10"
+}

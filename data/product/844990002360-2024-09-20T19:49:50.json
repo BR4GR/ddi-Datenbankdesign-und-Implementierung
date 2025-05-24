@@ -1,0 +1,208 @@
+{
+    "uid": 100150998,
+    "migrosId": "844990002360",
+    "name": "Kids' house shoe",
+    "brand": "Smile",
+    "title": "Kids' house shoe",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Smile",
+                "slug": "smile",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252488/brands/smile"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/844990002360"
+        },
+        "otherInformation": {
+            "articleNumber": "844990002360",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Category/theme",
+                    "value": "Hausschuhe"
+                },
+                {
+                    "code": "Upper material",
+                    "value": "Textil"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "Klettverschluss"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871492408"
+    ],
+    "variants": {
+        "baseProductMigrosId": "844990000000",
+        "mainVariantMigrosId": "844990002060",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "green",
+                    "size": "020"
+                },
+                "migrosId": "844990002060"
+            },
+            {
+                "declinationOptions": {
+                    "color": "green",
+                    "size": "021"
+                },
+                "migrosId": "844990002160"
+            },
+            {
+                "declinationOptions": {
+                    "color": "green",
+                    "size": "022"
+                },
+                "migrosId": "844990002260"
+            },
+            {
+                "declinationOptions": {
+                    "color": "green",
+                    "size": "023"
+                },
+                "migrosId": "844990002360"
+            },
+            {
+                "declinationOptions": {
+                    "color": "green",
+                    "size": "024"
+                },
+                "migrosId": "844990002460"
+            },
+            {
+                "declinationOptions": {
+                    "color": "green",
+                    "size": "025"
+                },
+                "migrosId": "844990002560"
+            },
+            {
+                "declinationOptions": {
+                    "color": "green",
+                    "size": "026"
+                },
+                "migrosId": "844990002660"
+            },
+            {
+                "declinationOptions": {
+                    "color": "green",
+                    "size": "027"
+                },
+                "migrosId": "844990002760"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "green",
+                "options": [
+                    "green"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "023",
+                "options": [
+                    "020",
+                    "021",
+                    "022",
+                    "023",
+                    "024",
+                    "025",
+                    "026",
+                    "027"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/826c40a9e5d94885546f6017c9d8a6a007f2ad37/kids-house-shoe.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "7494824",
+            "name": "Baby & kids shoes",
+            "slugs": [
+                "baby-kids",
+                "baby-kids-shoes"
+            ]
+        },
+        {
+            "id": "7495231",
+            "name": "Kids & baby slippers",
+            "slugs": [
+                "baby-kids",
+                "baby-kids-shoes",
+                "kids-baby-slippers"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/844990002360",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "19.95",
+            "advertisedDisplayValue": "19.95",
+            "effectiveDisplayValue": "19.95",
+            "multiplier": 1,
+            "value": 19.95,
+            "effectiveValue": 19.95,
+            "advertisedValue": 19.95
+        },
+        "promotionPrice": {
+            "displayUnitPrice": false,
+            "formattedPrice": "14.–",
+            "advertisedDisplayValue": "14.–",
+            "effectiveDisplayValue": "14.–",
+            "multiplier": 1,
+            "value": 14,
+            "effectiveValue": 14,
+            "advertisedValue": 14
+        },
+        "priceInsteadOfLabel": "was",
+        "quantity": "1 Paar",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "badges": [
+            {
+                "type": "PERCENTAGE_PROMOTION",
+                "description": "30%"
+            }
+        ],
+        "promotionDateRange": {
+            "startDate": "2024-09-19",
+            "endDate": "2024-09-22"
+        },
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-20T19:49:50"
+}

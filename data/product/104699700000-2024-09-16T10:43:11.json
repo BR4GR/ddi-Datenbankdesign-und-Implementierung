@@ -1,0 +1,204 @@
+{
+    "uid": 100004698,
+    "migrosId": "104699700000",
+    "migrosOnlineId": "4505371",
+    "name": "Pizza flour",
+    "title": "Pizza flour",
+    "description": "Pizza flour  For particularly crispy pizzas",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "ingredients": "<strong>Weizen</strong>weissmehl 95%, Hart<strong>weizen</strong>griess 5%.",
+            "allergens": "Cereals containing gluten and products thereof",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 5,
+                    "productionRatio": 79,
+                    "transportRatio": 2,
+                    "packagingRatio": 19,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 120,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/104699700000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1482 kJ (350 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "1.1 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0.3 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "70 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "1.5 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "3.8 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "13 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.02 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "104699700000",
+            "legalDesignation": "Spezialmehl für Pizza",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store in a cool, dry place."
+                },
+                {
+                    "code": "Warning and other mandatory information",
+                    "value": "Natural water release may cause flour to lose weight. Use: For baking and cooking only. Flour and dough is not suitable for raw consumption."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Packaging type",
+                    "value": "Papierbeutel"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "backen"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312081280"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f775f966d5c3ba48a743b0dd3539d8974d11de5f/m-classic-pizzamehl.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494766",
+            "name": "Baking ingredients",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "baking-ingredients"
+            ]
+        },
+        {
+            "id": "7494935",
+            "name": "Flour & yeast",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "baking-ingredients",
+                "flour-yeast"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/104699700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.60",
+            "advertisedDisplayValue": "2.60",
+            "effectiveDisplayValue": "2.60",
+            "multiplier": 1,
+            "value": 2.6,
+            "effectiveValue": 2.6,
+            "advertisedValue": 2.6,
+            "unitPrice": {
+                "value": 0.26,
+                "unit": "100g"
+            }
+        },
+        "quantity": "1kg",
+        "quantityPrice": "0.26/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T10:43:11"
+}

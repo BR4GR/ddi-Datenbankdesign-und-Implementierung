@@ -1,0 +1,217 @@
+{
+    "uid": 100050881,
+    "migrosId": "121326000000",
+    "name": "Erdinger alkoholfrei",
+    "brand": "Erdinger",
+    "title": "Erdinger alkoholfrei",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Erdinger",
+                "slug": "erdinger"
+            },
+            "nutritionalCharacteristics": [
+                "Vegan"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegan"
+                }
+            ],
+            "ingredients": "water, WHEAT MALT, BARLEY MALT, hops, yeast, carbonic acid.",
+            "allergens": "Barley and barley products, Wheat and their derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 49,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/121326000000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "107 kJ (25 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "< 0.1 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "< 0.1 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "5.3 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "3.6 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "0.4 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.0013 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "folic acid / folate",
+                        "values": [
+                            "20 µg",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Vitamin B12",
+                        "values": [
+                            "0.13 µg",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "121326000000",
+            "legalDesignation": "Alcohol-free beer",
+            "distributorName": "Heineken Switzerland AG",
+            "distributorStreetAndNumber": "Obergrundstrasse 110, 6002 Luzern",
+            "remarks": [
+                {
+                    "code": "Percentage of alcohol by volume [%]",
+                    "value": "0.5"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegan"
+                },
+                {
+                    "code": "Carbonated",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Bottle"
+                },
+                {
+                    "code": "Type of soft drink",
+                    "value": "Bier"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4002103249535",
+        "4002103217275",
+        "4002103230564"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3b6dafd5e22a60da0e591f2094367a8d44d85eff/erdinger-alkoholfrei.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494737",
+            "name": "Wine, beer & spirits",
+            "slugs": [
+                "wine-beer-spirits"
+            ]
+        },
+        {
+            "id": "10583761",
+            "name": "Alcohol free drinks",
+            "slugs": [
+                "wine-beer-spirits",
+                "alcohol-free-drinks"
+            ]
+        },
+        {
+            "id": "10614101",
+            "name": "Beers & ciders",
+            "slugs": [
+                "wine-beer-spirits",
+                "alcohol-free-drinks",
+                "beers-ciders"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/121326000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.50",
+            "advertisedDisplayValue": "1.50",
+            "effectiveDisplayValue": "1.50",
+            "multiplier": 1,
+            "value": 1.5,
+            "effectiveValue": 1.5,
+            "advertisedValue": 1.5,
+            "unitPrice": {
+                "value": 0.45,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "330ml",
+        "quantityPrice": "0.45/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:29:53"
+}

@@ -1,0 +1,108 @@
+{
+    "uid": 100058246,
+    "migrosId": "514937800000",
+    "name": "Syoss Keratin Hairspray",
+    "brand": "Syoss",
+    "title": "Syoss Keratin Hairspray",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Syoss",
+                "slug": "syoss",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252499/brands/syoss"
+            },
+            "rating": {
+                "nbReviews": 12,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/514937800000"
+        },
+        "otherInformation": {
+            "articleNumber": "514937800000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Spray"
+                },
+                {
+                    "code": "Requirements/uses",
+                    "value": "Halt und Geschmeidigkeit"
+                },
+                {
+                    "code": "Features",
+                    "value": "Ultra starker Halt"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4015100190502"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/89b5fc472ea3532123362a1b649c6b5b3d10c9e6/syoss-keratin-hairspray.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494825",
+            "name": "Hair care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hair-care"
+            ]
+        },
+        {
+            "id": "7495235",
+            "name": "Hair styling products",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hair-care",
+                "hair-styling-products"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/514937800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.80",
+            "advertisedDisplayValue": "6.80",
+            "effectiveDisplayValue": "6.80",
+            "multiplier": 1,
+            "value": 6.8,
+            "effectiveValue": 6.8,
+            "advertisedValue": 6.8,
+            "unitPrice": {
+                "value": 1.7,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "400ml",
+        "quantityPrice": "1.70/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:19:27"
+}

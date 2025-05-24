@@ -1,0 +1,166 @@
+{
+    "uid": 100140186,
+    "migrosId": "107053400000",
+    "migrosOnlineId": "11300282",
+    "name": "Tea",
+    "brand": "Migros Bio",
+    "versioning": "Alpine herbs and Swiss ginger",
+    "title": "Migros Bio · Tea · Alpine herbs and Swiss ginger",
+    "description": "Migros Bio Tea Alpine herbs and Swiss ginger",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                },
+                {
+                    "id": "L73",
+                    "name": "Bio Knospe",
+                    "slug": "bio-knospe",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1687156946/labels/Bio_Knospe"
+                }
+            ],
+            "brand": {
+                "name": "Migros Bio",
+                "slug": "migros-bio",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1678265962/brands/MIGROS_BIO_screen_pantone1_rgb"
+            },
+            "nutritionalCharacteristics": [
+                "Organic"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                }
+            ],
+            "ingredients": "Spitzwegerich *, Ingwer * 24%, Melisse *, Frauenmantel *, Bohnenkraut *, Thymian *, Pfefferminze *. \n* aus biologischer Landwirtschaft. \nAlle landwirtschaftlichen Zutaten stammen aus der Schweiz.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 40,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/107053400000"
+        },
+        "usageInformation": {
+            "preparationInstructions": "1 Beutel pro Tasse mit siedendem Wasser übergiessen und ca. 5 Minuten ziehen lassen."
+        },
+        "otherInformation": {
+            "articleNumber": "107053400000",
+            "legalDesignation": "Bio Alpenkräutertee mit Ingwer",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "CH-8031 Zürich",
+            "bioCertification": "Bio-Zertifizierung: CH-BIO-004",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store in a dry place."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Production process",
+                    "value": "Swiss organic production"
+                },
+                {
+                    "code": "Number of removable individual units",
+                    "value": "26"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Box"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "add hot water"
+                },
+                {
+                    "code": "Tea type",
+                    "value": "Herbal infusions with plants"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312409220"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/b787c3a259202e458f246d478266fe12704c1729/migros-bio-alpenkraeutertee-ingwer.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494773",
+            "name": "Tea",
+            "slugs": [
+                "drinks-coffee-tea",
+                "tea"
+            ]
+        },
+        {
+            "id": "7494974",
+            "name": "Herbal infusions with plants",
+            "slugs": [
+                "drinks-coffee-tea",
+                "tea",
+                "herbal-infusions-with-plants"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/107053400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.95",
+            "advertisedDisplayValue": "3.95",
+            "effectiveDisplayValue": "3.95",
+            "multiplier": 1,
+            "value": 3.95,
+            "effectiveValue": 3.95,
+            "advertisedValue": 3.95,
+            "unitPrice": {
+                "value": 15.19,
+                "unit": "100g"
+            }
+        },
+        "quantity": "26g",
+        "quantityPrice": "15.19/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            },
+            {
+                "type": "REGION",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679482984/labels/suisse",
+                "description": "Switzerland"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:50:18"
+}

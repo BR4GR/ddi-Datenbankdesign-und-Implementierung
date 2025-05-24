@@ -1,0 +1,116 @@
+{
+    "uid": 100143112,
+    "migrosId": "220250814400",
+    "name": "Rapelli Beef Tartare",
+    "brand": "Rapelli",
+    "title": "Rapelli Beef Tartare",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Rapelli",
+                "slug": "rapelli",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1642402946/brands/Rapelli_Rapelli_SA_Logo"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/220250814400"
+        },
+        "otherInformation": {
+            "articleNumber": "220250814400",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Meat form processed",
+                    "value": "gehackt"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Kunststoff-Verpackung mit Karton"
+                },
+                {
+                    "code": "Hygiene notes",
+                    "value": "Küchenhygiene-Hinweis: Rohes Fleisch nicht in Kontakt mit anderen Lebensmitteln bringen. "
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                },
+                {
+                    "code": "Additional characteristics",
+                    "value": "raw, spiced"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610352100902"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/8909ed48123047f7bc22ade8e21357279b780729/rapelli-beef-tartare.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d00f1c7fb6a1de6a1581dd2b7ffe156d38dcecc8.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494747",
+            "name": "Meat & poultry",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry"
+            ]
+        },
+        {
+            "id": "7494847",
+            "name": "Tartare, roast beef & carpaccio",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry",
+                "tartare-roast-beef-carpaccio"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/220250814400",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.50",
+            "advertisedDisplayValue": "6.50",
+            "effectiveDisplayValue": "6.50",
+            "multiplier": 1,
+            "value": 6.5,
+            "effectiveValue": 6.5,
+            "advertisedValue": 6.5,
+            "unitPrice": {
+                "value": 5,
+                "unit": "100g"
+            }
+        },
+        "quantity": "130g",
+        "quantityPrice": "5.–/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:29:50"
+}

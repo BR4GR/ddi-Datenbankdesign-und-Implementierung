@@ -1,0 +1,188 @@
+{
+    "uid": 100049420,
+    "migrosId": "100225700000",
+    "name": "Torino Milch",
+    "brand": "Torino",
+    "title": "Torino Milch",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "Torino",
+                "slug": "torino"
+            },
+            "ingredients": "Ingredients: sugar, cocoa butter, whole MILK powder, coconut fat, HAZELNUTS (8%), cocoa mass, ALMONDS (4%), skimed MILK powder, SOYA flour, emulsifier : rapeseed lecithin, pure vanilla extract. Milk Chocolate: minimum 31% cocoa.",
+            "allergens": "Milk and its derivatives, Hazelnut and hazelnut products, Soybean and its derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 44,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/100225700000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "~ 2466 kJ (~ 589 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "~ 39 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "~ 23 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "~ 50 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "~ 46 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "~ 8 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "~ 0.01 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "100225700000",
+            "legalDesignation": "Fine Swiss milk chocolate with truffle filling",
+            "identificationMark": "DE2228459382820",
+            "distributorName": "Chocolats Camille Bloch SA",
+            "distributorStreetAndNumber": "Grand-Rue 21, 2608 Courtelary, Suisse",
+            "remarks": [
+                {
+                    "code": "Consumer storage instructions",
+                    "value": "Store in a cool and dry place."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "CO2 Compensated",
+                    "value": "No"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610008641001"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/5384611b4cb42d6eeb5e1e2cd5421d435c9d8733/torino-milch.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494782",
+            "name": "Chocolate & sweets",
+            "slugs": [
+                "snacks-sweets",
+                "chocolate-sweets"
+            ]
+        },
+        {
+            "id": "7495018",
+            "name": "Chocolate bars",
+            "slugs": [
+                "snacks-sweets",
+                "chocolate-sweets",
+                "chocolate-bars"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/100225700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.65",
+            "advertisedDisplayValue": "2.65",
+            "effectiveDisplayValue": "2.65",
+            "multiplier": 1,
+            "value": 2.65,
+            "effectiveValue": 2.65,
+            "advertisedValue": 2.65,
+            "unitPrice": {
+                "value": 2.65,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100g",
+        "quantityPrice": "2.65/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T15:46:45"
+}

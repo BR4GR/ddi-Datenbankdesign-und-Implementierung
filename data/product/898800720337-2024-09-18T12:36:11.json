@@ -1,0 +1,162 @@
+{
+    "uid": 100173970,
+    "migrosId": "898800720337",
+    "name": "Baby overall",
+    "brand": "Smile",
+    "title": "Baby overall",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Smile",
+                "slug": "smile",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252488/brands/smile"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/898800720337"
+        },
+        "otherInformation": {
+            "articleNumber": "898800720337",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Zielgruppe",
+                    "value": "Kinder"
+                },
+                {
+                    "code": "Look",
+                    "value": "Kapuze, Reissverschluss, gemustert, Fleece"
+                },
+                {
+                    "code": "Material",
+                    "value": "Polyester"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "100 %"
+                },
+                {
+                    "code": "Age",
+                    "value": "12-24 Monate"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871751789"
+    ],
+    "variants": {
+        "baseProductMigrosId": "898800700000",
+        "mainVariantMigrosId": "898800720137",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "old rose",
+                    "size": "2-6 // 62/68"
+                },
+                "migrosId": "898800720137"
+            },
+            {
+                "declinationOptions": {
+                    "color": "old rose",
+                    "size": "6-12 // 74/80"
+                },
+                "migrosId": "898800720237"
+            },
+            {
+                "declinationOptions": {
+                    "color": "old rose",
+                    "size": "12-24 // 86/92"
+                },
+                "migrosId": "898800720337"
+            },
+            {
+                "declinationOptions": {
+                    "color": "old rose",
+                    "size": "24-48 // 98/104"
+                },
+                "migrosId": "898800720437"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "old rose",
+                "options": [
+                    "old rose"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "12-24 // 86/92",
+                "options": [
+                    "2-6 // 62/68",
+                    "6-12 // 74/80",
+                    "12-24 // 86/92",
+                    "24-48 // 98/104"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d6508570a0460f2656a985f44a178cdca4030d60/baby-overall.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "11117240",
+            "name": "Baby clothes",
+            "slugs": [
+                "baby-kids",
+                "baby-clothes"
+            ]
+        },
+        {
+            "id": "11117275",
+            "name": "Baby clothes",
+            "slugs": [
+                "baby-kids",
+                "baby-clothes",
+                "baby-clothes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/898800720337",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "17.95",
+            "advertisedDisplayValue": "17.95",
+            "effectiveDisplayValue": "17.95",
+            "multiplier": 1,
+            "value": 17.95,
+            "effectiveValue": 17.95,
+            "advertisedValue": 17.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-18T12:36:11"
+}

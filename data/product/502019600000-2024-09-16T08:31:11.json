@@ -1,0 +1,120 @@
+{
+    "uid": 100172844,
+    "migrosId": "502019600000",
+    "migrosOnlineId": "12843256",
+    "name": "Vinegar cleaner",
+    "brand": "Nature Clean",
+    "versioning": "refill bag",
+    "title": "Nature Clean · Vinegar cleaner · refill bag",
+    "description": "Nature Clean Vinegar cleaner refill bag",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Nature Clean",
+                "slug": "nature-clean",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1709537725/brands/Nature_Clean_-_RGB_-_DE"
+            },
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/502019600000"
+        },
+        "usageInformation": {
+            "signalWord": "Achtung",
+            "chemicalPictosV2": [
+                {
+                    "cdn": "rokka",
+                    "pictoId": "GHS07",
+                    "pictoPath": "https://image.migros.ch/original/09b3c0810d45b7f83a5ad48c5bc38d4d0227615b/Dickes%20Ausrufezeichen.jpg",
+                    "pictoPathStack": "https://image.migros.ch/{stack}/09b3c0810d45b7f83a5ad48c5bc38d4d0227615b/Dickes%20Ausrufezeichen.jpg"
+                }
+            ],
+            "chemicalWarnings": [
+                "Verursacht schwere Augenreizung.",
+                "Kann gegenüber Metallen korrosiv sein."
+            ],
+            "chemicalSafetyInstructions": [
+                "Ist ärztlicher Rat erforderlich, Verpackung oder Kennzeichnungsetikett bereithalten.",
+                "Darf nicht in die Hände von Kindern gelangen.",
+                "Nur im Originalbehälter aufbewahren.",
+                "Bei anhaltender Augenreizung: Ärztlichen Rat einholen/ärztliche Hilfe hinzuziehen.",
+                "Schutzhandschuhe / Schutzkleidung / Augenschutz / Gesichtsschutz tragen.",
+                "BEI KONTAKT MIT DEN AUGEN: Einige Minuten lang behutsam mit Wasser ausspülen. Eventuell vorhandene Kontaktlinsen nach Möglichkeit entfernen. Weiter spülen."
+            ]
+        },
+        "otherInformation": {
+            "articleNumber": "502019600000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7630028641966"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/70d64d4f6c48b33c5464788eb577c8f1f5199807/nc-vinegar-cleaner-1l-ref.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494740",
+            "name": "Laundry & cleaning",
+            "slugs": [
+                "laundry-cleaning"
+            ]
+        },
+        {
+            "id": "7494808",
+            "name": "Bathroom & toilet",
+            "slugs": [
+                "laundry-cleaning",
+                "bathroom-toilet"
+            ]
+        },
+        {
+            "id": "7495147",
+            "name": "Anti-limescale",
+            "slugs": [
+                "laundry-cleaning",
+                "bathroom-toilet",
+                "anti-limescale"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/502019600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.30",
+            "advertisedDisplayValue": "3.30",
+            "effectiveDisplayValue": "3.30",
+            "multiplier": 1,
+            "value": 3.3,
+            "effectiveValue": 3.3,
+            "advertisedValue": 3.3,
+            "unitPrice": {
+                "value": 0.33,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "1L",
+        "quantityPrice": "0.33/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T08:31:11"
+}

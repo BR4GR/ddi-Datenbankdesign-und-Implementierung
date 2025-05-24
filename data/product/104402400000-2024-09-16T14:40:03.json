@@ -1,0 +1,187 @@
+{
+    "uid": 100045976,
+    "migrosId": "104402400000",
+    "migrosOnlineId": "230974",
+    "name": "jasmine rice",
+    "brand": "M-Classic",
+    "title": "M-Classic · jasmine rice",
+    "description": "M-Classic jasmine rice ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Classic",
+                "slug": "m-classic",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252457/brands/m-classic"
+            },
+            "ingredients": "long grain rice.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 3,
+                    "co2CarKmEquivalent": 20,
+                    "productionRatio": 91,
+                    "transportRatio": 4,
+                    "packagingRatio": 5,
+                    "image": "https://image.migros.ch/original/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "co2KgRange": "2 - 4.7 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 132,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/104402400000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "1 Portion (60 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "0 kJ (0 kcal)",
+                            "897 kJ (211 kcal)",
+                            "0 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0 g",
+                            "0.02 g",
+                            "0.5 %"
+                        ]
+                    }
+                ]
+            },
+            "portionSentence": "1 Package ≈ 17 servings",
+            "isAnalyticalConstituents": false
+        },
+        "usageInformation": {
+            "usage": "Cooking time 10-13 minutes"
+        },
+        "otherInformation": {
+            "articleNumber": "104402400000",
+            "legalDesignation": "Jasmin Reis",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store in a cool, dry place and protected from light."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Grain size/length",
+                    "value": "lang"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Beutel/Sack"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "kochen"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312064139"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/587b409d3aab620f25e3f269f78dbf674dda98d9/m-classic-jasminreis.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494775",
+            "name": "Pasta, rice, semolina & grain",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "pasta-rice-semolina-grain"
+            ]
+        },
+        {
+            "id": "7494977",
+            "name": "Rice",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "pasta-rice-semolina-grain",
+                "rice"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/104402400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "3.–",
+            "advertisedDisplayValue": "3.–",
+            "effectiveDisplayValue": "3.–",
+            "multiplier": 1,
+            "value": 3,
+            "effectiveValue": 3,
+            "advertisedValue": 3
+        },
+        "promotionPrice": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.80",
+            "advertisedDisplayValue": "1.80",
+            "effectiveDisplayValue": "1.80",
+            "multiplier": 1,
+            "value": 1.8,
+            "effectiveValue": 1.8,
+            "advertisedValue": 1.8,
+            "unitPrice": {
+                "value": 0.18,
+                "unit": "100g"
+            }
+        },
+        "priceInsteadOfLabel": "was",
+        "quantity": "1kg",
+        "quantityPrice": "0.18/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "badges": [
+            {
+                "type": "PERCENTAGE_PROMOTION",
+                "description": "40%"
+            },
+            {
+                "type": "MINIMUM_PIECES",
+                "description": "2 or more"
+            }
+        ],
+        "promotionDateRange": {
+            "startDate": "2024-09-10",
+            "endDate": "2024-09-16"
+        },
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:40:03"
+}

@@ -1,0 +1,155 @@
+{
+    "uid": 100006130,
+    "migrosId": "502008400000",
+    "migrosOnlineId": "56804",
+    "name": "Limescale cleaner spray",
+    "brand": "Potz",
+    "title": "Potz · Limescale cleaner spray",
+    "description": "Potz Limescale cleaner spray ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Potz",
+                "slug": "potz",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1661928615/brands/Potz"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 42,
+                    "productionRatio": 96,
+                    "transportRatio": 1,
+                    "packagingRatio": 2,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 76,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/502008400000"
+        },
+        "usageInformation": {
+            "signalWord": "Gefahr",
+            "chemicalPictosV2": [
+                {
+                    "cdn": "rokka",
+                    "pictoId": "GHS05",
+                    "pictoPath": "https://image.migros.ch/original/b9b6d67492a097fcc99d628551e84904ab689e51/%C3%84tzwirkung.jpg",
+                    "pictoPathStack": "https://image.migros.ch/{stack}/b9b6d67492a097fcc99d628551e84904ab689e51/%C3%84tzwirkung.jpg"
+                }
+            ],
+            "chemicalWarnings": [
+                "Verursacht schwere Augenschäden.",
+                "Kann gegenüber Metallen korrosiv sein.",
+                "Verursacht Hautreizungen."
+            ],
+            "chemicalSafetyInstructions": [
+                "Nur im Originalbehälter aufbewahren.",
+                "Darf nicht in die Hände von Kindern gelangen.",
+                "Ist ärztlicher Rat erforderlich, Verpackung oder Kennzeichnungsetikett bereithalten.",
+                "BEI KONTAKT MIT DEN AUGEN: Einige Minuten lang behutsam mit Wasser ausspülen. Eventuell vorhandene Kontaktlinsen nach Möglichkeit entfernen. Weiter spülen.",
+                "Schutzhandschuhe / Schutzkleidung / Augenschutz / Gesichtsschutz tragen.",
+                "Sofort GIFTINFORMATIONSZENTRUM oder Arzt anrufen."
+            ]
+        },
+        "otherInformation": {
+            "articleNumber": "502008400000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Form",
+                    "value": "Trigger"
+                },
+                {
+                    "code": "Suitable for",
+                    "value": "Chromstahl, Dusch und Badewannen"
+                },
+                {
+                    "code": "Environmental information",
+                    "value": "Biologisch gut abbaubar (OECD-Test 302B, ergänzt mit CO2-Analytik)"
+                },
+                {
+                    "code": "Hazard warnings",
+                    "value": "Darf nicht in die Hände von Kindern gelangen."
+                },
+                {
+                    "code": "Not suitable for",
+                    "value": "Email, Marmor und andere säureempfindliche Materialien"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7630028663913",
+        "7617300723770"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1fc4981b122512ecb997e1f601dfb44cadd0412e/calc-cleaner-spray.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494740",
+            "name": "Laundry & cleaning",
+            "slugs": [
+                "laundry-cleaning"
+            ]
+        },
+        {
+            "id": "7494808",
+            "name": "Bathroom & toilet",
+            "slugs": [
+                "laundry-cleaning",
+                "bathroom-toilet"
+            ]
+        },
+        {
+            "id": "7495147",
+            "name": "Anti-limescale",
+            "slugs": [
+                "laundry-cleaning",
+                "bathroom-toilet",
+                "anti-limescale"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/502008400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.95",
+            "advertisedDisplayValue": "3.95",
+            "effectiveDisplayValue": "3.95",
+            "multiplier": 1,
+            "value": 3.95,
+            "effectiveValue": 3.95,
+            "advertisedValue": 3.95,
+            "unitPrice": {
+                "value": 0.79,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "500ml",
+        "quantityPrice": "0.79/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T08:28:21"
+}

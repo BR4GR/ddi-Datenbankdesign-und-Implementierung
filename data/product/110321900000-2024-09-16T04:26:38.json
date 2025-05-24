@@ -1,0 +1,181 @@
+{
+    "uid": 100050893,
+    "migrosId": "110321900000",
+    "name": "Biscottes au Froment",
+    "brand": "Clement",
+    "title": "Biscottes au Froment",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Clement",
+                "slug": "clement"
+            },
+            "allergens": "Cereal grains containing gluten and its derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 42,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/110321900000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1641 kJ (388 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "~ 2.9 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "~ 0.3 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "~ 77.8 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "~ 7.2 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "~ 3.9 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "~ 10.7 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "~ 1.52 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    }
+                ]
+            },
+            "portionSentence": "1 pack ≈ 36 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "110321900000",
+            "legalDesignation": "Weizenzwieback",
+            "distributorName": "Rolf Hugli SA",
+            "distributorStreetAndNumber": "Chemin du Pré-Fleuri 3, 1228 Plan-Les-Ouates",
+            "remarks": [
+                {
+                    "code": "Aufbewahrungshinweise für den Konsumenten",
+                    "value": "An einem kühlen, trockenen und lichtgeschützten Ort aufbewahren. Nach Öffnung innert 6 Tagen verbrauchen."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "3273670002026"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/71c845b7be8c00279f3d1134bde364eba610e952/biscottes-au-froment.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494764",
+            "name": "Bread & rusk",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "bread-rusk"
+            ]
+        },
+        {
+            "id": "7494930",
+            "name": "Crispbread & rusk",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "bread-rusk",
+                "crispbread-rusk"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/110321900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.25",
+            "advertisedDisplayValue": "2.25",
+            "effectiveDisplayValue": "2.25",
+            "multiplier": 1,
+            "value": 2.25,
+            "effectiveValue": 2.25,
+            "advertisedValue": 2.25,
+            "unitPrice": {
+                "value": 0.75,
+                "unit": "100g"
+            }
+        },
+        "quantity": "300g",
+        "quantityPrice": "0.75/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T04:26:38"
+}

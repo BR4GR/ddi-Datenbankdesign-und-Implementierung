@@ -1,0 +1,137 @@
+{
+    "uid": 100122653,
+    "migrosId": "747188600002",
+    "migrosOnlineId": "10783933",
+    "name": "Silicone tray",
+    "brand": "Milette",
+    "brandLine": "Baby Care",
+    "versioning": "BPA-free",
+    "title": "Milette Baby Care · Silicone tray · BPA-free",
+    "description": "Milette Silicone tray BPA-free",
+    "productRange": "VARIANT",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Milette",
+                "slug": "milette",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076999/brands/Milette_Logo"
+            },
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/747188600002"
+        },
+        "otherInformation": {
+            "articleNumber": "747188600002",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613434933207"
+    ],
+    "variants": {
+        "baseProductMigrosId": "747188600000",
+        "mainVariantMigrosId": "747188600002",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "pastell",
+                    "size": "000"
+                },
+                "migrosId": "747188600001"
+            },
+            {
+                "declinationOptions": {
+                    "color": "tradition",
+                    "size": "000"
+                },
+                "migrosId": "747188600002"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "tradition",
+                "options": [
+                    "pastell",
+                    "tradition"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "000",
+                "options": [
+                    "000"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/65f0726fa98e08e33d0217c8865813b3fc91075f/milette-freezer-pot.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "7494823",
+            "name": "Baby equipment",
+            "slugs": [
+                "baby-kids",
+                "baby-equipment"
+            ]
+        },
+        {
+            "id": "7495222",
+            "name": "Table accessories",
+            "slugs": [
+                "baby-kids",
+                "baby-equipment",
+                "table-accessories"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/747188600002",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "10.95",
+            "advertisedDisplayValue": "10.95",
+            "effectiveDisplayValue": "10.95",
+            "multiplier": 1,
+            "value": 10.95,
+            "effectiveValue": 10.95,
+            "advertisedValue": 10.95,
+            "unitPrice": {
+                "value": 10.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "10.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T16:17:07"
+}

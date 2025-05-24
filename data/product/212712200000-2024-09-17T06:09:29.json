@@ -1,0 +1,206 @@
+{
+    "uid": 100019599,
+    "migrosId": "212712200000",
+    "migrosOnlineId": "6395565",
+    "name": "Cheese spread",
+    "brand": "La Vache qui rit",
+    "title": "La Vache qui rit · Cheese spread",
+    "description": "La Vache qui rit Cheese spread ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "La Vache qui rit",
+                "slug": "la-vache-qui-rit"
+            },
+            "nutritionalCharacteristics": [
+                "Vegetarian"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegetarian"
+                }
+            ],
+            "ingredients": "MagerMILCH rehydriert,  KÄSE,  BUTTER, MILCHmineralstoffkonzentrat.",
+            "allergens": "Milk and its derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 17,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/212712200000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "~ 903 kJ (~ 218 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "~ 17.5 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "~ 11.5 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "~ 4.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "~ 4.5 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "~ 10.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "~ 1.7 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    }
+                ]
+            },
+            "portionSentence": "1 pack ≈ 12 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "212712200000",
+            "legalDesignation": "Schmelzkäsezubereitung, 44% Fett i.T.",
+            "identificationMark": "FR 39.198.001 CE",
+            "distributorName": "BEL",
+            "distributorStreetAndNumber": "Bel Suisse SA, Hinterbergstrasse 15, 6330 Cham",
+            "remarks": [
+                {
+                    "code": "Aufbewahrungshinweise für den Konsumenten",
+                    "value": "Nach dem Kauf gekühlt lagern."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegetarian"
+                },
+                {
+                    "code": "Type of cheese",
+                    "value": "Processed cheese"
+                },
+                {
+                    "code": "Fat content",
+                    "value": "halbfett"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "3073781159226"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/2602e69ff42e08fbe96a7d410d4865c79c15e50e/la-vache-qui-rit-12-portionen.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494752",
+            "name": "Cheese",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese"
+            ]
+        },
+        {
+            "id": "7494876",
+            "name": "Fresh & spreadable cheeses",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese",
+                "fresh-spreadable-cheeses"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/212712200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.45",
+            "advertisedDisplayValue": "3.45",
+            "effectiveDisplayValue": "3.45",
+            "multiplier": 1,
+            "value": 3.45,
+            "effectiveValue": 3.45,
+            "advertisedValue": 3.45,
+            "unitPrice": {
+                "value": 1.8,
+                "unit": "100g"
+            }
+        },
+        "quantity": "192g",
+        "quantityPrice": "1.80/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483166/labels/fresh",
+                "description": "fresh"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:09:29"
+}

@@ -1,0 +1,121 @@
+{
+    "uid": 100004482,
+    "migrosId": "702129000000",
+    "migrosOnlineId": "46629",
+    "name": "Girolle for scraping cheese",
+    "brand": "Girolle",
+    "title": "Girolle · Girolle for scraping cheese",
+    "description": "Girolle Girolle for scraping cheese ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L09",
+                    "name": "FSC®",
+                    "slug": "fsc",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483057/labels/FSC_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "Girolle",
+                "slug": "girolle",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076710/brands/Girolle_Me%CC%81tafil-laGirolle_SA_Logo_"
+            },
+            "rating": {
+                "nbReviews": 9,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/702129000000"
+        },
+        "usageInformation": {
+            "additionalInformation": "The wooden base is 100% FSC-certified"
+        },
+        "otherInformation": {
+            "articleNumber": "702129000000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Diameter",
+                    "value": "21 cm"
+                },
+                {
+                    "code": "Material",
+                    "value": "Holz, Edelstahl"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7612429001013"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a0ddc4b48a87cda9e405ff1af3b2eb573a0eccbf/la-girolle.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f1f1b3b9c871b3d051f9b0d3643212b4ad176f64.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494814",
+            "name": "Kitchen & dining",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining"
+            ]
+        },
+        {
+            "id": "7495176",
+            "name": "Kitchen",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining",
+                "kitchen"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/702129000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "37.95",
+            "advertisedDisplayValue": "37.95",
+            "effectiveDisplayValue": "37.95",
+            "multiplier": 1,
+            "value": 37.95,
+            "effectiveValue": 37.95,
+            "advertisedValue": 37.95,
+            "unitPrice": {
+                "value": 37.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "37.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:14:10"
+}

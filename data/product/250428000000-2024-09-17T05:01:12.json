@@ -1,0 +1,87 @@
+{
+    "uid": 100064430,
+    "migrosId": "250428000000",
+    "name": "Crevettenspiess",
+    "title": "Crevettenspiess",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L36",
+                    "name": "ASC",
+                    "slug": "asc",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483265/labels/ASC_-_RGB_-_DE"
+                }
+            ],
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/250428000000"
+        },
+        "otherInformation": {
+            "articleNumber": "250428000000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "2148874000004",
+        "256506",
+        "7617100045973"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/67b36301fbc0ac70805cf831370355273afedd1a/crevettenspiess.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494749",
+            "name": "Fish",
+            "slugs": [
+                "meat-fish",
+                "fish"
+            ]
+        },
+        {
+            "id": "7494859",
+            "name": "Shrimps",
+            "slugs": [
+                "meat-fish",
+                "fish",
+                "shrimps"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/250428000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-17T05:01:12"
+}

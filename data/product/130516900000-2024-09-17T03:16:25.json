@@ -1,0 +1,84 @@
+{
+    "uid": 100100400,
+    "migrosId": "130516900000",
+    "name": "Kabeljau Accras",
+    "title": "Kabeljau Accras",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/130516900000"
+        },
+        "otherInformation": {
+            "articleNumber": "130516900000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613404785805"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/982ee9b7dbaae80ac3ea2ff6ed7415b12c2a65e5/kabeljau-accras.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494749",
+            "name": "Fish",
+            "slugs": [
+                "meat-fish",
+                "fish"
+            ]
+        },
+        {
+            "id": "7494861",
+            "name": "Surimi & seafood delicacies",
+            "slugs": [
+                "meat-fish",
+                "fish",
+                "surimi-seafood-delicacies"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/130516900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.–",
+            "advertisedDisplayValue": "6.–",
+            "effectiveDisplayValue": "6.–",
+            "multiplier": 1,
+            "value": 6,
+            "effectiveValue": 6,
+            "advertisedValue": 6,
+            "unitPrice": {
+                "value": 3.33,
+                "unit": "100g"
+            }
+        },
+        "quantity": "180g",
+        "quantityPrice": "3.33/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T03:16:25"
+}

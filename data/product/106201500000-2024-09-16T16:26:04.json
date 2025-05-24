@@ -1,0 +1,92 @@
+{
+    "uid": 100173238,
+    "migrosId": "106201500000",
+    "migrosOnlineId": "12859823",
+    "name": "Spice blends",
+    "brand": "Just Spices",
+    "versioning": "roasted vegetables",
+    "title": "Just Spices · Spice blends · roasted vegetables",
+    "description": "Just Spices Spice blends roasted vegetables",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Just Spices",
+                "slug": "just-spices"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/106201500000"
+        },
+        "otherInformation": {
+            "articleNumber": "106201500000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "4262409553983"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/20e7c8c7802bd7d47979887ee6d1f7c6c2ab1ab7/just-spices-ofengemuese-mix.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494776",
+            "name": "Spices & sauces",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces"
+            ]
+        },
+        {
+            "id": "7494984",
+            "name": "Spices, herbs & seasonings",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces",
+                "spices-herbs-seasonings"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/106201500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.95",
+            "advertisedDisplayValue": "6.95",
+            "effectiveDisplayValue": "6.95",
+            "multiplier": 1,
+            "value": 6.95,
+            "effectiveValue": 6.95,
+            "advertisedValue": 6.95,
+            "unitPrice": {
+                "value": 13.9,
+                "unit": "100g"
+            }
+        },
+        "quantity": "50g",
+        "quantityPrice": "13.90/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T16:26:04"
+}

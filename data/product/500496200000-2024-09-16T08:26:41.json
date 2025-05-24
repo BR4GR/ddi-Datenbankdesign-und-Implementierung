@@ -1,0 +1,111 @@
+{
+    "uid": 100067197,
+    "migrosId": "500496200000",
+    "name": "Add. Disinf. Polvere",
+    "brand": "Omino Bianco",
+    "title": "Add. Disinf. Polvere",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Omino Bianco",
+                "slug": "omino-bianco"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/500496200000"
+        },
+        "usageInformation": {
+            "signalWord": "Gefahr",
+            "chemicalPictosV2": [
+                {
+                    "cdn": "rokka",
+                    "pictoId": "GHS05",
+                    "pictoPath": "https://image.migros.ch/original/b9b6d67492a097fcc99d628551e84904ab689e51/%C3%84tzwirkung.jpg",
+                    "pictoPathStack": "https://image.migros.ch/{stack}/b9b6d67492a097fcc99d628551e84904ab689e51/%C3%84tzwirkung.jpg"
+                }
+            ],
+            "chemicalWarnings": [
+                "Verursacht schwere Augenschäden."
+            ],
+            "chemicalSafetyInstructions": [
+                "Sofort GIFTINFORMATIONSZENTRUM oder Arzt anrufen.",
+                "Schutzhandschuhe / Schutzkleidung / Augenschutz / Gesichtsschutz tragen.",
+                "Ist ärztlicher Rat erforderlich, Verpackung oder Kennzeichnungsetikett bereithalten.",
+                "BEI KONTAKT MIT DEN AUGEN: Einige Minuten lang behutsam mit Wasser ausspülen. Eventuell vorhandene Kontaktlinsen nach Möglichkeit entfernen. Weiter spülen.",
+                "Darf nicht in die Hände von Kindern gelangen."
+            ]
+        },
+        "otherInformation": {
+            "articleNumber": "500496200000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "8004060010759",
+        "8004060010018"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a5cd55a7942c40e88edb645434bcc47a0f01bb48/add-disinf-polvere.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494740",
+            "name": "Laundry & cleaning",
+            "slugs": [
+                "laundry-cleaning"
+            ]
+        },
+        {
+            "id": "7494806",
+            "name": "Laundry & textile care",
+            "slugs": [
+                "laundry-cleaning",
+                "laundry-textile-care"
+            ]
+        },
+        {
+            "id": "7495137",
+            "name": "Stain removers",
+            "slugs": [
+                "laundry-cleaning",
+                "laundry-textile-care",
+                "stain-removers"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/500496200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.50",
+            "advertisedDisplayValue": "7.50",
+            "effectiveDisplayValue": "7.50",
+            "multiplier": 1,
+            "value": 7.5,
+            "effectiveValue": 7.5,
+            "advertisedValue": 7.5,
+            "unitPrice": {
+                "value": 1.67,
+                "unit": "100g"
+            }
+        },
+        "quantity": "450g",
+        "quantityPrice": "1.67/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T08:26:41"
+}

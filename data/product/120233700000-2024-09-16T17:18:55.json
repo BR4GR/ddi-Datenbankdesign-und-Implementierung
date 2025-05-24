@@ -1,0 +1,105 @@
+{
+    "uid": 100152759,
+    "migrosId": "120233700000",
+    "migrosOnlineId": "12116429",
+    "name": "Energy drink",
+    "brand": "El Tony",
+    "brandLine": "Mate",
+    "versioning": "Mate tea infusion",
+    "title": "El Tony Mate · Energy drink · Mate tea infusion",
+    "description": "El Tony Energy drink Mate tea infusion",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "El Tony",
+                "slug": "el-tony",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1656506251/brands/El_Tony_intelligentfood_Schweiz_AG_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 7,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/120233700000"
+        },
+        "otherInformation": {
+            "articleNumber": "120233700000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7640150496006",
+        "7613312454077",
+        "7640150491018"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/7d112b67702127b878712e18c3b7f4048a31355d/el-tony-mate.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f570025d9c16658a719b7bfa27c4aab806a16558.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494769",
+            "name": "Soft drinks",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks"
+            ]
+        },
+        {
+            "id": "7494953",
+            "name": "Energy & sport drinks",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks",
+                "energy-sport-drinks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/120233700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "45.60",
+            "advertisedDisplayValue": "45.60",
+            "effectiveDisplayValue": "45.60",
+            "multiplier": 1,
+            "value": 45.6,
+            "effectiveValue": 45.6,
+            "advertisedValue": 45.6,
+            "unitPrice": {
+                "value": 0.58,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "24 x 330ml",
+        "quantityPrice": "0.58/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:18:55"
+}

@@ -1,0 +1,137 @@
+{
+    "uid": 100147027,
+    "migrosId": "501021500000",
+    "migrosOnlineId": "12413851",
+    "name": "Washing-up liquid",
+    "brand": "Manella",
+    "brandLine": "Ultra Power",
+    "versioning": "Lemon",
+    "title": "Manella Ultra Power · Washing-up liquid · Lemon",
+    "description": "Manella Washing-up liquid Lemon",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Manella",
+                "slug": "manella",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076950/brands/Manella_Logo"
+            },
+            "rating": {
+                "nbReviews": 24,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/501021500000"
+        },
+        "usageInformation": {
+            "signalWord": "Achtung",
+            "chemicalPictosV2": [
+                {
+                    "cdn": "rokka",
+                    "pictoId": "GHS07",
+                    "pictoPath": "https://image.migros.ch/original/09b3c0810d45b7f83a5ad48c5bc38d4d0227615b/Dickes%20Ausrufezeichen.jpg",
+                    "pictoPathStack": "https://image.migros.ch/{stack}/09b3c0810d45b7f83a5ad48c5bc38d4d0227615b/Dickes%20Ausrufezeichen.jpg"
+                }
+            ],
+            "chemicalWarnings": [
+                "Verursacht schwere Augenreizung."
+            ],
+            "chemicalSafetyInstructions": [
+                "Darf nicht in die Hände von Kindern gelangen.",
+                "BEI KONTAKT MIT DEN AUGEN: Einige Minuten lang behutsam mit Wasser ausspülen. Eventuell vorhandene Kontaktlinsen nach Möglichkeit entfernen. Weiter spülen.",
+                "Ist ärztlicher Rat erforderlich, Verpackung oder Kennzeichnungsetikett bereithalten.",
+                "Bei anhaltender Augenreizung: Ärztlichen Rat einholen/ärztliche Hilfe hinzuziehen.",
+                "Schutzhandschuhe / Schutzkleidung / Augenschutz / Gesichtsschutz tragen."
+            ]
+        },
+        "otherInformation": {
+            "articleNumber": "501021500000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Suitable for",
+                    "value": "Handabwasch"
+                },
+                {
+                    "code": "Environmental information",
+                    "value": "Biologisch gut abbaubar (OECD-Test 302B, ergänzt mit CO2-Analytik)"
+                },
+                {
+                    "code": "Hazard warnings",
+                    "value": "Darf nicht in die Hände von Kindern gelangen."
+                },
+                {
+                    "code": "Additional note",
+                    "value": "Hautverträglichkeit dermatologisch bestätigt"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7630028638843"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/2f778e8df27cbdade47519ce4ea4c05ce6d535cf/manella-citron-500ml.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494740",
+            "name": "Laundry & cleaning",
+            "slugs": [
+                "laundry-cleaning"
+            ]
+        },
+        {
+            "id": "7494807",
+            "name": "Kitchen cleaning supplies",
+            "slugs": [
+                "laundry-cleaning",
+                "kitchen-cleaning-supplies"
+            ]
+        },
+        {
+            "id": "7495141",
+            "name": "Washing-up liquids",
+            "slugs": [
+                "laundry-cleaning",
+                "kitchen-cleaning-supplies",
+                "washing-up-liquids"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/501021500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.20",
+            "advertisedDisplayValue": "3.20",
+            "effectiveDisplayValue": "3.20",
+            "multiplier": 1,
+            "value": 3.2,
+            "effectiveValue": 3.2,
+            "advertisedValue": 3.2,
+            "unitPrice": {
+                "value": 0.64,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "500ml",
+        "quantityPrice": "0.64/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-18T03:00:28"
+}

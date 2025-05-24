@@ -1,0 +1,119 @@
+{
+    "uid": 100165244,
+    "migrosId": "514648900000",
+    "name": "Syoss Intense Plex Shampoo",
+    "brand": "Syoss",
+    "title": "Syoss Intense Plex Shampoo",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Syoss",
+                "slug": "syoss",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252499/brands/syoss"
+            },
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/514648900000"
+        },
+        "otherInformation": {
+            "articleNumber": "514648900000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "4015100814859"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/d62cbe3d9ddd7a9ad4b5f878b8b5560ef30f5d1a/syoss-intense-plex-shampoo.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494825",
+            "name": "Hair care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hair-care"
+            ]
+        },
+        {
+            "id": "7495232",
+            "name": "Shampoos",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hair-care",
+                "shampoos"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/514648900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "4.50",
+            "advertisedDisplayValue": "4.50",
+            "effectiveDisplayValue": "4.50",
+            "multiplier": 1,
+            "value": 4.5,
+            "effectiveValue": 4.5,
+            "advertisedValue": 4.5
+        },
+        "promotionPrice": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.15",
+            "advertisedDisplayValue": "3.15",
+            "effectiveDisplayValue": "3.15",
+            "multiplier": 1,
+            "value": 3.15,
+            "effectiveValue": 3.15,
+            "advertisedValue": 3.15,
+            "unitPrice": {
+                "value": 0.72,
+                "unit": "100ml"
+            }
+        },
+        "priceInsteadOfLabel": "was",
+        "quantity": "440ml",
+        "quantityPrice": "0.72/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "badges": [
+            {
+                "type": "PERCENTAGE_PROMOTION",
+                "description": "30%"
+            },
+            {
+                "type": "MINIMUM_PIECES",
+                "description": "2 or more"
+            }
+        ],
+        "promotionDateRange": {
+            "startDate": "2024-09-17",
+            "endDate": "2024-09-30"
+        },
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:26:05"
+}

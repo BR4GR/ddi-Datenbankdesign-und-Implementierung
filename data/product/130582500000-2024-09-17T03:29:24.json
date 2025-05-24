@@ -1,0 +1,86 @@
+{
+    "uid": 100130796,
+    "migrosId": "130582500000",
+    "name": "Kartoffelsalat",
+    "title": "Kartoffelsalat",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/130582500000"
+        },
+        "otherInformation": {
+            "articleNumber": "130582500000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "2190018000005",
+        "405478",
+        "7617027127301"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/642c0611bf00d031fab5b02579856c4d7bc877a5/kartoffelsalat.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494754",
+            "name": "Fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food"
+            ]
+        },
+        {
+            "id": "12497362",
+            "name": "Ready-made salads",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food",
+                "ready-made-salads"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/130582500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.20",
+            "advertisedDisplayValue": "1.20",
+            "effectiveDisplayValue": "1.20",
+            "multiplier": 1,
+            "value": 1.2,
+            "effectiveValue": 1.2,
+            "advertisedValue": 1.2,
+            "unitPrice": {
+                "value": 1.19,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "1.19/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T03:29:24"
+}

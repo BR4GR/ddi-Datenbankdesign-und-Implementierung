@@ -1,0 +1,113 @@
+{
+    "uid": 100132772,
+    "migrosId": "747177000001",
+    "name": "Milette socks",
+    "brand": "Milette",
+    "title": "Milette socks",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Milette",
+                "slug": "milette",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076999/brands/Milette_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/747177000001"
+        },
+        "otherInformation": {
+            "articleNumber": "747177000001",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613434070650"
+    ],
+    "variants": {
+        "baseProductMigrosId": "747177000000",
+        "mainVariantMigrosId": "747177000001",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "typ_art": "Giraffe"
+                },
+                "migrosId": "747177000001"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "typ_art",
+                "dimensionName": "Art",
+                "currentValue": "Giraffe",
+                "options": [
+                    "Giraffe"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/85bbbb3a1efb2d99fd04eb064857ab7c74088456/milette-socks.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "11117240",
+            "name": "Baby clothes",
+            "slugs": [
+                "baby-kids",
+                "baby-clothes"
+            ]
+        },
+        {
+            "id": "11117266",
+            "name": "Baby accessories",
+            "slugs": [
+                "baby-kids",
+                "baby-clothes",
+                "baby-accessories"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/747177000001",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.95",
+            "advertisedDisplayValue": "7.95",
+            "effectiveDisplayValue": "7.95",
+            "multiplier": 1,
+            "value": 7.95,
+            "effectiveValue": 7.95,
+            "advertisedValue": 7.95,
+            "unitPrice": {
+                "value": 7.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "7.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T00:12:24"
+}

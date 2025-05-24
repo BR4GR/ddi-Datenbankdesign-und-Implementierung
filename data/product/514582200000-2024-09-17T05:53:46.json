@@ -1,0 +1,95 @@
+{
+    "uid": 100089722,
+    "migrosId": "514582200000",
+    "name": "I am LE Auskaemmbuerste",
+    "brand": "I am",
+    "title": "I am LE Auskaemmbuerste",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "I am",
+                "slug": "i-am",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076768/brands/Iam_Logo"
+            },
+            "rating": {
+                "nbReviews": 7,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/514582200000"
+        },
+        "otherInformation": {
+            "articleNumber": "514582200000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7610196015394",
+        "7613312175064"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/2aa908505434e3c93dcbf99473864cca362913b8/i-am-le-auskaemmbuerste.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494825",
+            "name": "Hair care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hair-care"
+            ]
+        },
+        {
+            "id": "7495237",
+            "name": "Hair styling accessories",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hair-care",
+                "hair-styling-accessories"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/514582200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.50",
+            "advertisedDisplayValue": "7.50",
+            "effectiveDisplayValue": "7.50",
+            "multiplier": 1,
+            "value": 7.5,
+            "effectiveValue": 7.5,
+            "advertisedValue": 7.5,
+            "unitPrice": {
+                "value": 7.5,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "7.50/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:53:46"
+}

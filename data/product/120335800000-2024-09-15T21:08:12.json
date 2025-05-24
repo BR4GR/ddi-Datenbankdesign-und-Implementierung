@@ -1,0 +1,189 @@
+{
+    "uid": 100152252,
+    "migrosId": "120335800000",
+    "migrosOnlineId": "12059237",
+    "name": "Soft drink",
+    "brand": "Pepsi",
+    "brandLine": "Zero",
+    "versioning": "Cherry flavour, low in calories",
+    "title": "Pepsi Zero · Soft drink · Cherry flavour, low in calories",
+    "description": "Pepsi Soft drink Cherry flavour, low in calories",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Pepsi",
+                "slug": "pepsi"
+            },
+            "nutritionalCharacteristics": [
+                "No added sugar"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "No added sugar",
+                    "additionalInformation": "No added sugar. Contains naturally occurring sugars."
+                }
+            ],
+            "ingredients": "Wasser, Kohlendioxid, Farbstoff: E150d, Süssungsmittel: Aspartam und Acesulfam-K, Säuerungsmittel: Phosphorsäure und Citronensäure, Aroma, Konservierungsstoff: Kaliumsorbat, Aroma Coffein",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 8,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/120335800000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "2 kJ (0.5 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.04 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "120335800000",
+            "legalDesignation": "Kalorienarme, coffeinhaltige Limonade, mit Süssungsmitteln, kohlensäurehaltig",
+            "distributorName": "Feldschlösschen Getränke AG",
+            "distributorStreetAndNumber": "Theophil-Roniger-Strasse, 4310 Rheinfelden",
+            "mainSpecificities": [
+                {
+                    "code": "Gesundheits und nährwertbezogene Auslobung",
+                    "value": "No added sugar. Contains naturally occurring sugars."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610287336643"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/82591d39edf6a644e48cc987e8d8fe0bd1e7e231/pepsi-cherry-zero.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/bc75148ec20fac273e662a0c2ea550b50123890b.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494769",
+            "name": "Soft drinks",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks"
+            ]
+        },
+        {
+            "id": "7494949",
+            "name": "Cola",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks",
+                "cola"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/120335800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.95",
+            "advertisedDisplayValue": "6.95",
+            "effectiveDisplayValue": "6.95",
+            "multiplier": 1,
+            "value": 6.95,
+            "effectiveValue": 6.95,
+            "advertisedValue": 6.95,
+            "unitPrice": {
+                "value": 0.35,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "6 x 330ml",
+        "quantityPrice": "0.35/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-15T21:08:12"
+}

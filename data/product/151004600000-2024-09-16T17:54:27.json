@@ -1,0 +1,193 @@
+{
+    "uid": 100111670,
+    "migrosId": "151004600000",
+    "migrosOnlineId": "10306050",
+    "name": "jam",
+    "brand": "Belle Journée",
+    "brandLine": "Extra",
+    "versioning": "fourfruit",
+    "title": "Belle Journée Extra · jam · fourfruit",
+    "description": "Belle Journée jam fourfruit",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Belle Journée",
+                "slug": "belle-journee",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1703170124/brands/belle_journee"
+            },
+            "ingredients": "Früchte (Apfelpüree, Apfelsaft aus Konzentrat, Zwetschgensaft aus Konzentrat, Sauerkirschenpüree, Himbeerpüree), Zucker, Geliermittel: Pektin, Säuerungsmittel: Citronensäure, Holunderbeerensaftkonzentrat.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 4,
+                    "productionRatio": 70,
+                    "transportRatio": 5,
+                    "packagingRatio": 23,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 102,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/151004600000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g",
+                    "2 Teelöffel (10 g)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "992 kJ (234 kcal)",
+                            "99 kJ (23 kcal)",
+                            "1 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            "1 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0 g",
+                            "0 g",
+                            "0 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "57 g",
+                            "5.7 g",
+                            "2 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "57 g",
+                            "5.7 g",
+                            "6 %"
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "1.2 g",
+                            "< 0.5 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            "1 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.02 g",
+                            "0 g",
+                            "0 %"
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "portionSentence": "1 Jar = 50 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "151004600000",
+            "legalDesignation": "Vierfruchtkonfitüre",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613312373545"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/b55a0ce96f304a67c2647aaca96932d48712b9f1/belle-journee-vierfrucht.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494768",
+            "name": "Jam, spreads & honey",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "jam-spreads-honey"
+            ]
+        },
+        {
+            "id": "7494945",
+            "name": "Jams",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "jam-spreads-honey",
+                "jams"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/151004600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.25",
+            "advertisedDisplayValue": "2.25",
+            "effectiveDisplayValue": "2.25",
+            "multiplier": 1,
+            "value": 2.25,
+            "effectiveValue": 2.25,
+            "advertisedValue": 2.25,
+            "unitPrice": {
+                "value": 0.45,
+                "unit": "100g"
+            }
+        },
+        "quantity": "500g",
+        "quantityPrice": "0.45/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:54:27"
+}

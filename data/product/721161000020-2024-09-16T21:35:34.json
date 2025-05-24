@@ -1,0 +1,139 @@
+{
+    "uid": 100080003,
+    "migrosId": "721161000020",
+    "name": "Permanent Marker",
+    "brand": "Papeteria",
+    "title": "Permanent Marker",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Papeteria",
+                "slug": "papeteria",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077073/brands/Papeteria_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 17,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/721161000020"
+        },
+        "otherInformation": {
+            "articleNumber": "721161000020",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Number",
+                    "value": "1 Pcs."
+                },
+                {
+                    "code": "Color",
+                    "value": "schwarz"
+                },
+                {
+                    "code": "Note",
+                    "value": "- Berührung mir der Haut vermeiden."
+                },
+                {
+                    "code": "Font color",
+                    "value": "schwarz"
+                },
+                {
+                    "code": "Font width",
+                    "value": "1.8 mm"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613346101633"
+    ],
+    "variants": {
+        "baseProductMigrosId": "721161000000",
+        "mainVariantMigrosId": "721161000020",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "SCHWARZ"
+                },
+                "migrosId": "721161000020"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "SCHWARZ",
+                "options": [
+                    "SCHWARZ"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/c619d9327483be51151b3d058f10567a38ee8ffc/permanent-marker.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494813",
+            "name": "Office & stationery",
+            "slugs": [
+                "household-and-living",
+                "office-stationery"
+            ]
+        },
+        {
+            "id": "7495170",
+            "name": "Writing & taking notes",
+            "slugs": [
+                "household-and-living",
+                "office-stationery",
+                "writing-taking-notes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/721161000020",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.50",
+            "advertisedDisplayValue": "1.50",
+            "effectiveDisplayValue": "1.50",
+            "multiplier": 1,
+            "value": 1.5,
+            "effectiveValue": 1.5,
+            "advertisedValue": 1.5,
+            "unitPrice": {
+                "value": 1.5,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "1.50/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T21:35:34"
+}

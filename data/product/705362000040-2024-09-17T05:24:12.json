@@ -1,0 +1,126 @@
+{
+    "uid": 100003258,
+    "migrosId": "705362000040",
+    "migrosOnlineId": "5006255",
+    "name": "Bottle 350ml",
+    "brand": "Cucina & Tavola",
+    "versioning": "Blue",
+    "title": "Cucina & Tavola · Bottle 350ml · Blue",
+    "description": "Cucina & Tavola Bottle 350ml Blue",
+    "productRange": "VARIANT",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Cucina & Tavola",
+                "slug": "cucina-tavola",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076644/brands/CucinaTavola__Logo"
+            },
+            "rating": {
+                "nbReviews": 25,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/705362000040"
+        },
+        "otherInformation": {
+            "articleNumber": "705362000040",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613345591114"
+    ],
+    "variants": {
+        "baseProductMigrosId": "705362000000",
+        "mainVariantMigrosId": "705362000034",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "Rosa"
+                },
+                "migrosId": "705362000034"
+            },
+            {
+                "declinationOptions": {
+                    "color": "Blau"
+                },
+                "migrosId": "705362000040"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "Blau",
+                "options": [
+                    "Rosa",
+                    "Blau"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/367d7d3069422da85045e264f7791b0f6143496a/ct-bottle-350ml.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494814",
+            "name": "Kitchen & dining",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining"
+            ]
+        },
+        {
+            "id": "7495178",
+            "name": "Table",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining",
+                "table"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/705362000040",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.95",
+            "advertisedDisplayValue": "5.95",
+            "effectiveDisplayValue": "5.95",
+            "multiplier": 1,
+            "value": 5.95,
+            "effectiveValue": 5.95,
+            "advertisedValue": 5.95,
+            "unitPrice": {
+                "value": 5.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "5.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:24:12"
+}

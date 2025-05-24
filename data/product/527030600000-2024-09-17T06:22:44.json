@@ -1,0 +1,115 @@
+{
+    "uid": 100170500,
+    "migrosId": "527030600000",
+    "name": "I am Natural Cosmetics Anti-Fett Shampoo",
+    "brand": "I am",
+    "title": "I am Natural Cosmetics Anti-Fett Shampoo",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "I am",
+                "slug": "i-am",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076768/brands/Iam_Logo"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/527030600000"
+        },
+        "otherInformation": {
+            "articleNumber": "527030600000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7630041427219"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/c3cba324eae8d188b66b71e06abefca3ca6af0e6/i-am-natural-cosmetics-anti-fett-shampoo.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494825",
+            "name": "Hair care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hair-care"
+            ]
+        },
+        {
+            "id": "7495232",
+            "name": "Shampoos",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hair-care",
+                "shampoos"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/527030600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "5.50",
+            "advertisedDisplayValue": "5.50",
+            "effectiveDisplayValue": "5.50",
+            "multiplier": 1,
+            "value": 5.5,
+            "effectiveValue": 5.5,
+            "advertisedValue": 5.5
+        },
+        "promotionPrice": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.85",
+            "advertisedDisplayValue": "3.85",
+            "effectiveDisplayValue": "3.85",
+            "multiplier": 1,
+            "value": 3.85,
+            "effectiveValue": 3.85,
+            "advertisedValue": 3.85,
+            "unitPrice": {
+                "value": 1.54,
+                "unit": "100ml"
+            }
+        },
+        "priceInsteadOfLabel": "was",
+        "quantity": "250ml",
+        "quantityPrice": "1.54/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "badges": [
+            {
+                "type": "PERCENTAGE_PROMOTION",
+                "description": "30%"
+            },
+            {
+                "type": "MINIMUM_PIECES",
+                "description": "2 or more"
+            }
+        ],
+        "promotionDateRange": {
+            "startDate": "2024-09-17",
+            "endDate": "2024-09-30"
+        },
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:22:44"
+}

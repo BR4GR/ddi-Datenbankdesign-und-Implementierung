@@ -1,0 +1,108 @@
+{
+    "uid": 100052872,
+    "migrosId": "277200502100",
+    "name": "Peterli gekraust",
+    "brand": "Migros Fresca",
+    "title": "Peterli gekraust",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Fresca",
+                "slug": "migros-fresca",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076970/brands/Migros_Fresca_Logo"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 2,
+                    "productionRatio": 75,
+                    "transportRatio": 13,
+                    "packagingRatio": 12,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 64,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/277200502100"
+        },
+        "otherInformation": {
+            "articleNumber": "277200502100",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "2156389000006",
+        "359054",
+        "7613269396109"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/cb8a5922d88c07c8af8965e4b38a6ff9fb78c2c0/peterli-gekraust.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494760",
+            "name": "Fresh herbs & spices",
+            "slugs": [
+                "fruits-vegetables",
+                "fresh-herbs-spices"
+            ]
+        },
+        {
+            "id": "7494917",
+            "name": "Fresh herbs",
+            "slugs": [
+                "fruits-vegetables",
+                "fresh-herbs-spices",
+                "fresh-herbs"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/277200502100",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.90",
+            "advertisedDisplayValue": "1.90",
+            "effectiveDisplayValue": "1.90",
+            "multiplier": 1,
+            "value": 1.9,
+            "effectiveValue": 1.9,
+            "advertisedValue": 1.9,
+            "unitPrice": {
+                "value": 0.19,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "0.19/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T03:26:38"
+}

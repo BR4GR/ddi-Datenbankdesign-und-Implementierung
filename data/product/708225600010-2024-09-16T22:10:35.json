@@ -1,0 +1,140 @@
+{
+    "uid": 100079878,
+    "migrosId": "708225600010",
+    "name": "BAUMWOLLFADEN 150M",
+    "title": "BAUMWOLLFADEN 150M",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 5,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/708225600010"
+        },
+        "otherInformation": {
+            "articleNumber": "708225600010",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Area of application",
+                    "value": "Flicken, nähen, säumen"
+                },
+                {
+                    "code": "Number",
+                    "value": "1 Pcs."
+                },
+                {
+                    "code": "Dimensions/size",
+                    "value": "150m"
+                },
+                {
+                    "code": "Material",
+                    "value": "Baumwolle"
+                },
+                {
+                    "code": "Color",
+                    "value": "weiss"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613345868797"
+    ],
+    "variants": {
+        "baseProductMigrosId": "708225600000",
+        "mainVariantMigrosId": "708225600010",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "weiss"
+                },
+                "migrosId": "708225600010"
+            },
+            {
+                "declinationOptions": {
+                    "color": "schwarz"
+                },
+                "migrosId": "708225600020"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "weiss",
+                "options": [
+                    "weiss",
+                    "schwarz"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d86e08638b1ec387f15b7c8e70351e61a9dcf34d/baumwollfaden-150m.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494812",
+            "name": "DIY, home decoration and haberdashery",
+            "slugs": [
+                "household-and-living",
+                "diy-home-decoration-and-haberdas"
+            ]
+        },
+        {
+            "id": "7495164",
+            "name": "Haberdashery",
+            "slugs": [
+                "household-and-living",
+                "diy-home-decoration-and-haberdas",
+                "haberdashery"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/708225600010",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.50",
+            "advertisedDisplayValue": "3.50",
+            "effectiveDisplayValue": "3.50",
+            "multiplier": 1,
+            "value": 3.5,
+            "effectiveValue": 3.5,
+            "advertisedValue": 3.5,
+            "unitPrice": {
+                "value": 3.5,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "3.50/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T22:10:35"
+}

@@ -1,0 +1,88 @@
+{
+    "uid": 100121594,
+    "migrosId": "212603400000",
+    "name": "Toast'omagret",
+    "title": "Toast'omagret",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/212603400000"
+        },
+        "otherInformation": {
+            "articleNumber": "212603400000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "3222120305903"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/4d005f33a896b8546949f9488cc5e0d017d360fe/toastomagret.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/208359db4ae90ec5e845682fb8ca3d8c596018ea.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494752",
+            "name": "Cheese",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese"
+            ]
+        },
+        {
+            "id": "7494878",
+            "name": "Snacks, appetisers & cheese for kids",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese",
+                "snacks-appetisers-cheese-for-kid"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/212603400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "8.50",
+            "advertisedDisplayValue": "8.50",
+            "effectiveDisplayValue": "8.50",
+            "multiplier": 1,
+            "value": 8.5,
+            "effectiveValue": 8.5,
+            "advertisedValue": 8.5,
+            "unitPrice": {
+                "value": 11.33,
+                "unit": "100g"
+            }
+        },
+        "quantity": "75g",
+        "quantityPrice": "11.33/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T03:41:18"
+}

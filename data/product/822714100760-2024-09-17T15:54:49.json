@@ -1,0 +1,180 @@
+{
+    "uid": 100173690,
+    "migrosId": "822714100760",
+    "name": "Men's Boxer Lyocell",
+    "brand": "MIGROS ESSENTIALS",
+    "title": "Men's Boxer Lyocell",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L07",
+                    "name": "ECO",
+                    "slug": "eco",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483145/labels/Eco-Textilien_-_RGB_-_DE"
+                },
+                {
+                    "id": "L93",
+                    "name": "Tencel",
+                    "slug": "tencel",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1707834844/labels/Tencel"
+                }
+            ],
+            "brand": {
+                "name": "MIGROS ESSENTIALS",
+                "slug": "migros-essentials",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1708333701/brands/Migros_Essentials_-_RGB_-_DE"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/822714100760"
+        },
+        "otherInformation": {
+            "articleNumber": "822714100760",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Article type",
+                    "value": "Boxer"
+                },
+                {
+                    "code": "Material",
+                    "value": "Lyocell"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "95 %"
+                },
+                {
+                    "code": "Material 2",
+                    "value": "Elasthan"
+                },
+                {
+                    "code": "Proportion of material 2",
+                    "value": "5 %"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871764949"
+    ],
+    "variants": {
+        "baseProductMigrosId": "822714100000",
+        "mainVariantMigrosId": "822714100760",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "green",
+                    "size": "M"
+                },
+                "migrosId": "822714100760"
+            },
+            {
+                "declinationOptions": {
+                    "color": "green",
+                    "size": "L"
+                },
+                "migrosId": "822714100860"
+            },
+            {
+                "declinationOptions": {
+                    "color": "green",
+                    "size": "XL"
+                },
+                "migrosId": "822714100960"
+            },
+            {
+                "declinationOptions": {
+                    "color": "green",
+                    "size": "XXL"
+                },
+                "migrosId": "822714101060"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "green",
+                "options": [
+                    "green"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "M",
+                "options": [
+                    "M",
+                    "L",
+                    "XL",
+                    "XXL"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f7199c753c11f138fb1d2159c60306423e42f795/mens-boxer-lyocell.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/6fb890ba2b475276b2fc509d856bc61de3b2a929.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10555007",
+            "name": "Men",
+            "slugs": [
+                "clothing-accessories",
+                "men"
+            ]
+        },
+        {
+            "id": "10555111",
+            "name": "Underwear",
+            "slugs": [
+                "clothing-accessories",
+                "men",
+                "underwear"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/822714100760",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "22.95",
+            "advertisedDisplayValue": "22.95",
+            "effectiveDisplayValue": "22.95",
+            "multiplier": 1,
+            "value": 22.95,
+            "effectiveValue": 22.95,
+            "advertisedValue": 22.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T15:54:49"
+}

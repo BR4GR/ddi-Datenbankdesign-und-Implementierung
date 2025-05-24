@@ -1,0 +1,101 @@
+{
+    "uid": 100143385,
+    "migrosId": "243101918000",
+    "name": "Truthahnfilet",
+    "title": "Truthahnfilet",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "mcheck": {
+                "animalWelfare": {
+                    "rating": 3,
+                    "image": "https://image.migros.ch/original/02f56762a6d67ea0470f50e5e8cc4d96d84791f0.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 1.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/243101918000"
+        },
+        "otherInformation": {
+            "articleNumber": "243101918000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "2160897000007",
+        "212717",
+        "7613269790730"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/9f3f416be39be2d9070ab61afeae5422e5ee3dc3/truthahnfilet.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ea5127aeed9b95f1132c88349196bcc4d17b2e9f.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494747",
+            "name": "Meat & poultry",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry"
+            ]
+        },
+        {
+            "id": "7494845",
+            "name": "Chicken, turkey & duck",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry",
+                "chicken-turkey-duck"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/243101918000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.25",
+            "advertisedDisplayValue": "4.25",
+            "effectiveDisplayValue": "4.25",
+            "multiplier": 1,
+            "value": 4.25,
+            "effectiveValue": 4.25,
+            "advertisedValue": 4.25,
+            "unitPrice": {
+                "value": 4.25,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "4.25/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:27:41"
+}

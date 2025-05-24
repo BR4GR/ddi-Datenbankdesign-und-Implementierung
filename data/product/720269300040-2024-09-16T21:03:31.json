@@ -1,0 +1,142 @@
+{
+    "uid": 100079941,
+    "migrosId": "720269300040",
+    "name": "Lumocolor F permanent",
+    "brand": "Staedtler",
+    "title": "Lumocolor F permanent",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Staedtler",
+                "slug": "staedtler"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 18,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/720269300040"
+        },
+        "otherInformation": {
+            "articleNumber": "720269300040",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Anwendungsbereich",
+                    "value": "Für fast alle Oberflächen."
+                },
+                {
+                    "code": "Number",
+                    "value": "1 Pcs."
+                },
+                {
+                    "code": "Font color",
+                    "value": "blau"
+                },
+                {
+                    "code": "Font width",
+                    "value": "0.6 mm"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4007817318461",
+        "4007817304556"
+    ],
+    "variants": {
+        "baseProductMigrosId": "720269300000",
+        "mainVariantMigrosId": "720269300020",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "SCHWARZ"
+                },
+                "migrosId": "720269300020"
+            },
+            {
+                "declinationOptions": {
+                    "color": "BLAU"
+                },
+                "migrosId": "720269300040"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "BLAU",
+                "options": [
+                    "SCHWARZ",
+                    "BLAU"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/af11bd41a425a2f1ba118eaf5b7d8a4adac3f4f6/lumocolor-f-permanent.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494813",
+            "name": "Office & stationery",
+            "slugs": [
+                "household-and-living",
+                "office-stationery"
+            ]
+        },
+        {
+            "id": "7495170",
+            "name": "Writing & taking notes",
+            "slugs": [
+                "household-and-living",
+                "office-stationery",
+                "writing-taking-notes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/720269300040",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.50",
+            "advertisedDisplayValue": "2.50",
+            "effectiveDisplayValue": "2.50",
+            "multiplier": 1,
+            "value": 2.5,
+            "effectiveValue": 2.5,
+            "advertisedValue": 2.5,
+            "unitPrice": {
+                "value": 2.5,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "2.50/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T21:03:31"
+}

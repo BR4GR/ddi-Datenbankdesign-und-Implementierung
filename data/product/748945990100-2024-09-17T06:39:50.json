@@ -1,0 +1,143 @@
+{
+    "uid": 100080469,
+    "migrosId": "748945990100",
+    "name": "KOSMOS EXIT LA CABANE ABENDONNÉE_FR",
+    "brand": "KOSMOS",
+    "title": "KOSMOS EXIT LA CABANE ABENDONNÉE_FR",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "KOSMOS",
+                "slug": "kosmos",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076841/brands/Kosmos_Lemaco_SA_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/748945990100"
+        },
+        "otherInformation": {
+            "articleNumber": "748945990100",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Alter ab (Jahren)",
+                    "value": "12"
+                },
+                {
+                    "code": "Breite",
+                    "value": "13 cm"
+                },
+                {
+                    "code": "Höhe",
+                    "value": "18 cm"
+                },
+                {
+                    "code": "Tiefe",
+                    "value": "4 cm"
+                },
+                {
+                    "code": "M-Garantie",
+                    "value": "2 Jahre"
+                },
+                {
+                    "code": "MPN - Hersteller Artikelnummer",
+                    "value": "82_51439"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "3760175514395"
+    ],
+    "variants": {
+        "baseProductMigrosId": "748945900000",
+        "mainVariantMigrosId": "748945990100",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "typ_sprache": "FR"
+                },
+                "migrosId": "748945990100"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "typ_sprache",
+                "dimensionName": "Sprache",
+                "currentValue": "FR",
+                "options": [
+                    "FR"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a56e43791e5de37c7e620374472026b5fd92c9e3/kosmos-exit-la-cabane-abendonnee-fr.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/50915e3206f05a61957e2827d0c0ce28337674ae.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "7494822",
+            "name": "Toys",
+            "slugs": [
+                "baby-kids",
+                "toys"
+            ]
+        },
+        {
+            "id": "7495213",
+            "name": "Board games, role-playing games & puzzles",
+            "slugs": [
+                "baby-kids",
+                "toys",
+                "board-games-role-playing-games-p"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/748945990100",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "19.95",
+            "advertisedDisplayValue": "19.95",
+            "effectiveDisplayValue": "19.95",
+            "multiplier": 1,
+            "value": 19.95,
+            "effectiveValue": 19.95,
+            "advertisedValue": 19.95,
+            "unitPrice": {
+                "value": 19.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "19.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:39:50"
+}

@@ -1,0 +1,174 @@
+{
+    "uid": 100168473,
+    "migrosId": "822803900948",
+    "name": "Men's Shorty",
+    "brand": "MIGROS ESSENTIALS",
+    "title": "Men's Shorty",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L07",
+                    "name": "ECO",
+                    "slug": "eco",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483145/labels/Eco-Textilien_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "MIGROS ESSENTIALS",
+                "slug": "migros-essentials",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1708333701/brands/Migros_Essentials_-_RGB_-_DE"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/822803900948"
+        },
+        "otherInformation": {
+            "articleNumber": "822803900948",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Article type",
+                    "value": "Shorty"
+                },
+                {
+                    "code": "Material",
+                    "value": "Baumwolle"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "100 %"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871723267"
+    ],
+    "variants": {
+        "baseProductMigrosId": "822803900000",
+        "mainVariantMigrosId": "822803900648",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "night blue",
+                    "size": "S"
+                },
+                "migrosId": "822803900648"
+            },
+            {
+                "declinationOptions": {
+                    "color": "night blue",
+                    "size": "M"
+                },
+                "migrosId": "822803900748"
+            },
+            {
+                "declinationOptions": {
+                    "color": "night blue",
+                    "size": "L"
+                },
+                "migrosId": "822803900848"
+            },
+            {
+                "declinationOptions": {
+                    "color": "night blue",
+                    "size": "XL"
+                },
+                "migrosId": "822803900948"
+            },
+            {
+                "declinationOptions": {
+                    "color": "night blue",
+                    "size": "XXL"
+                },
+                "migrosId": "822803901048"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "night blue",
+                "options": [
+                    "night blue"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "XL",
+                "options": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "XXL"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/5f0c75ab79373f900593d8768b093d5219e68199/mens-shorty.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10555007",
+            "name": "Men",
+            "slugs": [
+                "clothing-accessories",
+                "men"
+            ]
+        },
+        {
+            "id": "10555111",
+            "name": "Underwear",
+            "slugs": [
+                "clothing-accessories",
+                "men",
+                "underwear"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/822803900948",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "19.95",
+            "advertisedDisplayValue": "19.95",
+            "effectiveDisplayValue": "19.95",
+            "multiplier": 1,
+            "value": 19.95,
+            "effectiveValue": 19.95,
+            "advertisedValue": 19.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-20T15:56:40"
+}

@@ -1,0 +1,98 @@
+{
+    "uid": 100067674,
+    "migrosId": "231040030800",
+    "name": "Saison Fleischkäse",
+    "title": "Saison Fleischkäse",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 1.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/231040030800"
+        },
+        "otherInformation": {
+            "articleNumber": "231040030800",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "2166429000002",
+        "231381",
+        "7613404414385"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/eb0a57d64ae6edcf2f41cfbb6889cec64a57f8d3/saison-fleischkaese.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/9ee406e25d9ec1cbbaee17fc4f5bcb8838198b19.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/bc49a5d6529ec09c5e74a7e9ef4c3e62f267b879.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494748",
+            "name": "Cold cuts",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts"
+            ]
+        },
+        {
+            "id": "7494852",
+            "name": "Deli meat & meatloaf",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts",
+                "deli-meat-meatloaf"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/231040030800",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.20",
+            "advertisedDisplayValue": "3.20",
+            "effectiveDisplayValue": "3.20",
+            "multiplier": 1,
+            "value": 3.2,
+            "effectiveValue": 3.2,
+            "advertisedValue": 3.2,
+            "unitPrice": {
+                "value": 3.2,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "3.20/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:34:12"
+}

@@ -1,0 +1,96 @@
+{
+    "uid": 100130113,
+    "migrosId": "130186300000",
+    "name": "Knöpfli Duo 800g",
+    "title": "Knöpfli Duo 800g",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "rating": {
+                "nbReviews": 11,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/130186300000"
+        },
+        "otherInformation": {
+            "articleNumber": "130186300000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7623186210600"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/548c05f8e1b24a74cabe1355a72649f79d13089b/knoepfli-duo-800g.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494754",
+            "name": "Fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food"
+            ]
+        },
+        {
+            "id": "7494886",
+            "name": "Fresh pasta & lasagnes",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food",
+                "fresh-pasta-lasagnes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/130186300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.30",
+            "advertisedDisplayValue": "6.30",
+            "effectiveDisplayValue": "6.30",
+            "multiplier": 1,
+            "value": 6.3,
+            "effectiveValue": 6.3,
+            "advertisedValue": 6.3,
+            "unitPrice": {
+                "value": 0.79,
+                "unit": "100g"
+            }
+        },
+        "quantity": "2 x 400g",
+        "quantityPrice": "0.79/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T23:42:11"
+}

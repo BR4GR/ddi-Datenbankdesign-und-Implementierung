@@ -1,0 +1,116 @@
+{
+    "uid": 100143940,
+    "migrosId": "121515600000",
+    "name": "Morand Sirup Orgeat",
+    "brand": "Morand",
+    "title": "Morand Sirup Orgeat",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Morand",
+                "slug": "morand"
+            },
+            "ingredients": "Zucker, Wasser, Aroma BITTERMANDEL, Konservierungsmittel (Kaliumsorbat).",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/121515600000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1642 kJ (344 kcal)",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "121515600000",
+            "legalDesignation": "Orgeat-Sirup",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Percentage of alcohol by volume [%]",
+                    "value": "0"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610173092417"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/0116dddf42db27675aba2ca23ee0d64fa92644f8/morand-sirup-orgeat.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494769",
+            "name": "Soft drinks",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks"
+            ]
+        },
+        {
+            "id": "7494954",
+            "name": "Syrups",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks",
+                "syrups"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/121515600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "6.30",
+            "advertisedDisplayValue": "6.30",
+            "effectiveDisplayValue": "6.30",
+            "multiplier": 1,
+            "value": 6.3,
+            "effectiveValue": 6.3,
+            "advertisedValue": 6.3,
+            "unitPrice": {
+                "value": 0.63,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "1l",
+        "quantityPrice": "0.63/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:27:16"
+}

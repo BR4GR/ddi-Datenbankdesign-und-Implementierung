@@ -1,0 +1,136 @@
+{
+    "uid": 100056517,
+    "migrosId": "502050700000",
+    "name": "Backofenreiniger",
+    "brand": "Potz",
+    "title": "Backofenreiniger",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Potz",
+                "slug": "potz",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1661928615/brands/Potz"
+            },
+            "rating": {
+                "nbReviews": 29,
+                "nbStars": 3.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/502050700000"
+        },
+        "usageInformation": {
+            "signalWord": "Gefahr",
+            "chemicalPictosV2": [
+                {
+                    "cdn": "rokka",
+                    "pictoId": "GHS05",
+                    "pictoPath": "https://image.migros.ch/original/b9b6d67492a097fcc99d628551e84904ab689e51/%C3%84tzwirkung.jpg",
+                    "pictoPathStack": "https://image.migros.ch/{stack}/b9b6d67492a097fcc99d628551e84904ab689e51/%C3%84tzwirkung.jpg"
+                }
+            ],
+            "chemicalWarnings": [
+                "Verursacht schwere Augenschäden.",
+                "Verursacht Hautreizungen."
+            ],
+            "chemicalSafetyInstructions": [
+                "Bei Hautreizung: Ärztlichen Rat einholen/ärztliche Hilfe hinzuziehen.",
+                "Schutzhandschuhe / Schutzkleidung / Augenschutz / Gesichtsschutz tragen.",
+                "Sofort TOX-ZENTRUM (Tel. 145) oder Arzt anrufen.",
+                "BEI KONTAKT MIT DER HAUT: Mit viel Wasser und Seife waschen.",
+                "Darf nicht in die Hände von Kindern gelangen.",
+                "Ist ärztlicher Rat erforderlich, Verpackung oder Kennzeichnungsetikett bereithalten.",
+                "BEI KONTAKT MIT DEN AUGEN: Einige Minuten lang behutsam mit Wasser ausspülen. Eventuell vorhandene Kontaktlinsen nach Möglichkeit entfernen. Weiter spülen."
+            ]
+        },
+        "otherInformation": {
+            "articleNumber": "502050700000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Suitable for",
+                    "value": "Backofen, erxMISOgrill"
+                },
+                {
+                    "code": "Hazard warnings",
+                    "value": "Darf nicht in die Hände von Kindern gelangen."
+                },
+                {
+                    "code": "Not suitable for",
+                    "value": "Siehe Anleitung!"
+                },
+                {
+                    "code": "Form",
+                    "value": "Trigger"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312132937"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/64da402c6d760af6665c3990e13eb04ff0f9ff4f/backofenreiniger.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494740",
+            "name": "Laundry & cleaning",
+            "slugs": [
+                "laundry-cleaning"
+            ]
+        },
+        {
+            "id": "7494809",
+            "name": "Household & floor cleaners",
+            "slugs": [
+                "laundry-cleaning",
+                "household-floor-cleaners"
+            ]
+        },
+        {
+            "id": "7495153",
+            "name": "Oven cleaners",
+            "slugs": [
+                "laundry-cleaning",
+                "household-floor-cleaners",
+                "oven-cleaners"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/502050700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.95",
+            "advertisedDisplayValue": "4.95",
+            "effectiveDisplayValue": "4.95",
+            "multiplier": 1,
+            "value": 4.95,
+            "effectiveValue": 4.95,
+            "advertisedValue": 4.95,
+            "unitPrice": {
+                "value": 1.32,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "375ml",
+        "quantityPrice": "1.32/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T08:40:32"
+}

@@ -1,0 +1,98 @@
+{
+    "uid": 100143007,
+    "migrosId": "277330502200",
+    "name": "Thai-Kit frisch",
+    "brand": "Migros Fresca",
+    "title": "Thai-Kit frisch",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Fresca",
+                "slug": "migros-fresca",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076970/brands/Migros_Fresca_Logo"
+            },
+            "rating": {
+                "nbReviews": 4,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/277330502200"
+        },
+        "otherInformation": {
+            "articleNumber": "277330502200",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613269664031"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/0f7ee70ad7372cdedca779b8d5fb7b92fb6a3f7a/thai-kit-frisch.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d55cea68fc5a7666f70dd21ce21dc19c83131c00.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494761",
+            "name": "Ready to use",
+            "slugs": [
+                "fruits-vegetables",
+                "ready-to-use"
+            ]
+        },
+        {
+            "id": "7494920",
+            "name": "Vegetables",
+            "slugs": [
+                "fruits-vegetables",
+                "ready-to-use",
+                "vegetables"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/277330502200",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.75",
+            "advertisedDisplayValue": "2.75",
+            "effectiveDisplayValue": "2.75",
+            "multiplier": 1,
+            "value": 2.75,
+            "effectiveValue": 2.75,
+            "advertisedValue": 2.75,
+            "unitPrice": {
+                "value": 11,
+                "unit": "100g"
+            }
+        },
+        "quantity": "25g",
+        "quantityPrice": "11.–/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T03:27:15"
+}

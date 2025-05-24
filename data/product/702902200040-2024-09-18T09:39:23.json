@@ -1,0 +1,167 @@
+{
+    "uid": 100079597,
+    "migrosId": "702902200040",
+    "name": "FRISCHHALTEDOSE",
+    "brand": "M-Topline",
+    "title": "FRISCHHALTEDOSE",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "M-Topline",
+                "slug": "m-topline",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076948/brands/M-Topline_cool_30J_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 16,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/702902200040"
+        },
+        "otherInformation": {
+            "articleNumber": "702902200040",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Height",
+                    "value": "8.5 cm"
+                },
+                {
+                    "code": "Diameter",
+                    "value": "18 cm"
+                },
+                {
+                    "code": "Volume",
+                    "value": "1.25 l"
+                },
+                {
+                    "code": "Material",
+                    "value": "Plastic"
+                },
+                {
+                    "code": "Color",
+                    "value": "blau"
+                },
+                {
+                    "code": "suitable for food products",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Microwave-safe",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Dishwasher-safe",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Freezable",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Max. temperature resistance",
+                    "value": "100 °C"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7617020470770"
+    ],
+    "variants": {
+        "baseProductMigrosId": "702902200000",
+        "mainVariantMigrosId": "702902200040",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "BLAU"
+                },
+                "migrosId": "702902200040"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "BLAU",
+                "options": [
+                    "BLAU"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ae08259d997ebf44e5c90f14f671401c70904957/frischhaltedose.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494814",
+            "name": "Kitchen & dining",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining"
+            ]
+        },
+        {
+            "id": "7495178",
+            "name": "Table",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining",
+                "table"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/702902200040",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.95",
+            "advertisedDisplayValue": "5.95",
+            "effectiveDisplayValue": "5.95",
+            "multiplier": 1,
+            "value": 5.95,
+            "effectiveValue": 5.95,
+            "advertisedValue": 5.95,
+            "unitPrice": {
+                "value": 5.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "5.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-18T09:39:23"
+}

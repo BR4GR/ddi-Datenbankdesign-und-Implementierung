@@ -1,0 +1,212 @@
+{
+    "uid": 100050656,
+    "migrosId": "120223200000",
+    "name": "Rivella Blau",
+    "brand": "Rivella",
+    "title": "Rivella Blau",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Rivella",
+                "slug": "rivella",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077112/brands/Rivella_Rivella_AG_Logo"
+            },
+            "nutritionalCharacteristics": [
+                "Vegetarian"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegetarian"
+                }
+            ],
+            "ingredients": "Wasser, MILCHSERUM, Kohlensäure, Säuerungsmittel (L(+)-Milchsäure), Karamell, Süssungsmittel (Cyclamat, Acesulfam K), natürliche Aromen.",
+            "allergens": "lactose",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 217,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/120223200000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 ml"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "~ 30 kJ (~ 7 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "~ 0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "~ 0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "~ 1.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "~ 1.5 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "~ 0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "~ 0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "~ 0.03 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "120223200000",
+            "legalDesignation": "Kohlensäurehaltiges Tafelgetränk mit 35% Milchserum. Mit Süssungsmitteln.",
+            "distributorName": "Rivella AG",
+            "distributorStreetAndNumber": "CH-4852 Rothrist",
+            "remarks": [
+                {
+                    "code": "Preservation technique code",
+                    "value": "Pasteurisation - Partially sterilisation by heating"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegetarian"
+                },
+                {
+                    "code": "Production process",
+                    "value": "Frei von Konservierungsstoffen laut Gesetz, Mit natürlichen Aromen, Ohne Farbstoffe"
+                },
+                {
+                    "code": "Carbonated",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Bottle"
+                },
+                {
+                    "code": "Type of soft drink",
+                    "value": "Limonade"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610097112079"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3baebaabdc3dcff56ea642a8f0397f17d62f8a81/rivella-blau.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494769",
+            "name": "Soft drinks",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks"
+            ]
+        },
+        {
+            "id": "7494951",
+            "name": "Soft drinks",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks",
+                "soft-drinks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/120223200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.60",
+            "advertisedDisplayValue": "1.60",
+            "effectiveDisplayValue": "1.60",
+            "multiplier": 1,
+            "value": 1.6,
+            "effectiveValue": 1.6,
+            "advertisedValue": 1.6,
+            "unitPrice": {
+                "value": 0.32,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "500ml",
+        "quantityPrice": "0.32/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:14:40"
+}

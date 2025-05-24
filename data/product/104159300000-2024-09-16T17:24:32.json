@@ -1,0 +1,127 @@
+{
+    "uid": 100049649,
+    "migrosId": "104159300000",
+    "name": "Aus der Region Urdinkel Spaghetti",
+    "title": "Aus der Region Urdinkel Spaghetti",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 7,
+                    "productionRatio": 83,
+                    "transportRatio": 4,
+                    "packagingRatio": 12,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 20,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/104159300000"
+        },
+        "otherInformation": {
+            "articleNumber": "104159300000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Packaging type",
+                    "value": "Beutel/Sack"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "zum gekochtessen"
+                },
+                {
+                    "code": "Type of pasta/noodles",
+                    "value": "Spaghetti"
+                },
+                {
+                    "code": "Cooking time (mins.)",
+                    "value": "10-12 min"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7640120093938",
+        "7640120096267"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/abe208827f0378fdeb8400c630032b974bf97f1d/aus-der-region-urdinkel-spaghetti.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494775",
+            "name": "Pasta, rice, semolina & grain",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "pasta-rice-semolina-grain"
+            ]
+        },
+        {
+            "id": "7494976",
+            "name": "Pasta",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "pasta-rice-semolina-grain",
+                "pasta"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/104159300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.20",
+            "advertisedDisplayValue": "4.20",
+            "effectiveDisplayValue": "4.20",
+            "multiplier": 1,
+            "value": 4.2,
+            "effectiveValue": 4.2,
+            "advertisedValue": 4.2,
+            "unitPrice": {
+                "value": 0.84,
+                "unit": "100g"
+            }
+        },
+        "quantity": "500g",
+        "quantityPrice": "0.84/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:24:32"
+}

@@ -1,0 +1,136 @@
+{
+    "uid": 100052692,
+    "migrosId": "151080200000",
+    "name": "Aus der Region Birnendicksaft",
+    "brand": "Amstutz",
+    "title": "Aus der Region Birnendicksaft",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "brand": {
+                "name": "Amstutz",
+                "slug": "amstutz",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1712671543/brands/Amstutz_-_CMYK_BM4"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 4,
+                    "productionRatio": 70,
+                    "transportRatio": 6,
+                    "packagingRatio": 24,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 12,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/151080200000"
+        },
+        "otherInformation": {
+            "articleNumber": "151080200000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Suitable for cooking",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Glas"
+                },
+                {
+                    "code": "Type of spread",
+                    "value": "Brotaufstrich"
+                },
+                {
+                    "code": "Without milk",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Crunchy",
+                    "value": "No"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312032015"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/2ce06adac8130cff4e2fd8dbb27eb9c984fc04f8/aus-der-region-birnendicksaft.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494768",
+            "name": "Jam, spreads & honey",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "jam-spreads-honey"
+            ]
+        },
+        {
+            "id": "7494947",
+            "name": "Honeys & molasses",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "jam-spreads-honey",
+                "honeys-molasses"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/151080200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.–",
+            "advertisedDisplayValue": "7.–",
+            "effectiveDisplayValue": "7.–",
+            "multiplier": 1,
+            "value": 7,
+            "effectiveValue": 7,
+            "advertisedValue": 7,
+            "unitPrice": {
+                "value": 1.4,
+                "unit": "100g"
+            }
+        },
+        "quantity": "500g",
+        "quantityPrice": "1.40/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T04:52:58"
+}

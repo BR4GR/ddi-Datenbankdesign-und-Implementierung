@@ -1,0 +1,73 @@
+{
+    "uid": 100144736,
+    "migrosId": "268802802900",
+    "name": "Trockenfrüchte",
+    "title": "Trockenfrüchte",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/268802802900"
+        },
+        "otherInformation": {
+            "articleNumber": "268802802900",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613269371168"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/323ad985d9871fae9240e92568493964e63b9ba1/trockenfruechte.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494785",
+            "name": "Dried fruit",
+            "slugs": [
+                "snacks-sweets",
+                "dried-fruit"
+            ]
+        },
+        {
+            "id": "7495033",
+            "name": "Mixes",
+            "slugs": [
+                "snacks-sweets",
+                "dried-fruit",
+                "mixes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/268802802900",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "multiplier": 1
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "noPriceReason": "REGIONAL_OFFER",
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "REGIONAL"
+    },
+    "dateAdded": "2024-09-16T16:51:29"
+}

@@ -1,0 +1,105 @@
+{
+    "uid": 100051040,
+    "migrosId": "153220600000",
+    "name": "Sugo al Basilico",
+    "brand": "La Reinese",
+    "title": "Sugo al Basilico",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "La Reinese",
+                "slug": "la-reinese"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 3,
+                    "co2CarKmEquivalent": 16,
+                    "productionRatio": 92,
+                    "transportRatio": 2,
+                    "packagingRatio": 6,
+                    "image": "https://image.migros.ch/original/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "co2KgRange": "2 - 4.7 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 3.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/153220600000"
+        },
+        "otherInformation": {
+            "articleNumber": "153220600000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "8018872002727"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/345134f827594a133e757d597775f51fd682346a/sugo-al-basilico.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494776",
+            "name": "Spices & sauces",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces"
+            ]
+        },
+        {
+            "id": "12671420",
+            "name": "Pasta sauces & pesto",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces",
+                "pasta-sauces-pesto"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/153220600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.10",
+            "advertisedDisplayValue": "3.10",
+            "effectiveDisplayValue": "3.10",
+            "multiplier": 1,
+            "value": 3.1,
+            "effectiveValue": 3.1,
+            "advertisedValue": 3.1,
+            "unitPrice": {
+                "value": 0.89,
+                "unit": "100g"
+            }
+        },
+        "quantity": "350g",
+        "quantityPrice": "0.89/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T19:08:33"
+}

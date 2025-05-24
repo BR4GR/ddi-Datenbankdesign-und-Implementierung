@@ -1,0 +1,103 @@
+{
+    "uid": 100145018,
+    "migrosId": "232101601000",
+    "name": "Hirschschüblig",
+    "title": "Hirschschüblig",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "mcheck": {
+                "animalWelfare": {
+                    "rating": 1,
+                    "image": "https://image.migros.ch/original/b0be03be58b86dcbaffa6f96bdcdcf659fb1ccfd.svg",
+                    "label": "Animal welfare"
+                }
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/232101601000"
+        },
+        "otherInformation": {
+            "articleNumber": "232101601000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613404101599"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1b74d0be244f70d7ea00deaed9914aab65907646/hirschschueblig.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/5af891f56bf6aabcfc84c6eeb0cea3443ba4c503.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494747",
+            "name": "Meat & poultry",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry"
+            ]
+        },
+        {
+            "id": "7494848",
+            "name": "Game",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry",
+                "game"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/232101601000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.95",
+            "advertisedDisplayValue": "7.95",
+            "effectiveDisplayValue": "7.95",
+            "multiplier": 1,
+            "value": 7.95,
+            "effectiveValue": 7.95,
+            "advertisedValue": 7.95,
+            "unitPrice": {
+                "value": 2.84,
+                "unit": "100g"
+            }
+        },
+        "quantity": "280g",
+        "quantityPrice": "2.84/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-15T23:37:15"
+}

@@ -1,0 +1,108 @@
+{
+    "uid": 100145116,
+    "migrosId": "104151600000",
+    "name": "Agnesi Spaghetti",
+    "brand": "Agnesi",
+    "title": "Agnesi Spaghetti",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Agnesi",
+                "slug": "agnesi",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1638170825/brands/Agnesi_Colussi_S.p.A._Logo"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/104151600000"
+        },
+        "otherInformation": {
+            "articleNumber": "104151600000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Packaging type",
+                    "value": "Schachtel"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "kochen"
+                },
+                {
+                    "code": "Type of pasta/noodles",
+                    "value": "Spaghetti"
+                },
+                {
+                    "code": "Cooking time (mins.)",
+                    "value": "8 - 10"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "8001200046807"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/7317d4717c401de7a40d9dca17df647ef2b34c9c/agnesi-spaghetti.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494775",
+            "name": "Pasta, rice, semolina & grain",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "pasta-rice-semolina-grain"
+            ]
+        },
+        {
+            "id": "7494976",
+            "name": "Pasta",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "pasta-rice-semolina-grain",
+                "pasta"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/104151600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.95",
+            "advertisedDisplayValue": "1.95",
+            "effectiveDisplayValue": "1.95",
+            "multiplier": 1,
+            "value": 1.95,
+            "effectiveValue": 1.95,
+            "advertisedValue": 1.95,
+            "unitPrice": {
+                "value": 0.2,
+                "unit": "100g"
+            }
+        },
+        "quantity": "1kg",
+        "quantityPrice": "0.20/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:33:19"
+}

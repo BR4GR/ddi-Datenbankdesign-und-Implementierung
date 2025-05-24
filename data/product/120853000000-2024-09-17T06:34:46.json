@@ -1,0 +1,130 @@
+{
+    "uid": 100051486,
+    "migrosId": "120853000000",
+    "name": "Aus der Region Eptinger mit CO2",
+    "brand": "Eptinger",
+    "title": "Aus der Region Eptinger mit CO2",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "brand": {
+                "name": "Eptinger",
+                "slug": "eptinger",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1656506252/brands/Eptinger_Mineralquelle_Eptingen_AG_Logo"
+            },
+            "ingredients": "pas de liste d'ingrédients.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 11,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/120853000000"
+        },
+        "otherInformation": {
+            "articleNumber": "120853000000",
+            "legalDesignation": "Natürliches Mineralwasser mit Kohlensäure versetzt",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Weitere Zusatzangaben",
+                    "value": "Name der Quelle und Ort des Quellaustritts: Birchquelle, Eptingen"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Production process",
+                    "value": "Aus der Region"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Bottle"
+                },
+                {
+                    "code": "Type of soft drink",
+                    "value": "Mineralwasser"
+                },
+                {
+                    "code": "Carbon dioxide content",
+                    "value": "Classic"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7614400010755",
+        "7614400005515"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/5372c85b36936aaf64872d27753684d495d75c24/aus-der-region-eptinger-mit-co2.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494770",
+            "name": "Water",
+            "slugs": [
+                "drinks-coffee-tea",
+                "water"
+            ]
+        },
+        {
+            "id": "7494956",
+            "name": "Sparkling water",
+            "slugs": [
+                "drinks-coffee-tea",
+                "water",
+                "sparkling-water"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/120853000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "0.90",
+            "advertisedDisplayValue": "0.90",
+            "effectiveDisplayValue": "0.90",
+            "multiplier": 1,
+            "value": 0.9,
+            "effectiveValue": 0.9,
+            "advertisedValue": 0.9,
+            "unitPrice": {
+                "value": 0.06,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "1.5l",
+        "quantityPrice": "0.06/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:34:46"
+}

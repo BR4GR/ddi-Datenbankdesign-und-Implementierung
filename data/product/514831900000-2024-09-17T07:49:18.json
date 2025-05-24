@@ -1,0 +1,115 @@
+{
+    "uid": 100163499,
+    "migrosId": "514831900000",
+    "name": "GARNIER GOOD 3.0",
+    "brand": "Garnier",
+    "title": "GARNIER GOOD 3.0",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Garnier",
+                "slug": "garnier",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252433/brands/garnier"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/514831900000"
+        },
+        "otherInformation": {
+            "articleNumber": "514831900000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "3600542519113"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/93a0c808cc21d3eb54abd11d22f21353f0ee2d7a/garnier-good-30.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494825",
+            "name": "Hair care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hair-care"
+            ]
+        },
+        {
+            "id": "7495236",
+            "name": "Hair dyes",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hair-care",
+                "hair-dyes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/514831900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "12.95",
+            "advertisedDisplayValue": "12.95",
+            "effectiveDisplayValue": "12.95",
+            "multiplier": 1,
+            "value": 12.95,
+            "effectiveValue": 12.95,
+            "advertisedValue": 12.95
+        },
+        "promotionPrice": {
+            "displayUnitPrice": true,
+            "formattedPrice": "9.10",
+            "advertisedDisplayValue": "9.10",
+            "effectiveDisplayValue": "9.10",
+            "multiplier": 1,
+            "value": 9.1,
+            "effectiveValue": 9.1,
+            "advertisedValue": 9.1,
+            "unitPrice": {
+                "value": 9.1,
+                "unit": "piece"
+            }
+        },
+        "priceInsteadOfLabel": "was",
+        "quantity": "1 Stk.",
+        "quantityPrice": "9.10/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "badges": [
+            {
+                "type": "PERCENTAGE_PROMOTION",
+                "description": "30%"
+            },
+            {
+                "type": "MINIMUM_PIECES",
+                "description": "2 or more"
+            }
+        ],
+        "promotionDateRange": {
+            "startDate": "2024-09-17",
+            "endDate": "2024-09-30"
+        },
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:49:18"
+}

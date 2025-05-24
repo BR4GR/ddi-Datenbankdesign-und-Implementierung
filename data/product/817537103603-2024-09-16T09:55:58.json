@@ -1,0 +1,179 @@
+{
+    "uid": 100083596,
+    "migrosId": "817537103603",
+    "name": "DIM Lady`s string",
+    "brand": "Dim",
+    "title": "DIM Lady`s string",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Dim",
+                "slug": "dim"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/817537103603"
+        },
+        "otherInformation": {
+            "articleNumber": "817537103603",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Article type",
+                    "value": "String"
+                },
+                {
+                    "code": "Material",
+                    "value": "Polyamid"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "85 %"
+                },
+                {
+                    "code": "Material 2",
+                    "value": "Elasthan"
+                },
+                {
+                    "code": "Proportion of material 2",
+                    "value": "15 %"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "3610862073219"
+    ],
+    "variants": {
+        "baseProductMigrosId": "817537100000",
+        "mainVariantMigrosId": "817537103603",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "036",
+                    "color": "powder"
+                },
+                "migrosId": "817537103603"
+            },
+            {
+                "declinationOptions": {
+                    "size": "038",
+                    "color": "powder"
+                },
+                "migrosId": "817537103803"
+            },
+            {
+                "declinationOptions": {
+                    "size": "040",
+                    "color": "powder"
+                },
+                "migrosId": "817537104003"
+            },
+            {
+                "declinationOptions": {
+                    "size": "042",
+                    "color": "powder"
+                },
+                "migrosId": "817537104203"
+            },
+            {
+                "declinationOptions": {
+                    "size": "044",
+                    "color": "powder"
+                },
+                "migrosId": "817537104403"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "powder",
+                "options": [
+                    "powder"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "036",
+                "options": [
+                    "036",
+                    "038",
+                    "040",
+                    "042",
+                    "044"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/75bb4dcd9a6aeaccac7111cd02bfd0f81cce7aa3/dim-ladys-string.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10553347",
+            "name": "Women",
+            "slugs": [
+                "clothing-accessories",
+                "women"
+            ]
+        },
+        {
+            "id": "10553439",
+            "name": "Underwear",
+            "slugs": [
+                "clothing-accessories",
+                "women",
+                "underwear"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/817537103603",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "14.95",
+            "advertisedDisplayValue": "14.95",
+            "effectiveDisplayValue": "14.95",
+            "multiplier": 1,
+            "value": 14.95,
+            "effectiveValue": 14.95,
+            "advertisedValue": 14.95,
+            "unitPrice": {
+                "value": 14.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "14.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T09:55:58"
+}

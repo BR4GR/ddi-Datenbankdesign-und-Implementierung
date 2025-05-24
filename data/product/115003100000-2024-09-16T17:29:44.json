@@ -1,0 +1,97 @@
+{
+    "uid": 100161156,
+    "migrosId": "115003100000",
+    "migrosOnlineId": "12349933",
+    "name": "Fresh baker's yeast",
+    "title": "Fresh baker's yeast",
+    "description": "Fresh baker's yeast ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "rating": {
+                "nbReviews": 44,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/115003100000"
+        },
+        "otherInformation": {
+            "articleNumber": "115003100000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "42436898"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/b32593dc0dfc97ca3b879b8213fead1506b886bf/frische-backhefe.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494766",
+            "name": "Baking ingredients",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "baking-ingredients"
+            ]
+        },
+        {
+            "id": "7494935",
+            "name": "Flour & yeast",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "baking-ingredients",
+                "flour-yeast"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/115003100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "0.30",
+            "advertisedDisplayValue": "0.30",
+            "effectiveDisplayValue": "0.30",
+            "multiplier": 1,
+            "value": 0.3,
+            "effectiveValue": 0.3,
+            "advertisedValue": 0.3,
+            "unitPrice": {
+                "value": 0.71,
+                "unit": "100g"
+            }
+        },
+        "quantity": "42g",
+        "quantityPrice": "0.71/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483166/labels/fresh",
+                "description": "fresh"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:29:44"
+}

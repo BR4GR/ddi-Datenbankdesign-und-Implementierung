@@ -1,0 +1,134 @@
+{
+    "uid": 100051633,
+    "migrosId": "121014300000",
+    "name": "Aus der Region Apfel-Holunder",
+    "title": "Aus der Region Apfel-Holunder",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 4,
+                    "productionRatio": 76,
+                    "transportRatio": 8,
+                    "packagingRatio": 16,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/121014300000"
+        },
+        "otherInformation": {
+            "articleNumber": "121014300000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Production process",
+                    "value": "Aus der Region"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Karton, Stehbeutel"
+                },
+                {
+                    "code": "From concentrate",
+                    "value": "No"
+                },
+                {
+                    "code": "Contains no added sugar",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Type of soft drink",
+                    "value": "Fruchtsaftgetränk"
+                },
+                {
+                    "code": "Flavor",
+                    "value": "Apfel"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7640140180267"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/aac32920a331fe129755c230045a2d7f3cf6eebe/aus-der-region-apfel-holunder.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494771",
+            "name": "Fruit & vegetable juices",
+            "slugs": [
+                "drinks-coffee-tea",
+                "fruit-vegetable-juices"
+            ]
+        },
+        {
+            "id": "7494959",
+            "name": "Apple juice",
+            "slugs": [
+                "drinks-coffee-tea",
+                "fruit-vegetable-juices",
+                "apple-juice"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/121014300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "14.–",
+            "advertisedDisplayValue": "14.–",
+            "effectiveDisplayValue": "14.–",
+            "multiplier": 1,
+            "value": 14,
+            "effectiveValue": 14,
+            "advertisedValue": 14,
+            "unitPrice": {
+                "value": 0.47,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "3l",
+        "quantityPrice": "0.47/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:14:12"
+}

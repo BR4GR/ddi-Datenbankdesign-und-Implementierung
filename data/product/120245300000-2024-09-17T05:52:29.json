@@ -1,0 +1,89 @@
+{
+    "uid": 100174304,
+    "migrosId": "120245300000",
+    "name": "Dash Orange",
+    "brand": "Dash",
+    "title": "Dash Orange",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Dash",
+                "slug": "dash"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/120245300000"
+        },
+        "otherInformation": {
+            "articleNumber": "120245300000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "5060489730824"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/0a4ca07a203e2fa998082e49933dc22a2ade6427/dash-orange.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494770",
+            "name": "Water",
+            "slugs": [
+                "drinks-coffee-tea",
+                "water"
+            ]
+        },
+        {
+            "id": "7494957",
+            "name": "Flavoured water",
+            "slugs": [
+                "drinks-coffee-tea",
+                "water",
+                "flavoured-water"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/120245300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.80",
+            "advertisedDisplayValue": "1.80",
+            "effectiveDisplayValue": "1.80",
+            "multiplier": 1,
+            "value": 1.8,
+            "effectiveValue": 1.8,
+            "advertisedValue": 1.8,
+            "unitPrice": {
+                "value": 0.55,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "330ml",
+        "quantityPrice": "0.55/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:52:29"
+}

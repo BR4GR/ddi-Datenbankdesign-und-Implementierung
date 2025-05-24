@@ -1,0 +1,178 @@
+{
+    "uid": 100133109,
+    "migrosId": "121303200000",
+    "migrosOnlineId": "10780694",
+    "name": "IPA beer",
+    "brand": "Lowlander",
+    "brandLine": "Winter IPA",
+    "versioning": "alcohol free",
+    "title": "Lowlander Winter IPA · IPA beer · alcohol free",
+    "description": "Lowlander IPA beer alcohol free",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Lowlander",
+                "slug": "lowlander"
+            },
+            "ingredients": "water, hops, yeast, malted barley, wheat, spruce needles, juniper berries",
+            "allergens": "Cereal grains containing gluten and its derivatives, Wheat and their derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "alcoholContent": 0.3,
+            "rating": {
+                "nbReviews": 11,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/121303200000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "96 kJ (23 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "< 0.2 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "< 0.2 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "5.9 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "3 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "0.4 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "< 0.01 g",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "121303200000",
+            "legalDesignation": "Non-alcoholic beer",
+            "distributorName": "My Drink GmbH",
+            "distributorStreetAndNumber": "Herrengasse 346430 Schwyz",
+            "remarks": [
+                {
+                    "code": "Consumer storage instructions",
+                    "value": "None"
+                },
+                {
+                    "code": "Percentage of alcohol by volume [%]",
+                    "value": "0.3"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "8719992646999"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/6bc36e662389f62e46f26e76c61780a985baec67/lowlander-winter-ipa.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494737",
+            "name": "Wine, beer & spirits",
+            "slugs": [
+                "wine-beer-spirits"
+            ]
+        },
+        {
+            "id": "10583761",
+            "name": "Alcohol free drinks",
+            "slugs": [
+                "wine-beer-spirits",
+                "alcohol-free-drinks"
+            ]
+        },
+        {
+            "id": "10614101",
+            "name": "Beers & ciders",
+            "slugs": [
+                "wine-beer-spirits",
+                "alcohol-free-drinks",
+                "beers-ciders"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/121303200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.80",
+            "advertisedDisplayValue": "2.80",
+            "effectiveDisplayValue": "2.80",
+            "multiplier": 1,
+            "value": 2.8,
+            "effectiveValue": 2.8,
+            "advertisedValue": 2.8,
+            "unitPrice": {
+                "value": 0.85,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "330ml",
+        "quantityPrice": "0.85/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:39:06"
+}

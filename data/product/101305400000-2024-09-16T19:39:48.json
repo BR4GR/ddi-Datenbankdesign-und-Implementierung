@@ -1,0 +1,124 @@
+{
+    "uid": 100049490,
+    "migrosId": "101305400000",
+    "migrosOnlineId": "12316244",
+    "name": "Nuss Riegel",
+    "brand": "Knoppers",
+    "versioning": "Milk chocolate with hazelnuts",
+    "title": "Knoppers · Nuss Riegel · Milk chocolate with hazelnuts",
+    "description": "Knoppers Nuss Riegel Milk chocolate with hazelnuts",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Knoppers",
+                "slug": "knoppers",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076841/brands/Knoppers__Storck_Schweiz_GmbH_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 45,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/101305400000"
+        },
+        "otherInformation": {
+            "articleNumber": "101305400000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Number of removable individual units",
+                    "value": "5"
+                },
+                {
+                    "code": "Individually packed",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Flow"
+                },
+                {
+                    "code": "Type of candy",
+                    "value": "Riegel"
+                },
+                {
+                    "code": "Type of chocolate",
+                    "value": "Milchschokolade"
+                },
+                {
+                    "code": "CO2 Compensated",
+                    "value": "No"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4014400929065"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ac115cd4e749bffadca49ca4b98e63db3d707ff0/knoppers-nussriegel.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494782",
+            "name": "Chocolate & sweets",
+            "slugs": [
+                "snacks-sweets",
+                "chocolate-sweets"
+            ]
+        },
+        {
+            "id": "7495019",
+            "name": "Bars, branches & snacks",
+            "slugs": [
+                "snacks-sweets",
+                "chocolate-sweets",
+                "bars-branches-snacks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/101305400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.50",
+            "advertisedDisplayValue": "3.50",
+            "effectiveDisplayValue": "3.50",
+            "multiplier": 1,
+            "value": 3.5,
+            "effectiveValue": 3.5,
+            "advertisedValue": 3.5,
+            "unitPrice": {
+                "value": 1.75,
+                "unit": "100g"
+            }
+        },
+        "quantity": "200g",
+        "quantityPrice": "1.75/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T19:39:48"
+}

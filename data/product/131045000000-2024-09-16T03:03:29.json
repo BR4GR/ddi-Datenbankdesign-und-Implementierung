@@ -1,0 +1,84 @@
+{
+    "uid": 100116106,
+    "migrosId": "131045000000",
+    "name": "Saison Mischsalat",
+    "title": "Saison Mischsalat",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/131045000000"
+        },
+        "otherInformation": {
+            "articleNumber": "131045000000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613404569528"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/587a470c51cbb43ebe8ebb9fcc857dbe86ae6d5e/saison-mischsalat.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494759",
+            "name": "Salad",
+            "slugs": [
+                "fruits-vegetables",
+                "salad"
+            ]
+        },
+        {
+            "id": "7494914",
+            "name": "Packaged salads",
+            "slugs": [
+                "fruits-vegetables",
+                "salad",
+                "packaged-salads"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/131045000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.75",
+            "advertisedDisplayValue": "2.75",
+            "effectiveDisplayValue": "2.75",
+            "multiplier": 1,
+            "value": 2.75,
+            "effectiveValue": 2.75,
+            "advertisedValue": 2.75,
+            "unitPrice": {
+                "value": 0.83,
+                "unit": "100g"
+            }
+        },
+        "quantity": "330g",
+        "quantityPrice": "0.83/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T03:03:29"
+}

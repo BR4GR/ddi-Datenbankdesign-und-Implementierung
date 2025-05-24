@@ -1,0 +1,106 @@
+{
+    "uid": 100137068,
+    "migrosId": "227222040200",
+    "migrosOnlineId": "11887385",
+    "name": "Meatballs",
+    "brand": "M-Classic",
+    "title": "M-Classic · Meatballs",
+    "description": "M-Classic Meatballs ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "M-Classic",
+                "slug": "m-classic",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252457/brands/m-classic"
+            },
+            "rating": {
+                "nbReviews": 17,
+                "nbStars": 3.5
+            }
+        },
+        "otherInformation": {
+            "articleNumber": "227222040200",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7623186230837"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/b1401b3878a83104b5e67b04aa426f186f8d8528/m-classic-meatballs.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/081e9c4d2322732d29131df8033f5c16ca0dc4ed.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494747",
+            "name": "Meat & poultry",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry"
+            ]
+        },
+        {
+            "id": "7494842",
+            "name": "Minced meat & burger",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry",
+                "minced-meat-burger"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/227222040200",
+    "undeliverabilities": [
+        "MORNING"
+    ],
+    "isMgbCompatible": false,
+    "isConsignmentProduct": false,
+    "offer": {
+        "isVariableWeight": false,
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "REGION",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679482984/labels/suisse",
+                "description": "Switzerland"
+            },
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483166/labels/fresh",
+                "description": "fresh"
+            },
+            {
+                "type": "MORNING_DELIVERY",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483177/labels/Icon_AMdelivery_54",
+                "description": "Morning Delivery"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true
+    },
+    "dateAdded": "2024-09-18T05:51:22"
+}

@@ -1,0 +1,111 @@
+{
+    "uid": 100149420,
+    "migrosId": "111902300000",
+    "name": "Proteinbrötchen",
+    "title": "Proteinbrötchen",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L57",
+                    "name": "V-Label vegan",
+                    "slug": "v-label-vegan",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483003/labels/V-Label_Vegan_Color"
+                }
+            ],
+            "nutritionalCharacteristics": [
+                "Vegan"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegan"
+                }
+            ],
+            "rating": {
+                "nbReviews": 31,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/111902300000"
+        },
+        "otherInformation": {
+            "articleNumber": "111902300000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegan"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4009097010691",
+        "4009097031108"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/d25845118954b55d1c7a4d707fe2022a613813d1/proteinbroetchen.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494764",
+            "name": "Bread & rusk",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "bread-rusk"
+            ]
+        },
+        {
+            "id": "7494929",
+            "name": "Packaged bread",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "bread-rusk",
+                "packaged-bread"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/111902300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.20",
+            "advertisedDisplayValue": "2.20",
+            "effectiveDisplayValue": "2.20",
+            "multiplier": 1,
+            "value": 2.2,
+            "effectiveValue": 2.2,
+            "advertisedValue": 2.2,
+            "unitPrice": {
+                "value": 0.73,
+                "unit": "100g"
+            }
+        },
+        "quantity": "300g",
+        "quantityPrice": "0.73/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:00:24"
+}

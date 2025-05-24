@@ -1,0 +1,127 @@
+{
+    "uid": 100002961,
+    "migrosId": "512074500000",
+    "migrosOnlineId": "6311364",
+    "name": "Solid hand soap",
+    "brand": "I am",
+    "versioning": "Atlantic",
+    "title": "I am · Solid hand soap · Atlantic",
+    "description": "I am Solid hand soap Atlantic ?With Glycerin - Fragrance",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "I am",
+                "slug": "i-am",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076768/brands/Iam_Logo"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 10,
+                    "productionRatio": 86,
+                    "transportRatio": 5,
+                    "packagingRatio": 9,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 22,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/512074500000",
+            "cosmeticInformation": {
+                "ingredients": "Ingredients: Sodium Tallowate, Aqua, Sodium Cocoate, Glycerin, Propylene, Glycol, Sorbitol, Parfum, Coconut Acid, Sodium Chloride, Tetrasodium Etidronate, Tetrasodium EDTA, Limonene,Linalool, Citral, CI 74160, CI 77289"
+            }
+        },
+        "usageInformation": {
+            "additionalInformation": "?The gentle treatment soap for the daily care of damaged hands."
+        },
+        "otherInformation": {
+            "articleNumber": "512074500000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Warnings / mandatory notes",
+                    "value": "Not suitable for consumption."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Festseifen"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7630028601175"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/81f43bba21c043258ddf2296e8a25354756f2b8f/i-am-soap-festseife-atlantic.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494826",
+            "name": "Body care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care"
+            ]
+        },
+        {
+            "id": "7495241",
+            "name": "Soaps",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care",
+                "soaps"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/512074500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.40",
+            "advertisedDisplayValue": "1.40",
+            "effectiveDisplayValue": "1.40",
+            "multiplier": 1,
+            "value": 1.4,
+            "effectiveValue": 1.4,
+            "advertisedValue": 1.4,
+            "unitPrice": {
+                "value": 0.93,
+                "unit": "100g"
+            }
+        },
+        "quantity": "150g",
+        "quantityPrice": "0.93/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T21:35:38"
+}

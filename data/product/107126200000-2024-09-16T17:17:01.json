@@ -1,0 +1,141 @@
+{
+    "uid": 100020293,
+    "migrosId": "107126200000",
+    "migrosOnlineId": "5611878",
+    "name": "coffee beans",
+    "brand": "Migros Bio",
+    "versioning": "Espresso 4/5",
+    "title": "Migros Bio · coffee beans · Espresso 4/5",
+    "description": "Migros Bio coffee beans Espresso 4/5",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L04",
+                    "name": "FAIRTRADE MAX HAVELAAR",
+                    "slug": "fairtrade-max-havelaar",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679482976/labels/Fairtrade_Max_Havelaar_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "Migros Bio",
+                "slug": "migros-bio",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1678265962/brands/MIGROS_BIO_screen_pantone1_rgb"
+            },
+            "nutritionalCharacteristics": [
+                "Organic"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                }
+            ],
+            "ingredients": "Röstkaffee***. *** Bio- und Fairtrade-zertifizierte und von Bio- und Fairtrade-Produzenten angebaute Zutaten. Gesamtanteil 100%. www.maxhavelaar.ch",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 51,
+                    "productionRatio": 98,
+                    "transportRatio": 0,
+                    "packagingRatio": 2,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg"
+                }
+            },
+            "rating": {
+                "nbReviews": 37,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/107126200000"
+        },
+        "otherInformation": {
+            "articleNumber": "107126200000",
+            "legalDesignation": "Röstkaffee in Bohnen.",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "bioCertification": "Bio-Zertifizierung: CH-BIO-006, bio.inspecta AG.",
+            "remarks": [
+                {
+                    "code": "Production information",
+                    "value": "Packaged in a protective atmosphere."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312306123"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1589093d088e8e91ab9a69c3e3d7e4b5cc41fdc3/migros-bio-fairtrade-espresso-bohnen.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494772",
+            "name": "Coffee",
+            "slugs": [
+                "drinks-coffee-tea",
+                "coffee"
+            ]
+        },
+        {
+            "id": "7494966",
+            "name": "Coffee beans",
+            "slugs": [
+                "drinks-coffee-tea",
+                "coffee",
+                "coffee-beans"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/107126200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "9.20",
+            "advertisedDisplayValue": "9.20",
+            "effectiveDisplayValue": "9.20",
+            "multiplier": 1,
+            "value": 9.2,
+            "effectiveValue": 9.2,
+            "advertisedValue": 9.2,
+            "unitPrice": {
+                "value": 1.84,
+                "unit": "100g"
+            }
+        },
+        "quantity": "500g",
+        "quantityPrice": "1.84/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:17:01"
+}

@@ -1,0 +1,96 @@
+{
+    "uid": 100140042,
+    "migrosId": "263331201000",
+    "name": "Extra Tarocco rosso",
+    "brand": "Extra",
+    "title": "Extra Tarocco rosso",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Extra",
+                "slug": "extra",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076705/brands/extra_fruits_Logo"
+            },
+            "rating": {
+                "nbReviews": 83,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/263331201000"
+        },
+        "otherInformation": {
+            "articleNumber": "263331201000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "2167620000006",
+        "352574",
+        "7613404636312"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/5bc5c7d0cea2c85f71a847529202e63e341b1676/extra-tarocco-rosso.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494756",
+            "name": "Fruits",
+            "slugs": [
+                "fruits-vegetables",
+                "fruits"
+            ]
+        },
+        {
+            "id": "7494894",
+            "name": "Citrus fruits",
+            "slugs": [
+                "fruits-vegetables",
+                "fruits",
+                "citrus-fruits"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/263331201000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.60",
+            "advertisedDisplayValue": "3.60",
+            "effectiveDisplayValue": "3.60",
+            "multiplier": 1,
+            "value": 3.6,
+            "effectiveValue": 3.6,
+            "advertisedValue": 3.6,
+            "unitPrice": {
+                "value": 0.36,
+                "unit": "100g"
+            }
+        },
+        "quantity": "1 kg",
+        "quantityPrice": "0.36/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T03:54:43"
+}

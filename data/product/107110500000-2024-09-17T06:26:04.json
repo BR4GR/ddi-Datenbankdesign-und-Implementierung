@@ -1,0 +1,139 @@
+{
+    "uid": 100115788,
+    "migrosId": "107110500000",
+    "migrosOnlineId": "10376362",
+    "name": "organic ground coffee",
+    "brand": "La Semeuse",
+    "brandLine": "Bio",
+    "versioning": "mocca",
+    "title": "La Semeuse Bio · organic ground coffee · mocca",
+    "description": "La Semeuse organic ground coffee mocca 100% Arabica",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L04",
+                    "name": "FAIRTRADE MAX HAVELAAR",
+                    "slug": "fairtrade-max-havelaar",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679482976/labels/Fairtrade_Max_Havelaar_-_RGB_-_DE"
+                },
+                {
+                    "id": "L73",
+                    "name": "Bio Knospe",
+                    "slug": "bio-knospe",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1687156946/labels/Bio_Knospe"
+                }
+            ],
+            "brand": {
+                "name": "La Semeuse",
+                "slug": "la-semeuse",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076886/brands/La_Semeuse_La_Semeuse_S.A._Logo"
+            },
+            "nutritionalCharacteristics": [
+                "Organic"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                }
+            ],
+            "ingredients": "Roasted ground coffee",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 7,
+                "nbStars": 3.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/107110500000"
+        },
+        "usageInformation": {
+            "usage": "Coffee size: Ristretto, espresso, coffee"
+        },
+        "otherInformation": {
+            "articleNumber": "107110500000",
+            "legalDesignation": "Roasted ground coffee",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Consumer storage instructions",
+                    "value": "Store in a cool, dry place, away  from light. After opening, consume  quickly."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610244011842"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/b6e5b00c1a3fae2b3045551d63ccc1b6fa4d6778/la-semeuse-bio-fairtrade-mocca-gemahlen.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494772",
+            "name": "Coffee",
+            "slugs": [
+                "drinks-coffee-tea",
+                "coffee"
+            ]
+        },
+        {
+            "id": "7494967",
+            "name": "Ground coffee & others",
+            "slugs": [
+                "drinks-coffee-tea",
+                "coffee",
+                "ground-coffee-others"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/107110500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "13.95",
+            "advertisedDisplayValue": "13.95",
+            "effectiveDisplayValue": "13.95",
+            "multiplier": 1,
+            "value": 13.95,
+            "effectiveValue": 13.95,
+            "advertisedValue": 13.95,
+            "unitPrice": {
+                "value": 2.79,
+                "unit": "100g"
+            }
+        },
+        "quantity": "500g",
+        "quantityPrice": "2.79/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:26:04"
+}

@@ -1,0 +1,87 @@
+{
+    "uid": 100010525,
+    "migrosId": "113313000000",
+    "migrosOnlineId": "68903",
+    "name": "Gâteau au chocolat",
+    "versioning": "Pâte brisée avec biscuit au chocolat et noisettes",
+    "title": "Gâteau au chocolat · Pâte brisée avec biscuit au chocolat et noisettes",
+    "description": "Gâteau au chocolat Pâte brisée avec biscuit au chocolat et noisettes",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/113313000000"
+        },
+        "otherInformation": {
+            "articleNumber": "113313000000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7616700109313"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/9c316592cfe9ee80e7d7bae5d74657e42383b83e/himbeerkuchen.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494784",
+            "name": "Cake, madeleines & panettone",
+            "slugs": [
+                "snacks-sweets",
+                "cake-madeleines-panettone"
+            ]
+        },
+        {
+            "id": "7495027",
+            "name": "Cakes & dry cakes",
+            "slugs": [
+                "snacks-sweets",
+                "cake-madeleines-panettone",
+                "cakes-dry-cakes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/113313000000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "13.50",
+            "advertisedDisplayValue": "13.50",
+            "effectiveDisplayValue": "13.50",
+            "multiplier": 1,
+            "value": 13.5,
+            "effectiveValue": 13.5,
+            "advertisedValue": 13.5,
+            "unitPrice": {
+                "value": 7.94,
+                "unit": "100g"
+            }
+        },
+        "quantity": "170g",
+        "quantityPrice": "7.94/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:50:57"
+}

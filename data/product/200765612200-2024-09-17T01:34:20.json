@@ -1,0 +1,89 @@
+{
+    "uid": 100168623,
+    "migrosId": "200765612200",
+    "name": "Mozzarella Kreuzli",
+    "title": "Mozzarella Kreuzli",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "rating": {
+                "nbReviews": 4,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/200765612200"
+        },
+        "otherInformation": {
+            "articleNumber": "200765612200",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7623186228759",
+        "7640166791614"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/716b99c3a5f4f1caf4a7f6fa1a8963cbf65dde07/mozzarella-kreuzli.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494752",
+            "name": "Cheese",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese"
+            ]
+        },
+        {
+            "id": "7494875",
+            "name": "Mozzarella, feta & cottage cheeses",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese",
+                "mozzarella-feta-cottage-cheeses"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/200765612200",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.25",
+            "advertisedDisplayValue": "2.25",
+            "effectiveDisplayValue": "2.25",
+            "multiplier": 1,
+            "value": 2.25,
+            "effectiveValue": 2.25,
+            "advertisedValue": 2.25,
+            "unitPrice": {
+                "value": 1.73,
+                "unit": "100g"
+            }
+        },
+        "quantity": "130g",
+        "quantityPrice": "1.73/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T01:34:20"
+}

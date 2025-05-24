@@ -1,0 +1,201 @@
+{
+    "uid": 100085072,
+    "migrosId": "823713200220",
+    "name": "Men's knee socks",
+    "brand": "MIGROS ESSENTIALS",
+    "title": "Men's knee socks",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L07",
+                    "name": "ECO",
+                    "slug": "eco",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483145/labels/Eco-Textilien_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "MIGROS ESSENTIALS",
+                "slug": "migros-essentials",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1708333701/brands/Migros_Essentials_-_RGB_-_DE"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 5,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/823713200220"
+        },
+        "otherInformation": {
+            "articleNumber": "823713200220",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Article type",
+                    "value": "Kniesocken"
+                },
+                {
+                    "code": "Sizes",
+                    "value": "Gr. 1 = Grösse 39-42, Gr. 2 = Grösse 43-46"
+                },
+                {
+                    "code": "Look",
+                    "value": "uni"
+                },
+                {
+                    "code": "Material",
+                    "value": "Baumwolle"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "63 %"
+                },
+                {
+                    "code": "Material 2",
+                    "value": "Merinowolle"
+                },
+                {
+                    "code": "Proportion of material 2",
+                    "value": "35 %"
+                },
+                {
+                    "code": "Material 3",
+                    "value": "Elasthan"
+                },
+                {
+                    "code": "Share of material 3",
+                    "value": "2 %"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613433782509",
+        "7613345375417",
+        "7613432965491"
+    ],
+    "variants": {
+        "baseProductMigrosId": "823713200000",
+        "mainVariantMigrosId": "823713200120",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "Gr. 1",
+                    "color": "black"
+                },
+                "migrosId": "823713200120"
+            },
+            {
+                "declinationOptions": {
+                    "size": "Gr. 1",
+                    "color": "anthracite"
+                },
+                "migrosId": "823713200184"
+            },
+            {
+                "declinationOptions": {
+                    "size": "Gr. 2",
+                    "color": "black"
+                },
+                "migrosId": "823713200220"
+            },
+            {
+                "declinationOptions": {
+                    "size": "Gr. 2",
+                    "color": "anthracite"
+                },
+                "migrosId": "823713200284"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "black",
+                "options": [
+                    "black",
+                    "anthracite"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "Gr. 2",
+                "options": [
+                    "Gr. 1",
+                    "Gr. 2"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f4bd03256c881e6e02b5d0a65b82d5bc610992b2/mens-knee-socks.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/363e31e0093b4f043c1cf9935d5bf8a78f9d818f.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10555007",
+            "name": "Men",
+            "slugs": [
+                "clothing-accessories",
+                "men"
+            ]
+        },
+        {
+            "id": "10555075",
+            "name": "Socks",
+            "slugs": [
+                "clothing-accessories",
+                "men",
+                "socks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/823713200220",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "12.95",
+            "advertisedDisplayValue": "12.95",
+            "effectiveDisplayValue": "12.95",
+            "multiplier": 1,
+            "value": 12.95,
+            "effectiveValue": 12.95,
+            "advertisedValue": 12.95,
+            "unitPrice": {
+                "value": 12.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Paar",
+        "quantityPrice": "12.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T15:55:12"
+}

@@ -1,0 +1,210 @@
+{
+    "uid": 100007990,
+    "migrosId": "121301400000",
+    "migrosOnlineId": "6353620",
+    "name": "IPA Beer",
+    "brand": "Brooklyn",
+    "brandLine": "Special Effects",
+    "versioning": "Alcohol-free",
+    "title": "Brooklyn Special Effects · IPA Beer · Alcohol-free",
+    "description": "Brooklyn IPA Beer Alcohol-free",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Brooklyn",
+                "slug": "brooklyn"
+            },
+            "ingredients": "Wasser, GERSTENMALZ, Hopfen",
+            "allergens": "Barley and barley products",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "alcoholContent": 0.4,
+            "rating": {
+                "nbReviews": 15,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/121301400000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 ml"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "121 kJ (91 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "6.3 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "2.9 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "0.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "usageInformation": {
+            "additionalInformation": "Brooklyn Brewery's Hoppy Lager is a delicious, non-alcoholic American lager. It's a beer with an unexpected hop and pine aroma and a pleasantly bitter finish thanks to dry hopping with Citra and Amarillo hops - a technique rarely used in alcohol-free brewing. Enjoy this flavor and get more out of your evening wherever you are."
+        },
+        "otherInformation": {
+            "articleNumber": "121301400000",
+            "legalDesignation": "Alkoholfreies Bier",
+            "distributorName": "Feldschlösschen Getränke AG",
+            "distributorStreetAndNumber": "Theophil-Roniger-Strasse, 4310 Rheinfelden",
+            "remarks": [
+                {
+                    "code": "Percentage of alcohol by volume [%]",
+                    "value": "0.4"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Number of removable individual units",
+                    "value": "4"
+                },
+                {
+                    "code": "Carbonated",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Bottle"
+                },
+                {
+                    "code": "Type of soft drink",
+                    "value": "Bier"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "5740700983160"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/bc16342d787bf1a469540b8eee70d95359d02c74/brooklyn-special-effects-alkoholfrei.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/679f60ee4c3cd37bc0007ecf767f3b944c6b729a.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494737",
+            "name": "Wine, beer & spirits",
+            "slugs": [
+                "wine-beer-spirits"
+            ]
+        },
+        {
+            "id": "10583761",
+            "name": "Alcohol free drinks",
+            "slugs": [
+                "wine-beer-spirits",
+                "alcohol-free-drinks"
+            ]
+        },
+        {
+            "id": "10614101",
+            "name": "Beers & ciders",
+            "slugs": [
+                "wine-beer-spirits",
+                "alcohol-free-drinks",
+                "beers-ciders"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/121301400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "10.50",
+            "advertisedDisplayValue": "10.50",
+            "effectiveDisplayValue": "10.50",
+            "multiplier": 1,
+            "value": 10.5,
+            "effectiveValue": 10.5,
+            "advertisedValue": 10.5,
+            "unitPrice": {
+                "value": 0.8,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "4 x 330ml",
+        "quantityPrice": "0.80/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "REGION",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483204/labels/usa",
+                "description": "United States"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T15:47:34"
+}

@@ -1,0 +1,180 @@
+{
+    "uid": 100034914,
+    "migrosId": "120308100000",
+    "migrosOnlineId": "7031411",
+    "name": "Aperitive drink",
+    "brand": "Lyre's",
+    "brandLine": "Amalfi Spritz",
+    "versioning": "<0.5% alcohol",
+    "title": "Lyre's Amalfi Spritz · Aperitive drink · <0.5% alcohol",
+    "description": "Lyre's Aperitive drink <0.5% alcohol",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Lyre's",
+                "slug": "lyres"
+            },
+            "ingredients": "Kohlensäurehaltiges Wasser, Zucker, alkoholfreies fermentiertes Traubensaftkonzentrat, Traubensaftkonzentrat, Säuerungsmittel (Zitronensäure, Natriumcitrat, Phosphorsäure), natürliches Aroma, Farbstoff (E110, E129), Konservierungsstoffe (Natriumbenzoat)",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 21,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/120308100000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "126 kJ (30 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "6.9 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "6.8 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.06 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "120308100000",
+            "legalDesignation": "Alkoholfreies Erfrischungsgetränk mit natürlichen Aromen, kohlensäurehaltig",
+            "distributorName": "Orakei Ltd",
+            "distributorStreetAndNumber": "Sonneggweg 15, 3510 Konolfingen",
+            "remarks": [
+                {
+                    "code": "Percentage of alcohol by volume [%]",
+                    "value": "0"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "9354596002032"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/203c40f4d000da2e8470c5decf4a3d8037c0a554/lyres-amalfi-spritz.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/e1137717e014bfc914928cff0ac14028979a69fc.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494737",
+            "name": "Wine, beer & spirits",
+            "slugs": [
+                "wine-beer-spirits"
+            ]
+        },
+        {
+            "id": "10583761",
+            "name": "Alcohol free drinks",
+            "slugs": [
+                "wine-beer-spirits",
+                "alcohol-free-drinks"
+            ]
+        },
+        {
+            "id": "10614109",
+            "name": "Aperitifs & spirits",
+            "slugs": [
+                "wine-beer-spirits",
+                "alcohol-free-drinks",
+                "aperitifs-spirits"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/120308100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "11.50",
+            "advertisedDisplayValue": "11.50",
+            "effectiveDisplayValue": "11.50",
+            "multiplier": 1,
+            "value": 11.5,
+            "effectiveValue": 11.5,
+            "advertisedValue": 11.5,
+            "unitPrice": {
+                "value": 1.15,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "4 x 250ml",
+        "quantityPrice": "1.15/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:25:17"
+}

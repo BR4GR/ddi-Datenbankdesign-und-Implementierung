@@ -1,0 +1,94 @@
+{
+    "uid": 100143693,
+    "migrosId": "131313900900",
+    "name": "Migros Daily Laugenspitze Gemüse",
+    "brand": "Migros Daily",
+    "title": "Migros Daily Laugenspitze Gemüse",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Daily",
+                "slug": "migros-daily",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076969/brands/Migros_Daily_Logo"
+            },
+            "rating": {
+                "nbReviews": 5,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/131313900900"
+        },
+        "otherInformation": {
+            "articleNumber": "131313900900",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613404538074"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3ffbdb6b2430ac1ae7a2b35f2dad5af4e9961f23/migros-daily-laugenspitze-gemuese.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494754",
+            "name": "Fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food"
+            ]
+        },
+        {
+            "id": "7494887",
+            "name": "Ready-made meals",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food",
+                "ready-made-meals"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/131313900900",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.90",
+            "advertisedDisplayValue": "5.90",
+            "effectiveDisplayValue": "5.90",
+            "multiplier": 1,
+            "value": 5.9,
+            "effectiveValue": 5.9,
+            "advertisedValue": 5.9,
+            "unitPrice": {
+                "value": 0.33,
+                "unit": "100g"
+            }
+        },
+        "quantity": "180g",
+        "quantityPrice": "0.33/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T01:31:50"
+}

@@ -1,0 +1,134 @@
+{
+    "uid": 100122762,
+    "migrosId": "747192500041",
+    "name": "Milette Toy",
+    "brand": "Milette",
+    "title": "Milette Toy",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Milette",
+                "slug": "milette",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076999/brands/Milette_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/747192500041"
+        },
+        "otherInformation": {
+            "articleNumber": "747192500041",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7628871007046"
+    ],
+    "variants": {
+        "baseProductMigrosId": "747192500000",
+        "mainVariantMigrosId": "747192500041",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "000",
+                    "color": "hblau"
+                },
+                "migrosId": "747192500041"
+            },
+            {
+                "declinationOptions": {
+                    "size": "000",
+                    "color": "yellow"
+                },
+                "migrosId": "747192500050"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "hblau",
+                "options": [
+                    "hblau",
+                    "yellow"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "000",
+                "options": [
+                    "000"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/7f24f5d67ff42e2f1cfc094081d5c68cd293a6fe/milette-toy.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "7494823",
+            "name": "Baby equipment",
+            "slugs": [
+                "baby-kids",
+                "baby-equipment"
+            ]
+        },
+        {
+            "id": "7495225",
+            "name": "Baby carriers, bouncers & strollers",
+            "slugs": [
+                "baby-kids",
+                "baby-equipment",
+                "baby-carriers-bouncers-strollers"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/747192500041",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "14.95",
+            "advertisedDisplayValue": "14.95",
+            "effectiveDisplayValue": "14.95",
+            "multiplier": 1,
+            "value": 14.95,
+            "effectiveValue": 14.95,
+            "advertisedValue": 14.95,
+            "unitPrice": {
+                "value": 14.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "14.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T00:36:41"
+}

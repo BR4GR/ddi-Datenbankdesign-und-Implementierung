@@ -1,0 +1,100 @@
+{
+    "uid": 100123333,
+    "migrosId": "109065700000",
+    "migrosOnlineId": "10497531",
+    "name": "Slices in jelly",
+    "brand": "Exelcat",
+    "versioning": "beef-tuna-chicken-salmon",
+    "title": "Exelcat · Slices in jelly · beef-tuna-chicken-salmon",
+    "description": "Exelcat Slices in jelly beef-tuna-chicken-salmon",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Exelcat",
+                "slug": "exelcat",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1656506252/brands/Exelcat_Mars_Schweiz_AG_Logo"
+            },
+            "rating": {
+                "nbReviews": 33,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/109065700000"
+        },
+        "usageInformation": {
+            "additionalInformation": "6x beef, 6x poultry, 6x chicken, 6x turkey"
+        },
+        "otherInformation": {
+            "articleNumber": "109065700000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "8410136027024"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3dc71aa5f03752527dda87cfaec4541c59055e3c/exelcat-gelee-mix.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494739",
+            "name": "Pets",
+            "slugs": [
+                "pets"
+            ]
+        },
+        {
+            "id": "7494802",
+            "name": "Cats",
+            "slugs": [
+                "pets",
+                "cats"
+            ]
+        },
+        {
+            "id": "7495118",
+            "name": "Wet foods",
+            "slugs": [
+                "pets",
+                "cats",
+                "wet-foods"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/109065700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "15.95",
+            "advertisedDisplayValue": "15.95",
+            "effectiveDisplayValue": "15.95",
+            "multiplier": 1,
+            "value": 15.95,
+            "effectiveValue": 15.95,
+            "advertisedValue": 15.95,
+            "unitPrice": {
+                "value": 0.78,
+                "unit": "100g"
+            }
+        },
+        "quantity": "24x85g",
+        "quantityPrice": "0.78/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-15T22:51:15"
+}

@@ -1,0 +1,184 @@
+{
+    "uid": 100016276,
+    "migrosId": "231526281000",
+    "migrosOnlineId": "94546",
+    "name": "Chicken breast",
+    "brand": "Fleury Michon",
+    "versioning": "oven-golden",
+    "title": "Fleury Michon · Chicken breast · oven-golden",
+    "description": "Fleury Michon Chicken breast oven-golden",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Fleury Michon",
+                "slug": "fleury-michon",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076707/brands/Fleury_Michon_Fleury_Michon_Suisse_SA_Logo"
+            },
+            "ingredients": "Pouletfilet 92%, Salz 1.6%, Bouillon 1.3% (Wasser, Hühnerknochen, Salz, Gewürze, Karotte, SELLERIE, Zwiebel, Lauch, Schalotte, Knoblauch, aromatische Pflanzen), Mais dextrose, konzentrierter SELLERIESAFT und Karotte, Fermente, Farbstoff: einfaches Karamell",
+            "allergens": "Celery and its derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 14,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/231526281000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "433 kJ (102 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "1.6 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0.4 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "1 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "21 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "1.8 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "usageInformation": {
+            "additionalInformation": "A delicious 100% filleted chicken breast with no nitrite salt and a B nutriscore. Our secret? Our charcuterie cooks reduce the salt and use broths to make it as tasty as ever!"
+        },
+        "otherInformation": {
+            "articleNumber": "231526281000",
+            "legalDesignation": "4 Scheiben Pouletfilet 160g",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "3095756193011",
+        "3095750724013",
+        "3302740059193"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f6d5ccab579b30bbc43b075aaa0fc2d5185e3e36/blanc-poulet-au-four.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/e74d1609b6570b1c117d44b0cd47ca5319e6394c.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494748",
+            "name": "Cold cuts",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts"
+            ]
+        },
+        {
+            "id": "7494856",
+            "name": "Deli poultry meat",
+            "slugs": [
+                "meat-fish",
+                "cold-cuts",
+                "deli-poultry-meat"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/231526281000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.75",
+            "advertisedDisplayValue": "5.75",
+            "effectiveDisplayValue": "5.75",
+            "multiplier": 1,
+            "value": 5.75,
+            "effectiveValue": 5.75,
+            "advertisedValue": 5.75,
+            "unitPrice": {
+                "value": 3.59,
+                "unit": "100g"
+            }
+        },
+        "quantity": "160g",
+        "quantityPrice": "3.59/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "REGION",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483563/labels/france",
+                "description": "France"
+            },
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483166/labels/fresh",
+                "description": "fresh"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:52:41"
+}

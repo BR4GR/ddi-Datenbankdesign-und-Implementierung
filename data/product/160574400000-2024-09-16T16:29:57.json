@@ -1,0 +1,142 @@
+{
+    "uid": 100150977,
+    "migrosId": "160574400000",
+    "name": "V-Love Strawberry cone",
+    "brand": "V-Love",
+    "title": "V-Love Strawberry cone",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L57",
+                    "name": "V-Label vegan",
+                    "slug": "v-label-vegan",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483003/labels/V-Label_Vegan_Color"
+                },
+                {
+                    "id": "L71",
+                    "name": "Rainforest Alliance",
+                    "slug": "rainforest-alliance",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483537/labels/Rainforest_Alliance_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "V-Love",
+                "slug": "v-love",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252512/brands/v-love"
+            },
+            "nutritionalCharacteristics": [
+                "Vegan"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegan"
+                }
+            ],
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 8,
+                    "productionRatio": 74,
+                    "transportRatio": 14,
+                    "packagingRatio": 12,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 3.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/160574400000"
+        },
+        "otherInformation": {
+            "articleNumber": "160574400000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "vegan"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312390368",
+        "7613312437087"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/539dcb87c40329b178908530b2975e8a0334cec4/v-love-strawberry-cone.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494738",
+            "name": "Frozen food",
+            "slugs": [
+                "frozen-food"
+            ]
+        },
+        {
+            "id": "7494801",
+            "name": "Ice cream & desserts",
+            "slugs": [
+                "frozen-food",
+                "ice-cream-desserts"
+            ]
+        },
+        {
+            "id": "7495117",
+            "name": "Plant-based alternatives",
+            "slugs": [
+                "frozen-food",
+                "ice-cream-desserts",
+                "plant-based-alternatives"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/160574400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.–",
+            "advertisedDisplayValue": "2.–",
+            "effectiveDisplayValue": "2.–",
+            "multiplier": 1,
+            "value": 2,
+            "effectiveValue": 2,
+            "advertisedValue": 2,
+            "unitPrice": {
+                "value": 1.82,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "110 ml",
+        "quantityPrice": "1.82/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483530/labels/frozen",
+                "description": "frozen"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T16:29:57"
+}

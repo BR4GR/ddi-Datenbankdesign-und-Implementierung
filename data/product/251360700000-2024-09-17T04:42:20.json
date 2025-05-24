@@ -1,0 +1,204 @@
+{
+    "uid": 100143090,
+    "migrosId": "251360700000",
+    "name": "Bio Rauchlachs Irland",
+    "brand": "Dyhrberg",
+    "title": "Bio Rauchlachs Irland",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Dyhrberg",
+                "slug": "dyhrberg"
+            },
+            "nutritionalCharacteristics": [
+                "Organic"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                }
+            ],
+            "ingredients": "ATLANTISCHER LACHS, Kochsalz (Meersalz)",
+            "allergens": "Fish and their derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/251360700000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "760 kJ (182 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "10 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "3 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "0 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "23 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "1.8 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "usageInformation": {
+            "preparationInstructions": "zum Rohessen"
+        },
+        "otherInformation": {
+            "articleNumber": "251360700000",
+            "legalDesignation": "Fischereierzeugnis aus Lachs (Salmo salar)",
+            "identificationMark": "CH-51955737",
+            "distributorName": "Dyhrberg AG",
+            "distributorStreetAndNumber": "Solothurnerstrasse 10, 4710 Balsthal",
+            "bioCertification": "IFS Food",
+            "remarks": [
+                {
+                    "code": "Aufbewahrungshinweise für den Konsumenten",
+                    "value": "Einmal geöffnet innert 3 Tagen verbrauchen."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "2168859000003",
+        "2154371000000",
+        "7623186033339"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/947a948ce7882edd98bd4bf7033edaf8e0dab99a/bio-rauchlachs-irland.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ab033ea7457c0b06b0fefbfeac0882e98f111fce.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494749",
+            "name": "Fish",
+            "slugs": [
+                "meat-fish",
+                "fish"
+            ]
+        },
+        {
+            "id": "7494860",
+            "name": "Salmon & smoked fish",
+            "slugs": [
+                "meat-fish",
+                "fish",
+                "salmon-smoked-fish"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/251360700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "11.90",
+            "advertisedDisplayValue": "11.90",
+            "effectiveDisplayValue": "11.90",
+            "multiplier": 1,
+            "value": 11.9,
+            "effectiveValue": 11.9,
+            "advertisedValue": 11.9,
+            "unitPrice": {
+                "value": 11.9,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "11.90/100g",
+        "isVariableWeight": true,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            },
+            {
+                "type": "VARIABLE_WEIGHT",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483133/labels/poids-variable",
+                "description": "Variable Weight"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:42:20"
+}

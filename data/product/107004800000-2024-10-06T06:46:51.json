@@ -1,0 +1,164 @@
+{
+    "uid": 100030664,
+    "migrosId": "107004800000",
+    "migrosOnlineId": "5162342",
+    "name": "Herbal Tea",
+    "brand": "Raselli",
+    "versioning": "Morning tea",
+    "title": "Raselli · Herbal Tea · Morning tea",
+    "description": "Raselli Herbal Tea Morning tea 100% Swiss Alpine Herbs",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L73",
+                    "name": "Bio Knospe",
+                    "slug": "bio-knospe",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1687156946/labels/Bio_Knospe"
+                }
+            ],
+            "brand": {
+                "name": "Raselli",
+                "slug": "raselli",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077111/brands/Raselli_Raselli_Erboristeria_Logo"
+            },
+            "nutritionalCharacteristics": [
+                "Organic"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                }
+            ],
+            "ingredients": "Bio Malve (Schweiz)Bio Zitronenmelisse (Schweiz)Bio Brennnessel (Schweiz)Bio Thymian (Schweiz)",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 24,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/107004800000"
+        },
+        "nutrientsInformation": {
+            "portionSentence": "1 pack ≈ 20 servings"
+        },
+        "otherInformation": {
+            "articleNumber": "107004800000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "bioCertification": "CH-BIO-006",
+            "remarks": [
+                {
+                    "code": "Aufbewahrungshinweise für den Konsumenten",
+                    "value": "Trocken und kühl (nicht im Kühlschrank) aufbewahren. Nach dem Öffnen wieder gut verschliessen oder Inhalt in einer Vorratsdose  aufbewahren."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7611133000626",
+        "7611133300115",
+        "7613312273067"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/dd172ea5be29569bad8d63755b73aac1284c76a8/raselli-bio-morgentee.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494773",
+            "name": "Tea",
+            "slugs": [
+                "drinks-coffee-tea",
+                "tea"
+            ]
+        },
+        {
+            "id": "7494974",
+            "name": "Herbal infusions with plants",
+            "slugs": [
+                "drinks-coffee-tea",
+                "tea",
+                "herbal-infusions-with-plants"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/107004800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "4.95",
+            "advertisedDisplayValue": "4.95",
+            "effectiveDisplayValue": "4.95",
+            "multiplier": 1,
+            "value": 4.95,
+            "effectiveValue": 4.95,
+            "advertisedValue": 4.95
+        },
+        "promotionPrice": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.50",
+            "advertisedDisplayValue": "3.50",
+            "effectiveDisplayValue": "3.50",
+            "multiplier": 1,
+            "value": 3.5,
+            "effectiveValue": 3.5,
+            "advertisedValue": 3.5,
+            "unitPrice": {
+                "value": 14.6,
+                "unit": "100g"
+            }
+        },
+        "priceInsteadOfLabel": "was",
+        "quantity": "24g",
+        "quantityPrice": "14.60/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            },
+            {
+                "type": "REGION",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679482984/labels/suisse",
+                "description": "Switzerland"
+            }
+        ],
+        "badges": [
+            {
+                "type": "PERCENTAGE_PROMOTION",
+                "description": "30%"
+            },
+            {
+                "type": "MINIMUM_PIECES",
+                "description": "2 or more"
+            }
+        ],
+        "promotionDateRange": {
+            "startDate": "2024-10-01",
+            "endDate": "2024-10-07"
+        },
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-10-06T06:46:51"
+}

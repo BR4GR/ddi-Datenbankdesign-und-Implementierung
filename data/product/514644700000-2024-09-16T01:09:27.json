@@ -1,0 +1,108 @@
+{
+    "uid": 100095687,
+    "migrosId": "514644700000",
+    "migrosOnlineId": "10146231",
+    "name": "Shampoo for kids",
+    "brand": "Garnier",
+    "brandLine": "Ultra Doux",
+    "versioning": "Apricot",
+    "title": "Garnier Ultra Doux · Shampoo for kids · Apricot",
+    "description": "Garnier Shampoo for kids Apricot",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Garnier",
+                "slug": "garnier",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252433/brands/garnier"
+            },
+            "rating": {
+                "nbReviews": 23,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/514644700000"
+        },
+        "otherInformation": {
+            "articleNumber": "514644700000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Shampoo"
+                },
+                {
+                    "code": "Suitable for",
+                    "value": "Normales Haar"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "3600542460361"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/b48a034a6a36535b1d844038fee8a5ca256391aa/ultra-doux-kids-aprikose-shampoo.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "7494821",
+            "name": "Hygiene & care",
+            "slugs": [
+                "baby-kids",
+                "hygiene-care"
+            ]
+        },
+        {
+            "id": "7495209",
+            "name": "Skin & hair care",
+            "slugs": [
+                "baby-kids",
+                "hygiene-care",
+                "skin-hair-care"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/514644700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.45",
+            "advertisedDisplayValue": "4.45",
+            "effectiveDisplayValue": "4.45",
+            "multiplier": 1,
+            "value": 4.45,
+            "effectiveValue": 4.45,
+            "advertisedValue": 4.45,
+            "unitPrice": {
+                "value": 1.48,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "300ml",
+        "quantityPrice": "1.48/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T01:09:27"
+}

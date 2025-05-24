@@ -1,0 +1,90 @@
+{
+    "uid": 100053628,
+    "migrosId": "515927800000",
+    "name": "POLISSOIR",
+    "brand": "Dessange",
+    "title": "POLISSOIR",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Dessange",
+                "slug": "dessange",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1656506250/brands/Dessange_Procol_SA_Logo"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/515927800000"
+        },
+        "otherInformation": {
+            "articleNumber": "515927800000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "3031449564317"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/59dff97651f559c5f2b42087b952f4d06da14566/polissoir.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494827",
+            "name": "Hand & foot care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hand-foot-care"
+            ]
+        },
+        {
+            "id": "7495246",
+            "name": "Foot care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hand-foot-care",
+                "foot-care"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/515927800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "11.50",
+            "advertisedDisplayValue": "11.50",
+            "effectiveDisplayValue": "11.50",
+            "multiplier": 1,
+            "value": 11.5,
+            "effectiveValue": 11.5,
+            "advertisedValue": 11.5,
+            "unitPrice": {
+                "value": 11.5,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "11.50/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T20:51:30"
+}

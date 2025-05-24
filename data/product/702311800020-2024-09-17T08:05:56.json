@@ -1,0 +1,160 @@
+{
+    "uid": 100079584,
+    "migrosId": "702311800020",
+    "name": "AL BIALETTI 3 TASSEN SCHWARZ MOKA EXP.",
+    "brand": "Bialetti",
+    "title": "AL BIALETTI 3 TASSEN SCHWARZ MOKA EXP.",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Bialetti",
+                "slug": "bialetti",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252399/brands/bialetti"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 17,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/702311800020"
+        },
+        "otherInformation": {
+            "articleNumber": "702311800020",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Material",
+                    "value": "Aluminium"
+                },
+                {
+                    "code": "Color",
+                    "value": "schwarz"
+                },
+                {
+                    "code": "suitable for food products",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Microwave-safe",
+                    "value": "No"
+                },
+                {
+                    "code": "Dishwasher-safe",
+                    "value": "No"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613294300324"
+    ],
+    "variants": {
+        "baseProductMigrosId": "702311800000",
+        "mainVariantMigrosId": "702311800085",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "000",
+                    "color": "Schwarz"
+                },
+                "migrosId": "702311800020"
+            },
+            {
+                "declinationOptions": {
+                    "size": "000",
+                    "color": "Silber"
+                },
+                "migrosId": "702311800085"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "Schwarz",
+                "options": [
+                    "Schwarz",
+                    "Silber"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "000",
+                "options": [
+                    "000"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/62ccaad5c2b7842fba347904c2f3305fd6b11c30/al-bialetti-3-tassen-schwarz-moka-exp.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/a13f36846b2361cb90441172165bdb0a4665eddf.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494814",
+            "name": "Kitchen & dining",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining"
+            ]
+        },
+        {
+            "id": "7495178",
+            "name": "Table",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining",
+                "table"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/702311800020",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "34.95",
+            "advertisedDisplayValue": "34.95",
+            "effectiveDisplayValue": "34.95",
+            "multiplier": 1,
+            "value": 34.95,
+            "effectiveValue": 34.95,
+            "advertisedValue": 34.95,
+            "unitPrice": {
+                "value": 34.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "34.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T08:05:56"
+}

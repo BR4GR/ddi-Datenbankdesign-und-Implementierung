@@ -1,0 +1,197 @@
+{
+    "uid": 100067833,
+    "migrosId": "153224300000",
+    "migrosOnlineId": "7289586",
+    "name": "Tomato sauce",
+    "brand": "Salsa",
+    "brandLine": "all' Italiana",
+    "versioning": "Basil and olive oil",
+    "title": "Salsa all' Italiana · Tomato sauce · Basil and olive oil",
+    "description": "Salsa Tomato sauce Basil and olive oil",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Salsa",
+                "slug": "salsa"
+            },
+            "ingredients": "Tomaten 65% (mit Festigungsmittel : E 509, Säuerungsmittel : Citronensäure), Wasser, Tomatenkonzentrat 8%, Zwiebeln, Reisstärke, Zucker, Rapsöl, Kräuter, Kochsalz, Knoblauch, Basilikum 0.5%, Streuwürze.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 3,
+                    "co2CarKmEquivalent": 13,
+                    "productionRatio": 90,
+                    "transportRatio": 3,
+                    "packagingRatio": 7,
+                    "image": "https://image.migros.ch/original/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "co2KgRange": "2 - 4.7 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 141,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/153224300000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 ml",
+                    "1 Portion (100 ml)"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "200 kJ (47 kcal)",
+                            "200 kJ (47 kcal)",
+                            "2 %"
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "1 g",
+                            "1 g",
+                            "1 %"
+                        ]
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "< 0.1 g",
+                            "< 0.1 g",
+                            "1 %"
+                        ]
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "7.8 g",
+                            "7.8 g",
+                            "3 %"
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "4.3 g",
+                            "4.3 g",
+                            "5 %"
+                        ]
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "1.2 g",
+                            "1.2 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "1.2 g",
+                            "1.2 g",
+                            "2 %"
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.69 g",
+                            "0.69 g",
+                            "12 %"
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "153224300000",
+            "legalDesignation": "Tomatensauce mit Basilikum",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Once opened, store at a max. +5 °C and consume quickly."
+                },
+                {
+                    "code": "Production information",
+                    "value": "sterilized"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312377123"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/8aa08c95ec2675a5357325c333a50857e5b3767b/salsa-allitaliana-basilico.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494776",
+            "name": "Spices & sauces",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces"
+            ]
+        },
+        {
+            "id": "12671420",
+            "name": "Pasta sauces & pesto",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces",
+                "pasta-sauces-pesto"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/153224300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.35",
+            "advertisedDisplayValue": "1.35",
+            "effectiveDisplayValue": "1.35",
+            "multiplier": 1,
+            "value": 1.35,
+            "effectiveValue": 1.35,
+            "advertisedValue": 1.35,
+            "unitPrice": {
+                "value": 0.54,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "250ml",
+        "quantityPrice": "0.54/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-23T22:20:44"
+}

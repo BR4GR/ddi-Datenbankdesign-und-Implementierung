@@ -1,0 +1,175 @@
+{
+    "uid": 100064952,
+    "migrosId": "107082200000",
+    "name": "Migros Bio Tisana Brumana",
+    "brand": "Migros Bio",
+    "title": "Migros Bio Tisana Brumana",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L88",
+                    "name": "Nostrani del Ticino",
+                    "slug": "nostrani-del-ticino",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1707838713/labels/Nostrani_del_Ticino"
+                }
+            ],
+            "brand": {
+                "name": "Migros Bio",
+                "slug": "migros-bio",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1678265962/brands/MIGROS_BIO_screen_pantone1_rgb"
+            },
+            "ingredients": "Thymian ** 50%, Pfefferminze ** 30%, Melissenblätter ** 10%, Orangenminzeblätter ** 10%. \n** aus biologischer Landwirtschaft und aus dem Tessin (CH)",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/107082200000"
+        },
+        "nutrientsInformation": {
+            "portionSentence": "1 Multipack = 20 servings"
+        },
+        "otherInformation": {
+            "articleNumber": "107082200000",
+            "legalDesignation": "Bio Kräutertee",
+            "distributorName": "Cooperativa Migros Ticino",
+            "distributorStreetAndNumber": "CH-6592 S. Antonino",
+            "bioCertification": "Bio-Zertifizierung: CH-BIO-006",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store in a dry place. Keep away from heat. Store at room temperature."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Tea type",
+                    "value": "Kräutertee"
+                },
+                {
+                    "code": "Herb species",
+                    "value": "Melisse, Pfefferminze, Thymian"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Schachtel"
+                },
+                {
+                    "code": "Tea preparation",
+                    "value": "Beutel"
+                },
+                {
+                    "code": "Production process",
+                    "value": "Aus der Region"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "heisses Wasser hinzugeben"
+                },
+                {
+                    "code": "Number of pads/capsules/bags",
+                    "value": "20 Pcs."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7640169860065",
+        "7640125660036"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f71716c557b473319ef990037d685300fb21651a/migros-bio-tisana-brumana.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/65ce266e243ec2993c9a139fae51667d719fb5b4.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494773",
+            "name": "Tea",
+            "slugs": [
+                "drinks-coffee-tea",
+                "tea"
+            ]
+        },
+        {
+            "id": "7494974",
+            "name": "Herbal infusions with plants",
+            "slugs": [
+                "drinks-coffee-tea",
+                "tea",
+                "herbal-infusions-with-plants"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/107082200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "6.15",
+            "advertisedDisplayValue": "6.15",
+            "effectiveDisplayValue": "6.15",
+            "multiplier": 1,
+            "value": 6.15,
+            "effectiveValue": 6.15,
+            "advertisedValue": 6.15
+        },
+        "promotionPrice": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.35",
+            "advertisedDisplayValue": "4.35",
+            "effectiveDisplayValue": "4.35",
+            "multiplier": 1,
+            "value": 4.35,
+            "effectiveValue": 4.35,
+            "advertisedValue": 4.35,
+            "unitPrice": {
+                "value": 18.1,
+                "unit": "100g"
+            }
+        },
+        "priceInsteadOfLabel": "was",
+        "quantity": "24g",
+        "quantityPrice": "18.10/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "badges": [
+            {
+                "type": "PERCENTAGE_PROMOTION",
+                "description": "30%"
+            },
+            {
+                "type": "MINIMUM_PIECES",
+                "description": "2 or more"
+            }
+        ],
+        "promotionDateRange": {
+            "startDate": "2024-10-01",
+            "endDate": "2024-10-07"
+        },
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-10-06T05:14:26"
+}

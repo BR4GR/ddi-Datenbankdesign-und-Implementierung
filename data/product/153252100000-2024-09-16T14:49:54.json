@@ -1,0 +1,134 @@
+{
+    "uid": 100051079,
+    "migrosId": "153252100000",
+    "name": "Sugo Basilico",
+    "title": "Sugo Basilico",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L88",
+                    "name": "Nostrani del Ticino",
+                    "slug": "nostrani-del-ticino",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1707838713/labels/Nostrani_del_Ticino"
+                }
+            ],
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 3,
+                    "co2CarKmEquivalent": 16,
+                    "productionRatio": 92,
+                    "transportRatio": 2,
+                    "packagingRatio": 6,
+                    "image": "https://image.migros.ch/original/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "co2KgRange": "2 - 4.7 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/153252100000"
+        },
+        "otherInformation": {
+            "articleNumber": "153252100000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Production process",
+                    "value": "Aus der Region"
+                },
+                {
+                    "code": "Type of sauce/dip",
+                    "value": "Tomatensauce"
+                },
+                {
+                    "code": "Intended use of sauce",
+                    "value": "Mediterrane Gerichte, Teigwaren"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Glas"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "zum erhitztessen"
+                },
+                {
+                    "code": "Sauce variety - for cooking",
+                    "value": "Basilico"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7629999005822"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/0580365265f43d7627a8d38e3f2b0f33e57bc7a4/sugo-basilico.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494776",
+            "name": "Spices & sauces",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces"
+            ]
+        },
+        {
+            "id": "12671420",
+            "name": "Pasta sauces & pesto",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces",
+                "pasta-sauces-pesto"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/153252100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.80",
+            "advertisedDisplayValue": "4.80",
+            "effectiveDisplayValue": "4.80",
+            "multiplier": 1,
+            "value": 4.8,
+            "effectiveValue": 4.8,
+            "advertisedValue": 4.8,
+            "unitPrice": {
+                "value": 1.71,
+                "unit": "100g"
+            }
+        },
+        "quantity": "280g",
+        "quantityPrice": "1.71/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:49:54"
+}

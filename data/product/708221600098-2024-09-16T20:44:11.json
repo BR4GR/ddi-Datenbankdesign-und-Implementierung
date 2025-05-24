@@ -1,0 +1,142 @@
+{
+    "uid": 100079843,
+    "migrosId": "708221600098",
+    "name": "Perlkopfst-nadel",
+    "title": "Perlkopfst-nadel",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 8,
+                "nbStars": 3.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/708221600098"
+        },
+        "otherInformation": {
+            "articleNumber": "708221600098",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Area of application",
+                    "value": "säumen"
+                },
+                {
+                    "code": "Number",
+                    "value": "100 Pcs."
+                },
+                {
+                    "code": "Dimensions/size",
+                    "value": "37mm"
+                },
+                {
+                    "code": "Material",
+                    "value": "Stahl vernickelt"
+                },
+                {
+                    "code": "Color",
+                    "value": "grau"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7617030899783"
+    ],
+    "variants": {
+        "baseProductMigrosId": "708221600000",
+        "mainVariantMigrosId": "708221600098",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "bunt",
+                    "size": "ohne"
+                },
+                "migrosId": "708221600098"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "bunt",
+                "options": [
+                    "bunt"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "ohne",
+                "options": [
+                    "ohne"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/e40ecbaabea71bc233c9a42d2477ec378375005e/perlkopfst-nadel.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494812",
+            "name": "DIY, home decoration and haberdashery",
+            "slugs": [
+                "household-and-living",
+                "diy-home-decoration-and-haberdas"
+            ]
+        },
+        {
+            "id": "7495164",
+            "name": "Haberdashery",
+            "slugs": [
+                "household-and-living",
+                "diy-home-decoration-and-haberdas",
+                "haberdashery"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/708221600098",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.95",
+            "advertisedDisplayValue": "3.95",
+            "effectiveDisplayValue": "3.95",
+            "multiplier": 1,
+            "value": 3.95,
+            "effectiveValue": 3.95,
+            "advertisedValue": 3.95,
+            "unitPrice": {
+                "value": 0.04,
+                "unit": "piece"
+            }
+        },
+        "quantity": "100 Stk.",
+        "quantityPrice": "0.04/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T20:44:11"
+}

@@ -1,0 +1,129 @@
+{
+    "uid": 100167472,
+    "migrosId": "101314700000",
+    "migrosOnlineId": "12583707",
+    "name": "Bar with crunchy cream",
+    "brand": "Ovomaltine",
+    "brandLine": "Break",
+    "title": "Ovomaltine Break · Bar with crunchy cream",
+    "description": "Ovomaltine Bar with crunchy cream ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Ovomaltine",
+                "slug": "ovomaltine",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077039/brands/Ovomaltine_Wander_AG_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store."
+        },
+        "usageInformation": {
+            "additionalInformation": "palm free oil"
+        },
+        "otherInformation": {
+            "articleNumber": "101314700000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7612100919026",
+        "7612100917244"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3916edfc6380fa4d0a8364d3fe383374a7b55774/ovo-break.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/fdde2b1b71fe25ae31553bca8511e2ea3bc64a6a.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494782",
+            "name": "Chocolate & sweets",
+            "slugs": [
+                "snacks-sweets",
+                "chocolate-sweets"
+            ]
+        },
+        {
+            "id": "7495019",
+            "name": "Bars, branches & snacks",
+            "slugs": [
+                "snacks-sweets",
+                "chocolate-sweets",
+                "bars-branches-snacks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/101314700000",
+    "isMgbCompatible": false,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "9.90",
+            "advertisedDisplayValue": "9.90",
+            "effectiveDisplayValue": "9.90",
+            "multiplier": 1,
+            "value": 9.9,
+            "effectiveValue": 9.9,
+            "advertisedValue": 9.9
+        },
+        "promotionPrice": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.90",
+            "advertisedDisplayValue": "7.90",
+            "effectiveDisplayValue": "7.90",
+            "multiplier": 1,
+            "value": 7.9,
+            "effectiveValue": 7.9,
+            "advertisedValue": 7.9,
+            "unitPrice": {
+                "value": 2.53,
+                "unit": "100g"
+            }
+        },
+        "priceInsteadOfLabel": "was",
+        "quantity": "8 x 39g",
+        "quantityPrice": "2.53/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "REGION",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679482984/labels/suisse",
+                "description": "Switzerland"
+            }
+        ],
+        "badges": [
+            {
+                "type": "PERCENTAGE_PROMOTION",
+                "description": "20%"
+            }
+        ],
+        "promotionDateRange": {
+            "startDate": "2024-09-10",
+            "endDate": "2024-09-16"
+        },
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T15:45:48"
+}

@@ -1,0 +1,142 @@
+{
+    "uid": 100049601,
+    "migrosId": "103388100000",
+    "name": "Aus der Region Rapsoel",
+    "title": "Aus der Region Rapsoel",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 10,
+                    "productionRatio": 87,
+                    "transportRatio": 3,
+                    "packagingRatio": 9,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 3.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/103388100000"
+        },
+        "otherInformation": {
+            "articleNumber": "103388100000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Production process",
+                    "value": "Aus der Region"
+                },
+                {
+                    "code": "Cold-pressed",
+                    "value": "Yes"
+                },
+                {
+                    "code": "Suitable for",
+                    "value": "baking"
+                },
+                {
+                    "code": "Number of removable individual units",
+                    "value": "50"
+                },
+                {
+                    "code": "Virgin",
+                    "value": "No"
+                },
+                {
+                    "code": "Extra-virgin",
+                    "value": "No"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Bottle"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "zum würzen geeignet"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7640146680037"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/4ece918cf3473664c2f029447dc4843dfbff5c10/aus-der-region-rapsoel.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494776",
+            "name": "Spices & sauces",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces"
+            ]
+        },
+        {
+            "id": "7494982",
+            "name": "Oil & vinegar",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces",
+                "oil-vinegar"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/103388100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "12.20",
+            "advertisedDisplayValue": "12.20",
+            "effectiveDisplayValue": "12.20",
+            "multiplier": 1,
+            "value": 12.2,
+            "effectiveValue": 12.2,
+            "advertisedValue": 12.2,
+            "unitPrice": {
+                "value": 2.44,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "50cl",
+        "quantityPrice": "2.44/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:24:23"
+}

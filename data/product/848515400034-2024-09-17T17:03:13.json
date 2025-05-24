@@ -1,0 +1,167 @@
+{
+    "uid": 100122275,
+    "migrosId": "848515400034",
+    "name": "LADIES' SHOPPER",
+    "brand": "MIGROS ESSENTIALS",
+    "title": "LADIES' SHOPPER",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "MIGROS ESSENTIALS",
+                "slug": "migros-essentials",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1708333701/brands/Migros_Essentials_-_RGB_-_DE"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/848515400034"
+        },
+        "otherInformation": {
+            "articleNumber": "848515400034",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Height",
+                    "value": "32 cm"
+                },
+                {
+                    "code": "Depth",
+                    "value": "18 cm"
+                },
+                {
+                    "code": "Length",
+                    "value": "51 cm"
+                },
+                {
+                    "code": "Weight",
+                    "value": "0.605 kg"
+                },
+                {
+                    "code": "Volume",
+                    "value": "29 l"
+                },
+                {
+                    "code": "Category/theme",
+                    "value": "Taschen"
+                },
+                {
+                    "code": "Main material",
+                    "value": "PU-Leder"
+                },
+                {
+                    "code": "Look",
+                    "value": "matt, uni"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613434784366"
+    ],
+    "variants": {
+        "baseProductMigrosId": "848515400000",
+        "mainVariantMigrosId": "848515400020",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "black",
+                    "size": "one Size"
+                },
+                "migrosId": "848515400020"
+            },
+            {
+                "declinationOptions": {
+                    "color": "bordeaux",
+                    "size": "one Size"
+                },
+                "migrosId": "848515400034"
+            },
+            {
+                "declinationOptions": {
+                    "color": "taupe",
+                    "size": "one Size"
+                },
+                "migrosId": "848515400078"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "bordeaux",
+                "options": [
+                    "black",
+                    "bordeaux",
+                    "taupe"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "one Size",
+                "options": [
+                    "one Size"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/242da382b42efddc85225d5b07ff6f82a72c759e/ladies-shopper.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10552745",
+            "name": "Accessories",
+            "slugs": [
+                "clothing-accessories",
+                "accessories"
+            ]
+        },
+        {
+            "id": "10552752",
+            "name": "Bags",
+            "slugs": [
+                "clothing-accessories",
+                "accessories",
+                "bags"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/848515400034",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "39.95",
+            "advertisedDisplayValue": "39.95",
+            "effectiveDisplayValue": "39.95",
+            "multiplier": 1,
+            "value": 39.95,
+            "effectiveValue": 39.95,
+            "advertisedValue": 39.95
+        },
+        "quantity": "1 Stk.",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T17:03:13"
+}

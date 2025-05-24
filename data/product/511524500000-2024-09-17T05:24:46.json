@@ -1,0 +1,110 @@
+{
+    "uid": 100053125,
+    "migrosId": "511524500000",
+    "migrosOnlineId": "11937408",
+    "name": "Eau de Toilette",
+    "brand": "Betty Barclay",
+    "brandLine": "Tender Blossom",
+    "title": "Betty Barclay Tender Blossom · Eau de Toilette",
+    "description": "Betty Barclay Eau de Toilette ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Betty Barclay",
+                "slug": "betty-barclay"
+            },
+            "rating": {
+                "nbReviews": 8,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/511524500000"
+        },
+        "otherInformation": {
+            "articleNumber": "511524500000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Eau de Toilette"
+                },
+                {
+                    "code": "Customer group",
+                    "value": "Frauen"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4011700367009"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/166335d169b1aa3b1c0c17be34ba5b2fa2b480dd/betty-barclay-tender-blossom-edt.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/fd770460641ed824bfa2d116707e607e2e6e3123.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494826",
+            "name": "Body care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care"
+            ]
+        },
+        {
+            "id": "7495243",
+            "name": "Perfumes",
+            "slugs": [
+                "drugstore-cosmetics",
+                "body-care",
+                "perfumes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/511524500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "16.95",
+            "advertisedDisplayValue": "16.95",
+            "effectiveDisplayValue": "16.95",
+            "multiplier": 1,
+            "value": 16.95,
+            "effectiveValue": 16.95,
+            "advertisedValue": 16.95,
+            "unitPrice": {
+                "value": 84.8,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "20ml",
+        "quantityPrice": "84.80/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:24:46"
+}

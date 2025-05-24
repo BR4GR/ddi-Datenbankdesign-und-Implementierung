@@ -1,0 +1,161 @@
+{
+    "uid": 100039894,
+    "migrosId": "520602600000",
+    "migrosOnlineId": "3105978",
+    "name": "Panty liners",
+    "brand": "Molfina",
+    "versioning": "String",
+    "title": "Molfina · Panty liners · String",
+    "description": "Molfina Panty liners String",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L09",
+                    "name": "FSC®",
+                    "slug": "fsc",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483057/labels/FSC_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "Molfina",
+                "slug": "molfina",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077001/brands/Molfina_Logo"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 3,
+                    "co2CarKmEquivalent": 13,
+                    "productionRatio": 89,
+                    "transportRatio": 4,
+                    "packagingRatio": 7,
+                    "image": "https://image.migros.ch/original/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "co2KgRange": "2 - 4.7 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 47,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/520602600000",
+            "cosmeticInformation": {
+                "ingredients": "Absorption pad: cellulose\nCover material: Polypropylene-/Polyethylene fleece\nLaundry protection: Polypropylene fleece\nAdhesive under silicone cover strip."
+            }
+        },
+        "otherInformation": {
+            "articleNumber": "520602600000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Warnings / mandatory notes",
+                    "value": "Do not dispose of in drains or toilets!"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Slipeinlagen"
+                },
+                {
+                    "code": "Suitable for",
+                    "value": "Täglicher Wäscheschutz"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312071588"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/9686e990f819c715fbfa9c3e617f80551673ffb0/molfina-slipeinlagen-string.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494830",
+            "name": "Hygiene & protection",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hygiene-protection"
+            ]
+        },
+        {
+            "id": "7495258",
+            "name": "Intimate hygiene and protection",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hygiene-protection",
+                "intimate-hygiene-and-protection"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/520602600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "1.70",
+            "advertisedDisplayValue": "1.70",
+            "effectiveDisplayValue": "1.70",
+            "multiplier": 1,
+            "value": 1.7,
+            "effectiveValue": 1.7,
+            "advertisedValue": 1.7
+        },
+        "promotionPrice": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.30",
+            "advertisedDisplayValue": "1.30",
+            "effectiveDisplayValue": "1.30",
+            "multiplier": 1,
+            "value": 1.3,
+            "effectiveValue": 1.3,
+            "advertisedValue": 1.3,
+            "unitPrice": {
+                "value": 0.04,
+                "unit": "piece"
+            }
+        },
+        "priceInsteadOfLabel": "was",
+        "quantity": "30 Stk.",
+        "quantityPrice": "0.04/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "badges": [
+            {
+                "type": "PERCENTAGE_PROMOTION",
+                "description": "25%"
+            },
+            {
+                "type": "MINIMUM_PIECES",
+                "description": "2 or more"
+            }
+        ],
+        "promotionDateRange": {
+            "startDate": "2024-09-17",
+            "endDate": "2024-09-30"
+        },
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-18T07:46:51"
+}

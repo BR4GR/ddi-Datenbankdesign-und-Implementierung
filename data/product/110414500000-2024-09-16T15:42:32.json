@@ -1,0 +1,115 @@
+{
+    "uid": 100093384,
+    "migrosId": "110414500000",
+    "name": "Stieffenhofer Lebkuchen Schokolade",
+    "brand": "Stieffenhofer",
+    "title": "Stieffenhofer Lebkuchen Schokolade",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Stieffenhofer",
+                "slug": "stieffenhofer"
+            },
+            "rating": {
+                "nbReviews": 10,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/110414500000"
+        },
+        "otherInformation": {
+            "articleNumber": "110414500000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Packaging type",
+                    "value": "Schachtel"
+                },
+                {
+                    "code": "Type of cookie/pastry",
+                    "value": "Lebkuchen"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "verzehrfertig"
+                },
+                {
+                    "code": "Occasion",
+                    "value": "Weihnachten"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4009176019249",
+        "4002899563105",
+        "4009176130524",
+        "4009176337008",
+        "7610200301932"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/09449c24149d45e0879cf7a90c2b0255dd751d9d/stieffenhofer-lebkuchen-schokolade.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494781",
+            "name": "Biscuits",
+            "slugs": [
+                "snacks-sweets",
+                "biscuits"
+            ]
+        },
+        {
+            "id": "7495010",
+            "name": "Chocolate biscuits & cookies",
+            "slugs": [
+                "snacks-sweets",
+                "biscuits",
+                "chocolate-biscuits-cookies"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/110414500000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.20",
+            "advertisedDisplayValue": "4.20",
+            "effectiveDisplayValue": "4.20",
+            "multiplier": 1,
+            "value": 4.2,
+            "effectiveValue": 4.2,
+            "advertisedValue": 4.2,
+            "unitPrice": {
+                "value": 0.84,
+                "unit": "100g"
+            }
+        },
+        "quantity": "500g",
+        "quantityPrice": "0.84/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T15:42:32"
+}

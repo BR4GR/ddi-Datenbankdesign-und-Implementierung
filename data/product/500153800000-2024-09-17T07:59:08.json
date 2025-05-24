@@ -1,0 +1,143 @@
+{
+    "uid": 100160235,
+    "migrosId": "500153800000",
+    "migrosOnlineId": "12490863",
+    "name": "Liquid laundry detergent",
+    "brand": "Nature Clean",
+    "brandLine": "1 For All Marseille",
+    "versioning": "30 wash cycles",
+    "title": "Nature Clean 1 For All Marseille · Liquid laundry detergent · 30 wash cycles",
+    "description": "Nature Clean Liquid laundry detergent 30 wash cycles",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L55",
+                    "name": "Vegan Flower",
+                    "slug": "vegan-flower",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483262/labels/Vegan_flower"
+                }
+            ],
+            "brand": {
+                "name": "Nature Clean",
+                "slug": "nature-clean",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1709537725/brands/Nature_Clean_-_RGB_-_DE"
+            },
+            "nutritionalCharacteristics": [
+                "Vegan"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegan"
+                }
+            ],
+            "rating": {
+                "nbReviews": 7,
+                "nbStars": 3.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/500153800000"
+        },
+        "usageInformation": {
+            "signalWord": "Gefahr",
+            "chemicalPictosV2": [
+                {
+                    "cdn": "rokka",
+                    "pictoId": "GHS05",
+                    "pictoPath": "https://image.migros.ch/original/b9b6d67492a097fcc99d628551e84904ab689e51/%C3%84tzwirkung.jpg",
+                    "pictoPathStack": "https://image.migros.ch/{stack}/b9b6d67492a097fcc99d628551e84904ab689e51/%C3%84tzwirkung.jpg"
+                }
+            ],
+            "chemicalWarnings": [
+                "Verursacht schwere Augenschäden."
+            ],
+            "chemicalSafetyInstructions": [
+                "Ist ärztlicher Rat erforderlich, Verpackung oder Kennzeichnungsetikett bereithalten.",
+                "Darf nicht in die Hände von Kindern gelangen.",
+                "BEI KONTAKT MIT DEN AUGEN:",
+                "Sofort GIFTINFORMATIONSZENTRUM oder Arzt anrufen.",
+                "Schutzhandschuhe / Schutzkleidung / Augenschutz / Gesichtsschutz tragen.",
+                "BEI KONTAKT MIT DEN AUGEN: Einige Minuten lang behutsam mit Wasser ausspülen. Eventuell vorhandene Kontaktlinsen nach Möglichkeit entfernen. Weiter spülen."
+            ]
+        },
+        "otherInformation": {
+            "articleNumber": "500153800000",
+            "additionalIndications": "15° 30° 40° 60°",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegan"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7630028638454"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3ecb56bad1c0b0db8f0f852f3026245754137ace/nature-all-marseille-15l.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494740",
+            "name": "Laundry & cleaning",
+            "slugs": [
+                "laundry-cleaning"
+            ]
+        },
+        {
+            "id": "7494806",
+            "name": "Laundry & textile care",
+            "slugs": [
+                "laundry-cleaning",
+                "laundry-textile-care"
+            ]
+        },
+        {
+            "id": "7495135",
+            "name": "Laundry detergent",
+            "slugs": [
+                "laundry-cleaning",
+                "laundry-textile-care",
+                "laundry-detergent"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/500153800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "16.20",
+            "advertisedDisplayValue": "16.20",
+            "effectiveDisplayValue": "16.20",
+            "multiplier": 1,
+            "value": 16.2,
+            "effectiveValue": 16.2,
+            "advertisedValue": 16.2,
+            "unitPrice": {
+                "value": 1.08,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "1.5l",
+        "quantityPrice": "1.08/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T07:59:08"
+}

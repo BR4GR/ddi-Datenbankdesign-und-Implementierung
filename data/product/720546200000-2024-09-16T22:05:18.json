@@ -1,0 +1,109 @@
+{
+    "uid": 100059168,
+    "migrosId": "720546200000",
+    "name": "Mustertuetenklam",
+    "brand": "Papeteria",
+    "title": "Mustertuetenklam",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Papeteria",
+                "slug": "papeteria",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077073/brands/Papeteria_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 5,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/720546200000"
+        },
+        "otherInformation": {
+            "articleNumber": "720546200000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Number",
+                    "value": "100 Pcs."
+                },
+                {
+                    "code": "Dimensions/size",
+                    "value": "17 mm"
+                },
+                {
+                    "code": "Material",
+                    "value": "Stahl"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613194350474"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/778445252bdb7bec33cc2670ef702b80d212b2a8/mustertuetenklam.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494813",
+            "name": "Office & stationery",
+            "slugs": [
+                "household-and-living",
+                "office-stationery"
+            ]
+        },
+        {
+            "id": "7495167",
+            "name": "Office supplies",
+            "slugs": [
+                "household-and-living",
+                "office-stationery",
+                "office-supplies"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/720546200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.95",
+            "advertisedDisplayValue": "1.95",
+            "effectiveDisplayValue": "1.95",
+            "multiplier": 1,
+            "value": 1.95,
+            "effectiveValue": 1.95,
+            "advertisedValue": 1.95,
+            "unitPrice": {
+                "value": 0.02,
+                "unit": "piece"
+            }
+        },
+        "quantity": "100 Stk.",
+        "quantityPrice": "0.02/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T22:05:18"
+}

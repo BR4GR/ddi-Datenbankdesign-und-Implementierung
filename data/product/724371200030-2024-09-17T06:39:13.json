@@ -1,0 +1,109 @@
+{
+    "uid": 100167437,
+    "migrosId": "724371200030",
+    "migrosOnlineId": "12796326",
+    "name": "Grave candle",
+    "brand": "Migros Home",
+    "versioning": "red, 50h burning time",
+    "title": "Migros Home · Grave candle · red, 50h burning time",
+    "description": "Migros Home Grave candle red, 50h burning time",
+    "productRange": "VARIANT",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Home",
+                "slug": "migros-home",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1715075047/brands/MIGROS_Home_GR7"
+            },
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/724371200030"
+        },
+        "otherInformation": {
+            "articleNumber": "724371200030",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7628871774337"
+    ],
+    "variants": {
+        "baseProductMigrosId": "724371200000",
+        "mainVariantMigrosId": "724371200010",
+        "declinations": [
+            {
+                "migrosId": "724371200010"
+            },
+            {
+                "migrosId": "724371200030"
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f00241afbd40aaad253e4200e93c0cd76f2cb360/grabkerze.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494811",
+            "name": "Household aids",
+            "slugs": [
+                "household-and-living",
+                "household-aids"
+            ]
+        },
+        {
+            "id": "7495616",
+            "name": "Candles and candlesticks",
+            "slugs": [
+                "household-and-living",
+                "household-aids",
+                "candles-and-candlesticks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/724371200030",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "1.50",
+            "advertisedDisplayValue": "1.50",
+            "effectiveDisplayValue": "1.50",
+            "multiplier": 1,
+            "value": 1.5,
+            "effectiveValue": 1.5,
+            "advertisedValue": 1.5,
+            "unitPrice": {
+                "value": 1.5,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "1.50/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:39:13"
+}

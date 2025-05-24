@@ -1,0 +1,157 @@
+{
+    "uid": 100123430,
+    "migrosId": "848408300028",
+    "name": "Make Up Box",
+    "brand": "Miomojo",
+    "title": "Make Up Box",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Miomojo",
+                "slug": "miomojo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/848408300028"
+        },
+        "otherInformation": {
+            "articleNumber": "848408300028",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Category/theme",
+                    "value": "Zubehör"
+                },
+                {
+                    "code": "Width",
+                    "value": "10.5 cm"
+                },
+                {
+                    "code": "Main material",
+                    "value": "R-PET"
+                },
+                {
+                    "code": "Volume",
+                    "value": "3.1 l"
+                },
+                {
+                    "code": "Length",
+                    "value": "19 cm"
+                },
+                {
+                    "code": "Height",
+                    "value": "16 cm"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "Reise-Assistence"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871170962"
+    ],
+    "variants": {
+        "baseProductMigrosId": "848408300000",
+        "mainVariantMigrosId": "848408300028",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "pink"
+                },
+                "migrosId": "848408300028"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "water blue"
+                },
+                "migrosId": "848408300046"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "pink",
+                "options": [
+                    "pink",
+                    "water blue"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "one Size",
+                "options": [
+                    "one Size"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ca8fb13f43ccc84be2762549bb1c2c24396b194f/make-up-box.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10555197",
+            "name": "Travel",
+            "slugs": [
+                "clothing-accessories",
+                "travel"
+            ]
+        },
+        {
+            "id": "10555235",
+            "name": "Travel accessories",
+            "slugs": [
+                "clothing-accessories",
+                "travel",
+                "travel-accessories"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/848408300028",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "19.95",
+            "advertisedDisplayValue": "19.95",
+            "effectiveDisplayValue": "19.95",
+            "multiplier": 1,
+            "value": 19.95,
+            "effectiveValue": 19.95,
+            "advertisedValue": 19.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T09:31:50"
+}

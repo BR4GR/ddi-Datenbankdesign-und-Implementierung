@@ -1,0 +1,184 @@
+{
+    "uid": 100130920,
+    "migrosId": "204100700000",
+    "name": "Doppelte Meringue Creme",
+    "title": "Doppelte Meringue Creme",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "ingredients": "Doppelrahm 77%, Meringues 23% (Zucker, Eiweiss [von Eiern aus Bodenhaltung und Freilandhaltung]).",
+            "allergens": "Eggs and their derivatives, Milk and its derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 3,
+                    "co2CarKmEquivalent": 26,
+                    "productionRatio": 96,
+                    "transportRatio": 0,
+                    "packagingRatio": 4,
+                    "image": "https://image.migros.ch/original/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "co2KgRange": "2 - 4.7 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 3,
+                "nbStars": 3.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/204100700000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "1903 kJ (455 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "39 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "24 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "24 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "24 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "0.1 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.43 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "usageInformation": {
+            "preparationInstructions": "Verkostungsvorschlag:Die Meringues auf einem Teller anrichten. Die Meringues mit Doppelrahm und nach Belieben mit roten Früchten garnieren. Sofort servieren."
+        },
+        "otherInformation": {
+            "articleNumber": "204100700000",
+            "legalDesignation": "Doppelrahm pasteurisiert mit mindestens 48% Milchfett und Meringues-Schalen",
+            "distributorName": "Fromagerie Moléson SA",
+            "distributorStreetAndNumber": "Route de Villarsel 301694 Orsonnens",
+            "remarks": [
+                {
+                    "code": "Aufbewahrungshinweise für den Konsumenten",
+                    "value": "Gekühlt aufbewahren bei max. +5°C.Nach dem Öfnnen wieder gut verschliessen oder Inhalt in einer Vorratsdose aufbewahren."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7623706101104",
+        "7623186015434"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/0e219c6b2a0c5f0f48bf85d17cbefc3cfc38347e/doppelte-meringue-creme.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494751",
+            "name": "Milk, butter & eggs",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "milk-butter-eggs"
+            ]
+        },
+        {
+            "id": "7494868",
+            "name": "Creams & whipped cream",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "milk-butter-eggs",
+                "creams-whipped-cream"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/204100700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "9.–",
+            "advertisedDisplayValue": "9.–",
+            "effectiveDisplayValue": "9.–",
+            "multiplier": 1,
+            "value": 9,
+            "effectiveValue": 9,
+            "advertisedValue": 9,
+            "unitPrice": {
+                "value": 4.5,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "200ml",
+        "quantityPrice": "4.50/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:23:07"
+}

@@ -1,0 +1,206 @@
+{
+    "uid": 100067964,
+    "migrosId": "104245400000",
+    "migrosOnlineId": "7306255",
+    "name": "Granola",
+    "brand": "Spoon",
+    "versioning": "cinnamon - Pecan",
+    "title": "Spoon · Granola · cinnamon - Pecan",
+    "description": "Spoon Granola cinnamon - Pecan",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Spoon",
+                "slug": "spoon",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077160/brands/Spoon_Spoon_Cereals_UK_Ltd_Logo"
+            },
+            "nutritionalCharacteristics": [
+                "Gluten-free"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Gluten-free"
+                }
+            ],
+            "ingredients": "Gluten-Free Wholegrain Oats (47%), Coconut Chips (15%), Date Syrup, Pecan Nuts (8%) Rapeseed Oil, Maple Syrup (4%), Natural Vanilla Flavouring, Ground Cinnamon (0.3%), Sea Salt.",
+            "allergenIndication": "May contain: Soya",
+            "allergens": "Tree nut (nuts) and its derivatives, Oats and oat products",
+            "rating": {
+                "nbReviews": 26,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/104245400000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "~ 2108 kJ (~ 505 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "~ 27 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "~ 8.6 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "~ 52 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "~ 9.9 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "~ 7.9 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "~ 9.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "~ 0.07 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Sodium",
+                        "values": [
+                            "~ 0.0271 g",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "104245400000",
+            "distributorName": "Spoon Cereals",
+            "distributorStreetAndNumber": "Spoon Cereals, Studio 5, 305A Goldhawk Road, London W12 8EU",
+            "remarks": [
+                {
+                    "code": "Instructions de stockage pour le consommateur",
+                    "value": "Store in a cool dry place"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Allergens",
+                    "value": "Gluten free"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "5060419540028"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3b2072e09eab8202a1b81b3d36b6e2a1e5388314/spoon-gran-cinnamonpeca.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494767",
+            "name": "Cereals & muesli",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "cereals-muesli"
+            ]
+        },
+        {
+            "id": "7494943",
+            "name": "Muesli",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "cereals-muesli",
+                "muesli"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/104245400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.95",
+            "advertisedDisplayValue": "4.95",
+            "effectiveDisplayValue": "4.95",
+            "multiplier": 1,
+            "value": 4.95,
+            "effectiveValue": 4.95,
+            "advertisedValue": 4.95,
+            "unitPrice": {
+                "value": 1.24,
+                "unit": "100g"
+            }
+        },
+        "quantity": "400g",
+        "quantityPrice": "1.24/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T06:32:41"
+}

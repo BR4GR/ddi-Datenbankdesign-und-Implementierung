@@ -1,0 +1,137 @@
+{
+    "uid": 100005739,
+    "migrosId": "107018200000",
+    "migrosOnlineId": "6870667",
+    "name": "infusion",
+    "brand": "Migros Bio",
+    "versioning": "delicate and elegant",
+    "title": "Migros Bio · infusion · delicate and elegant",
+    "description": "Migros Bio infusion delicate and elegant",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Bio",
+                "slug": "migros-bio",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1678265962/brands/MIGROS_BIO_screen_pantone1_rgb"
+            },
+            "nutritionalCharacteristics": [
+                "Organic"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Organic"
+                }
+            ],
+            "ingredients": "Schafgarbenkraut * 15%, Zitronenverbene * 11%, Zimt * 10%, Zitronenmelisse * 10%, Frauenmantel * 10%, Brennnesseln * 10%, Ingwer * 10%, Erdbeerblätter * 8%, Himbeerblätter * 8 %, Salbei * 5%, Hibiskus * 3%. \n* Aus ausländischer Bio-Produktion.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 3,
+                    "co2CarKmEquivalent": 21,
+                    "productionRatio": 94,
+                    "transportRatio": 1,
+                    "packagingRatio": 4,
+                    "image": "https://image.migros.ch/original/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "co2KgRange": "2 - 4.7 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 36,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/107018200000"
+        },
+        "usageInformation": {
+            "preparationInstructions": "Zubereitung: Pro Tasse 1 Teebeutel mit kochendem Wasser übergiessen und 6 Minuten ziehen lassen."
+        },
+        "otherInformation": {
+            "articleNumber": "107018200000",
+            "legalDesignation": "Bio Kräuterteemischung",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "bioCertification": "DE-ÖKO-001; Kiwa BCS Öko-Garantie GmbH",
+            "remarks": [
+                {
+                    "code": "Cooling information/storage information",
+                    "value": "Store in a cool, dry place."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312362983"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/240bb7da9ce4b400e3fbf42383a649cc3e18a366/migros-bio-womens-tea-balance.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494773",
+            "name": "Tea",
+            "slugs": [
+                "drinks-coffee-tea",
+                "tea"
+            ]
+        },
+        {
+            "id": "7494974",
+            "name": "Herbal infusions with plants",
+            "slugs": [
+                "drinks-coffee-tea",
+                "tea",
+                "herbal-infusions-with-plants"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/107018200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.50",
+            "advertisedDisplayValue": "2.50",
+            "effectiveDisplayValue": "2.50",
+            "multiplier": 1,
+            "value": 2.5,
+            "effectiveValue": 2.5,
+            "advertisedValue": 2.5,
+            "unitPrice": {
+                "value": 8.3,
+                "unit": "100g"
+            }
+        },
+        "quantity": "30g",
+        "quantityPrice": "8.30/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "BIO",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483586/labels/bio",
+                "description": "Organic"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:07:27"
+}

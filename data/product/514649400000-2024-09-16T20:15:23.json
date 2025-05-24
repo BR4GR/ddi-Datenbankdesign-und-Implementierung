@@ -1,0 +1,115 @@
+{
+    "uid": 100053725,
+    "migrosId": "514649400000",
+    "migrosOnlineId": "10145720",
+    "name": "Shampoo",
+    "brand": "Syoss",
+    "brandLine": "Men Power",
+    "versioning": "Normal hair",
+    "title": "Syoss Men Power · Shampoo · Normal hair",
+    "description": "Syoss Shampoo Normal hair",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Syoss",
+                "slug": "syoss",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252499/brands/syoss"
+            },
+            "rating": {
+                "nbReviews": 13,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/514649400000"
+        },
+        "usageInformation": {
+            "additionalInformation": "Our Syoss mission is to provide you with the salon quality your hair deserves. Founded in Japan, Syoss stands for professional formula quality and for excellent results with every application."
+        },
+        "otherInformation": {
+            "articleNumber": "514649400000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Shampoo"
+                },
+                {
+                    "code": "Requirements/uses",
+                    "value": "Anti-Haarausfall, Erfrischung"
+                },
+                {
+                    "code": "Suitable for",
+                    "value": "Normales Haar"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "4015100336566"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/4b1be07690d0f5cf990e36919fb71fbe0c59e3c7/syoss-men-power-shampoo.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494825",
+            "name": "Hair care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hair-care"
+            ]
+        },
+        {
+            "id": "7495232",
+            "name": "Shampoos",
+            "slugs": [
+                "drugstore-cosmetics",
+                "hair-care",
+                "shampoos"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/514649400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "4.50",
+            "advertisedDisplayValue": "4.50",
+            "effectiveDisplayValue": "4.50",
+            "multiplier": 1,
+            "value": 4.5,
+            "effectiveValue": 4.5,
+            "advertisedValue": 4.5,
+            "unitPrice": {
+                "value": 1.02,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "440ml",
+        "quantityPrice": "1.02/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T20:15:23"
+}

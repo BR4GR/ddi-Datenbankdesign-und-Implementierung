@@ -1,0 +1,94 @@
+{
+    "uid": 100142724,
+    "migrosId": "250101816000",
+    "name": "MSC Heilbuttfilet geräuchert",
+    "title": "MSC Heilbuttfilet geräuchert",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L05",
+                    "name": "MSC",
+                    "slug": "msc",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483571/labels/MSC_-_RGB_-_DE"
+                }
+            ],
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/250101816000"
+        },
+        "otherInformation": {
+            "articleNumber": "250101816000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "2163252000001",
+        "250320",
+        "7613404000786"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/09ffb542357ff396c763bc329a3035f8c6e06f86/msc-heilbuttfilet-geraeuchert.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494749",
+            "name": "Fish",
+            "slugs": [
+                "meat-fish",
+                "fish"
+            ]
+        },
+        {
+            "id": "7494860",
+            "name": "Salmon & smoked fish",
+            "slugs": [
+                "meat-fish",
+                "fish",
+                "salmon-smoked-fish"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/250101816000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.75",
+            "advertisedDisplayValue": "5.75",
+            "effectiveDisplayValue": "5.75",
+            "multiplier": 1,
+            "value": 5.75,
+            "effectiveValue": 5.75,
+            "advertisedValue": 5.75,
+            "unitPrice": {
+                "value": 5.75,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "5.75/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T03:22:46"
+}

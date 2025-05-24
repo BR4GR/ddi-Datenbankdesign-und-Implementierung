@@ -1,0 +1,214 @@
+{
+    "uid": 100004600,
+    "migrosId": "212620100000",
+    "migrosOnlineId": "47940",
+    "name": "Fresh pasteurised cheese",
+    "brand": "Boursin",
+    "versioning": "with pepper",
+    "title": "Boursin · Fresh pasteurised cheese · with pepper",
+    "description": "Boursin Fresh pasteurised cheese with pepper",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Boursin",
+                "slug": "boursin"
+            },
+            "ingredients": "FRISCHKÄSE, schwarzer Pfeffer (1,5%), Kochsalz, Konservierungsstoff: Kaliumsorbat. Kann Spuren von WALNÜSSEN, CASHEWNÜSSEN, PEKANNÜSSEN enthalten.",
+            "allergenIndication": "May contain: Nuts",
+            "allergens": "Milk and its derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 36,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/212620100000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "~ 1665 kJ (~ 404 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "~ 40 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "~ 26.5 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "~ 3.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "~ 2.5 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "~ 0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "~ 8 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "~ 1.2 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "Sodium",
+                        "values": [
+                            "~ 0.5 mg",
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "212620100000",
+            "legalDesignation": "Doppelrahm-Frischkäse mit Pfeffer, aus pasteurisierter Milch",
+            "distributorName": "W. Ottiger SA",
+            "distributorStreetAndNumber": "Chemin des Aulx, 6 - 1228 Plan-les-ouates - CH",
+            "remarks": [
+                {
+                    "code": "Warnhinweise / Pflichthinweise",
+                    "value": "mit schwarzem Pfeffer #  aus pasteurisierter Milch"
+                },
+                {
+                    "code": "Aufbewahrungshinweise für den Konsumenten",
+                    "value": "Kühl lagern zwischen +2°C und +6°C."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Type of cheese",
+                    "value": "Soft cheese"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Karton, Schale"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "3175460000062"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/aceb81a0cb4c1900c9eb48ac3e20c946e492ee8f/boursin-poivre.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494752",
+            "name": "Cheese",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese"
+            ]
+        },
+        {
+            "id": "7494876",
+            "name": "Fresh & spreadable cheeses",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese",
+                "fresh-spreadable-cheeses"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/212620100000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.95",
+            "advertisedDisplayValue": "3.95",
+            "effectiveDisplayValue": "3.95",
+            "multiplier": 1,
+            "value": 3.95,
+            "effectiveValue": 3.95,
+            "advertisedValue": 3.95,
+            "unitPrice": {
+                "value": 2.63,
+                "unit": "100g"
+            }
+        },
+        "quantity": "150g",
+        "quantityPrice": "2.63/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483166/labels/fresh",
+                "description": "fresh"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T15:50:00"
+}

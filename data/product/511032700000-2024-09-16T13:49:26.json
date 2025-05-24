@@ -1,0 +1,90 @@
+{
+    "uid": 100127566,
+    "migrosId": "511032700000",
+    "name": "AAR SIERO SENZA ETA",
+    "brand": "Neutro Roberts",
+    "title": "AAR SIERO SENZA ETA",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Neutro Roberts",
+                "slug": "neutro-roberts",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1642402945/brands/Neutro_Roberts_Bolton_Swiss_SA_Logo"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/511032700000"
+        },
+        "otherInformation": {
+            "articleNumber": "511032700000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "8002410033632"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/89439bb5d15eab2195d34231a71ccd993d00efa8/aar-siero-senza-eta.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494828",
+            "name": "Facial care",
+            "slugs": [
+                "drugstore-cosmetics",
+                "facial-care"
+            ]
+        },
+        {
+            "id": "7495248",
+            "name": "Treatments, creams & masks",
+            "slugs": [
+                "drugstore-cosmetics",
+                "facial-care",
+                "treatments-creams-masks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/511032700000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "23.–",
+            "advertisedDisplayValue": "23.–",
+            "effectiveDisplayValue": "23.–",
+            "multiplier": 1,
+            "value": 23,
+            "effectiveValue": 23,
+            "advertisedValue": 23,
+            "unitPrice": {
+                "value": 76.67,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "30ml",
+        "quantityPrice": "76.67/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T13:49:26"
+}

@@ -1,0 +1,82 @@
+{
+    "uid": 100002510,
+    "migrosId": "212800600000",
+    "migrosOnlineId": "4996938",
+    "name": "Cream cheese pasteurized",
+    "brand": "Cantadou",
+    "versioning": "Horseradish",
+    "title": "Cantadou · Cream cheese pasteurized · Horseradish",
+    "description": "Cantadou Cream cheese pasteurized Horseradish",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Cantadou",
+                "slug": "cantadou"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 21,
+                "nbStars": 4.5
+            }
+        },
+        "otherInformation": {
+            "articleNumber": "212800600000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "3073781124743"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/16c2c50f65a04bd06c974205402c113c200b4ffd/cantadou-horseradish.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494752",
+            "name": "Cheese",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese"
+            ]
+        },
+        {
+            "id": "7494876",
+            "name": "Fresh & spreadable cheeses",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese",
+                "fresh-spreadable-cheeses"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/212800600000",
+    "isMgbCompatible": false,
+    "isConsignmentProduct": false,
+    "offer": {
+        "isVariableWeight": false,
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483166/labels/fresh",
+                "description": "fresh"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true
+    },
+    "dateAdded": "2024-09-22T16:23:16"
+}

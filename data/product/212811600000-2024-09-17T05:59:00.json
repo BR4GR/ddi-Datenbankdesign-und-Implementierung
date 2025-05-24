@@ -1,0 +1,209 @@
+{
+    "uid": 100159871,
+    "migrosId": "212811600000",
+    "migrosOnlineId": "12261330",
+    "name": "Les Palets de Chèvre",
+    "brand": "Soignon",
+    "versioning": "Nature",
+    "title": "Soignon · Les Palets de Chèvre · Nature",
+    "description": "Soignon Les Palets de Chèvre Nature",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Soignon",
+                "slug": "soignon"
+            },
+            "nutritionalCharacteristics": [
+                "Vegetarian",
+                "Gluten-free"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegetarian"
+                },
+                {
+                    "name": "Gluten-free"
+                }
+            ],
+            "ingredients": "Pasteurised goat's MILK, salt, preservative: E202, starter cultures (including MILK), coagulant.",
+            "allergens": "Milk and its derivatives",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 3.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/212811600000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "~ 1026 kJ (~ 247 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "~ 19 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "~ 12 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "~ 2 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "~ 2 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "~ 0 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "~ 17 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "~ 1.5 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    }
+                ]
+            },
+            "portionSentence": "1 pack ≈ 6 servings",
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "212811600000",
+            "legalDesignation": "Tostable goat cheese portions made with pasteurized milk plain",
+            "identificationMark": "FR 86.068.001 CE",
+            "distributorName": "W. Ottiger SA",
+            "distributorStreetAndNumber": "Chemin des Aulx, 6 - 1228 Plan-les-ouates - CH",
+            "mainSpecificities": [
+                {
+                    "code": "Allergens",
+                    "value": "Gluten free"
+                },
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegetarian"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "3523230040334"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/7c7d94d72465b860ddf6f3aaafd938ec7d4a008b/soignon-palets-de-chevre.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494752",
+            "name": "Cheese",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese"
+            ]
+        },
+        {
+            "id": "7494873",
+            "name": "Goat & sheep cheese",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "cheese",
+                "goat-sheep-cheese"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/212811600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.95",
+            "advertisedDisplayValue": "5.95",
+            "effectiveDisplayValue": "5.95",
+            "multiplier": 1,
+            "value": 5.95,
+            "effectiveValue": 5.95,
+            "advertisedValue": 5.95,
+            "unitPrice": {
+                "value": 3.97,
+                "unit": "100g"
+            }
+        },
+        "quantity": "6 x 25g",
+        "quantityPrice": "3.97/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483166/labels/fresh",
+                "description": "fresh"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:59:00"
+}

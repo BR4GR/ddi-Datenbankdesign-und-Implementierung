@@ -1,0 +1,150 @@
+{
+    "uid": 100012062,
+    "migrosId": "109700800000",
+    "migrosOnlineId": "71762",
+    "name": "Agar Agar - vegetable gelling agent",
+    "brand": "Patissier",
+    "title": "Patissier · Agar Agar - vegetable gelling agent",
+    "description": "Patissier Agar Agar - vegetable gelling agent ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L57",
+                    "name": "V-Label vegan",
+                    "slug": "v-label-vegan",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483003/labels/V-Label_Vegan_Color"
+                }
+            ],
+            "brand": {
+                "name": "Patissier",
+                "slug": "patissier",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077074/brands/Patissier_Logo"
+            },
+            "nutritionalCharacteristics": [
+                "Vegan"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegan"
+                }
+            ],
+            "ingredients": "Glucosesirup getrocknet, Geliermittel: Agar-Agar 22%.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 3,
+                    "productionRatio": 71,
+                    "transportRatio": 3,
+                    "packagingRatio": 26,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 81,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/109700800000"
+        },
+        "usageInformation": {
+            "preparationInstructions": "Gewichtsangabe auf Einzelbeutel: 8 g\n\nZubereitungshinweis:\n1 Beutel reicht für ½ l Flüssigkeit (Fruchtsäfte, Bouillon, Wasser, Milch usw.). Pulver in die kalte Flüssigkeit einstreuen und unter weiterem Rühren aufkochen (1-2 Min.)."
+        },
+        "otherInformation": {
+            "articleNumber": "109700800000",
+            "legalDesignation": "Pflanzliches Geliermittel",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Weitere Zusatzangaben",
+                    "value": "rein pflanzlich\n\nRezepte auf: Migusto.ch"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegan"
+                },
+                {
+                    "code": "Number of removable individual units",
+                    "value": "4"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Beutel/Sack"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "76242090"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/e380abe4f4a56ac5a33d4856bfa6b80c36cef066/patissier-agar-agar.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494733",
+            "name": "Bread, pastries & breakfast",
+            "slugs": [
+                "bread-pastries-breakfast"
+            ]
+        },
+        {
+            "id": "7494766",
+            "name": "Baking ingredients",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "baking-ingredients"
+            ]
+        },
+        {
+            "id": "7494938",
+            "name": "Flavours & gelling agents",
+            "slugs": [
+                "bread-pastries-breakfast",
+                "baking-ingredients",
+                "flavours-gelling-agents"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/109700800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.40",
+            "advertisedDisplayValue": "2.40",
+            "effectiveDisplayValue": "2.40",
+            "multiplier": 1,
+            "value": 2.4,
+            "effectiveValue": 2.4,
+            "advertisedValue": 2.4,
+            "unitPrice": {
+                "value": 7.5,
+                "unit": "100g"
+            }
+        },
+        "quantity": "4 x 8g",
+        "quantityPrice": "7.50/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T02:54:00"
+}

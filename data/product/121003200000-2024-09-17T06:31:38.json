@@ -1,0 +1,199 @@
+{
+    "uid": 100051596,
+    "migrosId": "121003200000",
+    "name": "Ramseier Apfelschorle",
+    "brand": "Ramseier",
+    "title": "Ramseier Apfelschorle",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Ramseier",
+                "slug": "ramseier",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077110/brands/Ramseier_Ramseier_Suisse_AG_Logo"
+            },
+            "nutritionalCharacteristics": [
+                "Vegan"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "Vegan"
+                }
+            ],
+            "ingredients": "swiss apple juice (60%) (with max. 10% pear juice) from concentrate, water, carbonic acid. Pasteurised. Vegan.",
+            "allergens": "Does not contain any allergenic ingredients that require labelling",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 13,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/121003200000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 ml"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "~ 114 kJ (~ 27 kcal)",
+                            "~ 285 kJ (~ 68 kcal)",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "~ 0 g",
+                            "~ 0 g",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "~ 6.7 g",
+                            "~ 16.8 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "~ 6.7 g",
+                            "~ 16.8 g",
+                            ""
+                        ],
+                        "fsaLevel": "HIGH"
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "< 0.5 g",
+                            "< 0.5 g",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "~ 0 g",
+                            "~ 0 g",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "121003200000",
+            "legalDesignation": "Diluted Swiss apple juice. Carbonated",
+            "distributorName": "RAMSEIER Suisse AG",
+            "distributorStreetAndNumber": "Merkurstrasse 1, 6210 Sursee, Schweiz",
+            "remarks": [
+                {
+                    "code": "Consumer storage instructions",
+                    "value": "Refrigerate after opening and consume within 3 days."
+                },
+                {
+                    "code": "Preservation technique code",
+                    "value": "Pasteurisation - Partially sterilisation by heating"
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Vegetarianism",
+                    "value": "Vegan"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7610057012432",
+        "7610057312396",
+        "7610057323422",
+        "7887"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/462a0af981985144e473d2bb32f450e557d8d5d1/ramseier-apfelschorle.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/9f95297b483a6c94d1ee97eff567d59cd3b9e60b.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494771",
+            "name": "Fruit & vegetable juices",
+            "slugs": [
+                "drinks-coffee-tea",
+                "fruit-vegetable-juices"
+            ]
+        },
+        {
+            "id": "7494959",
+            "name": "Apple juice",
+            "slugs": [
+                "drinks-coffee-tea",
+                "fruit-vegetable-juices",
+                "apple-juice"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/121003200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "16.20",
+            "advertisedDisplayValue": "16.20",
+            "effectiveDisplayValue": "16.20",
+            "multiplier": 1,
+            "value": 16.2,
+            "effectiveValue": 16.2,
+            "advertisedValue": 16.2,
+            "unitPrice": {
+                "value": 0.18,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "6 x 1.5l",
+        "quantityPrice": "0.18/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T06:31:38"
+}

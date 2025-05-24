@@ -1,0 +1,149 @@
+{
+    "uid": 100000389,
+    "migrosId": "747095700060",
+    "migrosOnlineId": "4983803",
+    "name": "Bib with loophole",
+    "brand": "Milette",
+    "brandLine": "Baby Care",
+    "versioning": "45 x 30 cm",
+    "title": "Milette Baby Care · Bib with loophole · 45 x 30 cm",
+    "description": "Milette Bib with loophole 45 x 30 cm",
+    "productRange": "VARIANT",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Milette",
+                "slug": "milette",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076999/brands/Milette_Logo"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 2,
+                    "productionRatio": 32,
+                    "transportRatio": 28,
+                    "packagingRatio": 40,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/747095700060"
+        },
+        "usageInformation": {
+            "additionalInformation": "This article is available in different colors. The variant that you receive with your order may vary."
+        },
+        "otherInformation": {
+            "articleNumber": "747095700060",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613432417143",
+        "7613432395465"
+    ],
+    "variants": {
+        "baseProductMigrosId": "747095700000",
+        "mainVariantMigrosId": "747095700060",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "000",
+                    "color": "green"
+                },
+                "migrosId": "747095700060"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "green",
+                "options": [
+                    "green"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "000",
+                "options": [
+                    "000"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/59637597937a80475850a1a058de0072ee136fc0/milette-pull-over-bib.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/9f100a069b06e89617d0bf9d3ec46127a393bcbb.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "7494823",
+            "name": "Baby equipment",
+            "slugs": [
+                "baby-kids",
+                "baby-equipment"
+            ]
+        },
+        {
+            "id": "7495222",
+            "name": "Table accessories",
+            "slugs": [
+                "baby-kids",
+                "baby-equipment",
+                "table-accessories"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/747095700060",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "8.95",
+            "advertisedDisplayValue": "8.95",
+            "effectiveDisplayValue": "8.95",
+            "multiplier": 1,
+            "value": 8.95,
+            "effectiveValue": 8.95,
+            "advertisedValue": 8.95,
+            "unitPrice": {
+                "value": 8.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "8.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:55:39"
+}

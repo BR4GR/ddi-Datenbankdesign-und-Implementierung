@@ -1,0 +1,205 @@
+{
+    "uid": 100094960,
+    "migrosId": "848313700435",
+    "name": "Roll Bag",
+    "brand": "MIGROS TRAVEL & CO.",
+    "title": "Roll Bag",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "MIGROS TRAVEL & CO.",
+                "slug": "migros-travel-co",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1689862767/brands/Migros_Travel_und_Co"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 2,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/848313700435"
+        },
+        "otherInformation": {
+            "articleNumber": "848313700435",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Height",
+                    "value": "67 cm"
+                },
+                {
+                    "code": "Depth",
+                    "value": "30 cm"
+                },
+                {
+                    "code": "Width",
+                    "value": "35 cm"
+                },
+                {
+                    "code": "Weight",
+                    "value": "3 kg"
+                },
+                {
+                    "code": "Volume",
+                    "value": "70 l"
+                },
+                {
+                    "code": "Category/theme",
+                    "value": "Rolltaschen"
+                },
+                {
+                    "code": "Lock type",
+                    "value": "TSA-Schloss"
+                },
+                {
+                    "code": "Main material",
+                    "value": "Recycling Polyester"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "Weichgepäck"
+                },
+                {
+                    "code": "Rollen",
+                    "value": "2-Rollen"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613434640839"
+    ],
+    "variants": {
+        "baseProductMigrosId": "848313700000",
+        "mainVariantMigrosId": "848313700356",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "rust",
+                    "size": "S"
+                },
+                "migrosId": "848313700356"
+            },
+            {
+                "declinationOptions": {
+                    "color": "khaki",
+                    "size": "S"
+                },
+                "migrosId": "848313700364"
+            },
+            {
+                "declinationOptions": {
+                    "color": "black",
+                    "size": "M"
+                },
+                "migrosId": "848313700420"
+            },
+            {
+                "declinationOptions": {
+                    "color": "aubergine",
+                    "size": "M"
+                },
+                "migrosId": "848313700435"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "aubergine",
+                "options": [
+                    "rust",
+                    "khaki",
+                    "black",
+                    "aubergine"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "M",
+                "options": [
+                    "S",
+                    "M"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/e14c1c4eda6b58e8ac81404db7a4c9d420d74841/roll-bag.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/b87d562c652dbab085365c3631bb7ef0639beb1f.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/257490b98aafa28518f49c9aeb3de8bbcb57d2d0.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/4d7fe8c8e92aae7b0c35d74c309fced0f755c126.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10555197",
+            "name": "Travel",
+            "slugs": [
+                "clothing-accessories",
+                "travel"
+            ]
+        },
+        {
+            "id": "10555213",
+            "name": "Roller suitcases",
+            "slugs": [
+                "clothing-accessories",
+                "travel",
+                "roller-suitcases"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/848313700435",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "79.95",
+            "advertisedDisplayValue": "79.95",
+            "effectiveDisplayValue": "79.95",
+            "multiplier": 1,
+            "value": 79.95,
+            "effectiveValue": 79.95,
+            "advertisedValue": 79.95,
+            "unitPrice": {
+                "value": 79.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "79.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-18T17:53:27"
+}

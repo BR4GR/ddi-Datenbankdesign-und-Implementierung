@@ -1,0 +1,93 @@
+{
+    "uid": 100170460,
+    "migrosId": "120231900000",
+    "migrosOnlineId": "12791258",
+    "name": "Hydration drink",
+    "brand": "Prime",
+    "versioning": "Strawberry Watermelon",
+    "title": "Prime · Hydration drink · Strawberry Watermelon",
+    "description": "Prime Hydration drink Strawberry Watermelon",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Prime",
+                "slug": "prime"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/120231900000"
+        },
+        "otherInformation": {
+            "articleNumber": "120231900000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7640427571894",
+        "4004019073051"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/2c689daf433bc301de023b1e38128d02836401cc/prime-strawberry-melon.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494734",
+            "name": "Drinks, coffee & tea",
+            "slugs": [
+                "drinks-coffee-tea"
+            ]
+        },
+        {
+            "id": "7494769",
+            "name": "Soft drinks",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks"
+            ]
+        },
+        {
+            "id": "7494953",
+            "name": "Energy & sport drinks",
+            "slugs": [
+                "drinks-coffee-tea",
+                "soft-drinks",
+                "energy-sport-drinks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/120231900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.80",
+            "advertisedDisplayValue": "2.80",
+            "effectiveDisplayValue": "2.80",
+            "multiplier": 1,
+            "value": 2.8,
+            "effectiveValue": 2.8,
+            "advertisedValue": 2.8,
+            "unitPrice": {
+                "value": 0.56,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "500ml",
+        "quantityPrice": "0.56/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T01:08:51"
+}

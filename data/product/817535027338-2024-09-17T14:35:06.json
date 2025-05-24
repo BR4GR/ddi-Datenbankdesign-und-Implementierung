@@ -1,0 +1,146 @@
+{
+    "uid": 100083550,
+    "migrosId": "817535027338",
+    "name": "DIM Underwire bra",
+    "brand": "Dim",
+    "title": "DIM Underwire bra",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Dim",
+                "slug": "dim"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/817535027338"
+        },
+        "otherInformation": {
+            "articleNumber": "817535027338",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Article type",
+                    "value": "BH mit Bügel"
+                },
+                {
+                    "code": "Material",
+                    "value": "Polyamid"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "75 %"
+                },
+                {
+                    "code": "Material 2",
+                    "value": "Elasthan"
+                },
+                {
+                    "code": "Proportion of material 2",
+                    "value": "25 %"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "3610861828919"
+    ],
+    "variants": {
+        "baseProductMigrosId": "817535000000",
+        "mainVariantMigrosId": "817535027238",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "80E",
+                    "color": "rose 1"
+                },
+                "migrosId": "817535027238"
+            },
+            {
+                "declinationOptions": {
+                    "size": "85E",
+                    "color": "rose 1"
+                },
+                "migrosId": "817535027338"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "rose 1",
+                "options": [
+                    "rose 1"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "85E",
+                "options": [
+                    "80E",
+                    "85E"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/fedade5379150805bc6d27179db20272d1685153/dim-underwire-bra.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10553347",
+            "name": "Women",
+            "slugs": [
+                "clothing-accessories",
+                "women"
+            ]
+        },
+        {
+            "id": "10553434",
+            "name": "Bras",
+            "slugs": [
+                "clothing-accessories",
+                "women",
+                "bras"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/817535027338",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "49.95",
+            "advertisedDisplayValue": "49.95",
+            "effectiveDisplayValue": "49.95",
+            "multiplier": 1,
+            "value": 49.95,
+            "effectiveValue": 49.95,
+            "advertisedValue": 49.95
+        },
+        "quantity": "1 Stk.",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T14:35:06"
+}

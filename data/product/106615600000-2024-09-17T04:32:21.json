@@ -1,0 +1,123 @@
+{
+    "uid": 100033455,
+    "migrosId": "106615600000",
+    "migrosOnlineId": "211221",
+    "name": "Horseradish Cream",
+    "brand": "M-Classic",
+    "title": "M-Classic · Horseradish Cream",
+    "description": "M-Classic Horseradish Cream ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Classic",
+                "slug": "m-classic",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252457/brands/m-classic"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 3,
+                    "co2CarKmEquivalent": 16,
+                    "productionRatio": 92,
+                    "transportRatio": 2,
+                    "packagingRatio": 5,
+                    "image": "https://image.migros.ch/original/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "co2KgRange": "2 - 4.7 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 196,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/106615600000"
+        },
+        "usageInformation": {
+            "usage": "Goes ideally with smoked salmon, boiled meat, Wienerli and bread. A piquant plus for your sauces and dips."
+        },
+        "otherInformation": {
+            "articleNumber": "106615600000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Type of sauce/dip",
+                    "value": "Meerrettich"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Tube"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7616600380461",
+        "7613269180258"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/12809c0ad56f402f96d81dfec78108231114a63e/m-classic-meerrettich-creme.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494735",
+            "name": "Pasta, condiments & canned food",
+            "slugs": [
+                "pasta-condiments-canned-food"
+            ]
+        },
+        {
+            "id": "7494776",
+            "name": "Spices & sauces",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces"
+            ]
+        },
+        {
+            "id": "7494980",
+            "name": "Cold sauces",
+            "slugs": [
+                "pasta-condiments-canned-food",
+                "spices-sauces",
+                "cold-sauces"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/106615600000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.95",
+            "advertisedDisplayValue": "2.95",
+            "effectiveDisplayValue": "2.95",
+            "multiplier": 1,
+            "value": 2.95,
+            "effectiveValue": 2.95,
+            "advertisedValue": 2.95,
+            "unitPrice": {
+                "value": 1.64,
+                "unit": "100g"
+            }
+        },
+        "quantity": "180g",
+        "quantityPrice": "1.64/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:32:21"
+}

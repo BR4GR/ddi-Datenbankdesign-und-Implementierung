@@ -1,0 +1,193 @@
+{
+    "uid": 100167185,
+    "migrosId": "101163200000",
+    "name": "Ice Tea Gum Pfirisch",
+    "brand": "Ice Tea",
+    "title": "Ice Tea Gum Pfirisch",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "Ice Tea",
+                "slug": "ice-tea",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076769/brands/IceTea_Logo"
+            },
+            "ingredients": "sweeteners: sorbitol, isomalt, maltitol syrup, xylitol, sucralose and steviol glycosides from Stevia, gum base (with antioxidant: E 306), humectants: E 1518 and E 422, acids: malic acid and citric acid, flavourings, thickener: gum arabic, glazing agent: E 903, colour: E 160a.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/101163200000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "737 kJ (177 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "< 0.5 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "< 0.1 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Carbohydrate",
+                        "values": [
+                            "71 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "< 0.1 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which polyvalents alcohols",
+                        "values": [
+                            "71 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fibre",
+                        "values": [
+                            "0.8 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "< 0.5 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "< 0.01 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "101163200000",
+            "legalDesignation": "Sugarfree chewing gum with peach flavouring and sweeteners",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Warning and other mandatory information",
+                    "value": "Excessive consumption may produce laxative effects."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312449585"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/0a207e088421eaa4d16f645568a17bfdd697e12a/ice-tea-gum-pfirisch.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494782",
+            "name": "Chocolate & sweets",
+            "slugs": [
+                "snacks-sweets",
+                "chocolate-sweets"
+            ]
+        },
+        {
+            "id": "7495022",
+            "name": "Chewing gum",
+            "slugs": [
+                "snacks-sweets",
+                "chocolate-sweets",
+                "chewing-gum"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/101163200000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.10",
+            "advertisedDisplayValue": "3.10",
+            "effectiveDisplayValue": "3.10",
+            "multiplier": 1,
+            "value": 3.1,
+            "effectiveValue": 3.1,
+            "advertisedValue": 3.1,
+            "unitPrice": {
+                "value": 4.84,
+                "unit": "100g"
+            }
+        },
+        "quantity": "64g",
+        "quantityPrice": "4.84/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-18T06:52:02"
+}

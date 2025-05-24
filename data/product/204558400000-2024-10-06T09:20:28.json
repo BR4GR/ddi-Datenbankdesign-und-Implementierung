@@ -1,0 +1,118 @@
+{
+    "uid": 100031429,
+    "migrosId": "204558400000",
+    "migrosOnlineId": "6479610",
+    "name": "Milk drink",
+    "brand": "Lattesso",
+    "versioning": "Zero",
+    "title": "Lattesso · Milk drink · Zero",
+    "description": "Lattesso Milk drink Zero",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "brand": {
+                "name": "Lattesso",
+                "slug": "lattesso"
+            },
+            "nutritionalCharacteristics": [
+                "No added sugar"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "No added sugar",
+                    "additionalInformation": "No added sugar. Contains naturally occurring sugars."
+                }
+            ],
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 16,
+                "nbStars": 4.5
+            }
+        },
+        "usageInformation": {
+            "additionalInformation": "Lactose-free"
+        },
+        "otherInformation": {
+            "articleNumber": "204558400000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Gesundheits und nährwertbezogene Auslobung",
+                    "value": "No added sugar. Contains naturally occurring sugars."
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7640145772160",
+        "7640145772078"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/54e353f0c2928c1abf53332a3463682acb183763/lattesso-zero.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/4c68f52335edaf4a0815cf5d70b008c163a2213d.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494751",
+            "name": "Milk, butter & eggs",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "milk-butter-eggs"
+            ]
+        },
+        {
+            "id": "7494867",
+            "name": "Milk & dairy drinks",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "milk-butter-eggs",
+                "milk-dairy-drinks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/204558400000",
+    "isMgbCompatible": false,
+    "isConsignmentProduct": false,
+    "offer": {
+        "isVariableWeight": false,
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "REGION",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679482984/labels/suisse",
+                "description": "Switzerland"
+            },
+            {
+                "type": "FRESHNESS",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483166/labels/fresh",
+                "description": "fresh"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true
+    },
+    "dateAdded": "2024-10-06T09:20:28"
+}

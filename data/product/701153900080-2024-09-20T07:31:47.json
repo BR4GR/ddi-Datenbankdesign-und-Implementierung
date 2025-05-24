@@ -1,0 +1,172 @@
+{
+    "uid": 100124191,
+    "migrosId": "701153900080",
+    "name": "Star Longdrink thin grey, 4 pieces, 50cl",
+    "brand": "MIGROS KITCHEN & CO.",
+    "title": "Star Longdrink thin grey, 4 pieces, 50cl",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "MIGROS KITCHEN & CO.",
+                "slug": "migros-kitchen-co",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1715075047/brands/MIGROS_KitchenCo_CS4"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 54,
+                    "productionRatio": 97,
+                    "transportRatio": 1,
+                    "packagingRatio": 2,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                }
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/701153900080"
+        },
+        "otherInformation": {
+            "articleNumber": "701153900080",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Material",
+                    "value": "Glas"
+                },
+                {
+                    "code": "Number of glasses/package",
+                    "value": "4 Pcs."
+                },
+                {
+                    "code": "Color",
+                    "value": "grau"
+                },
+                {
+                    "code": "Microwave-safe",
+                    "value": "No"
+                },
+                {
+                    "code": "Volume",
+                    "value": "50"
+                },
+                {
+                    "code": "Dishwasher-safe",
+                    "value": "Yes"
+                },
+                {
+                    "code": "suitable for food products",
+                    "value": "Yes"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613434954363"
+    ],
+    "variants": {
+        "baseProductMigrosId": "701153900000",
+        "mainVariantMigrosId": "701153900060",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "000",
+                    "color": "green"
+                },
+                "migrosId": "701153900060"
+            },
+            {
+                "declinationOptions": {
+                    "size": "000",
+                    "color": "grey"
+                },
+                "migrosId": "701153900080"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "grey",
+                "options": [
+                    "green",
+                    "grey"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "000",
+                "options": [
+                    "000"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/54c6778d07a461376d26b2e5b694aa00bb89b6f5/star-longdrink-thin-grey-4-pieces-50cl.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494814",
+            "name": "Kitchen & dining",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining"
+            ]
+        },
+        {
+            "id": "7495178",
+            "name": "Table",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining",
+                "table"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/701153900080",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "24.95",
+            "advertisedDisplayValue": "24.95",
+            "effectiveDisplayValue": "24.95",
+            "multiplier": 1,
+            "value": 24.95,
+            "effectiveValue": 24.95,
+            "advertisedValue": 24.95,
+            "unitPrice": {
+                "value": 6.24,
+                "unit": "piece"
+            }
+        },
+        "quantity": "4 Stk.",
+        "quantityPrice": "6.24/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-20T07:31:47"
+}

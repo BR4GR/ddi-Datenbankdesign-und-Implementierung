@@ -1,0 +1,195 @@
+{
+    "uid": 100168893,
+    "migrosId": "889010230206",
+    "name": "Kids T-shirt",
+    "brand": "Kids",
+    "title": "Kids T-shirt",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L07",
+                    "name": "ECO",
+                    "slug": "eco",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483145/labels/Eco-Textilien_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "Kids",
+                "slug": "kids",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076840/brands/KIDS_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/889010230206"
+        },
+        "otherInformation": {
+            "articleNumber": "889010230206",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Zielgruppe",
+                    "value": "Kinder"
+                },
+                {
+                    "code": "Material",
+                    "value": "Baumwolle"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "100 %"
+                },
+                {
+                    "code": "Age",
+                    "value": "6-8 Jahre"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871676112"
+    ],
+    "variants": {
+        "baseProductMigrosId": "889010200000",
+        "mainVariantMigrosId": "889010230006",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "lilac",
+                    "size": "2-4 // 98/104"
+                },
+                "migrosId": "889010230006"
+            },
+            {
+                "declinationOptions": {
+                    "color": "green",
+                    "size": "2-4 // 98/104"
+                },
+                "migrosId": "889010230060"
+            },
+            {
+                "declinationOptions": {
+                    "color": "lilac",
+                    "size": "4-6 // 110/116"
+                },
+                "migrosId": "889010230106"
+            },
+            {
+                "declinationOptions": {
+                    "color": "green",
+                    "size": "4-6 // 110/116"
+                },
+                "migrosId": "889010230160"
+            },
+            {
+                "declinationOptions": {
+                    "color": "lilac",
+                    "size": "6-8 // 122/128"
+                },
+                "migrosId": "889010230206"
+            },
+            {
+                "declinationOptions": {
+                    "color": "green",
+                    "size": "6-8 // 122/128"
+                },
+                "migrosId": "889010230260"
+            },
+            {
+                "declinationOptions": {
+                    "color": "lilac",
+                    "size": "8-10 // 134/140"
+                },
+                "migrosId": "889010230306"
+            },
+            {
+                "declinationOptions": {
+                    "color": "green",
+                    "size": "8-10 // 134/140"
+                },
+                "migrosId": "889010230360"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "lilac",
+                "options": [
+                    "lilac",
+                    "green"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "6-8 // 122/128",
+                "options": [
+                    "2-4 // 98/104",
+                    "4-6 // 110/116",
+                    "6-8 // 122/128",
+                    "8-10 // 134/140"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/3975f125191312643b8d262717138d5fb4ac00a2/kids-t-shirt.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "11117258",
+            "name": "Children's clothing",
+            "slugs": [
+                "baby-kids",
+                "childrens-clothing"
+            ]
+        },
+        {
+            "id": "11124117",
+            "name": "Children's clothes",
+            "slugs": [
+                "baby-kids",
+                "childrens-clothing",
+                "childrens-clothes"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/889010230206",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "12.95",
+            "advertisedDisplayValue": "12.95",
+            "effectiveDisplayValue": "12.95",
+            "multiplier": 1,
+            "value": 12.95,
+            "effectiveValue": 12.95,
+            "advertisedValue": 12.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T10:01:34"
+}

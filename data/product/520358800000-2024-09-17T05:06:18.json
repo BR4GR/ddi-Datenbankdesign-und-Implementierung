@@ -1,0 +1,121 @@
+{
+    "uid": 100063291,
+    "migrosId": "520358800000",
+    "migrosOnlineId": "7795575",
+    "name": "Band aid",
+    "brand": "M-Plast",
+    "title": "M-Plast · Band aid",
+    "description": "M-Plast Band aid ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Plast",
+                "slug": "m-plast",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076947/brands/M-Plast_Logo"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 4,
+                    "co2CarKmEquivalent": 18,
+                    "productionRatio": 90,
+                    "transportRatio": 4,
+                    "packagingRatio": 5,
+                    "image": "https://image.migros.ch/original/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/0a2093a1718156b317e9aac46d5c2589cfde38b7.svg",
+                    "co2KgRange": "1 - 1.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 29,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/520358800000"
+        },
+        "usageInformation": {
+            "additionalInformation": "Skin-friendly plaster, to be cut to size, made of elastic textile."
+        },
+        "otherInformation": {
+            "articleNumber": "520358800000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Product type",
+                    "value": "Pflaster"
+                },
+                {
+                    "code": "Suitable for",
+                    "value": "Wundpflege"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312367704"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/d/{stack}/o-af-1-t.clr-fff/8882611a57c73a74b6ce77b4954dd5b92d8f80a8/m-plast-plaster-textile.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494743",
+            "name": "Drugstore & cosmetics",
+            "slugs": [
+                "drugstore-cosmetics"
+            ]
+        },
+        {
+            "id": "7494831",
+            "name": "Drugstore",
+            "slugs": [
+                "drugstore-cosmetics",
+                "drugstore"
+            ]
+        },
+        {
+            "id": "7495264",
+            "name": "Medicine cabinet & plaster",
+            "slugs": [
+                "drugstore-cosmetics",
+                "drugstore",
+                "medicine-cabinet-plaster"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/520358800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.20",
+            "advertisedDisplayValue": "2.20",
+            "effectiveDisplayValue": "2.20",
+            "multiplier": 1,
+            "value": 2.2,
+            "effectiveValue": 2.2,
+            "advertisedValue": 2.2,
+            "unitPrice": {
+                "value": 0.22,
+                "unit": "piece"
+            }
+        },
+        "quantity": "10 Stk.",
+        "quantityPrice": "0.22/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:06:18"
+}

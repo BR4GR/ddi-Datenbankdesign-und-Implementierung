@@ -1,0 +1,133 @@
+{
+    "uid": 100079816,
+    "migrosId": "708201901720",
+    "name": "Knopflochelastic",
+    "title": "Knopflochelastic",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 6,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/708201901720"
+        },
+        "otherInformation": {
+            "articleNumber": "708201901720",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Area of application",
+                    "value": "Flicken, säumen"
+                },
+                {
+                    "code": "Number",
+                    "value": "1 Pcs."
+                },
+                {
+                    "code": "Dimensions/size",
+                    "value": "17mm x 2m"
+                },
+                {
+                    "code": "Material",
+                    "value": "Elastodien, Polyester"
+                },
+                {
+                    "code": "Color",
+                    "value": "schwarz"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613047204541"
+    ],
+    "variants": {
+        "baseProductMigrosId": "708201900000",
+        "mainVariantMigrosId": "708201901720",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "SCHWARZ 17MM"
+                },
+                "migrosId": "708201901720"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "SCHWARZ 17MM",
+                "options": [
+                    "SCHWARZ 17MM"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/867203e50b5281aef77cd53704f318dc949e45b2/knopflochelastic.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494812",
+            "name": "DIY, home decoration and haberdashery",
+            "slugs": [
+                "household-and-living",
+                "diy-home-decoration-and-haberdas"
+            ]
+        },
+        {
+            "id": "7495164",
+            "name": "Haberdashery",
+            "slugs": [
+                "household-and-living",
+                "diy-home-decoration-and-haberdas",
+                "haberdashery"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/708201901720",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.95",
+            "advertisedDisplayValue": "3.95",
+            "effectiveDisplayValue": "3.95",
+            "multiplier": 1,
+            "value": 3.95,
+            "effectiveValue": 3.95,
+            "advertisedValue": 3.95,
+            "unitPrice": {
+                "value": 1.98,
+                "unit": "piece"
+            }
+        },
+        "quantity": "2 Stk.",
+        "quantityPrice": "1.98/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-18T08:01:35"
+}

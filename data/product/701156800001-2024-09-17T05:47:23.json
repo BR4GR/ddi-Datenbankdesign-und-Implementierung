@@ -1,0 +1,176 @@
+{
+    "uid": 100124190,
+    "migrosId": "701156800001",
+    "migrosOnlineId": "11045410",
+    "name": "Drinking glasses",
+    "brand": "Migros Kitchen & Co.",
+    "brandLine": "Basic",
+    "versioning": "6 x 22cl, Proescco",
+    "title": "Migros Kitchen & Co. Basic · Drinking glasses · 6 x 22cl, Proescco",
+    "description": "Migros Kitchen & Co. Drinking glasses 6 x 22cl, Proescco",
+    "productRange": "VARIANT",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Kitchen & Co.",
+                "slug": "migros-kitchen-co",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1715075047/brands/MIGROS_KitchenCo_CS4"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 2,
+                    "co2CarKmEquivalent": 53,
+                    "productionRatio": 97,
+                    "transportRatio": 1,
+                    "packagingRatio": 2,
+                    "image": "https://image.migros.ch/original/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/6137c42cbff331738ddeafb4f91efb06075417b3.svg",
+                    "co2KgRange": "4.8 - 9.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 8,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/701156800001"
+        },
+        "otherInformation": {
+            "articleNumber": "701156800001",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Material",
+                    "value": "Glas"
+                },
+                {
+                    "code": "Number of glasses/package",
+                    "value": "6 Pcs."
+                },
+                {
+                    "code": "Color",
+                    "value": "transparent"
+                },
+                {
+                    "code": "Microwave-safe",
+                    "value": "No"
+                },
+                {
+                    "code": "Volume",
+                    "value": "22"
+                },
+                {
+                    "code": "Dishwasher-safe",
+                    "value": "Yes"
+                },
+                {
+                    "code": "suitable for food products",
+                    "value": "Yes"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613434954813"
+    ],
+    "variants": {
+        "baseProductMigrosId": "701156800000",
+        "mainVariantMigrosId": "701156800001",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "typ_art": "PROSECCO"
+                },
+                "migrosId": "701156800001"
+            },
+            {
+                "declinationOptions": {
+                    "typ_art": "BIANCO"
+                },
+                "migrosId": "701156800002"
+            },
+            {
+                "declinationOptions": {
+                    "typ_art": "ROSSO"
+                },
+                "migrosId": "701156800003"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "typ_art",
+                "dimensionName": "Art",
+                "currentValue": "PROSECCO",
+                "options": [
+                    "PROSECCO",
+                    "BIANCO",
+                    "ROSSO"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/ebc1259e88bbdcec96c59aa5d655cc28e713abfc/basic-prosecco-6-pieces-22cl.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494814",
+            "name": "Kitchen & dining",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining"
+            ]
+        },
+        {
+            "id": "7495178",
+            "name": "Table",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining",
+                "table"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/701156800001",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "19.95",
+            "advertisedDisplayValue": "19.95",
+            "effectiveDisplayValue": "19.95",
+            "multiplier": 1,
+            "value": 19.95,
+            "effectiveValue": 19.95,
+            "advertisedValue": 19.95,
+            "unitPrice": {
+                "value": 3.33,
+                "unit": "piece"
+            }
+        },
+        "quantity": "6 Stk.",
+        "quantityPrice": "3.33/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T05:47:23"
+}

@@ -1,0 +1,95 @@
+{
+    "uid": 100144014,
+    "migrosId": "130474800000",
+    "name": "Rapelli Canapé cotto salame",
+    "brand": "Rapelli",
+    "title": "Rapelli Canapé cotto salame",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Rapelli",
+                "slug": "rapelli",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1642402946/brands/Rapelli_Rapelli_SA_Logo"
+            },
+            "rating": {
+                "nbReviews": 9,
+                "nbStars": 4.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/130474800000"
+        },
+        "otherInformation": {
+            "articleNumber": "130474800000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7610352673581",
+        "7610352873585"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/8b5a62c13920285e986afa835bcef4b5d5a9992f/rapelli-canape-cotto-salame.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494754",
+            "name": "Fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food"
+            ]
+        },
+        {
+            "id": "7494887",
+            "name": "Ready-made meals",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food",
+                "ready-made-meals"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/130474800000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.20",
+            "advertisedDisplayValue": "5.20",
+            "effectiveDisplayValue": "5.20",
+            "multiplier": 1,
+            "value": 5.2,
+            "effectiveValue": 5.2,
+            "advertisedValue": 5.2,
+            "unitPrice": {
+                "value": 4,
+                "unit": "100g"
+            }
+        },
+        "quantity": "130g",
+        "quantityPrice": "4.–/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T01:13:05"
+}

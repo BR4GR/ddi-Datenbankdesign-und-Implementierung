@@ -1,0 +1,102 @@
+{
+    "uid": 100109366,
+    "migrosId": "264636509300",
+    "name": "VitaminBag Exotenfrüchte",
+    "brand": "Migros Fresca",
+    "title": "VitaminBag Exotenfrüchte",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Fresca",
+                "slug": "migros-fresca",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076970/brands/Migros_Fresca_Logo"
+            },
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 2,
+                    "productionRatio": 60,
+                    "transportRatio": 27,
+                    "packagingRatio": 12,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/264636509300"
+        },
+        "otherInformation": {
+            "articleNumber": "264636509300",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613404905371"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/bdd065408a505c0146f13bda812248e779f17408/vitaminbag-exotenfruechte.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494732",
+            "name": "Fruits & vegetables",
+            "slugs": [
+                "fruits-vegetables"
+            ]
+        },
+        {
+            "id": "7494762",
+            "name": "Vitamin baskets",
+            "slugs": [
+                "fruits-vegetables",
+                "vitamin-baskets"
+            ]
+        },
+        {
+            "id": "7494921",
+            "name": "Fruits",
+            "slugs": [
+                "fruits-vegetables",
+                "vitamin-baskets",
+                "fruits"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/264636509300",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "12.95",
+            "advertisedDisplayValue": "12.95",
+            "effectiveDisplayValue": "12.95",
+            "multiplier": 1,
+            "value": 12.95,
+            "effectiveValue": 12.95,
+            "advertisedValue": 12.95,
+            "unitPrice": {
+                "value": 0.4,
+                "unit": "100g"
+            }
+        },
+        "quantity": "3200g",
+        "quantityPrice": "0.40/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T04:01:41"
+}

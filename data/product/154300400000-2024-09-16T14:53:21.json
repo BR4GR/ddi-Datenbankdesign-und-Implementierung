@@ -1,0 +1,181 @@
+{
+    "uid": 100103850,
+    "migrosId": "154300400000",
+    "name": "Aus der Region Tartinade Courgettes",
+    "brand": "Côté Jardin",
+    "title": "Aus der Region Tartinade Courgettes",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                }
+            ],
+            "brand": {
+                "name": "Côté Jardin",
+                "slug": "cote-jardin"
+            },
+            "ingredients": "Courgette 95%, huile de colza 5%, ail 0.6%, coriandre 0.33%, sel de cuisine 0.33%.",
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/154300400000"
+        },
+        "nutrientsInformation": {
+            "nutrientsTable": {
+                "headers": [
+                    "100 g"
+                ],
+                "rows": [
+                    {
+                        "label": "Energy",
+                        "values": [
+                            "256 kJ (61 kcal)",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Fat",
+                        "values": [
+                            "4.9 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "MEDIUM"
+                    },
+                    {
+                        "label": "of which saturates",
+                        "values": [
+                            "0.3 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "of which sugars",
+                        "values": [
+                            "2.3 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    },
+                    {
+                        "label": "Protein",
+                        "values": [
+                            "1.9 g",
+                            "",
+                            ""
+                        ]
+                    },
+                    {
+                        "label": "Salt",
+                        "values": [
+                            "0.1 g",
+                            "",
+                            ""
+                        ],
+                        "fsaLevel": "LOW"
+                    }
+                ]
+            },
+            "isAnalyticalConstituents": false
+        },
+        "otherInformation": {
+            "articleNumber": "154300400000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "remarks": [
+                {
+                    "code": "Instructions de stockage pour le consommateur",
+                    "value": "Après ouverture, conserver à +5 °C au max. et consommer rapidement. Conserver au sec et à l’abri de la chaleur."
+                }
+            ],
+            "mainSpecificities": [
+                {
+                    "code": "Production process",
+                    "value": "From the Region"
+                },
+                {
+                    "code": "Number of removable individual units",
+                    "value": "130 g"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Glass"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7640160011114"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/8f8495a2889ee2631df3757a939f2180fd5cc14b/aus-der-region-tartinade-courgettes.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494736",
+            "name": "Snacks & sweets",
+            "slugs": [
+                "snacks-sweets"
+            ]
+        },
+        {
+            "id": "7494780",
+            "name": "Snacks & crisps",
+            "slugs": [
+                "snacks-sweets",
+                "snacks-crisps"
+            ]
+        },
+        {
+            "id": "7495009",
+            "name": "Dips & sauces",
+            "slugs": [
+                "snacks-sweets",
+                "snacks-crisps",
+                "dips-sauces"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/154300400000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.90",
+            "advertisedDisplayValue": "5.90",
+            "effectiveDisplayValue": "5.90",
+            "multiplier": 1,
+            "value": 5.9,
+            "effectiveValue": 5.9,
+            "advertisedValue": 5.9,
+            "unitPrice": {
+                "value": 4.54,
+                "unit": "100g"
+            }
+        },
+        "quantity": "130g",
+        "quantityPrice": "4.54/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T14:53:21"
+}

@@ -1,0 +1,92 @@
+{
+    "uid": 100145104,
+    "migrosId": "220662000100",
+    "name": "M-Classic Schweinsfilet",
+    "brand": "M-Classic",
+    "title": "M-Classic Schweinsfilet",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Classic",
+                "slug": "m-classic",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252457/brands/m-classic"
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/220662000100"
+        },
+        "otherInformation": {
+            "articleNumber": "220662000100",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "2163663000003",
+        "142120",
+        "7613404050606"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/c9a6a5cde9ee1fb55a96948b4e3021beaf40d74b/m-classic-schweinsfilet.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494747",
+            "name": "Meat & poultry",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry"
+            ]
+        },
+        {
+            "id": "7494843",
+            "name": "Pork",
+            "slugs": [
+                "meat-fish",
+                "meat-poultry",
+                "pork"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/220662000100",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.20",
+            "advertisedDisplayValue": "5.20",
+            "effectiveDisplayValue": "5.20",
+            "multiplier": 1,
+            "value": 5.2,
+            "effectiveValue": 5.2,
+            "advertisedValue": 5.2,
+            "unitPrice": {
+                "value": 5.2,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "5.20/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:57:19"
+}

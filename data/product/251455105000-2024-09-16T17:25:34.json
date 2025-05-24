@@ -1,0 +1,84 @@
+{
+    "uid": 100144992,
+    "migrosId": "251455105000",
+    "name": "Mezzaluna verdura",
+    "title": "Mezzaluna verdura",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/251455105000"
+        },
+        "otherInformation": {
+            "articleNumber": "251455105000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613404585160"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/8a0264c9e02452f6e2a8072eddd235749db973be/mezzaluna-verdura.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494754",
+            "name": "Fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food"
+            ]
+        },
+        {
+            "id": "7494888",
+            "name": "Antipasti & sauces",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "fresh-convenience-food",
+                "antipasti-sauces"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/251455105000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.25",
+            "advertisedDisplayValue": "7.25",
+            "effectiveDisplayValue": "7.25",
+            "multiplier": 1,
+            "value": 7.25,
+            "effectiveValue": 7.25,
+            "advertisedValue": 7.25,
+            "unitPrice": {
+                "value": 5.8,
+                "unit": "100g"
+            }
+        },
+        "quantity": "125g",
+        "quantityPrice": "5.80/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T17:25:34"
+}

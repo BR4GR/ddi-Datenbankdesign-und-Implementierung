@@ -1,0 +1,191 @@
+{
+    "uid": 100080098,
+    "migrosId": "723379200030",
+    "name": "Raureifkerze",
+    "brand": "Migros Ambiance",
+    "title": "Raureifkerze",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Migros Ambiance",
+                "slug": "migros-ambiance"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 35,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/723379200030"
+        },
+        "otherInformation": {
+            "articleNumber": "723379200030",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Content quantity",
+                    "value": "1 Pcs."
+                },
+                {
+                    "code": "Burn time",
+                    "value": "58 h"
+                },
+                {
+                    "code": "Material",
+                    "value": "Paraffin- / Stearingemisch"
+                },
+                {
+                    "code": "Diameter",
+                    "value": "7.8"
+                },
+                {
+                    "code": "Color",
+                    "value": "rot"
+                },
+                {
+                    "code": "Height",
+                    "value": "14 cm"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613346271657"
+    ],
+    "variants": {
+        "baseProductMigrosId": "723379200000",
+        "mainVariantMigrosId": "723379200010",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "WEISS"
+                },
+                "migrosId": "723379200010"
+            },
+            {
+                "declinationOptions": {
+                    "color": "CRÉME"
+                },
+                "migrosId": "723379200015"
+            },
+            {
+                "declinationOptions": {
+                    "color": "ROT"
+                },
+                "migrosId": "723379200030"
+            },
+            {
+                "declinationOptions": {
+                    "color": "ORANGE"
+                },
+                "migrosId": "723379200034"
+            },
+            {
+                "declinationOptions": {
+                    "color": "H.ROSA"
+                },
+                "migrosId": "723379200036"
+            },
+            {
+                "declinationOptions": {
+                    "color": "BLAU"
+                },
+                "migrosId": "723379200040"
+            },
+            {
+                "declinationOptions": {
+                    "color": "FLIEDER"
+                },
+                "migrosId": "723379200047"
+            },
+            {
+                "declinationOptions": {
+                    "color": "GRASGRÜN"
+                },
+                "migrosId": "723379200062"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "ROT",
+                "options": [
+                    "WEISS",
+                    "CRÉME",
+                    "ROT",
+                    "ORANGE",
+                    "H.ROSA",
+                    "BLAU",
+                    "FLIEDER",
+                    "GRASGRÜN"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/6a9e2ee7c9ed52992882e996dce18a2994b50b87/raureifkerze.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494811",
+            "name": "Household aids",
+            "slugs": [
+                "household-and-living",
+                "household-aids"
+            ]
+        },
+        {
+            "id": "7495616",
+            "name": "Candles and candlesticks",
+            "slugs": [
+                "household-and-living",
+                "household-aids",
+                "candles-and-candlesticks"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/723379200030",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "5.95",
+            "advertisedDisplayValue": "5.95",
+            "effectiveDisplayValue": "5.95",
+            "multiplier": 1,
+            "value": 5.95,
+            "effectiveValue": 5.95,
+            "advertisedValue": 5.95,
+            "unitPrice": {
+                "value": 5.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "5.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-18T07:17:32"
+}

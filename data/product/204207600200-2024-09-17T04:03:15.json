@@ -1,0 +1,140 @@
+{
+    "uid": 100051967,
+    "migrosId": "204207600200",
+    "name": "Gesalzene Butter",
+    "title": "Gesalzene Butter",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L28",
+                    "name": "Aus der Region. Für die Region.",
+                    "slug": "aus-der-region-fuer-die-region",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483580/labels/ADR_-_RGB_-_EN"
+                },
+                {
+                    "id": "L53",
+                    "name": "Swissness",
+                    "slug": "swissness",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483312/labels/Swissness_-_RGB_-_DEpng"
+                }
+            ],
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 1,
+                    "co2CarKmEquivalent": 60,
+                    "productionRatio": 98,
+                    "transportRatio": 0,
+                    "packagingRatio": 2,
+                    "image": "https://image.migros.ch/original/3e5cee492451bdf61aaed46537f4e5c8eb9a9b98.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3e5cee492451bdf61aaed46537f4e5c8eb9a9b98.svg",
+                    "co2KgRange": "≥10 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 16,
+                "nbStars": 4.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/204207600200"
+        },
+        "otherInformation": {
+            "articleNumber": "204207600200",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Production process",
+                    "value": "Aus der Region"
+                },
+                {
+                    "code": "Quality of butter",
+                    "value": "Aufstrich"
+                },
+                {
+                    "code": "Quality level",
+                    "value": "Vorzugsbutter"
+                },
+                {
+                    "code": "Packaging type",
+                    "value": "Kunststoff-Box"
+                },
+                {
+                    "code": "Notes for preparation",
+                    "value": "aufs Brot streichen"
+                },
+                {
+                    "code": "Suitable for roasting",
+                    "value": "No"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613269642961"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/cf17458a9c386a884f5dfa42891e9dccf3b6a3a1/gesalzene-butter.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494731",
+            "name": "Dairy, eggs & fresh convenience food",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo"
+            ]
+        },
+        {
+            "id": "7494751",
+            "name": "Milk, butter & eggs",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "milk-butter-eggs"
+            ]
+        },
+        {
+            "id": "7494869",
+            "name": "Butter & margarine",
+            "slugs": [
+                "dairy-eggs-fresh-convenience-foo",
+                "milk-butter-eggs",
+                "butter-margarine"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/204207600200",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.25",
+            "advertisedDisplayValue": "2.25",
+            "effectiveDisplayValue": "2.25",
+            "multiplier": 1,
+            "value": 2.25,
+            "effectiveValue": 2.25,
+            "advertisedValue": 2.25,
+            "unitPrice": {
+                "value": 2.25,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100g",
+        "quantityPrice": "2.25/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T04:03:15"
+}

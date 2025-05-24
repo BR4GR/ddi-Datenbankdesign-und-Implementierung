@@ -1,0 +1,140 @@
+{
+    "uid": 100008644,
+    "migrosId": "109025900000",
+    "migrosOnlineId": "6617294",
+    "name": "Snacks for dogs",
+    "brand": "Oskar",
+    "brandLine": "Simply Good",
+    "versioning": "With chicken",
+    "title": "Oskar Simply Good · Snacks for dogs · With chicken",
+    "description": "Oskar Snacks for dogs With chicken",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "Oskar",
+                "slug": "oskar",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640077039/brands/Oskar_Logo"
+            },
+            "nutritionalCharacteristics": [
+                "No grain"
+            ],
+            "nutritionalCharacteristicsV2": [
+                {
+                    "name": "No grain"
+                }
+            ],
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 3,
+                    "co2CarKmEquivalent": 13,
+                    "productionRatio": 88,
+                    "transportRatio": 4,
+                    "packagingRatio": 6,
+                    "image": "https://image.migros.ch/original/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3647ce79a496ca6d707e072f7e3f61ecc313e54b.svg"
+                }
+            },
+            "rating": {
+                "nbReviews": 39,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/109025900000",
+            "petFoodBasicInformation": {
+                "composition": "Fleisch und tierische Nebenprodukte (75% Hähnchenfleisch (Muskelfleisch)), Pflanzliche Nebenprodukte, Öle und Fette, Mineralstoffe",
+                "additives": "Technologische Zusatzstoffe: Konservierungsmittel",
+                "type": "Supplemental feed",
+                "animalCategoryTarget": "Grown dogs, Dogs"
+            }
+        },
+        "usageInformation": {
+            "petFoodStorageInformation": {}
+        },
+        "otherInformation": {
+            "articleNumber": "109025900000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Grain-free",
+                    "value": "Yes"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613312345474"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/75618710cdac35ec5a3050ad18ef31e7503bb882/oskar-sensitive-snack-huhn.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494739",
+            "name": "Pets",
+            "slugs": [
+                "pets"
+            ]
+        },
+        {
+            "id": "7494804",
+            "name": "Dogs",
+            "slugs": [
+                "pets",
+                "dogs"
+            ]
+        },
+        {
+            "id": "7495129",
+            "name": "Treats",
+            "slugs": [
+                "pets",
+                "dogs",
+                "treats"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/109025900000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "3.95",
+            "advertisedDisplayValue": "3.95",
+            "effectiveDisplayValue": "3.95",
+            "multiplier": 1,
+            "value": 3.95,
+            "effectiveValue": 3.95,
+            "advertisedValue": 3.95,
+            "unitPrice": {
+                "value": 2.63,
+                "unit": "100g"
+            }
+        },
+        "quantity": "150g",
+        "quantityPrice": "2.63/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "pictos": [
+            {
+                "type": "GRAIN_FREE",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483181/labels/grainfree_v1",
+                "description": "No grain"
+            }
+        ],
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T00:19:12"
+}

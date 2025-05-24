@@ -1,0 +1,176 @@
+{
+    "uid": 100094966,
+    "migrosId": "848312900064",
+    "name": "Mobil Bag",
+    "brand": "MIGROS TRAVEL & CO.",
+    "title": "Mobil Bag",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "MIGROS TRAVEL & CO.",
+                "slug": "migros-travel-co",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1689862767/brands/Migros_Travel_und_Co"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "rating": {
+                "nbReviews": 1,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/848312900064"
+        },
+        "otherInformation": {
+            "articleNumber": "848312900064",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Height",
+                    "value": "16 cm"
+                },
+                {
+                    "code": "Depth",
+                    "value": "3.5 cm"
+                },
+                {
+                    "code": "Length",
+                    "value": "11 cm"
+                },
+                {
+                    "code": "Weight",
+                    "value": "0.07 kg"
+                },
+                {
+                    "code": "Volume",
+                    "value": "0.6 l"
+                },
+                {
+                    "code": "Category/theme",
+                    "value": "Taschen"
+                },
+                {
+                    "code": "Main material",
+                    "value": "Recycling Polyester"
+                },
+                {
+                    "code": "Function/property",
+                    "value": "Handy kompatibel, interne Trennfächer/Organizer, Magnetverschluss"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7613434680378"
+    ],
+    "variants": {
+        "baseProductMigrosId": "848312900000",
+        "mainVariantMigrosId": "848312900020",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "black"
+                },
+                "migrosId": "848312900020"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "navy"
+                },
+                "migrosId": "848312900043"
+            },
+            {
+                "declinationOptions": {
+                    "size": "one Size",
+                    "color": "khaki"
+                },
+                "migrosId": "848312900064"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "khaki",
+                "options": [
+                    "black",
+                    "navy",
+                    "khaki"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "one Size",
+                "options": [
+                    "one Size"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/6dc1c4a9fe4158f8fc773dfe5bdee27c3cf1b275/mobil-bag.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494744",
+            "name": "Clothing & accessories",
+            "slugs": [
+                "clothing-accessories"
+            ]
+        },
+        {
+            "id": "10555197",
+            "name": "Travel",
+            "slugs": [
+                "clothing-accessories",
+                "travel"
+            ]
+        },
+        {
+            "id": "10555228",
+            "name": "Backpacks & bags",
+            "slugs": [
+                "clothing-accessories",
+                "travel",
+                "backpacks-bags"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/848312900064",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "19.95",
+            "advertisedDisplayValue": "19.95",
+            "effectiveDisplayValue": "19.95",
+            "multiplier": 1,
+            "value": 19.95,
+            "effectiveValue": 19.95,
+            "advertisedValue": 19.95,
+            "unitPrice": {
+                "value": 19.95,
+                "unit": "piece"
+            }
+        },
+        "quantity": "1 Stk.",
+        "quantityPrice": "19.95/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T14:07:10"
+}

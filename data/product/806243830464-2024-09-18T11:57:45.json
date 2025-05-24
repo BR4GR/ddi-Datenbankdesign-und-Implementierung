@@ -1,0 +1,166 @@
+{
+    "uid": 100172792,
+    "migrosId": "806243830464",
+    "name": "Pyjama",
+    "brand": "Kids",
+    "title": "Pyjama",
+    "productRange": "VARIANT",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "labels": [
+                {
+                    "id": "L07",
+                    "name": "ECO",
+                    "slug": "eco",
+                    "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1679483145/labels/Eco-Textilien_-_RGB_-_DE"
+                }
+            ],
+            "brand": {
+                "name": "Kids",
+                "slug": "kids",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1640076840/brands/KIDS_Logo"
+            },
+            "origin": "You can find information about the origin on the packaging in the store.",
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/806243830464"
+        },
+        "otherInformation": {
+            "articleNumber": "806243830464",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Zielgruppe",
+                    "value": "Kinder"
+                },
+                {
+                    "code": "Material",
+                    "value": "Baumwolle"
+                },
+                {
+                    "code": "Proportion of material",
+                    "value": "100 %"
+                },
+                {
+                    "code": "Age",
+                    "value": "10-12 Jahre"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7628871715026"
+    ],
+    "variants": {
+        "baseProductMigrosId": "806243800000",
+        "mainVariantMigrosId": "806243830364",
+        "declinations": [
+            {
+                "declinationOptions": {
+                    "color": "khaki",
+                    "size": "8-10 // 134/140"
+                },
+                "migrosId": "806243830364"
+            },
+            {
+                "declinationOptions": {
+                    "color": "khaki",
+                    "size": "10-12 // 146/152"
+                },
+                "migrosId": "806243830464"
+            },
+            {
+                "declinationOptions": {
+                    "color": "khaki",
+                    "size": "12-14 // 158/164"
+                },
+                "migrosId": "806243830564"
+            },
+            {
+                "declinationOptions": {
+                    "color": "khaki",
+                    "size": "14-16 // 170/176"
+                },
+                "migrosId": "806243830664"
+            }
+        ],
+        "variantOptions": [
+            {
+                "dimensionKey": "color",
+                "dimensionName": "Farbe",
+                "currentValue": "khaki",
+                "options": [
+                    "khaki"
+                ]
+            },
+            {
+                "dimensionKey": "size",
+                "dimensionName": "Grösse",
+                "currentValue": "10-12 // 146/152",
+                "options": [
+                    "8-10 // 134/140",
+                    "10-12 // 146/152",
+                    "12-14 // 158/164",
+                    "14-16 // 170/176"
+                ]
+            }
+        ]
+    },
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/b24838c21bf3a018759a4b4f79bcd57169adadc6/pyjama.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494742",
+            "name": "Baby & kids",
+            "slugs": [
+                "baby-kids"
+            ]
+        },
+        {
+            "id": "11117258",
+            "name": "Children's clothing",
+            "slugs": [
+                "baby-kids",
+                "childrens-clothing"
+            ]
+        },
+        {
+            "id": "11124386",
+            "name": "Children's nightwear",
+            "slugs": [
+                "baby-kids",
+                "childrens-clothing",
+                "childrens-nightwear"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/806243830464",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": false,
+            "formattedPrice": "21.95",
+            "advertisedDisplayValue": "21.95",
+            "effectiveDisplayValue": "21.95",
+            "multiplier": 1,
+            "value": 21.95,
+            "effectiveValue": 21.95,
+            "advertisedValue": 21.95
+        },
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-18T11:57:45"
+}

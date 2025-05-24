@@ -1,0 +1,134 @@
+{
+    "uid": 100053043,
+    "migrosId": "502018300000",
+    "name": "MBUD ESSIGREINIGER",
+    "brand": "M-Budget",
+    "title": "MBUD ESSIGREINIGER",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "brand": {
+                "name": "M-Budget",
+                "slug": "m-budget",
+                "imagePath": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/{stack}/v1652252456/brands/m-budget"
+            },
+            "rating": {
+                "nbReviews": 87,
+                "nbStars": 5.0
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/502018300000"
+        },
+        "usageInformation": {
+            "signalWord": "Achtung",
+            "chemicalPictosV2": [
+                {
+                    "cdn": "rokka",
+                    "pictoId": "GHS07",
+                    "pictoPath": "https://image.migros.ch/original/09b3c0810d45b7f83a5ad48c5bc38d4d0227615b/Dickes%20Ausrufezeichen.jpg",
+                    "pictoPathStack": "https://image.migros.ch/{stack}/09b3c0810d45b7f83a5ad48c5bc38d4d0227615b/Dickes%20Ausrufezeichen.jpg"
+                }
+            ],
+            "chemicalWarnings": [
+                "Verursacht schwere Augenreizung.",
+                "Kann gegenüber Metallen korrosiv sein."
+            ],
+            "chemicalSafetyInstructions": [
+                "BEI KONTAKT MIT DEN AUGEN: Einige Minuten lang behutsam mit Wasser ausspülen. Eventuell vorhandene Kontaktlinsen nach Möglichkeit entfernen. Weiter spülen.",
+                "Darf nicht in die Hände von Kindern gelangen.",
+                "Schutzhandschuhe / Schutzkleidung / Augenschutz / Gesichtsschutz tragen.",
+                "Bei anhaltender Augenreizung: Ärztlichen Rat einholen/ärztliche Hilfe hinzuziehen.",
+                "Ist ärztlicher Rat erforderlich, Verpackung oder Kennzeichnungsetikett bereithalten."
+            ]
+        },
+        "otherInformation": {
+            "articleNumber": "502018300000",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich",
+            "mainSpecificities": [
+                {
+                    "code": "Suitable for",
+                    "value": "Entkalkung von Geräten und Oberflächen"
+                },
+                {
+                    "code": "Hazard warnings",
+                    "value": "Darf nicht in die Hände von Kindern gelangen."
+                },
+                {
+                    "code": "Not suitable for",
+                    "value": "Marmor und andere säureempfindliche Materialien"
+                },
+                {
+                    "code": "Form",
+                    "value": "flüssig"
+                }
+            ]
+        }
+    },
+    "gtins": [
+        "7630028628165"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/13d12801cf3967cdf4bf9dbf90637168ee56e160/mbud-essigreiniger.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494740",
+            "name": "Laundry & cleaning",
+            "slugs": [
+                "laundry-cleaning"
+            ]
+        },
+        {
+            "id": "7494807",
+            "name": "Kitchen cleaning supplies",
+            "slugs": [
+                "laundry-cleaning",
+                "kitchen-cleaning-supplies"
+            ]
+        },
+        {
+            "id": "7495144",
+            "name": "Descalers & cleaners",
+            "slugs": [
+                "laundry-cleaning",
+                "kitchen-cleaning-supplies",
+                "descalers-cleaners"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/502018300000",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.–",
+            "advertisedDisplayValue": "2.–",
+            "effectiveDisplayValue": "2.–",
+            "multiplier": 1,
+            "value": 2,
+            "effectiveValue": 2,
+            "advertisedValue": 2,
+            "unitPrice": {
+                "value": 0.2,
+                "unit": "100ml"
+            }
+        },
+        "quantity": "1000ml",
+        "quantityPrice": "0.20/100ml",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-16T08:32:02"
+}

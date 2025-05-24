@@ -1,0 +1,106 @@
+{
+    "uid": 100052894,
+    "migrosId": "279800113100",
+    "migrosOnlineId": "7070142",
+    "name": "Veggie bags",
+    "title": "Veggie bags",
+    "description": "Veggie bags ",
+    "productRange": "STANDARD",
+    "productAvailability": "ONLINE_AND_INSTORE",
+    "productInformation": {
+        "mainInformation": {
+            "mcheck": {
+                "carbonFootprint": {
+                    "rating": 5,
+                    "co2CarKmEquivalent": 2,
+                    "productionRatio": 75,
+                    "transportRatio": 13,
+                    "packagingRatio": 12,
+                    "image": "https://image.migros.ch/original/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "stackImage": "https://image.migros.ch/{stack}/3cb33aa7d90d7331f458860ae78688a0923b5993.svg",
+                    "co2KgRange": "0 - 0.9 kg CO₂eq / kg"
+                }
+            },
+            "rating": {
+                "nbReviews": 64,
+                "nbStars": 3.5
+            },
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/279800113100"
+        },
+        "otherInformation": {
+            "articleNumber": "279800113100",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "7613269805885"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/1a5be8fcebdc309984454c8818fd13dfef0299fa/veggie-bags-mehrwegbeutel.jpg"
+        },
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/9131657bfefbefa2dae1b6441dbb094f92fe63b5.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494741",
+            "name": "Household and living",
+            "slugs": [
+                "household-and-living"
+            ]
+        },
+        {
+            "id": "7494814",
+            "name": "Kitchen & dining",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining"
+            ]
+        },
+        {
+            "id": "7495177",
+            "name": "Chilling, cooking & storing",
+            "slugs": [
+                "household-and-living",
+                "kitchen-dining",
+                "chilling-cooking-storing"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/279800113100",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "2.20",
+            "advertisedDisplayValue": "2.20",
+            "effectiveDisplayValue": "2.20",
+            "multiplier": 1,
+            "value": 2.2,
+            "effectiveValue": 2.2,
+            "advertisedValue": 2.2,
+            "unitPrice": {
+                "value": 0.55,
+                "unit": "piece"
+            }
+        },
+        "quantity": "4 Stück",
+        "quantityPrice": "0.55/piece",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T08:31:38"
+}

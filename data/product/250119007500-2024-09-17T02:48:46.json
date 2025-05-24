@@ -1,0 +1,86 @@
+{
+    "uid": 100145558,
+    "migrosId": "250119007500",
+    "name": "Toscana-Spiess",
+    "title": "Toscana-Spiess",
+    "productRange": "STANDARD",
+    "productAvailability": "INSTORE_ONLY",
+    "productInformation": {
+        "mainInformation": {
+            "migipediaUrl": "https://migipedia.migros.ch/de/products/250119007500"
+        },
+        "otherInformation": {
+            "articleNumber": "250119007500",
+            "distributorName": "Migros-Genossenschafts-Bund",
+            "distributorStreetAndNumber": "Limmatstrasse 152, CH-8031 Zürich"
+        }
+    },
+    "gtins": [
+        "2150894000001",
+        "252164",
+        "7617027911740"
+    ],
+    "images": [
+        {
+            "cdn": "rokka",
+            "url": "https://image.migros.ch/{stack}/f2571c60a10aacc292a6df5442e1d5cc72203b6b/toscana-spiess.jpg"
+        }
+    ],
+    "breadcrumb": [
+        {
+            "id": "7494730",
+            "name": "Meat & fish",
+            "slugs": [
+                "meat-fish"
+            ]
+        },
+        {
+            "id": "7494749",
+            "name": "Fish",
+            "slugs": [
+                "meat-fish",
+                "fish"
+            ]
+        },
+        {
+            "id": "7494858",
+            "name": "Fresh fish & shellfish",
+            "slugs": [
+                "meat-fish",
+                "fish",
+                "fresh-fish-shellfish"
+            ]
+        }
+    ],
+    "productUrls": "https://www.migros.ch/en/product/250119007500",
+    "isMgbCompatible": true,
+    "isConsignmentProduct": false,
+    "offer": {
+        "price": {
+            "displayUnitPrice": true,
+            "formattedPrice": "7.10",
+            "advertisedDisplayValue": "7.10",
+            "effectiveDisplayValue": "7.10",
+            "multiplier": 1,
+            "value": 7.1,
+            "effectiveValue": 7.1,
+            "advertisedValue": 7.1,
+            "unitPrice": {
+                "value": 7.1,
+                "unit": "100g"
+            }
+        },
+        "quantity": "100 g",
+        "quantityPrice": "7.10/100g",
+        "isVariableWeight": false,
+        "channel": {
+            "offerType": "OFFLINE",
+            "region": "national"
+        },
+        "maxOrderableQuantityV2": 96,
+        "isNewOffer": false,
+        "displayPrice": true,
+        "type": "STANDARD"
+    },
+    "dateAdded": "2024-09-17T02:48:46"
+}
