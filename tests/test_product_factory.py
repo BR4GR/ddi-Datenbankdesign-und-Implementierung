@@ -4,10 +4,10 @@ import os
 import psycopg2
 import pytest
 
-from src.models.nutrition import Nutrition
-from src.models.offer import Offer
-from src.models.product import Product
-from src.models.product_factory import ProductFactory
+from models import Nutrition
+from models.offer import Offer
+from models import Product
+from models.product_factory import ProductFactory
 
 
 @pytest.fixture(scope="module")

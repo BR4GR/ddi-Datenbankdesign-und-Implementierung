@@ -6,9 +6,8 @@ authors = ["BR4GER <benjamin.wuermli@students.fhnw.ch>"]
 readme = "README.md"
 package-mode = false
 
-
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "^3.10"
 pymongo = "^4.10.1"
 python-dotenv = "^1.0.1"
 psycopg2-binary = "^2.9.9"

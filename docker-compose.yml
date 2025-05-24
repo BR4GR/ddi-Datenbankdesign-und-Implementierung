@@ -18,7 +18,7 @@ services:
       - "5432:5432"
     volumes:
       - postgres_data:/var/lib/postgresql/data
-      - ./src/setup/sql/createdb.sql:/docker-entrypoint-initdb.d/createdb.sql
+      - ./setup/sql/createdb.sql:/docker-entrypoint-initdb.d/createdb.sql
 
   postgres_test:
     image: postgres:latest
@@ -31,7 +31,7 @@ services:
       - "5433:5432" # Expose container's port 5432 as 5433 on the host
     volumes:
       - postgres_test_data:/var/lib/postgresql/data
-      - ./src/setup/sql/createdb.sql:/docker-entrypoint-initdb.d/createdb.sql
+      - ./setup/sql/createdb.sql:/docker-entrypoint-initdb.d/createdb.sql
 
 volumes:
   mongo_data:
