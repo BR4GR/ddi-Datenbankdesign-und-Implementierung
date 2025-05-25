@@ -5,15 +5,11 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Python: Debug Tests",
+            "name": "Python Debugger: main",
             "type": "debugpy",
             "request": "launch",
-            "program": "${file}",
-            "purpose": [
-                "debug-test"
-            ],
-            "console": "integratedTerminal",
-            "justMyCode": false
+            "program": "main.py",
+            "console": "integratedTerminal"
         }
     ]
 }

@@ -27,8 +27,8 @@ CREATE TABLE offer (
 CREATE TABLE category (
     id BIGSERIAL PRIMARY KEY,
     name VARCHAR(100) NOT NULL,
-    path VARCHAR(100),
-    slug VARCHAR(100) UNIQUE
+    path VARCHAR(222),
+    slug VARCHAR(100)
 );
 
 

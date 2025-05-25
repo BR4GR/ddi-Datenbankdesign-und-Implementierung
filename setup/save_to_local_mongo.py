@@ -1,268 +1,356 @@
 import json
+import logging
 import os
 import re
-import logging
+from dataclasses import dataclass
 from datetime import datetime
+from typing import Any, Dict, List, Optional
 
 from pymongo import MongoClient
+from pymongo.errors import BulkWriteError, ConnectionFailure
 
-# Set MongoDB connection for local database
-LOCAL_MONGO_URI = "mongodb://localhost:27017/"
-DATABASE_NAME = "productdb"
-PRODUCT_COLLECTION = "products"
-CATEGORY_COLLECTION = "categories"
+from setup.database_config import DatabaseConfig
+from setup.dataloader import DataLoader
+from setup.mongodb_manager import MongoDBManager
 
-# Set paths to load data
-PRODUCTS_PATH = "data/product/"
-CATEGORIES_PATH = "data/categorie/"
+config = DatabaseConfig()
 
-# Set up logging (if not already configured globally)
-logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
-
-
-def connect_to_local_mongo():
-    """Connect to local MongoDB using standard credentials."""
-    client = MongoClient(LOCAL_MONGO_URI)
-    return client[DATABASE_NAME]
+logging.basicConfig(
+    level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
+)
+logger = logging.getLogger(__name__)
 
 
-def load_documents_from_folder(folder_path):
-    """Load JSON documents from the specified folder."""
-    documents = []
-    for filename in os.listdir(folder_path):
-        if filename.endswith(".json"):
-            file_path = os.path.join(folder_path, filename)
-            try:
-                with open(file_path, "r") as f:
-                    documents.append(json.load(f))
-            except json.JSONDecodeError as e:
-                logging.error(f"Error decoding JSON from {file_path}: {e}")
-            except Exception as e:
-                logging.error(f"Error loading document from {file_path}: {e}")
-    return documents
+class NutritionProcessor:
+    """Handles nutrition data processing."""
 
-def extract_number(quantity_str):
-    """
-    Extract a number from a string.
-    If it is a float, return a float; if an int, return an int.
-    If no number is found, return None.
-    If it is already a number, return it as is.
-    """
-    if isinstance(quantity_str, (int, float)):
-        return quantity_str
-
-    match = re.search(r"(\d+(\.\d+)?)", quantity_str)
-    if match:
-        number_str = match.group(1)
-        try:
-            return float(number_str)
-        except ValueError:
-            logging.error(
-                f"Could not convert extracted number '{number_str}' to float."
-            )
-            return None
-    return None
-
-def process_product_for_mongo(product_json, categories_lookup):
-    """
-    Processes a raw product JSON into a MongoDB-optimized document
-    by embedding nutrition, offer, and category information.
-    """
-    mongo_doc = {
-        "migrosId": product_json.get("migrosId"),
-        "name": product_json.get("name"),
-        "brand": product_json.get("brand") or product_json.get("brandLine"),
-        "title": product_json.get("title"),
-        "description": product_json.get("description", None),
-        "origin": product_json.get("productInformation", {})
-        .get("mainInformation", {})
-        .get("origin"),
-        "ingredients": product_json.get("productInformation", {})
-        .get("mainInformation", {})
-        .get("ingredients", None),
-        "gtins": product_json.get("gtins", []),
-        "scraped_at": datetime.fromisoformat(product_json["dateAdded"]) if product_json.get("dateAdded") else datetime.now()
+    NUTRIENT_MAPPING = {
+        "energy": ("kJ", "kcal"),
+        "fat": "fat",
+        "saturates": "saturates",
+        "carbohydrate": "carbohydrate",
+        "sugars": "sugars",
+        "fibre": "fibre",
+        "protein": "protein",
+        "salt": "salt",
     }
 
-    # --- Process Nutrition Information ---
-    nutrients_table = (
-        product_json.get("productInformation", {})
-        .get("nutrientsInformation", {})
-        .get("nutrientsTable", None)
-    )
-    if nutrients_table and nutrients_table.get("headers"):
-        headers = nutrients_table.get("headers", [])
-        unit_index = None
-        unit = None
-        quantity = None
+    @staticmethod
+    def extract_number(value: Any) -> Optional[float]:
+        """Extract numeric value from string or return if already numeric."""
+        if isinstance(value, (int, float)):
+            return float(value)
 
-        # Determine the correct column index for per 100g/ml values
+        if not isinstance(value, str):
+            return None
+
+        match = re.search(r"(\d+(?:\.\d+)?)", value)
+        if match:
+            try:
+                return float(match.group(1))
+            except ValueError:
+                logger.warning(f"Could not convert '{match.group(1)}' to float")
+        return None
+
+    @classmethod
+    def process_nutrition(cls, product_json: Dict) -> Optional[Dict]:
+        """Process nutrition information from product JSON."""
+        nutrients_table = (
+            product_json.get("productInformation", {})
+            .get("nutrientsInformation", {})
+            .get("nutrientsTable")
+        )
+
+        if not nutrients_table or not nutrients_table.get("headers"):
+            return None
+
+        unit_info = cls._find_nutrition_column(nutrients_table.get("headers", []))
+        if not unit_info:
+            return None
+
+        unit_index, unit, quantity = unit_info
+
+        nutrition_data = {
+            "unit": unit,
+            "quantity": quantity,
+            **{
+                nutrient: None
+                for nutrient in cls.NUTRIENT_MAPPING.values()
+                if isinstance(nutrient, str)
+            },
+            "kJ": None,
+            "kcal": None,
+        }
+
+        for row in nutrients_table.get("rows", []):
+            cls._process_nutrition_row(row, unit_index, nutrition_data)
+
+        return nutrition_data
+
+    @classmethod
+    def _find_nutrition_column(cls, headers: List[str]) -> Optional[tuple]:
+        """Find the best column for nutrition values."""
         for i, header in enumerate(headers):
-            if "100 g" in header or "100ml" in header: # Adjusted to match '100 g' from sample
-                unit_index = i
-                quantity = 100
-                if "g" in header:
-                    unit = "g"
-                elif "ml" in header:
-                    unit = "ml"
-                break
-            elif "1 Becher" in header: # Fallback for '1 Becher (125 g)' if 100g/ml isn't primary
-                unit_index = i
-                # Try to extract quantity from header, e.g., "125 g"
-                q_match = re.search(r"\((\d+(\.\d+)?)\s*(g|ml)\)", header)
-                if q_match:
-                    quantity = float(q_match.group(1))
-                    unit = q_match.group(3)
-                else:
-                    quantity = 1 # Default to 1 if not found
-                    unit = "serving" # Generic unit
+            if "100 g" in header:
+                return (i, "g", 100.0)
+            elif "100ml" in header or "100 ml" in header:
+                return (i, "ml", 100.0)
+
+        for i, header in enumerate(headers):
+            if "Becher" in header or "serving" in header.lower():
+                quantity_match = re.search(r"\((\d+(?:\.\d+)?)\s*(g|ml)\)", header)
+                if quantity_match:
+                    return (i, quantity_match.group(2), float(quantity_match.group(1)))
+                return (i, "serving", 1.0)
+
+        return None
+
+    @classmethod
+    def _process_nutrition_row(cls, row: Dict, unit_index: int, nutrition_data: Dict):
+        """Process a single nutrition row."""
+        label = row.get("label", "").lower()
+        values = row.get("values", [])
+
+        if len(values) <= unit_index:
+            return
+
+        value = values[unit_index]
+
+        if "energy" in label:
+            cls._process_energy_value(value, nutrition_data)
+        else:
+            numeric_value = cls.extract_number(value)
+            if numeric_value is not None:
+                cls._map_nutrient_value(label, numeric_value, nutrition_data)
+
+    @classmethod
+    def _process_energy_value(cls, value: str, nutrition_data: Dict):
+        """Process energy value containing both kJ and kcal."""
+        energy_match = re.search(
+            r"(\d+(?:\.\d+)?)\s*kJ.*?\((\d+(?:\.\d+)?)\s*kcal\)", value, re.IGNORECASE
+        )
+        if energy_match:
+            nutrition_data["kJ"] = float(energy_match.group(1))
+            nutrition_data["kcal"] = float(energy_match.group(2))
+
+    @classmethod
+    def _map_nutrient_value(cls, label: str, value: float, nutrition_data: Dict):
+        """Map nutrient label to nutrition data field."""
+        for key, field in cls.NUTRIENT_MAPPING.items():
+            if isinstance(field, str) and key in label and field not in label:
+                if key == "fat" and "saturates" in label:
+                    continue
+                if key == "carbohydrate" and "sugars" in label:
+                    continue
+                nutrition_data[field] = value
                 break
 
-        if unit_index is None:
-            logging.warning(f"No suitable header found for nutrients for product {mongo_doc['migrosId']}. Skipping nutrition data.")
-        else:
-            nutrient_data = {
-                "unit": unit,
-                "quantity": quantity,
-                "kcal": None,
-                "kJ": None,
-                "fat": None,
-                "saturates": None,
-                "carbohydrate": None,
-                "sugars": None,
-                "fibre": None,
-                "protein": None,
-                "salt": None,
+
+class ProductProcessor:
+    """Handles product document processing."""
+
+    @staticmethod
+    def process_product(product_json: Dict, categories_lookup: Dict) -> Dict:
+        """Process raw product JSON into MongoDB document."""
+        try:
+            mongo_doc = {
+                "migrosId": product_json.get("migrosId"),
+                "name": product_json.get("name"),
+                "brand": product_json.get("brand") or product_json.get("brandLine"),
+                "title": product_json.get("title"),
+                "description": product_json.get("description"),
+                "origin": (
+                    product_json.get("productInformation", {})
+                    .get("mainInformation", {})
+                    .get("origin")
+                ),
+                "ingredients": (
+                    product_json.get("productInformation", {})
+                    .get("mainInformation", {})
+                    .get("ingredients")
+                ),
+                "gtins": product_json.get("gtins", []),
+                "scraped_at": ProductProcessor._parse_date(
+                    product_json.get("dateAdded")
+                ),
             }
 
-            rows = nutrients_table.get("rows", [])
-            for row in rows:
-                label = row.get("label", "").lower()
-                values = row.get("values", [])
-                if len(values) > unit_index:
-                    value = values[unit_index]
-                    if "energy" in label:
-                        energy_match = re.search(
-                            r"(\d+(\.\d+)?)\s*kJ.*?\((\d+(\.\d+)?)\s*kcal\)",
-                            value,
-                            re.IGNORECASE,
-                        )
-                        if energy_match:
-                            nutrient_data["kJ"] = float(energy_match.group(1))
-                            nutrient_data["kcal"] = float(energy_match.group(3))
-                        else:
-                            logging.warning(
-                                f"Energy values not found in '{value}' for product {mongo_doc['migrosId']}."
-                            )
-                    else:
-                        extracted_value = extract_number(value)
-                        if extracted_value is not None:
-                            if "fat" in label and "saturates" not in label:
-                                nutrient_data["fat"] = extracted_value
-                            elif "saturates" in label:
-                                nutrient_data["saturates"] = extracted_value
-                            elif "carbohydrate" in label and "sugars" not in label:
-                                nutrient_data["carbohydrate"] = extracted_value
-                            elif "sugars" in label:
-                                nutrient_data["sugars"] = extracted_value
-                            elif "fibre" in label:
-                                nutrient_data["fibre"] = extracted_value
-                            elif "protein" in label:
-                                nutrient_data["protein"] = extracted_value
-                            elif "salt" in label:
-                                nutrient_data["salt"] = extracted_value
-            mongo_doc["nutrition"] = nutrient_data
+            nutrition = NutritionProcessor.process_nutrition(product_json)
+            if nutrition:
+                mongo_doc["nutrition"] = nutrition
 
-    # --- Process Offer Information ---
-    offer_json = product_json.get("offer", {})
-    if offer_json:
-        price = offer_json.get("price", {}).get("value")
-        quantity_str = offer_json.get("quantity")
-        quantity = extract_number(quantity_str)
+            offer = ProductProcessor._process_offer(product_json.get("offer", {}))
+            if offer:
+                mongo_doc["offer"] = offer
 
-        unit_price = offer_json.get("price", {}).get("unitPrice", {}).get("value") # Direct access from new JSON
+            categories = ProductProcessor._process_categories(
+                product_json.get("breadcrumb", []), categories_lookup
+            )
+            mongo_doc["categories"] = categories
 
-        # Original logic for promotion price isn't in new JSON, so assuming it's not available
-        promotion_price = offer_json.get("promotionPrice", {}).get("value") # Keep for robustness
-        promotion_unit_price = None # No direct promotion unit price in new JSON
+            return mongo_doc
 
-        mongo_doc["offer"] = {
-            "price": price,
-            "quantity": quantity_str,
-            "unit_price": unit_price,
+        except Exception as e:
+            logger.error(
+                f"Error processing product {product_json.get('migrosId', 'unknown')}: {e}"
+            )
+            raise
+
+    @staticmethod
+    def _parse_date(date_str: Optional[str]) -> datetime:
+        """Parse date string or return current time."""
+        if date_str:
+            try:
+                return datetime.fromisoformat(date_str.replace("Z", "+00:00"))
+            except ValueError:
+                logger.warning(f"Invalid date format: {date_str}")
+        return datetime.now()
+
+    @staticmethod
+    def _process_offer(offer_json: Dict) -> Optional[Dict]:
+        """Process offer information."""
+        if not offer_json:
+            return None
+
+        price_info = offer_json.get("price", {})
+        quantity = offer_json.get("quantity", None)
+        unit_price_info = price_info.get("unitPrice", {}).get("value")
+        promotion_price = offer_json.get("promotionPrice", {}).get("value")
+        promotion_unit_price = None
+        if promotion_price and quantity:
+            promotion_unit_price = promotion_price / quantity
+        return {
+            "price": price_info.get("value"),
+            "quantity": quantity,
+            "unit_price": unit_price_info,
             "promotion_price": promotion_price,
             "promotion_unit_price": promotion_unit_price,
         }
 
-    # --- Process Categories from Breadcrumb ---
-    embedded_categories = []
-    for breadcrumb_item in product_json.get("breadcrumb", []):
-        cat_id = breadcrumb_item.get("id")
-        cat_name = breadcrumb_item.get("name")
-        cat_slug = breadcrumb_item.get("slugs", [])[0] if breadcrumb_item.get("slugs") else None
+    @staticmethod
+    def _process_categories(
+        breadcrumb: List[Dict], categories_lookup: Dict
+    ) -> List[Dict]:
+        """Process category information from breadcrumb."""
+        categories = []
+        seen_ids = set()
 
-        # Look up full category info from our categories_lookup if needed, otherwise use what's available
-        # The 'slugs' array in breadcrumb gives us the path to the category
-        if cat_slug and cat_slug in categories_lookup:
-            # We found the category in our separate collection, embed its full details
-            embedded_categories.append(categories_lookup[cat_slug])
-        elif cat_id and cat_name and cat_slug:
-            # If not found in lookup, but we have enough info, embed what's available
-            embedded_categories.append({"id": cat_id, "name": cat_name, "slug": cat_slug})
+        for item in breadcrumb:
+            cat_id = item.get("id")
+            cat_name = item.get("name")
+            cat_slug = item.get("slugs", [])[-1] if item.get("slugs") else None
 
-    # Ensure uniqueness in case of overlapping breadcrumbs
-    unique_categories = []
-    seen_ids = set()
-    for cat in embedded_categories:
-        if cat.get("id") not in seen_ids:
-            unique_categories.append(cat)
-            seen_ids.add(cat.get("id"))
+            if cat_id and cat_id not in seen_ids:
+                if cat_slug in categories_lookup:
+                    category_data = categories_lookup[cat_slug].copy()
+                else:
+                    category_data = {"id": cat_id, "name": cat_name, "slug": cat_slug}
 
-    mongo_doc["categories"] = unique_categories
+                categories.append(category_data)
+                seen_ids.add(cat_id)
+
+        return categories
 
 
-    return mongo_doc
+class CategoryProcessor:
+    """Handles category processing."""
 
-
-def create_mongo_db():
-    """Save JSON files from local folder to local MongoDB."""
-    db = connect_to_local_mongo()
-    db[PRODUCT_COLLECTION].delete_many({})
-    db[CATEGORY_COLLECTION].delete_many({})
-
-    # 1. Load category data and create a lookup dictionary for efficient embedding
-    category_documents = load_documents_from_folder(CATEGORIES_PATH)
-    categories_lookup = {}
-    if category_documents:
-        db[CATEGORY_COLLECTION].insert_many(category_documents)
-        logging.info(f"Loaded {len(category_documents)} categories into MongoDB.")
-        # Create a lookup for categories by slug for efficient embedding
+    @staticmethod
+    def create_categories_lookup(category_documents: List[Dict]) -> Dict[str, Dict]:
+        """Create lookup dictionary for categories by slug."""
+        lookup = {}
         for cat in category_documents:
-            if "slug" in cat:
-                categories_lookup[cat["slug"]] = {"id": cat.get("id"), "name": cat.get("name"), "slug": cat.get("slug")}
-    else:
-        logging.warning("No category documents found. Products might not have embedded category data.")
+            slug = cat.get("slug")
+            if slug:
+                lookup[slug] = {
+                    "id": cat.get("id"),
+                    "name": cat.get("name"),
+                    "slug": slug,
+                }
+        return lookup
 
-    # 2. Load and process product data for embedding categories, nutrition, and offers
-    product_documents_raw = load_documents_from_folder(PRODUCTS_PATH)
-    products_to_insert = []
-    if product_documents_raw:
-        for doc in product_documents_raw[1]:
+
+def create_mongo_db(
+    limit_products: Optional[int] = None,
+    limit_categories: Optional[int] = None,
+    force_recreate: bool = True,
+):
+    """Main function to load data into MongoDB."""
+    db_manager = MongoDBManager(config.MONGO_DB_URI, config.MONGO_DB_NAME)
+
+    try:
+        db_manager.connect()
+
+        db_manager.clear_collections(
+            [config.MONGO_PRODUCT_COLLECTION, config.MONGO_CATEGORY_COLLECTION]
+        )
+
+        logger.info("Loading categories...")
+        category_documents = DataLoader.load_documents_from_folder(
+            config.CATEGORIES_PATH
+        )
+        categories_lookup = {}
+
+        if category_documents:
+            db_manager.insert_batch(
+                config.MONGO_CATEGORY_COLLECTION, category_documents, config.BATCH_SIZE
+            )
+            categories_lookup = CategoryProcessor.create_categories_lookup(
+                category_documents
+            )
+            logger.info(f"Created lookup for {len(categories_lookup)} categories")
+        else:
+            logger.warning(
+                "No categories loaded - products will have limited category data"
+            )
+
+        logger.info("Loading and processing products...")
+        product_documents_raw = DataLoader.load_documents_from_folder(
+            config.PRODUCTS_PATH, limit=limit_products
+        )
+
+        if not product_documents_raw:
+            logger.warning("No products to process")
+            return
+
+        processed_products = []
+        failed_count = 0
+
+        for i, product_doc in enumerate(product_documents_raw):
             try:
-                processed_doc = process_product_for_mongo(doc, categories_lookup)
-                products_to_insert.append(processed_doc)
-            except Exception as e:
-                logging.error(f"Error processing product {doc.get('migrosId', 'N/A')} for MongoDB: {e}")
+                processed_doc = ProductProcessor.process_product(
+                    product_doc, categories_lookup
+                )
+                processed_products.append(processed_doc)
 
-        if products_to_insert:
-            db[PRODUCT_COLLECTION].insert_many(products_to_insert)
-            logging.info(f"Inserted {len(products_to_insert)} products into MongoDB.")
-    else:
-        logging.warning("No product documents found to process for MongoDB.")
+                if len(processed_products) >= config.BATCH_SIZE:
+                    db_manager.insert_batch(
+                        config.MONGO_PRODUCT_COLLECTION,
+                        processed_products,
+                        config.BATCH_SIZE,
+                    )
+                    processed_products = []
+
+            except Exception as e:
+                failed_count += 1
+                logger.error(f"Failed to process product {i+1}: {e}")
+
+        if processed_products:
+            db_manager.insert_batch(
+                config.MONGO_PRODUCT_COLLECTION, processed_products, config.BATCH_SIZE
+            )
+
+        logger.info(f"Processing complete. Failed products: {failed_count}")
+
+    except Exception as e:
+        logger.error(f"Database operation failed: {e}")
+        raise
+    finally:
+        db_manager.disconnect()
 
 
 def main():
-    create_mongo_db()
+    print("goto main.py")
 
 
 if __name__ == "__main__":
