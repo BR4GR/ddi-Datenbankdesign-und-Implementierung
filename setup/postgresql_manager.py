@@ -29,7 +29,7 @@ class PostgreSQLManager:
 
     def connect(self, dbname: str = None) -> connection:
         """Connect to PostgreSQL database."""
-        db_name = dbname or self.config.PG_DEFAULT_DB_NAME
+        db_name = dbname or self.config.PG_DB_NAME
         try:
             conn = psycopg2.connect(dbname=db_name, **self.connection_params)
             self.logger.info(f"Connected to PostgreSQL database: {db_name}")
@@ -54,7 +54,7 @@ class PostgreSQLManager:
     def create_database(self, dbname: str, drop_if_exists: bool = True):
         """Create database with proper error handling."""
         try:
-            conn = self.connect()
+            conn = self.connect(self.config.PG_DEFAULT_DB_NAME)
             conn.autocommit = True
 
             try:

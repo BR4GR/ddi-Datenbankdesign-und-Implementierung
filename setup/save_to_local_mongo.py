@@ -215,10 +215,10 @@ class ProductProcessor:
         price_info = offer_json.get("price", {})
         quantity = offer_json.get("quantity", None)
         unit_price_info = price_info.get("unitPrice", {}).get("value")
-        promotion_price = offer_json.get("promotionPrice", {}).get("value")
-        promotion_unit_price = None
-        if promotion_price and quantity:
-            promotion_unit_price = promotion_price / quantity
+        promotion_price = offer_json.get("promotionPrice", {}).get("value", None)
+        promotion_unit_price = (
+            offer_json.get("promotionPrice", {}).get("unitPrice", {}).get("value", None)
+        )
         return {
             "price": price_info.get("value"),
             "quantity": quantity,
@@ -298,7 +298,6 @@ def create_mongo_db(
             categories_lookup = CategoryProcessor.create_categories_lookup(
                 category_documents
             )
-            logger.info(f"Created lookup for {len(categories_lookup)} categories")
         else:
             logger.warning(
                 "No categories loaded - products will have limited category data"

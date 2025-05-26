@@ -56,9 +56,7 @@ class Product:
                     self.scraped_at,
                 ),
             )
-            logging.info(
-                f"Product '{self.name}' and related data inserted into database."
-            )
+
         except Exception as e:
             logging.error(f"Error inserting product '{self.name}': {e}", exc_info=True)
             raise

@@ -17,10 +17,6 @@ from setup.dataloader import DataLoader
 from setup.postgresql_manager import PostgreSQLManager
 
 config = DatabaseConfig()
-
-logging.basicConfig(
-    level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
-)
 logger = logging.getLogger(__name__)
 
 
@@ -37,7 +33,7 @@ class ProductProcessor:
         """Process products in batches with proper transaction handling."""
         if not documents:
             logger.warning("No documents to process")
-            return
+            return 0, 0
 
         total_processed = 0
         total_failed = 0
@@ -45,77 +41,13 @@ class ProductProcessor:
         try:
             with self.db_manager.connect(dbname) as conn:
                 conn.autocommit = False
-
                 for i in range(0, len(documents), batch_size):
                     batch = documents[i : i + batch_size]
-                    batch_num = i // batch_size + 1
-
-                    logger.info(f"Processing batch {batch_num}: {len(batch)} products")
-
-                    try:
-                        with conn.cursor(cursor_factory=RealDictCursor) as cur:
-                            batch_processed = 0
-
-                            for document in batch:
-                                try:
-                                    product_name = document.get("name", "Unknown")
-                                    date_added = document.get("dateAdded", "Unknown")
-
-                                    logger.debug(
-                                        f"Processing: {product_name} (scraped: {date_added})"
-                                    )
-
-                                    product = (
-                                        self.product_factory.create_product_from_json(
-                                            document, cur
-                                        )
-                                    )
-                                    breadcrumbs = document.get("breadcrumb", [])
-                                    for breadcrump in breadcrumbs:
-                                        category_id = breadcrump.get("id")
-                                        if not category_id:
-                                            logger.warning(
-                                                f"Breadcrumb without ID in {product_name}"
-                                            )
-                                            continue
-                                        try:
-                                            cur.execute(
-                                                """
-                                                INSERT INTO product_category (product_id, scraped_at, category_id)
-                                                VALUES (%s, %s, %s)
-                                                ON CONFLICT (product_id, scraped_at, category_id) DO NOTHING
-                                            """,
-                                                (
-                                                    product.migros_id,
-                                                    product.scraped_at,
-                                                    category_id,
-                                                ),
-                                            )
-                                        except Exception as e:
-                                            logger.warning(
-                                                f"Failed to link product {product.id} to category {category_id}: {e}"
-                                            )
-
-                                    batch_processed += 1
-
-                                except Exception as e:
-                                    logger.error(
-                                        f"Error processing product '{product_name}': {e}"
-                                    )
-                                    total_failed += 1
-                                    # Continue with next product in batch
-
-                            # Commit the entire batch
-                            conn.commit()
-                            total_processed += batch_processed
-                            logger.info(
-                                f"Batch {batch_num} completed: {batch_processed} products saved"
-                            )
-
-                    except Exception as e:
-                        conn.rollback()
-                        logger.error(f"Batch {batch_num} failed, rolling back: {e}")
-                        total_failed += len(batch)
+                    processed, failed = self._process_product_batch(
+                        conn, batch, i, batch_size
+                    )
+                    total_processed += processed
+                    total_failed += failed
 
         except Exception as e:
             logger.error(f"Critical error during product processing: {e}")
@@ -126,13 +58,103 @@ class ProductProcessor:
         )
         return total_processed, total_failed
 
+    def _process_product_batch(
+        self, conn, batch: List[Dict], batch_index: int, batch_size: int
+    ):
+        """Process a single batch of products."""
+        batch_num = batch_index // batch_size + 1
+        batch_processed = 0
+        batch_failed = 0
+
+        try:
+            with conn.cursor(cursor_factory=RealDictCursor) as cur:
+                for document in batch:
+                    success = self._process_single_product(document, cur)
+                    if success:
+                        batch_processed += 1
+                    else:
+                        batch_failed += 1
+
+                # Commit the entire batch
+                conn.commit()
+
+        except Exception as e:
+            conn.rollback()
+            logger.error(f"Batch {batch_num} failed, rolling back: {e}")
+            return 0, len(batch)
+
+        return batch_processed, batch_failed
+
+    def _process_single_product(self, document: Dict, cur) -> bool:
+        """Process a single product document."""
+        try:
+            product_name = document.get("name", "Unknown")
+            date_added = document.get("dateAdded", "Unknown")
+
+            logger.debug(f"Processing: {product_name} (scraped: {date_added})")
+
+            # Create product record
+            product = self.product_factory.create_product_from_json(document, cur)
+
+            # Process category relationships
+            self._process_product_categories(document, product, cur)
+
+            return True
+
+        except Exception as e:
+            logger.error(
+                f"Error processing product '{document.get('name', 'Unknown')}': {e}"
+            )
+            return False
+
+    def _process_product_categories(self, document: Dict, product, cur):
+        """Process category relationships for a product."""
+        breadcrumbs = document.get("breadcrumb", [])
+
+        for breadcrumb in breadcrumbs:
+            category_id = breadcrumb.get("id")
+            if not category_id:
+                logger.warning(f"Breadcrumb without ID in {product.name}")
+                continue
+
+            self._link_product_to_category(product, category_id, cur)
+
+    def _link_product_to_category(self, product, category_id: int, cur):
+        """Create link between product and category."""
+        try:
+            # Check if category exists first (optional but safer)
+            cur.execute("SELECT 1 FROM category WHERE id = %s", (category_id,))
+            if not cur.fetchone():
+                logger.warning(
+                    f"Category {category_id} not found, skipping link for product {product.migros_id}"
+                )
+                return False
+
+            # Insert relationship
+            cur.execute(
+                """
+                INSERT INTO product_category (product_id, scraped_at, category_id)
+                VALUES (%s, %s, %s)
+                ON CONFLICT (product_id, scraped_at, category_id) DO NOTHING
+            """,
+                (product.migros_id, product.scraped_at, category_id),
+            )
+
+            return True
+
+        except Exception as e:
+            logger.warning(
+                f"Failed to link product {product.id} to category {category_id}: {e}"
+            )
+            return False
+
     def process_categories(
         self, documents: List[Dict], dbname: str, batch_size: int = 100
     ):
         """Process categories in batches."""
         if not documents:
             logger.warning("No category documents to process")
-            return
+            return 0, 0
 
         total_processed = 0
         total_failed = 0
@@ -143,53 +165,11 @@ class ProductProcessor:
 
                 for i in range(0, len(documents), batch_size):
                     batch = documents[i : i + batch_size]
-                    batch_num = i // batch_size + 1
-
-                    logger.info(
-                        f"Processing category batch {batch_num}: {len(batch)} categories"
+                    processed, failed = self._process_category_batch(
+                        conn, batch, i, batch_size
                     )
-
-                    try:
-                        with conn.cursor(cursor_factory=RealDictCursor) as cur:
-                            batch_processed = 0
-
-                            for document in batch:
-                                try:
-                                    category_name = document.get("name", "Unknown")
-                                    category_id = document.get("id", None)
-                                    slug = document.get("slug", "")
-                                    path = document.get("path", "")
-
-                                    cur.execute(
-                                        """
-                                        INSERT INTO category (id, name, slug, path)
-                                        VALUES (%(id)s, %(name)s, %(slug)s, %(path)s)
-                                        ON CONFLICT (id) DO NOTHING
-                                    """,
-                                        document,
-                                    )
-
-                                    batch_processed += 1
-                                    logger.debug(f"Processed category: {category_name}")
-
-                                except Exception as e:
-                                    logger.error(
-                                        f"Error processing category '{category_name}': {e}"
-                                    )
-                                    total_failed += 1
-
-                            conn.commit()
-                            total_processed += batch_processed
-                            logger.info(
-                                f"Category batch {batch_num} completed: {batch_processed} categories saved"
-                            )
-
-                    except Exception as e:
-                        conn.rollback()
-                        logger.error(
-                            f"Category batch {batch_num} failed, rolling back: {e}"
-                        )
-                        total_failed += len(batch)
+                    total_processed += processed
+                    total_failed += failed
 
         except Exception as e:
             logger.error(f"Critical error during category processing: {e}")
@@ -199,6 +179,55 @@ class ProductProcessor:
             f"Category processing complete - Success: {total_processed}, Failed: {total_failed}"
         )
         return total_processed, total_failed
+
+    def _process_category_batch(
+        self, conn, batch: List[Dict], batch_index: int, batch_size: int
+    ):
+        """Process a single batch of categories."""
+        batch_num = batch_index // batch_size + 1
+        batch_processed = 0
+        batch_failed = 0
+
+        try:
+            with conn.cursor(cursor_factory=RealDictCursor) as cur:
+                for document in batch:
+                    success = self._process_single_category(document, cur)
+                    if success:
+                        batch_processed += 1
+                    else:
+                        batch_failed += 1
+
+                conn.commit()
+
+        except Exception as e:
+            conn.rollback()
+            logger.error(f"Category batch {batch_num} failed, rolling back: {e}")
+            return 0, len(batch)
+
+        return batch_processed, batch_failed
+
+    def _process_single_category(self, document: Dict, cur) -> bool:
+        """Process a single category document."""
+        try:
+            category_name = document.get("name", "Unknown")
+
+            cur.execute(
+                """
+                INSERT INTO category (id, name, slug, path)
+                VALUES (%(id)s, %(name)s, %(slug)s, %(path)s)
+                ON CONFLICT (id) DO NOTHING
+            """,
+                document,
+            )
+
+            logger.debug(f"Processed category: {category_name}")
+            return True
+
+        except Exception as e:
+            logger.error(
+                f"Error processing category '{document.get('name', 'Unknown')}': {e}"
+            )
+            return False
 
 
 def initialize_database(

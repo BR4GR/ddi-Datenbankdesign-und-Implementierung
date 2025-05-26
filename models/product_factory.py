@@ -104,10 +104,7 @@ class ProductFactory:
                             if energy_match:
                                 nutrient_data["kJ"] = float(energy_match.group(1))
                                 nutrient_data["kcal"] = float(energy_match.group(3))
-                            else:
-                                logging.warning(
-                                    f"Energy values not found in '{value}'."
-                                )
+
                         else:
                             extracted_value = ProductFactory.extract_number(value)
                             if extracted_value is not None:

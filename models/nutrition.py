@@ -45,7 +45,6 @@ class Nutrition:
             if result is None:
                 raise Exception("Failed to fetch offer ID after insert.")
             self.id = result["id"]
-            logging.info(f"Nutrients inserted with ID {self.id}.")
             return self.id
         except Exception as e:
             logging.error(f"Error inserting nutrients: {e}", exc_info=True)

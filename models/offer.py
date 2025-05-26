@@ -33,7 +33,6 @@ class Offer:
             if result is None:
                 raise Exception("Failed to fetch offer ID after insert.")
             self.id = result["id"]
-            logging.info(f"Offer inserted with ID {self.id}.")
             return self.id
         except Exception as e:
             logging.error(f"Error inserting offer: {e}", exc_info=True)

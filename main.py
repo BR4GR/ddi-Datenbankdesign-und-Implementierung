@@ -5,6 +5,7 @@ import psycopg2
 from psycopg2.extras import RealDictCursor
 from pymongo import MongoClient
 
+from measurements.runner import MeasurementRunner
 from setup.save_to_local_mongo import create_mongo_db
 from setup.save_to_local_sql import create_sql_db
 
@@ -94,17 +95,32 @@ def check_sql_db():
         print(f"Error checking PostgreSQL database: {e}")
 
 
+def run_measurements():
+    """Run database performance measurements."""
+    print("\n" + "=" * 60)
+    print("RUNNING DATABASE MEASUREMENTS")
+    print("=" * 60)
+
+    runner = MeasurementRunner()
+    results = runner.run_all_tests(iterations=3)
+    report = runner.generate_report(results)
+    runner.save_report(report)
+
+    return report
+
+
 def main():
+    limit_products = None  # Set to None for no limit
     print("Setting up databases...")
     print("Creating database MongoDB...")
-    create_mongo_db(limit_products=10)
+    create_mongo_db(limit_products=limit_products)
+    print("Creating database SQL...")
+    create_sql_db(limit_products=limit_products)
+    check_sql_db()
     check_mongo_db()
 
-    print("Creating database SQL...")
-    create_sql_db(limit_products=10)
-    check_sql_db()
-
     print("Databases created successfully, hopefully!")
+    run_measurements()
 
 
 if __name__ == "__main__":

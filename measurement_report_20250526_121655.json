@@ -1,0 +1,55 @@
+{
+  "timestamp": "2025-05-26T12:16:55.007251",
+  "summary": {
+    "total_tests": 5,
+    "mongodb_wins": 4,
+    "postgresql_wins": 1
+  },
+  "detailed_results": [
+    {
+      "test_name": "SimpleCountTest",
+      "winner": "PostgreSQL",
+      "mongodb_time": 0.006427196002429507,
+      "postgresql_time": 0.005717150668109146,
+      "performance_ratio": 1.1241956659076813,
+      "mongodb_error": null,
+      "postgresql_error": null
+    },
+    {
+      "test_name": "SingleProductRetrievalTest",
+      "winner": "MongoDB",
+      "mongodb_time": 0.005493213000590913,
+      "postgresql_time": 0.006321320334488216,
+      "performance_ratio": 0.8689977267281855,
+      "mongodb_error": null,
+      "postgresql_error": null
+    },
+    {
+      "test_name": "CategoryFilterTest",
+      "winner": "MongoDB",
+      "mongodb_time": 0.007998164665574828,
+      "postgresql_time": 0.0082810263314362,
+      "performance_ratio": 0.9658421970248325,
+      "mongodb_error": null,
+      "postgresql_error": null
+    },
+    {
+      "test_name": "AggregationTest",
+      "winner": "MongoDB",
+      "mongodb_time": 0.007191025331849232,
+      "postgresql_time": 0.007620180331286974,
+      "performance_ratio": 0.9436817790681783,
+      "mongodb_error": null,
+      "postgresql_error": null
+    },
+    {
+      "test_name": "ComplexSearchTest",
+      "winner": "MongoDB",
+      "mongodb_time": 0.00642932033224497,
+      "postgresql_time": 0.008567810997192282,
+      "performance_ratio": 0.7504040803831799,
+      "mongodb_error": null,
+      "postgresql_error": null
+    }
+  ]
+}
